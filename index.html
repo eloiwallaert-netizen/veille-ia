@@ -1,0 +1,902 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Veille IA</title>
+<script src="https://unpkg.com/react@18/umd/react.production.min.js" crossorigin></script>
+<script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js" crossorigin></script>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  *,*::before,*::after{box-sizing:border-box}
+  html,body{margin:0;padding:0;background:#05060d}
+  body{font-family:'Inter',system-ui,sans-serif;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;color:#e8ecff}
+  a{color:inherit;text-decoration:none;transition:color .2s,opacity .2s}
+  a:hover{opacity:.85}
+  button{font-family:inherit;cursor:pointer;border:none;background:none;color:inherit;padding:0}
+  ::selection{background:rgba(0,229,255,.35);color:#fff}
+
+  /* Ambient gradient background */
+  .om-bg{
+    position:fixed;inset:0;z-index:0;pointer-events:none;
+    background:
+      radial-gradient(1200px 800px at 10% -10%, rgba(84,54,214,.35), transparent 60%),
+      radial-gradient(1000px 700px at 100% 20%, rgba(0,161,255,.28), transparent 55%),
+      radial-gradient(900px 700px at 50% 110%, rgba(190,80,220,.22), transparent 60%),
+      linear-gradient(180deg,#05060d 0%,#080a18 40%,#06070f 100%);
+  }
+  .om-grid{
+    position:fixed;inset:0;z-index:0;pointer-events:none;opacity:.35;
+    background-image:
+      linear-gradient(rgba(120,140,255,.06) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(120,140,255,.06) 1px, transparent 1px);
+    background-size:56px 56px;
+    mask-image:radial-gradient(ellipse at 50% 30%, black 40%, transparent 85%);
+  }
+  .om-scan{
+    position:fixed;inset:0;z-index:0;pointer-events:none;opacity:.4;
+    background:
+      repeating-linear-gradient(180deg, transparent 0 3px, rgba(160,180,255,.015) 3px 4px);
+    mix-blend-mode:overlay;
+  }
+  .om-orb{
+    position:fixed;z-index:0;pointer-events:none;border-radius:50%;filter:blur(80px);opacity:.55;
+    animation:om-drift 22s ease-in-out infinite alternate;
+  }
+  .om-orb.a{top:8%;left:12%;width:340px;height:340px;background:radial-gradient(circle,#5a3ce0,transparent 65%)}
+  .om-orb.b{bottom:6%;right:8%;width:420px;height:420px;background:radial-gradient(circle,#00b3ff,transparent 65%);animation-duration:28s;animation-delay:-6s}
+  .om-orb.c{top:44%;left:60%;width:260px;height:260px;background:radial-gradient(circle,#c14bff,transparent 65%);animation-duration:32s;animation-delay:-12s}
+  @keyframes om-drift{
+    0%{transform:translate(0,0) scale(1)}
+    50%{transform:translate(40px,-30px) scale(1.08)}
+    100%{transform:translate(-30px,20px) scale(.96)}
+  }
+
+  /* Light mode overrides */
+  [data-theme="light"] .om-bg{
+    background:
+      radial-gradient(1200px 800px at 10% -10%, rgba(120,90,255,.18), transparent 60%),
+      radial-gradient(1000px 700px at 100% 20%, rgba(0,161,255,.14), transparent 55%),
+      radial-gradient(900px 700px at 50% 110%, rgba(190,80,220,.1), transparent 60%),
+      linear-gradient(180deg,#f4f5ff 0%,#eef0fb 100%);
+  }
+  [data-theme="light"] .om-grid{opacity:.5;background-image:
+      linear-gradient(rgba(70,80,150,.07) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(70,80,150,.07) 1px, transparent 1px);}
+  [data-theme="light"] .om-orb{opacity:.35;filter:blur(90px)}
+  [data-theme="light"] body{color:#0e1130;background:#eef0fb}
+  [data-theme="light"] html{background:#eef0fb}
+
+  /* Glass card + interactive glow */
+  .om-glass{
+    background:linear-gradient(180deg, rgba(20,24,48,.55), rgba(14,16,34,.45));
+    backdrop-filter:blur(18px) saturate(140%);
+    -webkit-backdrop-filter:blur(18px) saturate(140%);
+    border:1px solid rgba(140,160,255,.14);
+    box-shadow:0 1px 0 rgba(255,255,255,.04) inset, 0 20px 60px -30px rgba(0,0,0,.6);
+    transition:border-color .25s, box-shadow .25s, transform .25s;
+  }
+  [data-theme="light"] .om-glass{
+    background:linear-gradient(180deg, rgba(255,255,255,.72), rgba(255,255,255,.55));
+    border:1px solid rgba(80,90,180,.14);
+    box-shadow:0 1px 0 rgba(255,255,255,.8) inset, 0 20px 40px -30px rgba(50,60,150,.25);
+  }
+  .om-glass:hover{
+    border-color:rgba(0,229,255,.45);
+    box-shadow:0 0 0 1px rgba(0,229,255,.15), 0 0 40px -6px rgba(0,229,255,.25), 0 20px 60px -30px rgba(0,0,0,.6);
+    transform:translateY(-2px);
+  }
+  [data-theme="light"] .om-glass:hover{
+    border-color:rgba(90,60,224,.5);
+    box-shadow:0 0 0 1px rgba(90,60,224,.15), 0 0 30px -6px rgba(90,60,224,.25), 0 20px 40px -30px rgba(50,60,150,.25);
+  }
+
+  .om-row{
+    border-bottom:1px solid rgba(140,160,255,.1);
+    transition:background .25s;
+  }
+  .om-row:hover{
+    background:linear-gradient(90deg, rgba(0,229,255,.06), rgba(140,80,255,.05) 50%, transparent);
+  }
+  [data-theme="light"] .om-row{border-bottom:1px solid rgba(80,90,180,.12)}
+  [data-theme="light"] .om-row:hover{background:linear-gradient(90deg, rgba(90,60,224,.06), rgba(0,161,255,.04) 50%, transparent)}
+
+  /* Neon title gradient */
+  .om-neon{
+    background:linear-gradient(135deg,#fff 0%, #c9d4ff 40%, #7fe8ff 70%, #b28bff 100%);
+    -webkit-background-clip:text;background-clip:text;color:transparent;
+  }
+  [data-theme="light"] .om-neon{
+    background:linear-gradient(135deg,#1a1c3a 0%, #4a3ce0 55%, #0080d0 100%);
+    -webkit-background-clip:text;background-clip:text;color:transparent;
+  }
+  .om-italic{font-family:'Space Grotesk',sans-serif;font-style:italic;font-weight:400;background:linear-gradient(135deg,#7fe8ff,#c04bff);-webkit-background-clip:text;background-clip:text;color:transparent}
+  [data-theme="light"] .om-italic{background:linear-gradient(135deg,#0080d0,#7c3ce0);-webkit-background-clip:text;background-clip:text;color:transparent}
+
+  .om-glow-hover:hover{
+    text-shadow:0 0 20px rgba(0,229,255,.5);
+  }
+  .om-chip-active{
+    box-shadow:0 0 0 1px rgba(0,229,255,.6), 0 0 20px -2px rgba(0,229,255,.5);
+  }
+  [data-theme="light"] .om-chip-active{
+    box-shadow:0 0 0 1px rgba(90,60,224,.6), 0 0 16px -2px rgba(90,60,224,.35);
+  }
+
+  .om-pulse{
+    display:inline-block;width:6px;height:6px;border-radius:50%;background:#00e5ff;
+    box-shadow:0 0 8px #00e5ff, 0 0 16px rgba(0,229,255,.4);
+    animation:om-pulse 2s ease-in-out infinite;
+  }
+  @keyframes om-pulse{0%,100%{opacity:1}50%{opacity:.35}}
+
+  select.om-select{appearance:none;-webkit-appearance:none;background-image:linear-gradient(45deg,transparent 50%,currentColor 50%),linear-gradient(-45deg,transparent 50%,currentColor 50%);background-position:calc(100% - 18px) center,calc(100% - 12px) center;background-size:6px 6px,6px 6px;background-repeat:no-repeat;padding-right:32px !important}
+</style>
+</helmet>
+
+<div style="{{ shellStyle }}" data-theme="{{ theme }}">
+  <div class="om-bg"></div>
+  <div class="om-orb a"></div>
+  <div class="om-orb b"></div>
+  <div class="om-orb c"></div>
+  <div class="om-grid"></div>
+  <div class="om-scan"></div>
+  <div style="position:relative;z-index:1">
+
+  <!-- HEADER -->
+  <header style="{{ headerStyle }}">
+    <a href="#/" onClick="{{ navHome }}" style="display:flex;align-items:center;gap:10px">
+      <div style="width:32px;height:32px;border-radius:10px;background:linear-gradient(135deg,#00e5ff,#7c3ce0 60%,#ff4bc4);display:grid;place-items:center;color:#0a0d24;font-family:'Space Grotesk',sans-serif;font-size:18px;font-weight:700;box-shadow:0 0 20px -4px rgba(124,60,224,.6)">v</div>
+      <div style="font-family:'Space Grotesk',sans-serif;font-size:22px;letter-spacing:-.02em;font-weight:600"><span class="om-italic" style="font-weight:600">veille</span><span style="color:{{ muted }}">.ai</span></div>
+    </a>
+    <nav style="display:flex;gap:28px;align-items:center;font-size:14px;font-weight:500">
+      <a href="#/" onClick="{{ navHome }}" style="{{ navItemStyle('home') }}">Actualités</a>
+      <a href="#/metiers" onClick="{{ navMetiers }}" style="{{ navItemStyle('metiers') }}">Métiers</a>
+      <a href="#/themes" onClick="{{ navThemes }}" style="{{ navItemStyle('themes') }}">Thématiques</a>
+      <a href="#/parcours" onClick="{{ navParcours }}" style="{{ navItemStyle('parcours') }}">Parcours</a>
+    </nav>
+    <div style="display:flex;gap:8px;align-items:center">
+      <button onClick="{{ toggleTheme }}" title="Basculer clair/sombre" style="width:36px;height:36px;border-radius:50%;border:1px solid {{ line }};display:grid;place-items:center;font-size:14px">{{ themeIcon }}</button>
+    </div>
+  </header>
+
+  <main style="max-width:1240px;margin:0 auto;padding:32px 40px 96px">
+
+    <!-- HOME -->
+    <sc-if value="{{ isHome }}" hint-placeholder-val="{{ true }}">
+      <section style="margin-bottom:48px">
+        <div style="display:flex;align-items:flex-end;justify-content:space-between;gap:32px;flex-wrap:wrap;margin-bottom:24px">
+          <div style="max-width:720px">
+            <div style="font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:{{ muted }};margin-bottom:12px">Semaine du 20 → 27 juillet 2026 · {{ filteredCount }} actus</div>
+            <h1 class="om-neon" style="font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:clamp(44px,6vw,72px);line-height:.98;letter-spacing:-.03em;margin:0 0 16px">L'IA, <span class="om-italic">décryptée</span><br>pour votre métier.</h1>
+            <p style="font-size:17px;line-height:1.55;color:{{ muted }};margin:0;max-width:560px">Chaque actu est reliée à des ressources concrètes pour transformer une info ponctuelle en montée en compétence réelle.</p>
+          </div>
+          <div style="border-left:2px solid rgba(0,229,255,.4);padding:8px 0 8px 20px;font-size:13px;color:{{ muted }};line-height:1.6;max-width:220px">
+            <div style="color:{{ ink }};font-weight:600;margin-bottom:6px">Comment ça marche</div>
+            Chaque actu → 2-3 ressources classées par niveau. Générez un parcours à partir de vos filtres.
+          </div>
+        </div>
+      </section>
+
+      <!-- FILTERS -->
+      <section style="{{ filterBarStyle }}">
+        <div style="display:flex;flex-wrap:wrap;gap:20px 32px;align-items:flex-start">
+          <div style="flex:1;min-width:240px">
+            <div style="{{ filterLabelStyle }}">Métier</div>
+            <div style="display:flex;flex-wrap:wrap;gap:6px">
+              <button onClick="{{ setMetierAll }}" style="{{ chipStyle(state.metier==='all') }}">Tous</button>
+              <sc-for list="{{ metiersShort }}" as="m" hint-placeholder-count="5">
+                <button onClick="{{ m.pick }}" style="{{ m.style }}">{{ m.label }}</button>
+              </sc-for>
+            </div>
+          </div>
+          <div style="flex:1;min-width:240px">
+            <div style="{{ filterLabelStyle }}">Thématique</div>
+            <div style="display:flex;flex-wrap:wrap;gap:6px">
+              <button onClick="{{ setThemeAll }}" style="{{ chipStyle(state.theme==='all') }}">Toutes</button>
+              <sc-for list="{{ themesList }}" as="t" hint-placeholder-count="5">
+                <button onClick="{{ t.pick }}" style="{{ t.style }}">{{ t.label }}</button>
+              </sc-for>
+            </div>
+          </div>
+          <div style="min-width:180px">
+            <div style="{{ filterLabelStyle }}">Niveau</div>
+            <div style="display:flex;gap:6px">
+              <sc-for list="{{ levels }}" as="l" hint-placeholder-count="4">
+                <button onClick="{{ l.pick }}" style="{{ l.style }}">{{ l.label }}</button>
+              </sc-for>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- FEED -->
+      <section style="display:grid;grid-template-columns:1fr;gap:0;border-top:1px solid {{ line }};margin-top:32px">
+        <sc-for list="{{ filteredArticles }}" as="a" hint-placeholder-count="6">
+          <article class="om-row" style="{{ a.rowStyle }}">
+            <a href="#/actu/{{ a.id }}" onClick="{{ a.open }}" style="display:grid;grid-template-columns:100px 1fr 320px;gap:32px;padding:28px 0;align-items:start" class="feed-row">
+              <div style="font-family:'JetBrains Mono',monospace;font-size:11px;color:{{ muted }};letter-spacing:.06em">
+                <div style="color:{{ ink }};font-weight:500">{{ a.dateShort }}</div>
+                <div style="margin-top:4px">{{ a.source }}</div>
+              </div>
+              <div>
+                <div style="display:flex;gap:6px;margin-bottom:10px;flex-wrap:wrap">
+                  <sc-for list="{{ a.tagList }}" as="tag" hint-placeholder-count="2">
+                    <span style="{{ tag.style }}">{{ tag.label }}</span>
+                  </sc-for>
+                  <span style="{{ a.levelStyle }}">{{ a.levelLabel }}</span>
+                </div>
+                <h3 style="font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:26px;line-height:1.1;letter-spacing:-.02em;margin:0 0 8px;color:{{ ink }}">{{ a.title }}</h3>
+                <p style="font-size:14.5px;line-height:1.55;color:{{ muted }};margin:0;max-width:60ch">{{ a.summary }}</p>
+              </div>
+              <div style="border-left:1px solid rgba(140,160,255,.18);padding-left:20px">
+                <div style="font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:{{ muted }};margin-bottom:10px">→ Pour se former</div>
+                <sc-for list="{{ a.resourcesPreview }}" as="r" hint-placeholder-count="2">
+                  <div style="font-size:13px;line-height:1.35;margin-bottom:8px">
+                    <div style="font-weight:500">{{ r.title }}</div>
+                    <div style="color:{{ muted }};font-size:11.5px;margin-top:2px">{{ r.platform }} · {{ r.duration }}</div>
+                  </div>
+                </sc-for>
+              </div>
+            </a>
+          </article>
+        </sc-for>
+      </section>
+
+      <sc-if value="{{ noResults }}" hint-placeholder-val="{{ false }}">
+        <div style="padding:80px 0;text-align:center;color:{{ muted }};font-size:15px">Aucune actu ne correspond à ces filtres. <button onClick="{{ resetFilters }}" style="text-decoration:underline">Réinitialiser</button></div>
+      </sc-if>
+    </sc-if>
+
+    <!-- METIERS INDEX -->
+    <sc-if value="{{ isMetiersIndex }}" hint-placeholder-val="{{ false }}">
+      <div style="margin-bottom:40px">
+        <div style="{{ eyebrowStyle }}">Navigation</div>
+        <h1 class="om-neon" style="{{ pageTitleStyle }}">Par <span class="om-italic">métier</span></h1>
+        <p style="font-size:17px;color:{{ muted }};max-width:600px;line-height:1.5;margin:0">Sélectionnez votre rôle pour voir uniquement les actus et ressources qui vous concernent — avec le bon niveau de détail.</p>
+      </div>
+      <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px">
+        <sc-for list="{{ metierCards }}" as="m" hint-placeholder-count="10">
+          <a href="#/metier/{{ m.id }}" onClick="{{ m.open }}" class="om-glass" style="{{ m.cardStyle }}">
+            <div style="font-family:'JetBrains Mono',monospace;font-size:11px;color:{{ muted }};letter-spacing:.08em">{{ m.num }}</div>
+            <h3 style="font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:24px;line-height:1.05;margin:12px 0 8px;letter-spacing:-.02em;color:{{ ink }}">{{ m.label }}</h3>
+            <p style="font-size:13.5px;color:{{ muted }};line-height:1.45;margin:0 0 16px">{{ m.tagline }}</p>
+            <div style="display:flex;gap:12px;font-size:12px;font-family:'JetBrains Mono',monospace;color:{{ muted }};margin-top:auto">
+              <span>{{ m.articleCount }} actus</span>
+              <span>{{ m.resourceCount }} ressources</span>
+            </div>
+          </a>
+        </sc-for>
+      </div>
+    </sc-if>
+
+    <!-- METIER DETAIL -->
+    <sc-if value="{{ isMetierDetail }}" hint-placeholder-val="{{ false }}">
+      <div style="margin-bottom:32px">
+        <button onClick="{{ navMetiers }}" style="font-size:12px;color:{{ muted }};font-family:'JetBrains Mono',monospace;letter-spacing:.08em;margin-bottom:20px">← TOUS LES MÉTIERS</button>
+        <div style="{{ eyebrowStyle }}">Métier · {{ currentMetierNum }}</div>
+        <h1 class="om-neon" style="{{ pageTitleStyle }}">{{ currentMetierLabel }}</h1>
+        <p style="font-size:17px;color:{{ muted }};max-width:640px;line-height:1.55;margin:0">{{ currentMetierDesc }}</p>
+      </div>
+      <div style="display:grid;grid-template-columns:2fr 1fr;gap:48px;align-items:start">
+        <div>
+          <div style="{{ sectionHeadStyle }}">Actualités récentes</div>
+          <sc-for list="{{ currentMetierArticles }}" as="a" hint-placeholder-count="3">
+            <a href="#/actu/{{ a.id }}" onClick="{{ a.open }}" class="om-row" style="{{ a.compactRowStyle }}">
+              <div style="font-family:'JetBrains Mono',monospace;font-size:11px;color:{{ muted }};margin-bottom:6px">{{ a.dateShort }} · {{ a.source }}</div>
+              <h3 style="font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:22px;line-height:1.15;margin:0 0 6px;color:{{ ink }}">{{ a.title }}</h3>
+              <p style="font-size:14px;color:{{ muted }};line-height:1.5;margin:0">{{ a.summary }}</p>
+            </a>
+          </sc-for>
+        </div>
+        <aside style="position:sticky;top:24px">
+          <div style="{{ sectionHeadStyle }}">Parcours suggéré</div>
+          <div class="om-glass" style="{{ parcoursCardStyle }}">
+            <div class="om-italic" style="font-family:'Space Grotesk',sans-serif;font-size:20px;margin-bottom:12px;line-height:1.2;font-weight:600">Monter en compétence en 5 étapes</div>
+            <ol style="margin:0;padding:0;list-style:none">
+              <sc-for list="{{ currentMetierPath }}" as="s" hint-placeholder-count="5">
+                <li style="display:grid;grid-template-columns:24px 1fr;gap:10px;padding:10px 0;border-top:1px solid {{ line }};font-size:13px">
+                  <span style="font-family:'JetBrains Mono',monospace;font-size:11px;color:{{ muted }}">{{ s.num }}</span>
+                  <div>
+                    <div style="font-weight:500;line-height:1.3">{{ s.title }}</div>
+                    <div style="color:{{ muted }};font-size:11.5px;margin-top:2px">{{ s.platform }} · {{ s.duration }} · {{ s.level }}</div>
+                  </div>
+                </li>
+              </sc-for>
+            </ol>
+          </div>
+        </aside>
+      </div>
+    </sc-if>
+
+    <!-- THEMES INDEX -->
+    <sc-if value="{{ isThemesIndex }}" hint-placeholder-val="{{ false }}">
+      <div style="margin-bottom:40px">
+        <div style="{{ eyebrowStyle }}">Navigation</div>
+        <h1 class="om-neon" style="{{ pageTitleStyle }}">Par <span class="om-italic">thématique</span></h1>
+        <p style="font-size:17px;color:{{ muted }};max-width:600px;line-height:1.5;margin:0">Sept grands sujets transverses pour structurer votre veille et vos apprentissages.</p>
+      </div>
+      <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:20px">
+        <sc-for list="{{ themeCards }}" as="t" hint-placeholder-count="7">
+          <a href="#/theme/{{ t.id }}" onClick="{{ t.open }}" class="om-glass" style="{{ t.cardStyle }}">
+            <div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:14px">
+              <div style="font-family:'JetBrains Mono',monospace;font-size:11px;color:{{ muted }};letter-spacing:.08em">/{{ t.slug }}</div>
+              <div style="font-family:'JetBrains Mono',monospace;font-size:11px;color:{{ muted }}">{{ t.articleCount }} actus</div>
+            </div>
+            <h3 style="font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:22px;line-height:1.1;margin:0 0 8px;letter-spacing:-.01em;color:{{ ink }}">{{ t.label }}</h3>
+            <p style="font-size:13.5px;color:{{ muted }};line-height:1.5;margin:0">{{ t.desc }}</p>
+          </a>
+        </sc-for>
+      </div>
+    </sc-if>
+
+    <!-- THEME DETAIL -->
+    <sc-if value="{{ isThemeDetail }}" hint-placeholder-val="{{ false }}">
+      <div style="margin-bottom:32px">
+        <button onClick="{{ navThemes }}" style="font-size:12px;color:{{ muted }};font-family:'JetBrains Mono',monospace;letter-spacing:.08em;margin-bottom:20px">← TOUTES LES THÉMATIQUES</button>
+        <div style="{{ eyebrowStyle }}">Thématique</div>
+        <h1 class="om-neon" style="{{ pageTitleStyle }}">{{ currentThemeLabel }}</h1>
+        <p style="font-size:17px;color:{{ muted }};max-width:640px;line-height:1.55;margin:0">{{ currentThemeDesc }}</p>
+      </div>
+      <div style="{{ sectionHeadStyle }}">Actualités sur ce thème</div>
+      <sc-for list="{{ currentThemeArticles }}" as="a" hint-placeholder-count="4">
+        <a href="#/actu/{{ a.id }}" onClick="{{ a.open }}" class="om-row" style="{{ a.compactRowStyle }}">
+          <div style="font-family:'JetBrains Mono',monospace;font-size:11px;color:{{ muted }};margin-bottom:6px">{{ a.dateShort }} · {{ a.source }}</div>
+          <h3 style="font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:22px;line-height:1.15;margin:0 0 6px;color:{{ ink }}">{{ a.title }}</h3>
+          <p style="font-size:14px;color:{{ muted }};line-height:1.5;margin:0 0 8px">{{ a.summary }}</p>
+        </a>
+      </sc-for>
+    </sc-if>
+
+    <!-- ARTICLE DETAIL -->
+    <sc-if value="{{ isArticle }}" hint-placeholder-val="{{ false }}">
+      <div style="max-width:820px;margin:0 auto">
+        <button onClick="{{ navHome }}" style="font-size:12px;color:{{ muted }};font-family:'JetBrains Mono',monospace;letter-spacing:.08em;margin-bottom:24px">← FIL D'ACTUALITÉS</button>
+        <div style="display:flex;gap:6px;margin-bottom:16px;flex-wrap:wrap">
+          <sc-for list="{{ currentArticleTags }}" as="tag" hint-placeholder-count="3">
+            <span style="{{ tag.style }}">{{ tag.label }}</span>
+          </sc-for>
+        </div>
+        <h1 class="om-neon" style="font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:clamp(36px,5vw,56px);line-height:1.02;letter-spacing:-.03em;margin:0 0 20px">{{ currentArticle.title }}</h1>
+        <div style="display:flex;gap:20px;font-family:'JetBrains Mono',monospace;font-size:12px;color:{{ muted }};margin-bottom:32px;padding-bottom:24px;border-bottom:1px solid {{ line }}">
+          <span>{{ currentArticle.dateLong }}</span>
+          <span>Source · {{ currentArticle.source }}</span>
+          <span>Niveau · {{ currentArticle.levelLabel }}</span>
+        </div>
+        <p style="font-family:'Space Grotesk',sans-serif;font-size:24px;line-height:1.4;margin:0 0 24px;color:{{ ink }};font-weight:500;letter-spacing:-.01em">{{ currentArticle.summary }}</p>
+        <p style="font-size:16px;line-height:1.65;color:{{ ink }};margin:0 0 20px">{{ currentArticle.body1 }}</p>
+        <div style="{{ pullStyle }}">
+          <div style="font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.12em;color:{{ muted }};margin-bottom:8px">POURQUOI ÇA COMPTE</div>
+          <div style="font-size:16px;line-height:1.5">{{ currentArticle.why }}</div>
+        </div>
+        <p style="font-size:16px;line-height:1.65;color:{{ ink }};margin:0 0 40px">{{ currentArticle.body2 }}</p>
+
+        <div style="border-top:1px solid {{ line }};padding-top:32px;margin-top:40px">
+          <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:20px">
+            <h2 style="font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:30px;margin:0;letter-spacing:-.02em;color:{{ ink }}">Ressources associées</h2>
+            <div style="font-size:12px;color:{{ muted }};font-family:'JetBrains Mono',monospace">Classées par niveau</div>
+          </div>
+          <sc-for list="{{ currentArticleResources }}" as="r" hint-placeholder-count="3">
+            <a href="#" onClick="{{ r.noop }}" class="om-row" style="{{ r.resourceStyle }}">
+              <div style="display:grid;grid-template-columns:40px 1fr auto;gap:20px;align-items:center">
+                <div style="font-family:'JetBrains Mono',monospace;font-size:11px;color:{{ muted }}">{{ r.num }}</div>
+                <div>
+                  <div style="display:flex;gap:8px;align-items:center;margin-bottom:4px">
+                    <span style="{{ r.platformStyle }}">{{ r.platform }}</span>
+                    <span style="{{ r.levelStyle }}">{{ r.level }}</span>
+                  </div>
+                  <div style="font-size:17px;font-weight:500;line-height:1.3">{{ r.title }}</div>
+                  <div style="font-size:13px;color:{{ muted }};margin-top:4px">{{ r.author }} · {{ r.duration }}</div>
+                </div>
+                <div style="font-family:'Space Grotesk',sans-serif;font-size:24px;color:{{ muted }}">→</div>
+              </div>
+            </a>
+          </sc-for>
+        </div>
+      </div>
+    </sc-if>
+
+    <!-- PARCOURS -->
+    <sc-if value="{{ isParcours }}" hint-placeholder-val="{{ false }}">
+      <div style="margin-bottom:40px">
+        <div style="{{ eyebrowStyle }}">Générateur</div>
+        <h1 class="om-neon" style="{{ pageTitleStyle }}">Votre parcours <span class="om-italic">sur mesure</span></h1>
+        <p style="font-size:17px;color:{{ muted }};max-width:640px;line-height:1.55;margin:0">Choisissez un métier, une thématique et un niveau de départ. On assemble un parcours ordonné, du plus introductif au plus avancé.</p>
+      </div>
+      <div style="display:grid;grid-template-columns:340px 1fr;gap:48px;align-items:start">
+        <div class="om-glass" style="border-radius:16px;padding:24px;position:sticky;top:24px">
+          <div style="{{ filterLabelStyle }};margin-bottom:8px">Métier</div>
+          <select onChange="{{ setMetierFromSelect }}" class="om-select" style="{{ selectStyle }}">
+            <option value="all">Tous métiers</option>
+            <sc-for list="{{ metierOptions }}" as="o" hint-placeholder-count="10">
+              <option value="{{ o.value }}" selected="{{ o.selected }}">{{ o.label }}</option>
+            </sc-for>
+          </select>
+
+          <div style="{{ filterLabelStyle }};margin-bottom:8px;margin-top:20px">Thématique</div>
+          <select onChange="{{ setThemeFromSelect }}" class="om-select" style="{{ selectStyle }}">
+            <option value="all">Toutes thématiques</option>
+            <sc-for list="{{ themeOptions }}" as="o" hint-placeholder-count="7">
+              <option value="{{ o.value }}" selected="{{ o.selected }}">{{ o.label }}</option>
+            </sc-for>
+          </select>
+
+          <div style="{{ filterLabelStyle }};margin-bottom:8px;margin-top:20px">Niveau de départ</div>
+          <div style="display:flex;gap:6px;flex-wrap:wrap">
+            <sc-for list="{{ startLevels }}" as="l" hint-placeholder-count="3">
+              <button onClick="{{ l.pick }}" style="{{ l.style }}">{{ l.label }}</button>
+            </sc-for>
+          </div>
+
+          <div style="border-top:1px solid {{ line }};margin-top:24px;padding-top:20px;font-size:12px;color:{{ muted }};line-height:1.5">
+            <div style="font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.08em;color:{{ ink }};margin-bottom:6px">≈ {{ pathTotalHours }}</div>
+            de contenu à parcourir · {{ pathSteps.length }} étapes
+          </div>
+        </div>
+
+        <div>
+          <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:20px">
+            <div class="om-neon" style="font-family:'Space Grotesk',sans-serif;font-size:28px;font-weight:600;letter-spacing:-.02em">{{ pathHeadline }}</div>
+            <button onClick="{{ shufflePath }}" style="font-size:12px;font-family:'JetBrains Mono',monospace;letter-spacing:.06em;color:{{ muted }};border:1px solid {{ line }};padding:8px 12px;border-radius:20px">↻ REGÉNÉRER</button>
+          </div>
+          <ol style="margin:0;padding:0;list-style:none">
+            <sc-for list="{{ pathSteps }}" as="s" hint-placeholder-count="5">
+              <li style="display:grid;grid-template-columns:60px 1fr;gap:24px;padding:20px 0;border-top:1px solid {{ line }};align-items:start">
+                <div>
+                  <div class="om-italic" style="font-family:'Space Grotesk',sans-serif;font-size:44px;font-weight:600;line-height:1;letter-spacing:-.04em">{{ s.n }}</div>
+                  <div style="font-family:'JetBrains Mono',monospace;font-size:10px;color:{{ muted }};margin-top:4px;letter-spacing:.06em">ÉTAPE</div>
+                </div>
+                <div>
+                  <div style="display:flex;gap:8px;align-items:center;margin-bottom:6px;flex-wrap:wrap">
+                    <span style="{{ s.platformStyle }}">{{ s.platform }}</span>
+                    <span style="{{ s.levelStyle }}">{{ s.level }}</span>
+                    <span style="font-family:'JetBrains Mono',monospace;font-size:11px;color:{{ muted }}">{{ s.duration }}</span>
+                  </div>
+                  <div style="font-size:19px;font-weight:500;line-height:1.3;margin-bottom:4px">{{ s.title }}</div>
+                  <div style="font-size:14px;color:{{ muted }};line-height:1.5">{{ s.why }}</div>
+                </div>
+              </li>
+            </sc-for>
+          </ol>
+        </div>
+      </div>
+    </sc-if>
+
+  </main>
+
+  <footer style="border-top:1px solid {{ line }};padding:32px 40px;max-width:1240px;margin:0 auto;display:flex;justify-content:space-between;font-size:12px;color:{{ muted }};font-family:'JetBrains Mono',monospace;letter-spacing:.06em">
+    <div>VEILLE.AI · PROTOTYPE 2026</div>
+    <div style="display:flex;align-items:center;gap:8px"><span class="om-pulse"></span>MIS À JOUR LE 27.07.2026</div>
+  </footer>
+  </div>
+</div>
+
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;:{&quot;width&quot;:&quot;100%&quot;,&quot;height&quot;:&quot;100%&quot;}}">
+const METIERS = [
+  {id:'chief-of-staff',num:'01',label:'Chief of Staff',tagline:"Pilotage transverse, IA appliquée à la stratégie et à l'organisation.",desc:"Vous orchestrez l'entreprise au quotidien. L'IA change la façon dont on prend des décisions, dont on automatise les rituels internes et dont on structure la donnée stratégique."},
+  {id:'sales',num:'02',label:'Sales (AE / SDR)',tagline:"IA appliquée à la vente, conversation intelligence, prospection.",desc:"Coach IA, séquences intelligentes, scoring de calls. Comprendre ce qui change concrètement dans le cycle de vente en 2026."},
+  {id:'csm',num:'03',label:'Customer Success',tagline:"Analyse de satisfaction, assistants support, suivi client automatisé.",desc:"Signaux faibles, résumés d'échanges, priorisation des comptes à risque : l'IA change la posture du CSM du réactif au préventif."},
+  {id:'pm',num:'04',label:'Product Manager',tagline:"IA générative produit, prompt design, évaluation de modèles, roadmap.",desc:"Intégrer un LLM dans un produit demande de nouveaux réflexes : évaluations, garde-fous, mesure de la valeur perçue."},
+  {id:'eng',num:'05',label:'Ingénieur / Data',tagline:"LLM, fine-tuning, architectures d'agents, MLOps, data pipelines.",desc:"Le stack IA de 2026 : orchestration d'agents, RAG avancé, évaluations automatisées, coûts et latence en production."},
+  {id:'marketing',num:'06',label:'Marketing & Growth',tagline:"Contenu génératif, SEO assisté, personnalisation.",desc:"Comment produire plus sans diluer la voix de marque, et mesurer l'impact réel de la génération sur l'acquisition."},
+  {id:'revops',num:'07',label:'RevOps / Sales Ops',tagline:"Automatisation revenue, IA reporting, data commerciale.",desc:"Nettoyer, enrichir, prédire : l'IA devient le tissu conjonctif entre CRM, data warehouse et outils d'exécution."},
+  {id:'people',num:'08',label:'People & Talent',tagline:"Recrutement, formation, impact de l'IA sur les métiers.",desc:"Recruter en environnement saturé de candidatures IA-générées, et embarquer les équipes sur les nouveaux outils."},
+  {id:'finance',num:'09',label:'Finance / Contrôle',tagline:"Projections, reporting automatisé.",desc:"Modèles financiers assistés, détection d'anomalies, prévisions plus fines : ce que le contrôle de gestion peut déléguer sans risque."},
+  {id:'direction',num:'10',label:'Direction / Fondateurs',tagline:"Vision stratégique IA, concurrence, réglementation.",desc:"Cadrer les enjeux : où investir, où résister, comment se positionner face à l'AI Act européen et à la vague open-source."},
+];
+
+const THEMES = [
+  {id:'llm',slug:'llm-foundations',label:'LLM & modèles de fondation',desc:"Nouveaux modèles, benchmarks, ce qui change vraiment sous le capot."},
+  {id:'agents',slug:'agents',label:'Agents IA',desc:"Systèmes autonomes qui planifient, appellent des outils et agissent."},
+  {id:'automation',slug:'automation',label:'Automatisation',desc:"Workflows, n8n, Zapier, orchestration d'outils par IA."},
+  {id:'ethics',slug:'ethics-regulation',label:'Éthique & réglementation',desc:"AI Act, données personnelles, biais, gouvernance."},
+  {id:'genai-product',slug:'genai-product',label:'IA générative produit',desc:"UX de l'IA dans les produits, évaluation, garde-fous."},
+  {id:'data',slug:'data-ai',label:'Data & IA',desc:"Pipelines, RAG, qualité de la donnée, embeddings."},
+  {id:'nocode',slug:'no-code-ai',label:'Outils no-code IA',desc:"Assemblage rapide d'apps IA sans écrire de code."},
+];
+
+const R = { // resources
+  '3b1b-nn': {id:'3b1b-nn',title:'But what is a neural network?',platform:'YouTube',author:'3Blue1Brown',duration:'19 min',level:'Découverte'},
+  'karpathy-gpt': {id:'karpathy-gpt',title:'Let\'s build GPT: from scratch, in code',platform:'YouTube',author:'Andrej Karpathy',duration:'1h 56 min',level:'Avancé'},
+  'karpathy-tokenizer': {id:'karpathy-tokenizer',title:'Let\'s build the GPT Tokenizer',platform:'YouTube',author:'Andrej Karpathy',duration:'2h 13 min',level:'Avancé'},
+  'ng-genai': {id:'ng-genai',title:'Generative AI for Everyone',platform:'Coursera',author:'Andrew Ng · DeepLearning.AI',duration:'~5 h',level:'Découverte'},
+  'ng-agents': {id:'ng-agents',title:'AI Agents in LangGraph',platform:'DeepLearning.AI',author:'Harrison Chase',duration:'1 h',level:'Intermédiaire'},
+  'ng-prompt': {id:'ng-prompt',title:'ChatGPT Prompt Engineering for Developers',platform:'DeepLearning.AI',author:'Andrew Ng · Isa Fulford',duration:'1h 30',level:'Intermédiaire'},
+  'lex-altman': {id:'lex-altman',title:'Sam Altman on OpenAI, GPT-5, and the future',platform:'Podcast',author:'Lex Fridman',duration:'2h 40',level:'Découverte'},
+  'no-priors': {id:'no-priors',title:'No Priors — the state of AI agents',platform:'Podcast',author:'Sarah Guo · Elad Gil',duration:'55 min',level:'Intermédiaire'},
+  'stratechery-ai': {id:'stratechery-ai',title:'The AI value chain, one year in',platform:'Article',author:'Stratechery',duration:'20 min',level:'Découverte'},
+  'anthropic-agents': {id:'anthropic-agents',title:'Building effective agents',platform:'Article',author:'Anthropic',duration:'15 min',level:'Intermédiaire'},
+  'hbr-sales-ai': {id:'hbr-sales-ai',title:'How AI is reshaping B2B sales teams',platform:'Article',author:'Harvard Business Review',duration:'12 min',level:'Découverte'},
+  'gong-labs': {id:'gong-labs',title:'What top reps do differently — call analysis',platform:'YouTube',author:'Gong Labs',duration:'22 min',level:'Découverte'},
+  'ai-act': {id:'ai-act',title:'Comprendre l\'AI Act européen',platform:'Article',author:'CNIL',duration:'18 min',level:'Découverte'},
+  'ai-act-course': {id:'ai-act-course',title:'AI Act: obligations pour les entreprises',platform:'Coursera',author:'Sciences Po',duration:'3 h',level:'Intermédiaire'},
+  'evals-hamel': {id:'evals-hamel',title:'Your AI product needs evals',platform:'Article',author:'Hamel Husain',duration:'25 min',level:'Intermédiaire'},
+  'pm-genai': {id:'pm-genai',title:'PM for Generative AI products',platform:'Udemy',author:'Mind the Product',duration:'4 h',level:'Intermédiaire'},
+  'rag-course': {id:'rag-course',title:'Advanced Retrieval-Augmented Generation',platform:'DeepLearning.AI',author:'Jerry Liu (LlamaIndex)',duration:'1h 30',level:'Avancé'},
+  'growth-ai': {id:'growth-ai',title:'AI for growth marketers',platform:'Reforge',author:'Elena Verna',duration:'2 h',level:'Intermédiaire'},
+};
+
+const ARTICLES = [
+  {id:'a1',date:'2026-07-27',source:'The Information',title:"OpenAI dévoile GPT-6 avec un mode « agent long » de 24 heures",summary:"Un mode agentique conçu pour tourner en autonomie sur des tâches longues, avec check-ins optionnels et budget d'appels d'outils.",why:"Pour la première fois, un modèle grand public revendique une autonomie mesurée en journées. Ça change la conversation sur ce qu'un « employé virtuel » peut faire — et sur ce qu'il faut superviser.",body1:"Annoncé lors d'un keynote éclair, GPT-6 introduit un mode dit « agent long » qui vise les tâches de plusieurs heures sans intervention humaine : recherche produit, préparation de dossier, synthèse concurrentielle. OpenAI insiste sur les garde-fous — budget explicite d'appels d'API, journaux consultables, coupe-circuit manuel.",body2:"Les premiers retours pointent une réelle robustesse sur les tâches structurées (extraction, synthèse, comparaisons), mais des dérives récurrentes sur les tâches ouvertes (« planifie ma semaine »). Comme souvent, la promesse dépendra du contexte de déploiement.",metiers:['direction','pm','eng','sales'],themes:['llm','agents'],level:'intermediaire',resources:['karpathy-gpt','anthropic-agents','ng-agents']},
+  {id:'a2',date:'2026-07-25',source:'Sifted',title:"Les équipes commerciales B2B adoptent le « coach IA » en temps réel",summary:"Après la conversation intelligence post-call, les nouveaux outils analysent l'appel pendant qu'il se déroule et soufflent des relances au commercial.",why:"Le coaching passe du feedback hebdomadaire au feedback à la seconde. La courbe d'apprentissage des nouveaux SDR raccourcit — à condition d'accepter la présence d'un « troisième participant » dans l'appel.",body1:"Plusieurs éditeurs européens ont poussé cette année des assistants qui écoutent l'appel, détectent une objection courante et proposent une reformulation en direct. Les gains rapportés se concentrent sur le time-to-productivity des juniors.",body2:"Restent deux questions ouvertes : l'acceptabilité côté prospect (consentement, transparence) et l'effet à long terme sur le développement des skills — un commercial « assisté » apprend-il vraiment, ou délègue-t-il ?",metiers:['sales','revops','csm'],themes:['genai-product','automation'],level:'decouverte',resources:['gong-labs','hbr-sales-ai','no-priors']},
+  {id:'a3',date:'2026-07-24',source:'Commission Européenne',title:"AI Act : entrée en vigueur des obligations pour les systèmes « à haut risque »",summary:"Cette semaine marque l'application effective des articles concernant les systèmes IA classés « à haut risque ». Toutes les entreprises qui en déploient sont concernées.",why:"C'est le premier grand test réglementaire de l'IA en Europe. Les équipes People, Legal et RevOps doivent cartographier leurs usages — même les intégrations « invisibles » via un fournisseur SaaS.",body1:"Les obligations couvrent la documentation technique, la traçabilité des données d'entraînement, la supervision humaine et la robustesse. Un système de gestion des risques doit être en place et audité.",body2:"En pratique, beaucoup d'entreprises B2B ne sont pas directement productrices de systèmes à haut risque, mais elles en intègrent — un scoring RH, un scoring de crédit, un outil d'aide à la décision médicale. La responsabilité se partage tout au long de la chaîne.",metiers:['people','direction','finance','revops'],themes:['ethics'],level:'decouverte',resources:['ai-act','ai-act-course','stratechery-ai']},
+  {id:'a4',date:'2026-07-22',source:'LlamaIndex Blog',title:"RAG 2026 : pourquoi le « graph-RAG » supplante la recherche vectorielle simple",summary:"Les architectures RAG évoluent : représenter les documents comme un graphe de relations bat la simple recherche par similarité sur les corpus d'entreprise.",why:"Si vous construisez un assistant interne (support, sales enablement, connaissance produit), c'est le débat technique de l'année. Choisir la mauvaise archi coûte deux quarters de retard.",body1:"Le graph-RAG combine embeddings, extraction d'entités et parcours de graphe. Sur des corpus internes bruités — tickets, wikis, transcripts — il produit des réponses nettement plus fidèles.",body2:"Le prix à payer : un pipeline d'ingestion plus lourd, et un cycle d'itération plus long. Pour un POC, la vector-search reste souvent suffisante ; pour un déploiement, la question mérite d'être re-posée.",metiers:['eng','pm','revops'],themes:['data','llm'],level:'avance',resources:['rag-course','evals-hamel','anthropic-agents']},
+  {id:'a5',date:'2026-07-20',source:'Reforge',title:"Growth teams : la génération de landing pages par LLM devient un standard",summary:"Un test A/B de 40 pages générées vs. 10 pages écrites à la main : la génération assistée gagne en volume, la rédaction humaine gagne en conversion sur les segments qualifiés.",why:"La question n'est plus « faut-il générer », mais « où placer le curseur humain / machine ». La réponse dépend du segment, pas du canal.",body1:"L'étude porte sur trois SaaS B2B mid-market. La génération est utilisée pour couvrir des variantes de personas et des mots-clés long-tail — là où le coût par page rédigée à la main est prohibitif.",body2:"Sur les pages phares (top 5 par trafic), l'itération humaine reste largement gagnante : conversion +18 % en moyenne. Le vrai chantier : outiller le passage de « draft LLM » à « page publiée » sans casser la voix de marque.",metiers:['marketing','pm','revops'],themes:['genai-product','automation'],level:'intermediaire',resources:['growth-ai','ng-prompt','stratechery-ai']},
+  {id:'a6',date:'2026-07-19',source:'Andrej Karpathy',title:"Nouvelle vidéo Karpathy : évaluer un LLM en production, sans mentir aux stakeholders",summary:"Karpathy publie un tutoriel de 2h sur la construction d'un système d'évaluation continu — evals synthétiques, evals humaines, dashboards partagés.",why:"L'évaluation est le point aveugle de 80 % des projets IA en entreprise. Cette vidéo est probablement la meilleure ressource francophone/anglophone gratuite sur le sujet cette année.",body1:"Le format alterne théorie et code. Karpathy insiste sur un point : commencer par 20 exemples annotés à la main bat toujours 20 000 exemples générés automatiquement — au moins pour cadrer le problème.",body2:"Applicable aussi bien à un chatbot interne qu'à une feature IA en production. À faire regarder à toute l'équipe produit qui touche à un LLM.",metiers:['pm','eng','csm'],themes:['genai-product','llm'],level:'avance',resources:['karpathy-gpt','evals-hamel','ng-prompt']},
+  {id:'a7',date:'2026-07-18',source:'Every.to',title:"« Vibe recruiting » : quand tous les candidats postulent avec l'aide d'un agent IA",summary:"Les équipes RH font face à un afflux de candidatures polies par un agent : le signal des CVs s'effondre, les process d'entretien se réinventent.",why:"Le CV ne discrimine plus. Les équipes People inventent des « takehome » express, des entretiens live à surprises, et des références vérifiées par IA — un jeu du chat et de la souris.",body1:"Chez plusieurs scale-ups tech interrogées, le volume de candidatures a triplé en 12 mois — tandis que le taux de conversion vers un entretien qualifié chute. La cause : des candidats équipés d'agents qui postulent en masse avec un CV réécrit pour chaque annonce.",body2:"La réponse émergente : moins de screening papier, plus de « work sample ». Certaines équipes vont jusqu'à publier ouvertement leur takehome d'entretien, en assumant qu'il sera résolu avec assistance IA — et en évaluant la posture, pas la solution.",metiers:['people','direction'],themes:['ethics','automation'],level:'decouverte',resources:['stratechery-ai','no-priors','hbr-sales-ai']},
+  {id:'a8',date:'2026-07-17',source:'a16z',title:"Le stack agentique de 2026 : ce qui est stable, ce qui bouge encore",summary:"Après trois ans de turbulences, certains composants du stack (orchestration, mémoire, outils) se stabilisent. D'autres (évaluation, cost control) restent des chantiers ouverts.",why:"Pour un CTO ou un PM technique, décider maintenant sur quoi construire — versus attendre — vaut plusieurs centaines de milliers d'euros économisés ou perdus.",body1:"L'article cartographie les couches du stack agentique et note leur niveau de maturité. LangGraph, Temporal-like orchestrators, et les protocols type MCP côté connecteurs sortent lauréats.",body2:"À l'inverse, l'évaluation, la mémoire long-terme et le contrôle des coûts restent immatures. Le conseil implicite : externaliser les couches matures, garder l'expertise interne sur les couches instables.",metiers:['eng','pm','direction'],themes:['agents','llm','data'],level:'avance',resources:['anthropic-agents','ng-agents','rag-course']},
+];
+
+const LEVEL_LABELS = {decouverte:'Découverte',intermediaire:'Intermédiaire',avance:'Avancé'};
+
+const METIER_PATHS = {
+  'sales':['ng-genai','gong-labs','hbr-sales-ai','ng-prompt','no-priors'],
+  'pm':['ng-genai','ng-prompt','evals-hamel','pm-genai','anthropic-agents'],
+  'eng':['3b1b-nn','karpathy-gpt','anthropic-agents','rag-course','karpathy-tokenizer'],
+  'marketing':['ng-genai','ng-prompt','growth-ai','stratechery-ai','anthropic-agents'],
+  'csm':['ng-genai','hbr-sales-ai','ng-prompt','evals-hamel','no-priors'],
+  'chief-of-staff':['ng-genai','stratechery-ai','anthropic-agents','ng-prompt','no-priors'],
+  'revops':['ng-genai','ng-prompt','rag-course','evals-hamel','stratechery-ai'],
+  'people':['ng-genai','ai-act','stratechery-ai','ng-prompt','hbr-sales-ai'],
+  'finance':['ng-genai','ng-prompt','stratechery-ai','ai-act','evals-hamel'],
+  'direction':['ng-genai','stratechery-ai','ai-act','anthropic-agents','no-priors'],
+};
+const PATH_WHY = {
+  '3b1b-nn':"Le socle visuel des réseaux de neurones. Indispensable pour ne pas être perdu ensuite.",
+  'karpathy-gpt':"Construire un GPT ligne à ligne. La meilleure ressource gratuite pour comprendre ce qui se passe à l'intérieur.",
+  'karpathy-tokenizer':"Le tokenizer explique 80 % des bugs bizarres des LLM. À voir après GPT.",
+  'ng-genai':"Cadrage stratégique par Andrew Ng. Court, précis, adapté aux non-techs.",
+  'ng-agents':"Passer des LLM aux agents : orchestration, tools, cycle observe-act.",
+  'ng-prompt':"Les patterns de prompting qui marchent — et ceux qui polluent le contexte.",
+  'lex-altman':"Contexte marché et vision produit, format long.",
+  'no-priors':"Debriefs hebdo des VCs de la Silicon Valley. Bon signal faible.",
+  'stratechery-ai':"Cadre analytique pour situer les enjeux de valeur et de plateforme.",
+  'anthropic-agents':"Recettes concrètes pour construire des agents fiables, par Anthropic.",
+  'hbr-sales-ai':"Cadrage business : ce qui change vraiment dans un funnel B2B.",
+  'gong-labs':"Data terrain sur les patterns d'appels gagnants.",
+  'ai-act':"Vue d'ensemble accessible du texte, avec les cas d'usage typiques d'entreprise.",
+  'ai-act-course':"Approfondissement : obligations, sanctions, gouvernance.",
+  'evals-hamel':"La ressource de référence sur les évaluations en production.",
+  'pm-genai':"Le rôle du PM dans les produits GenAI : différences vs. produit classique.",
+  'rag-course':"RAG avancé, chunking, réordonnancement, graph-RAG.",
+  'growth-ai':"Cas concrets de growth teams qui ont intégré la génération dans leurs process.",
+};
+
+const Component = class extends DCLogic {
+  state = { route:'/', theme:'dark', metier:'all', theme_f:'all', level:'all', startLevel:'decouverte' };
+
+  componentDidMount(){
+    const applyHash=()=>{ const h=location.hash.replace(/^#/,'')||'/'; this.setState({route:h}); };
+    window.addEventListener('hashchange',applyHash);
+    applyHash();
+    const saved = null; // no localStorage read to avoid noise; default light
+    if(window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) this.setState({theme:'dark'});
+  }
+
+  go=(r)=>(e)=>{ if(e)e.preventDefault(); location.hash='#'+r; this.setState({route:r}); window.scrollTo(0,0); };
+  toggleTheme=()=>this.setState(s=>({theme:s.theme==='light'?'dark':'light'}));
+  resetFilters=()=>this.setState({metier:'all',theme_f:'all',level:'all'});
+
+  articleTagList=(a,tokens)=>{
+    const out=[];
+    a.metiers.slice(0,1).forEach(mid=>{ const m=METIERS.find(x=>x.id===mid); if(m) out.push({label:m.label, style:this.chipMinor(tokens)}); });
+    a.themes.slice(0,1).forEach(tid=>{ const t=THEMES.find(x=>x.id===tid); if(t) out.push({label:t.label, style:this.chipMinor(tokens)}); });
+    return out;
+  };
+
+  chipStyle=(active,tokens)=>{
+    const t=tokens||this.tokens();
+    const dark=this.state.theme==='dark';
+    const activeBg = dark
+      ? 'linear-gradient(135deg,rgba(0,229,255,.9),rgba(124,60,224,.9))'
+      : 'linear-gradient(135deg,#0080d0,#5a3ce0)';
+    const activeBorder = dark ? 'rgba(0,229,255,.6)' : 'rgba(90,60,224,.5)';
+    const activeGlow = dark
+      ? 'box-shadow:0 0 0 1px rgba(0,229,255,.35),0 0 18px -2px rgba(0,229,255,.45);'
+      : 'box-shadow:0 0 0 1px rgba(90,60,224,.35),0 0 18px -2px rgba(90,60,224,.3);';
+    const inactiveBg = dark ? 'rgba(20,24,48,.4)' : 'rgba(255,255,255,.55)';
+    return `font-family:'Inter',sans-serif;font-size:12px;padding:6px 12px;border-radius:20px;border:1px solid ${active?activeBorder:t.line};background:${active?activeBg:inactiveBg};color:${active?'#fff':t.ink};font-weight:500;line-height:1;transition:all .2s;backdrop-filter:blur(8px);${active?activeGlow:''}`;
+  };
+  chipMinor=(t)=>{
+    const dark=this.state.theme==='dark';
+    return `font-size:10.5px;padding:3px 8px;border-radius:12px;background:${dark?'rgba(20,24,48,.5)':'rgba(255,255,255,.5)'};color:${t.muted};font-family:'JetBrains Mono',monospace;letter-spacing:.04em;border:1px solid ${t.line};backdrop-filter:blur(6px)`;
+  };
+  levelChip=(lvl,t)=>{
+    const dark=this.state.theme==='dark';
+    const dark_colors={decouverte:'rgba(0,229,255,.15);color:#7ff3ff;border:1px solid rgba(0,229,255,.35)',
+      intermediaire:'rgba(140,80,255,.18);color:#c9adff;border:1px solid rgba(140,80,255,.4)',
+      avance:'rgba(255,80,180,.18);color:#ffa6d8;border:1px solid rgba(255,80,180,.4)'};
+    const light_colors={decouverte:'rgba(0,161,255,.12);color:#0060a0;border:1px solid rgba(0,161,255,.3)',
+      intermediaire:'rgba(124,60,224,.12);color:#5a2ec0;border:1px solid rgba(124,60,224,.3)',
+      avance:'rgba(200,40,140,.12);color:#a02070;border:1px solid rgba(200,40,140,.3)'};
+    const c = (dark?dark_colors:light_colors)[lvl]||'transparent';
+    return `font-size:10.5px;padding:3px 8px;border-radius:12px;background:${c};font-family:'JetBrains Mono',monospace;letter-spacing:.04em;font-weight:600`;
+  };
+  platformChip=(t)=>{
+    const dark=this.state.theme==='dark';
+    const bg = dark
+      ? 'linear-gradient(135deg,rgba(0,229,255,.85),rgba(124,60,224,.85))'
+      : 'linear-gradient(135deg,#0080d0,#5a3ce0)';
+    return `font-size:10.5px;padding:3px 8px;border-radius:4px;background:${bg};color:#fff;font-family:'JetBrains Mono',monospace;letter-spacing:.06em;font-weight:600;text-transform:uppercase;box-shadow:0 0 12px -2px ${dark?'rgba(0,229,255,.4)':'rgba(90,60,224,.3)'}`;
+  };
+
+  tokens(){
+    const dark=this.state.theme==='dark';
+    return dark?{
+      paper:'transparent', ink:'#eaeeff', muted:'#8b93c7', line:'rgba(140,160,255,.14)', surface:'rgba(20,24,48,.5)',
+      accent1:'rgba(0,229,255,.18)', accent2:'rgba(140,80,255,.22)', accent3:'rgba(255,80,180,.22)',
+      glass:true
+    }:{
+      paper:'transparent', ink:'#0e1130', muted:'#5860a0', line:'rgba(80,90,180,.16)', surface:'rgba(255,255,255,.6)',
+      accent1:'rgba(0,161,255,.18)', accent2:'rgba(140,80,255,.18)', accent3:'rgba(255,80,180,.15)',
+      glass:true
+    };
+  }
+
+  fmtShort=(d)=>{ const dt=new Date(d); const M=['jan','fév','mar','avr','mai','juin','juil','août','sep','oct','nov','déc']; return `${dt.getDate()} ${M[dt.getMonth()]}`;};
+  fmtLong=(d)=>{ const dt=new Date(d); const M=['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre']; return `${dt.getDate()} ${M[dt.getMonth()]} ${dt.getFullYear()}`;};
+
+  filteredArticlesRaw(){
+    const {metier,theme_f,level}=this.state;
+    return ARTICLES.filter(a=>
+      (metier==='all'||a.metiers.includes(metier)) &&
+      (theme_f==='all'||a.themes.includes(theme_f)) &&
+      (level==='all'||a.level===level)
+    ).sort((x,y)=>y.date.localeCompare(x.date));
+  }
+
+  buildPath(metier,theme_f,startLevel){
+    let base = METIER_PATHS[metier] || ['ng-genai','ng-prompt','stratechery-ai','anthropic-agents','no-priors'];
+    if(theme_f!=='all'){
+      const pool = Object.values(R).filter(r=>{
+        const l = (metier!=='all' && METIER_PATHS[metier]) || [];
+        return true;
+      });
+      // simple heuristic: keep intro + add theme-relevant
+      const themeMap = {llm:['3b1b-nn','karpathy-gpt','karpathy-tokenizer','ng-genai','anthropic-agents'],
+        agents:['ng-genai','anthropic-agents','ng-agents','no-priors','karpathy-gpt'],
+        automation:['ng-genai','ng-prompt','anthropic-agents','growth-ai','no-priors'],
+        ethics:['ng-genai','ai-act','ai-act-course','stratechery-ai','hbr-sales-ai'],
+        'genai-product':['ng-genai','ng-prompt','evals-hamel','pm-genai','anthropic-agents'],
+        data:['ng-genai','rag-course','evals-hamel','anthropic-agents','karpathy-tokenizer'],
+        nocode:['ng-genai','ng-prompt','growth-ai','anthropic-agents','stratechery-ai']};
+      base = themeMap[theme_f] || base;
+    }
+    // level ordering: start at startLevel
+    const order = {'Découverte':0,'Intermédiaire':1,'Avancé':2};
+    let list = base.map(id=>R[id]).filter(Boolean);
+    const startIdx = {decouverte:0,intermediaire:1,avance:2}[startLevel]||0;
+    list.sort((a,b)=>{
+      const oa=order[a.level], ob=order[b.level];
+      const da=Math.max(0,startIdx-oa)*10 + oa;
+      const db=Math.max(0,startIdx-ob)*10 + ob;
+      return da-db;
+    });
+    return list;
+  }
+
+  parseDurationH(d){ const h=(/([\d.]+)\s*h/i.exec(d)||[])[1]; const m=(/(\d+)\s*min/i.exec(d)||[])[1]; return (h?parseFloat(h):0)+(m?parseInt(m)/60:0); }
+
+  renderVals(){
+    const t=this.tokens();
+    const {route,theme,metier,theme_f,level,startLevel}=this.state;
+
+    const isHome = route==='/' || route==='';
+    const metierMatch = route.match(/^\/metier\/([\w-]+)$/);
+    const themeMatch = route.match(/^\/theme\/([\w-]+)$/);
+    const actuMatch = route.match(/^\/actu\/([\w-]+)$/);
+    const isMetiersIndex = route==='/metiers';
+    const isMetierDetail = !!metierMatch;
+    const isThemesIndex = route==='/themes';
+    const isThemeDetail = !!themeMatch;
+    const isArticle = !!actuMatch;
+    const isParcours = route==='/parcours';
+
+    const currentMetier = metierMatch ? METIERS.find(m=>m.id===metierMatch[1]) : null;
+    const currentTheme = themeMatch ? THEMES.find(x=>x.id===themeMatch[1]) : null;
+    const currentArticle = actuMatch ? ARTICLES.find(a=>a.id===actuMatch[1]) : null;
+
+    const filtered = this.filteredArticlesRaw();
+
+    const filteredArticles = filtered.map(a=>({
+      id:a.id,
+      dateShort:this.fmtShort(a.date),
+      source:a.source,
+      title:a.title,
+      summary:a.summary,
+      tagList:this.articleTagList(a,t),
+      levelLabel:LEVEL_LABELS[a.level],
+      levelStyle:this.levelChip(a.level,t),
+      resourcesPreview:a.resources.slice(0,2).map(rid=>R[rid]).filter(Boolean),
+      rowStyle:`border-bottom:1px solid ${t.line};transition:background .15s`,
+      open:this.go('/actu/'+a.id),
+    }));
+
+    const shell = {
+      shellStyle:`min-height:100vh;background:${t.paper};color:${t.ink};transition:background .2s,color .2s`,
+      headerStyle:`display:flex;align-items:center;justify-content:space-between;padding:20px 40px;border-bottom:1px solid ${t.line};max-width:1240px;margin:0 auto;gap:24px`,
+      ink:t.ink, paper:t.paper, muted:t.muted, line:t.line, surface:t.surface,
+      themeIcon: theme==='light' ? '◐' : '◑',
+      toggleTheme:this.toggleTheme,
+      navHome:this.go('/'), navMetiers:this.go('/metiers'), navThemes:this.go('/themes'), navParcours:this.go('/parcours'),
+      navItemStyle:(k)=>{
+        const active = (k==='home'&&isHome)||(k==='metiers'&&(isMetiersIndex||isMetierDetail))||(k==='themes'&&(isThemesIndex||isThemeDetail))||(k==='parcours'&&isParcours);
+        const dark = this.state.theme==='dark';
+        const glow = dark?'#7fe8ff':'#5a3ce0';
+        return `color:${active?t.ink:t.muted};font-weight:${active?'600':'500'};border-bottom:1px solid ${active?glow:'transparent'};padding-bottom:6px;text-shadow:${active&&dark?'0 0 12px rgba(0,229,255,.4)':'none'}`;
+      },
+    };
+
+    // Filters
+    const metiersShort = METIERS.slice(0,8).map(m=>({
+      label:m.label.replace(/\s*\(.*\)/,''),
+      pick:()=>this.setState({metier:m.id}),
+      style:this.chipStyle(metier===m.id,t),
+    }));
+    const themesList = THEMES.map(x=>({
+      label:x.label,
+      pick:()=>this.setState({theme_f:x.id}),
+      style:this.chipStyle(theme_f===x.id,t),
+    }));
+    const levels = [
+      {key:'all',label:'Tous'},
+      {key:'decouverte',label:'Découverte'},
+      {key:'intermediaire',label:'Intermédiaire'},
+      {key:'avance',label:'Avancé'},
+    ].map(l=>({label:l.label,pick:()=>this.setState({level:l.key}),style:this.chipStyle(level===l.key,t)}));
+
+    // Metier index
+    const metierCards = METIERS.map(m=>{
+      const arts = ARTICLES.filter(a=>a.metiers.includes(m.id));
+      const res = new Set(); arts.forEach(a=>a.resources.forEach(r=>res.add(r)));
+      return {
+        id:m.id, num:m.num, label:m.label, tagline:m.tagline,
+        articleCount:arts.length, resourceCount:res.size,
+        open:this.go('/metier/'+m.id),
+        cardStyle:`display:flex;flex-direction:column;padding:28px;min-height:220px;border-radius:16px`,
+      };
+    });
+
+    // Metier detail
+    const currentMetierArticles = currentMetier ? ARTICLES.filter(a=>a.metiers.includes(currentMetier.id)).sort((x,y)=>y.date.localeCompare(x.date)).map(a=>({
+      id:a.id, dateShort:this.fmtShort(a.date), source:a.source, title:a.title, summary:a.summary,
+      compactRowStyle:`display:block;padding:20px 0;border-top:1px solid ${t.line}`,
+      open:this.go('/actu/'+a.id),
+    })) : [];
+    const currentMetierPath = currentMetier ? (METIER_PATHS[currentMetier.id]||[]).map((rid,i)=>{
+      const r=R[rid]; return r?{num:String(i+1).padStart(2,'0'),title:r.title,platform:r.platform,duration:r.duration,level:r.level}:null;
+    }).filter(Boolean) : [];
+
+    // Theme index
+    const themeCards = THEMES.map(x=>({
+      id:x.id,slug:x.slug,label:x.label,desc:x.desc,
+      articleCount:ARTICLES.filter(a=>a.themes.includes(x.id)).length,
+      open:this.go('/theme/'+x.id),
+      cardStyle:`display:flex;flex-direction:column;padding:24px;min-height:180px;border-radius:16px`,
+    }));
+
+    // Theme detail
+    const currentThemeArticles = currentTheme ? ARTICLES.filter(a=>a.themes.includes(currentTheme.id)).sort((x,y)=>y.date.localeCompare(x.date)).map(a=>({
+      id:a.id, dateShort:this.fmtShort(a.date), source:a.source, title:a.title, summary:a.summary,
+      compactRowStyle:`display:block;padding:20px 0;border-top:1px solid ${t.line}`,
+      open:this.go('/actu/'+a.id),
+    })) : [];
+
+    // Article
+    const currentArticleTags = currentArticle ? [
+      ...currentArticle.metiers.slice(0,2).map(mid=>{const m=METIERS.find(x=>x.id===mid);return m?{label:m.label,style:this.chipMinor(t)}:null;}).filter(Boolean),
+      ...currentArticle.themes.slice(0,2).map(tid=>{const th=THEMES.find(x=>x.id===tid);return th?{label:th.label,style:this.chipMinor(t)}:null;}).filter(Boolean),
+      {label:LEVEL_LABELS[currentArticle.level],style:this.levelChip(currentArticle.level,t)},
+    ] : [];
+    const currentArticleResources = currentArticle ? currentArticle.resources.map((rid,i)=>{
+      const r=R[rid]; if(!r) return null;
+      const lvl = r.level==='Découverte'?'decouverte':r.level==='Intermédiaire'?'intermediaire':'avance';
+      return {
+        num:String(i+1).padStart(2,'0'),
+        title:r.title, author:r.author, duration:r.duration, level:r.level, platform:r.platform,
+        levelStyle:this.levelChip(lvl,t),
+        platformStyle:this.platformChip(t),
+        resourceStyle:`display:block;padding:20px 0;border-top:1px solid ${t.line}`,
+        noop:(e)=>{e.preventDefault();},
+      };
+    }).filter(Boolean) : [];
+
+    // Parcours
+    const pathList = this.buildPath(metier,theme_f,startLevel);
+    const pathSteps = pathList.map((r,i)=>{
+      const lvl = r.level==='Découverte'?'decouverte':r.level==='Intermédiaire'?'intermediaire':'avance';
+      return {
+        n:String(i+1).padStart(2,'0'),
+        title:r.title, platform:r.platform, level:r.level, duration:r.duration,
+        why:PATH_WHY[r.id]||'',
+        levelStyle:this.levelChip(lvl,t),
+        platformStyle:this.platformChip(t),
+      };
+    });
+    const totalH = pathList.reduce((s,r)=>s+this.parseDurationH(r.duration),0);
+    const pathTotalHours = totalH>=1 ? `≈ ${Math.round(totalH)} h` : `≈ ${Math.round(totalH*60)} min`;
+
+    const startLevels = [
+      {key:'decouverte',label:'Débutant'},
+      {key:'intermediaire',label:'Intermédiaire'},
+      {key:'avance',label:'Confirmé'},
+    ].map(l=>({label:l.label,pick:()=>this.setState({startLevel:l.key}),style:this.chipStyle(startLevel===l.key,t)}));
+
+    const metierOptions = METIERS.map(m=>({value:m.id,label:m.label,selected:metier===m.id}));
+    const themeOptions = THEMES.map(x=>({value:x.id,label:x.label,selected:theme_f===x.id}));
+
+    const pathHeadlineParts=[];
+    if(metier==='all') pathHeadlineParts.push('Toutes équipes');
+    else pathHeadlineParts.push(METIERS.find(m=>m.id===metier)?.label||'');
+    if(theme_f!=='all') pathHeadlineParts.push(THEMES.find(x=>x.id===theme_f)?.label||'');
+
+    return {
+      ...shell,
+      // home
+      isHome,
+      filteredArticles,
+      filteredCount:filtered.length,
+      noResults:filtered.length===0,
+      filterBarStyle:`padding:24px 0;border-top:1px solid ${t.line};border-bottom:1px solid ${t.line}`,
+      filterLabelStyle:`font-family:'JetBrains Mono',monospace;font-size:10.5px;color:${t.muted};letter-spacing:.1em;text-transform:uppercase;margin-bottom:10px`,
+      metiersShort, themesList, levels,
+      setMetierAll:()=>this.setState({metier:'all'}),
+      setThemeAll:()=>this.setState({theme_f:'all'}),
+      resetFilters:this.resetFilters,
+
+      // metiers
+      isMetiersIndex, isMetierDetail,
+      metierCards,
+      currentMetierNum: currentMetier?.num,
+      currentMetierLabel: currentMetier?.label,
+      currentMetierDesc: currentMetier?.desc,
+      currentMetierArticles, currentMetierPath,
+
+      // themes
+      isThemesIndex, isThemeDetail,
+      themeCards,
+      currentThemeLabel: currentTheme?.label,
+      currentThemeDesc: currentTheme?.desc,
+      currentThemeArticles,
+
+      // article
+      isArticle,
+      currentArticle: currentArticle ? {
+        title:currentArticle.title, summary:currentArticle.summary,
+        source:currentArticle.source, dateLong:this.fmtLong(currentArticle.date),
+        levelLabel:LEVEL_LABELS[currentArticle.level],
+        body1:currentArticle.body1, body2:currentArticle.body2, why:currentArticle.why,
+      } : {},
+      currentArticleTags,
+      currentArticleResources,
+      pullStyle:`border-left:2px solid transparent;border-image:linear-gradient(180deg,#00e5ff,#7c3ce0) 1;padding:16px 22px;margin:28px 0;background:${t.surface};backdrop-filter:blur(12px);border-radius:0 12px 12px 0;box-shadow:0 0 30px -8px rgba(0,229,255,.25)`,
+
+      // parcours
+      isParcours,
+      metierOptions, themeOptions, startLevels,
+      pathSteps, pathTotalHours,
+      pathHeadline: 'Parcours ' + (pathHeadlineParts.join(' · ') || 'général'),
+      shufflePath:()=>this.forceUpdate(),
+      setMetierFromSelect:(e)=>this.setState({metier:e.target.value}),
+      setThemeFromSelect:(e)=>this.setState({theme_f:e.target.value}),
+      selectStyle:`width:100%;padding:10px 12px;border:1px solid ${t.line};background:${t.surface};color:${t.ink};font-family:'Inter',sans-serif;font-size:14px;border-radius:8px;backdrop-filter:blur(8px)`,
+      parcoursCardStyle:`padding:22px;border-radius:16px`,
+
+      // shared
+      eyebrowStyle:`font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:${t.muted};margin-bottom:12px`,
+      pageTitleStyle:`font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:clamp(44px,6vw,72px);line-height:.98;letter-spacing:-.03em;margin:0 0 16px`,
+      sectionHeadStyle:`font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:${t.muted};padding-bottom:12px;border-bottom:1px solid ${t.line};margin-bottom:8px`,
+    };
+  }
+}
+</script>
+</body>
+</html>
