@@ -1,0 +1,626 @@
+[
+  {
+    "id": "auto-9108d8d6030c",
+    "date": "2026-07-29",
+    "source": "TechCrunch",
+    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+    "summary": "The deal is Cyera's third acquisition this year.",
+    "sourceUrl": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d39556b679b6",
+    "date": "2026-07-29",
+    "source": "MIT Technology Review",
+    "title": "The AI Hype Index: Unsexy AI",
+    "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X…",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-df22037e3e0f",
+    "date": "2026-07-28",
+    "source": "OpenAI",
+    "title": "Scientific computing in the age of agentic AI",
+    "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+    "sourceUrl": "https://openai.com/index/scientific-computing-agentic-ai",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-be3ca53745f6",
+    "date": "2026-07-28",
+    "source": "Google AI Blog",
+    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+    "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+    "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7c8ae2784e8b",
+    "date": "2026-07-28",
+    "source": "Google AI Blog",
+    "title": "5 ways AI Mode in Search helps you enjoy the real world",
+    "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
+    "sourceUrl": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-61b149676fcb",
+    "date": "2026-07-28",
+    "source": "Google AI Blog",
+    "title": "5 ways to host the ultimate dinner party with Google Search",
+    "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
+    "sourceUrl": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-92e866603de3",
+    "date": "2026-07-28",
+    "source": "Hugging Face",
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "summary": "",
+    "sourceUrl": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-85dd02699b25",
+    "date": "2026-07-28",
+    "source": "Hugging Face",
+    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "summary": "",
+    "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-ac59c7d45b3c",
+    "date": "2026-07-28",
+    "source": "TechCrunch",
+    "title": "Bot-detection startup Spur nabs $200M from Insight",
+    "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+    "sourceUrl": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-5935209b00ca",
+    "date": "2026-07-28",
+    "source": "TechCrunch",
+    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+    "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
+    "sourceUrl": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-261dce35af7b",
+    "date": "2026-07-28",
+    "source": "TechCrunch",
+    "title": "Sam Altman is ready to decelerate",
+    "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+    "sourceUrl": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-fa0f2469b593",
+    "date": "2026-07-28",
+    "source": "TechCrunch",
+    "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+    "summary": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
+    "sourceUrl": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-7f280f9a9516",
+    "date": "2026-07-28",
+    "source": "TechCrunch",
+    "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+    "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+    "sourceUrl": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-85087db99984",
+    "date": "2026-07-28",
+    "source": "TechCrunch",
+    "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
+    "summary": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product develo…",
+    "sourceUrl": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5dd05f1ed5d9",
+    "date": "2026-07-28",
+    "source": "TechCrunch",
+    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+    "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+    "sourceUrl": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-2bc1e718b6f5",
+    "date": "2026-07-28",
+    "source": "TechCrunch",
+    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+    "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+    "sourceUrl": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-427bfd1aa7fc",
+    "date": "2026-07-28",
+    "source": "MIT Technology Review",
+    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+    "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his…",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-af8439b14cb1",
+    "date": "2026-07-28",
+    "source": "The Verge",
+    "title": "AI leaders sign a statement asking the government to do something about automated AI",
+    "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for fro…",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c889cb1c75bd",
+    "date": "2026-07-28",
+    "source": "The Verge",
+    "title": "AI’s finally expensive enough to make Wall Street nervous",
+    "summary": "It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end…",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-37db1a04f0b2",
+    "date": "2026-07-28",
+    "source": "The Verge",
+    "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+    "summary": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April,…",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0f6e69dea15d",
+    "date": "2026-07-28",
+    "source": "The Verge",
+    "title": "Smart rings are looking like my kind of AI gadget",
+    "summary": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the fastest, cheapest models…",
+    "sourceUrl": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2a58c8ebd3b1",
+    "date": "2026-07-28",
+    "source": "The Verge",
+    "title": "Hugging Face is being used to easily undress women and children",
+    "summary": "Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Fore…",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "a1",
+    "date": "2026-07-27",
+    "source": "The Information",
+    "title": "OpenAI dévoile GPT-6 avec un mode « agent long » de 24 heures",
+    "summary": "Un mode agentique conçu pour tourner en autonomie sur des tâches longues, avec check-ins optionnels et budget d'appels d'outils.",
+    "why": "Pour la première fois, un modèle grand public revendique une autonomie mesurée en journées. Ça change la conversation sur ce qu'un « employé virtuel » peut faire — et sur ce qu'il faut superviser.",
+    "body1": "Annoncé lors d'un keynote éclair, GPT-6 introduit un mode dit « agent long » qui vise les tâches de plusieurs heures sans intervention humaine : recherche produit, préparation de dossier, synthèse concurrentielle. OpenAI insiste sur les garde-fous — budget explicite d'appels d'API, journaux consultables, coupe-circuit manuel.",
+    "body2": "Les premiers retours pointent une réelle robustesse sur les tâches structurées (extraction, synthèse, comparaisons), mais des dérives récurrentes sur les tâches ouvertes (« planifie ma semaine »). Comme souvent, la promesse dépendra du contexte de déploiement.",
+    "metiers": [
+      "management",
+      "product",
+      "tech",
+      "sales"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": [
+      "karpathy-gpt",
+      "anthropic-agents",
+      "ng-agents"
+    ],
+    "auto": false
+  },
+  {
+    "id": "auto-9101339b1ac2",
+    "date": "2026-07-27",
+    "source": "Hugging Face",
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "summary": "",
+    "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-593821ed005c",
+    "date": "2026-07-27",
+    "source": "TechCrunch",
+    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+    "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+    "sourceUrl": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-6bd1974f426a",
+    "date": "2026-07-27",
+    "source": "TechCrunch",
+    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+    "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+    "sourceUrl": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-434f3ebbec97",
+    "date": "2026-07-27",
+    "source": "TechCrunch",
+    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+    "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+    "sourceUrl": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-3615eb4ba3bb",
+    "date": "2026-07-27",
+    "source": "TechCrunch",
+    "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+    "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+    "sourceUrl": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-b794a14816d6",
+    "date": "2026-07-27",
+    "source": "TechCrunch",
+    "title": "Threads users can now chat with Meta AI in their DMs",
+    "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+    "sourceUrl": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ec9dddb29c1e",
+    "date": "2026-07-27",
+    "source": "TechCrunch",
+    "title": "Google’s AI search is rapidly becoming the default, new data shows",
+    "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
+    "sourceUrl": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-5c85807dea6d",
+    "date": "2026-07-27",
+    "source": "TechCrunch",
+    "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+    "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
+    "sourceUrl": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "a2",
+    "date": "2026-07-25",
+    "source": "Sifted",
+    "title": "Les équipes commerciales B2B adoptent le « coach IA » en temps réel",
+    "summary": "Après la conversation intelligence post-call, les nouveaux outils analysent l'appel pendant qu'il se déroule et soufflent des relances au commercial.",
+    "why": "Le coaching passe du feedback hebdomadaire au feedback à la seconde. La courbe d'apprentissage des nouveaux SDR raccourcit — à condition d'accepter la présence d'un « troisième participant » dans l'appel.",
+    "body1": "Plusieurs éditeurs européens ont poussé cette année des assistants qui écoutent l'appel, détectent une objection courante et proposent une reformulation en direct. Les gains rapportés se concentrent sur le time-to-productivity des juniors.",
+    "body2": "Restent deux questions ouvertes : l'acceptabilité côté prospect (consentement, transparence) et l'effet à long terme sur le développement des skills — un commercial « assisté » apprend-il vraiment, ou délègue-t-il ?",
+    "metiers": [
+      "sales",
+      "csm"
+    ],
+    "themes": [
+      "agents",
+      "automation"
+    ],
+    "resources": [
+      "gong-labs",
+      "hbr-sales-ai",
+      "no-priors"
+    ],
+    "auto": false
+  },
+  {
+    "id": "a3",
+    "date": "2026-07-24",
+    "source": "Commission Européenne",
+    "title": "AI Act : entrée en vigueur des obligations pour les systèmes « à haut risque »",
+    "summary": "Cette semaine marque l'application effective des articles concernant les systèmes IA classés « à haut risque ». Toutes les entreprises qui en déploient sont concernées.",
+    "why": "C'est le premier grand test réglementaire de l'IA en Europe. Les équipes Ops, Legal et Management doivent cartographier leurs usages — même les intégrations « invisibles » via un fournisseur SaaS.",
+    "body1": "Les obligations couvrent la documentation technique, la traçabilité des données d'entraînement, la supervision humaine et la robustesse. Un système de gestion des risques doit être en place et audité.",
+    "body2": "En pratique, beaucoup d'entreprises B2B ne sont pas directement productrices de systèmes à haut risque, mais elles en intègrent — un scoring RH, un scoring de crédit, un outil d'aide à la décision médicale. La responsabilité se partage tout au long de la chaîne.",
+    "metiers": [
+      "ops",
+      "management",
+      "product"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": [
+      "ai-act",
+      "ai-act-course",
+      "stratechery-ai"
+    ],
+    "auto": false
+  },
+  {
+    "id": "a4",
+    "date": "2026-07-22",
+    "source": "LlamaIndex Blog",
+    "title": "RAG 2026 : pourquoi le « graph-RAG » supplante la recherche vectorielle simple",
+    "summary": "Les architectures RAG évoluent : représenter les documents comme un graphe de relations bat la simple recherche par similarité sur les corpus d'entreprise.",
+    "why": "Si vous construisez un assistant interne (support, sales enablement, connaissance produit), c'est le débat technique de l'année. Choisir la mauvaise archi coûte deux quarters de retard.",
+    "body1": "Le graph-RAG combine embeddings, extraction d'entités et parcours de graphe. Sur des corpus internes bruités — tickets, wikis, transcripts — il produit des réponses nettement plus fidèles.",
+    "body2": "Le prix à payer : un pipeline d'ingestion plus lourd, et un cycle d'itération plus long. Pour un POC, la vector-search reste souvent suffisante ; pour un déploiement, la question mérite d'être re-posée.",
+    "metiers": [
+      "tech",
+      "product",
+      "csm"
+    ],
+    "themes": [
+      "data",
+      "llm"
+    ],
+    "resources": [
+      "rag-course",
+      "evals-hamel",
+      "anthropic-agents"
+    ],
+    "auto": false
+  },
+  {
+    "id": "a5",
+    "date": "2026-07-20",
+    "source": "Reforge",
+    "title": "Growth teams : la génération de landing pages par LLM devient un standard",
+    "summary": "Un test A/B de 40 pages générées vs. 10 pages écrites à la main : la génération assistée gagne en volume, la rédaction humaine gagne en conversion sur les segments qualifiés.",
+    "why": "La question n'est plus « faut-il générer », mais « où placer le curseur humain / machine ». La réponse dépend du segment, pas du canal.",
+    "body1": "L'étude porte sur trois SaaS B2B mid-market. La génération est utilisée pour couvrir des variantes de personas et des mots-clés long-tail — là où le coût par page rédigée à la main est prohibitif.",
+    "body2": "Sur les pages phares (top 5 par trafic), l'itération humaine reste largement gagnante : conversion +18 % en moyenne. Le vrai chantier : outiller le passage de « draft LLM » à « page publiée » sans casser la voix de marque.",
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product",
+      "nocode"
+    ],
+    "resources": [
+      "growth-ai",
+      "ng-prompt",
+      "stratechery-ai"
+    ],
+    "auto": false
+  },
+  {
+    "id": "a6",
+    "date": "2026-07-19",
+    "source": "Andrej Karpathy",
+    "title": "Nouvelle vidéo Karpathy : évaluer un LLM en production, sans mentir aux stakeholders",
+    "summary": "Karpathy publie un tutoriel de 2h sur la construction d'un système d'évaluation continu — evals synthétiques, evals humaines, dashboards partagés.",
+    "why": "L'évaluation est le point aveugle de 80 % des projets IA en entreprise. Cette vidéo est probablement la meilleure ressource francophone/anglophone gratuite sur le sujet cette année.",
+    "body1": "Le format alterne théorie et code. Karpathy insiste sur un point : commencer par 20 exemples annotés à la main bat toujours 20 000 exemples générés automatiquement — au moins pour cadrer le problème.",
+    "body2": "Applicable aussi bien à un chatbot interne qu'à une feature IA en production. À faire regarder à toute l'équipe produit qui touche à un LLM.",
+    "metiers": [
+      "tech",
+      "product"
+    ],
+    "themes": [
+      "genai-product",
+      "llm"
+    ],
+    "resources": [
+      "karpathy-gpt",
+      "evals-hamel",
+      "ng-prompt"
+    ],
+    "auto": false
+  },
+  {
+    "id": "a7",
+    "date": "2026-07-18",
+    "source": "Every.to",
+    "title": "« Vibe recruiting » : quand tous les candidats postulent avec l'aide d'un agent IA",
+    "summary": "Les équipes RH font face à un afflux de candidatures polies par un agent : le signal des CVs s'effondre, les process d'entretien se réinventent.",
+    "why": "Le CV ne discrimine plus. Les équipes People inventent des « takehome » express, des entretiens live à surprises, et des références vérifiées par IA — un jeu du chat et de la souris.",
+    "body1": "Chez plusieurs scale-ups tech interrogées, le volume de candidatures a triplé en 12 mois — tandis que le taux de conversion vers un entretien qualifié chute. La cause : des candidats équipés d'agents qui postulent en masse avec un CV réécrit pour chaque annonce.",
+    "body2": "La réponse émergente : moins de screening papier, plus de « work sample ». Certaines équipes vont jusqu'à publier ouvertement leur takehome d'entretien, en assumant qu'il sera résolu avec assistance IA — et en évaluant la posture, pas la solution.",
+    "metiers": [
+      "ops",
+      "management"
+    ],
+    "themes": [
+      "ethics",
+      "automation"
+    ],
+    "resources": [
+      "stratechery-ai",
+      "no-priors",
+      "hbr-sales-ai"
+    ],
+    "auto": false
+  },
+  {
+    "id": "a8",
+    "date": "2026-07-17",
+    "source": "a16z",
+    "title": "Le stack agentique de 2026 : ce qui est stable, ce qui bouge encore",
+    "summary": "Après trois ans de turbulences, certains composants du stack (orchestration, mémoire, outils) se stabilisent. D'autres (évaluation, cost control) restent des chantiers ouverts.",
+    "why": "Pour un CTO ou un PM technique, décider maintenant sur quoi construire — versus attendre — vaut plusieurs centaines de milliers d'euros économisés ou perdus.",
+    "body1": "L'article cartographie les couches du stack agentique et note leur niveau de maturité. LangGraph, Temporal-like orchestrators, et les protocols type MCP côté connecteurs sortent lauréats.",
+    "body2": "À l'inverse, l'évaluation, la mémoire long-terme et le contrôle des coûts restent immatures. Le conseil implicite : externaliser les couches matures, garder l'expertise interne sur les couches instables.",
+    "metiers": [
+      "tech",
+      "product",
+      "management"
+    ],
+    "themes": [
+      "agents",
+      "llm",
+      "data"
+    ],
+    "resources": [
+      "anthropic-agents",
+      "ng-agents",
+      "rag-course"
+    ],
+    "auto": false
+  }
+]
