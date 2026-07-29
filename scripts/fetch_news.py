@@ -2,10 +2,18 @@
 """Ingestion quotidienne des actus IA depuis des flux RSS publics.
 
 Aucune dépendance externe (stdlib uniquement) : pensé pour tourner tel quel
-sur un runner GitHub Actions standard. Pas d'appel LLM : la catégorisation
-par thématique se fait par mots-clés, et les métiers concernés sont déduits
-de la matrice RELEVANCE (dupliquée depuis index.html) plutôt que d'un
-second dictionnaire de mots-clés à entretenir en parallèle.
+sur un runner GitHub Actions standard. Pas d'appel LLM :
+- la catégorisation par thématique se fait par mots-clés, et les métiers
+  concernés sont déduits de la matrice RELEVANCE (dupliquée depuis
+  index.html) plutôt que d'un second dictionnaire de mots-clés à entretenir
+  en parallèle
+- le résumé de chaque article est produit par extraction : on va chercher
+  la page source complète, on isole le texte des paragraphes, et on retient
+  les phrases les plus représentatives (fréquence des mots). Ce n'est pas
+  une synthèse rédigée (pas de LLM), mais ça vaut mieux que le simple
+  teaser fourni par le flux RSS. Si la page source ne peut pas être
+  récupérée ou analysée (paywall, protection anti-bot, format inhabituel),
+  on retombe sur le teaser RSS sans faire échouer l'article.
 """
 import hashlib
 import html
@@ -15,8 +23,10 @@ import sys
 import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
+from collections import Counter
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
+from html.parser import HTMLParser
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -136,6 +146,108 @@ def slug_id(link, title):
     return f"auto-{h}"
 
 
+# --- Extraction du texte complet de l'article source ---
+
+class _ParagraphExtractor(HTMLParser):
+    """Extraction naïve des <p> en excluant nav/header/footer/aside/script/style.
+    Pas de vraie détection du contenu principal (pas de dépendance externe type
+    trafilatura/readability) : suffisant pour la plupart des blogs, insuffisant
+    pour les sites très dynamiques (SPA) qui ne rendent rien côté serveur."""
+
+    SKIP_TAGS = {"script", "style", "nav", "header", "footer", "aside", "form", "noscript"}
+
+    def __init__(self):
+        super().__init__()
+        self.paragraphs = []
+        self._current = []
+        self._in_p = False
+        self._skip_depth = 0
+
+    def handle_starttag(self, tag, attrs):
+        if tag in self.SKIP_TAGS:
+            self._skip_depth += 1
+        if tag == "p" and self._skip_depth == 0:
+            self._in_p = True
+            self._current = []
+
+    def handle_endtag(self, tag):
+        if tag in self.SKIP_TAGS and self._skip_depth > 0:
+            self._skip_depth -= 1
+        if tag == "p" and self._in_p:
+            text = "".join(self._current).strip()
+            if text:
+                self.paragraphs.append(text)
+            self._in_p = False
+
+    def handle_data(self, data):
+        if self._in_p and self._skip_depth == 0:
+            self._current.append(data)
+
+
+def extract_main_text(html_doc):
+    parser = _ParagraphExtractor()
+    try:
+        parser.feed(html_doc)
+    except Exception:
+        pass
+    paragraphs = [p for p in parser.paragraphs if len(p) > 40]
+    return "\n".join(paragraphs)
+
+
+# --- Résumé extractif (sans LLM) ---
+
+STOPWORDS = set(
+    "a an and are as at be by for from has he in is it its of on that the to was were will with this "
+    "these those but not have had has been being do does did can could should would may might must its "
+    "it's their they them our your his her which who whom what when where why how also more most such "
+    "than then le la les un une des du de et à au aux ce cet cette ces qui que quoi dont où est sont sur "
+    "pour dans par avec plus très fait faire être avoir".split()
+)
+
+
+def split_sentences(text):
+    sentences = re.split(r"(?<=[.!?])\s+", text)
+    return [s.strip() for s in sentences if len(s.strip()) > 20]
+
+
+def summarize(text, max_sentences=3, max_chars=320):
+    sentences = split_sentences(text)
+    if not sentences:
+        return ""
+    if len(sentences) <= max_sentences:
+        candidates = sentences
+    else:
+        words = re.findall(r"[a-zà-öø-ÿ']+", text.lower())
+        freq = Counter(w for w in words if w not in STOPWORDS and len(w) > 2)
+        scored = []
+        for i, s in enumerate(sentences):
+            sw = re.findall(r"[a-zà-öø-ÿ']+", s.lower())
+            score = sum(freq.get(w, 0) for w in sw) / (len(sw) + 1)
+            scored.append((score, i, s))
+        top = sorted(scored, reverse=True)[:max_sentences]
+        candidates = [s for _, _, s in sorted(top, key=lambda x: x[1])]
+    out, total = [], 0
+    for s in candidates:
+        if out and total + len(s) + 1 > max_chars:
+            break
+        out.append(s)
+        total += len(s) + 1
+    if not out:
+        out = [candidates[0][: max_chars].rsplit(" ", 1)[0] + "…"]
+    return " ".join(out)
+
+
+def fetch_article_summary(url):
+    """Va chercher la page source et en tire un résumé extractif.
+    Retourne (résumé, texte_complet) ou (None, None) en cas d'échec."""
+    raw = fetch(url)
+    doc = raw.decode("utf-8", errors="replace")
+    full_text = extract_main_text(doc)
+    if len(full_text) < 200:
+        return None, None
+    return summarize(full_text), full_text
+
+
 def main():
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(hours=MAX_AGE_HOURS)
@@ -146,6 +258,8 @@ def main():
     new_articles = []
     ok_feeds = 0
     ko_feeds = []
+    extract_ok = 0
+    extract_ko = 0
 
     for source_name, url in FEEDS:
         try:
@@ -164,14 +278,29 @@ def main():
             article_id = slug_id(link, title)
             if article_id in existing_ids:
                 continue
-            themes = tag_themes(f"{title} {desc}")
+
+            extracted_summary, full_text = None, None
+            try:
+                extracted_summary, full_text = fetch_article_summary(link)
+            except Exception:
+                pass
+            if extracted_summary:
+                extract_ok += 1
+                summary = extracted_summary
+                tagging_text = f"{title} {full_text}"
+            else:
+                extract_ko += 1
+                summary = (desc[:220].rstrip() + "…") if len(desc) > 220 else desc
+                tagging_text = f"{title} {desc}"
+
+            themes = tag_themes(tagging_text)
             metiers = derive_metiers(themes)
             new_articles.append({
                 "id": article_id,
                 "date": pub.astimezone(timezone.utc).strftime("%Y-%m-%d"),
                 "source": source_name,
                 "title": title,
-                "summary": (desc[:220].rstrip() + "…") if len(desc) > 220 else desc,
+                "summary": summary,
                 "sourceUrl": link,
                 "auto": True,
                 "metiers": metiers,
@@ -198,6 +327,8 @@ def main():
     if ko_feeds:
         print(f"[fetch_news] flux en échec : {', '.join(ko_feeds)}")
     print(f"[fetch_news] nouveaux articles ajoutés : {len(new_articles)}")
+    if new_articles:
+        print(f"[fetch_news] résumé extrait de la source : {extract_ok}/{len(new_articles)} (sinon repli sur le teaser RSS, {extract_ko} fois)")
     if untagged:
         print(f"[fetch_news] {untagged} nouvel(aux) article(s) sans thématique détectée (mots-clés insuffisants, resteront visibles seulement dans le fil global)")
     if dropped:

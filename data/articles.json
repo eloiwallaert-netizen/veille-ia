@@ -4,17 +4,19 @@
     "date": "2026-07-29",
     "source": "TechCrunch",
     "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-    "summary": "The deal is Cyera's third acquisition this year.",
+    "summary": "Founded in 2022, Oasis has raised about $195 million from Accel, Craft Ventures, Cyberstarts and other investors. Post-acquisition, Cyera plans to integrate Oasis’s technology into a unified identity and data security platform. The five-year-old company has raised about $2.3 billion in total funding.",
     "sourceUrl": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
     "auto": true,
     "metiers": [
       "csm",
+      "ops",
       "product",
       "sales",
       "tech"
     ],
     "themes": [
-      "agents"
+      "agents",
+      "automation"
     ],
     "resources": []
   },
@@ -23,11 +25,16 @@
     "date": "2026-07-29",
     "source": "MIT Technology Review",
     "title": "The AI Hype Index: Unsexy AI",
-    "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X…",
+    "summary": "But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some, oddly sexy?) robotic hands in a July demo. Subquadratic has now shared more details about its new model. A new technique has let the company probe deeper than ever into the weird workings of an LLM.",
     "sourceUrl": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
     "auto": true,
-    "metiers": [],
-    "themes": [],
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
     "resources": []
   },
   {
@@ -54,18 +61,23 @@
     "date": "2026-07-28",
     "source": "Google AI Blog",
     "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-    "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+    "summary": "Managed Agents in Gemini API now default to Gemini 3.6 Flash. Managed Agents in Gemini API are getting environment hooks, model selection, and free tier access. Environment hooks let you run your custom scripts before or after every tool call the agent makes inside its sandbox.",
     "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
     "auto": true,
     "metiers": [
       "csm",
+      "marketing",
+      "ops",
       "product",
       "sales",
       "tech"
     ],
     "themes": [
       "llm",
-      "agents"
+      "agents",
+      "automation",
+      "genai-product",
+      "nocode"
     ],
     "resources": []
   },
@@ -74,7 +86,7 @@
     "date": "2026-07-28",
     "source": "Google AI Blog",
     "title": "5 ways AI Mode in Search helps you enjoy the real world",
-    "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
+    "summary": "Google’s AI Mode helps you spend more time offline by simplifying how you plan activities and events. If you’ve chosen to connect Google Calendar, you’ll get suggestions that fit your existing schedule. Share details like your budget, how many tickets you want, and what event you’d like to go to.",
     "sourceUrl": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
     "auto": true,
     "metiers": [],
@@ -86,7 +98,7 @@
     "date": "2026-07-28",
     "source": "Google AI Blog",
     "title": "5 ways to host the ultimate dinner party with Google Search",
-    "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
+    "summary": "You can use AI Mode to help you come up with food themes or brainstorm menu options that match your party’s vibe. Once you’ve landed on your dishes, you can turn to AI Mode to recommend drinks. For example, if you ask AI Mode, “I need help with drink pairings for my dinner party.",
     "sourceUrl": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
     "auto": true,
     "metiers": [],
@@ -98,11 +110,21 @@
     "date": "2026-07-28",
     "source": "Hugging Face",
     "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-    "summary": "",
+    "summary": "🌍 Learn more about OlmoEarth Platform: https://allenai.org/olmoearth\nThe OlmoEarth models are our family of Earth observation foundation models, pretrained on roughly 10 terabytes of multimodal satellite data.",
     "sourceUrl": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
     "auto": true,
-    "metiers": [],
-    "themes": [],
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "data"
+    ],
     "resources": []
   },
   {
@@ -110,11 +132,22 @@
     "date": "2026-07-28",
     "source": "Hugging Face",
     "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-    "summary": "",
+    "summary": "Today, we release two new encoder models on Hugging Face: LFM2.5-Encoder-230M and LFM2.5-Encoder-350M. We initialize the encoders from their respective LFM2 decoder backbones: LFM2.5-230M and LFM2.5-350M. We built the demos below from fine-tuned LFM2.5-Encoders.",
     "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
     "auto": true,
-    "metiers": [],
-    "themes": [],
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
     "resources": []
   },
   {
@@ -122,11 +155,18 @@
     "date": "2026-07-28",
     "source": "TechCrunch",
     "title": "Bot-detection startup Spur nabs $200M from Insight",
-    "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+    "summary": "The startup’s tech helps enterprises distinguish legitimate human users from increasingly well-hidden bot traffic to help identify fake users and threats. As of mid-2026, bots are now more active on the internet than humans, Cloudflare reported last month.",
     "sourceUrl": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
     "auto": true,
-    "metiers": [],
-    "themes": [],
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
     "resources": []
   },
   {
@@ -134,11 +174,21 @@
     "date": "2026-07-28",
     "source": "TechCrunch",
     "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-    "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
+    "summary": "In the suit, Runlayer describes an extensive product trial conducted by Rippling as a prospective customer, during which the MCP startup shared everything from its product roadmap to its actual source code.",
     "sourceUrl": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
     "auto": true,
-    "metiers": [],
-    "themes": [],
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics"
+    ],
     "resources": []
   },
   {
@@ -146,99 +196,8 @@
     "date": "2026-07-28",
     "source": "TechCrunch",
     "title": "Sam Altman is ready to decelerate",
-    "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+    "summary": "OpenAI CEO Sam Altman says that it may be time to “pace” AI development so the world will be ready for it. While model safety and alignment has always been a concern in the AI world, the arrival of Anthropic’s highly capable Mythos model earlier this year has turned hypotheticals into real-world problems.",
     "sourceUrl": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-fa0f2469b593",
-    "date": "2026-07-28",
-    "source": "TechCrunch",
-    "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-    "summary": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
-    "sourceUrl": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-7f280f9a9516",
-    "date": "2026-07-28",
-    "source": "TechCrunch",
-    "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-    "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
-    "sourceUrl": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-85087db99984",
-    "date": "2026-07-28",
-    "source": "TechCrunch",
-    "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
-    "summary": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product develo…",
-    "sourceUrl": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5dd05f1ed5d9",
-    "date": "2026-07-28",
-    "source": "TechCrunch",
-    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-    "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
-    "sourceUrl": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-2bc1e718b6f5",
-    "date": "2026-07-28",
-    "source": "TechCrunch",
-    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-    "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
-    "sourceUrl": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-427bfd1aa7fc",
-    "date": "2026-07-28",
-    "source": "MIT Technology Review",
-    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-    "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his…",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-af8439b14cb1",
-    "date": "2026-07-28",
-    "source": "The Verge",
-    "title": "AI leaders sign a statement asking the government to do something about automated AI",
-    "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for fro…",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
     "auto": true,
     "metiers": [
       "csm",
@@ -254,11 +213,157 @@
     "resources": []
   },
   {
+    "id": "auto-fa0f2469b593",
+    "date": "2026-07-28",
+    "source": "TechCrunch",
+    "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+    "summary": "has struggled to cope with an onslaught of data centers. The grid operator is running another auction for new generating capacity. PJM has come under fire in recent months for the way it has managed new generating capacity and large new users, including data centers.",
+    "sourceUrl": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7f280f9a9516",
+    "date": "2026-07-28",
+    "source": "TechCrunch",
+    "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+    "summary": "The market for AI-generated voice models is massive. The company has launched five models in the last year: four speech-generation models and one speech-to-text model. Looking ahead, Fish Audio plans to release an audio understanding model this year.",
+    "sourceUrl": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-85087db99984",
+    "date": "2026-07-28",
+    "source": "TechCrunch",
+    "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
+    "summary": "On Tuesday, the AI company Recursive Superintelligence announced a $410 million compute deal with Amazon Web Services. Today’s announcement is “likely going to be one of the smallest compute deals we’re going to sign in the next few years,” Socher said.",
+    "sourceUrl": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5dd05f1ed5d9",
+    "date": "2026-07-28",
+    "source": "TechCrunch",
+    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+    "summary": "On Monday, the startup introduced Cursor Start, a ₹649-a-month (about $7) subscription built specifically for India — and priced well below Cursor’s standard $20-a-month Pro subscription. The move reflects India’s growing importance to Cursor’s business. Cursor is not alone in tailoring its pricing for India.",
+    "sourceUrl": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2bc1e718b6f5",
+    "date": "2026-07-28",
+    "source": "TechCrunch",
+    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+    "summary": "government to ban open-weight Chinese models, or possibly open-weight models generally. Amodei said in the blog post published Monday that he views open-weight models as falling into a different bucket than the threat China poses.",
+    "sourceUrl": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-427bfd1aa7fc",
+    "date": "2026-07-28",
+    "source": "MIT Technology Review",
+    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+    "summary": "For decades, SK Hynix lived in Samsung’s shadow. SK Hynix now leads the global market for HBMs, while Samsung is playing catch-up. Samsung plans to hire 60,000 employees over the next five years, especially for its semiconductor division.",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-af8439b14cb1",
+    "date": "2026-07-28",
+    "source": "The Verge",
+    "title": "AI leaders sign a statement asking the government to do something about automated AI",
+    "summary": "The statement follows a recent high-profile cybersecurity incident that rocked the AI industry. The statement follows a recent high-profile cybersecurity incident that rocked the AI industry.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-c889cb1c75bd",
     "date": "2026-07-28",
     "source": "The Verge",
     "title": "AI’s finally expensive enough to make Wall Street nervous",
-    "summary": "It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end…",
+    "summary": "Even the lower end of Google’s new projected range — $195 billion — is much more than the company had previously forecast as its top end spending. Plus, Google is spending more money than it’s making. You’re spending more and getting the same amount back, or — worse — spending more for less revenue.",
     "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
     "auto": true,
     "metiers": [],
@@ -270,7 +375,7 @@
     "date": "2026-07-28",
     "source": "The Verge",
     "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
-    "summary": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April,…",
+    "summary": "﻿‘Now Microsoft users can ask Computer to work across their local files, Microsoft Office 365, and the web in one place.’\n﻿‘Now Microsoft users can ask Computer to work across their local files, Microsoft Office 365, and the web in one place.’\nPerplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world’s most popular OS to be used as a locally run AI system.",
     "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
     "auto": true,
     "metiers": [
@@ -289,15 +394,17 @@
     "date": "2026-07-28",
     "source": "The Verge",
     "title": "Smart rings are looking like my kind of AI gadget",
-    "summary": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the fastest, cheapest models…",
+    "summary": "While everyone tries to make smart glasses, pins, and everything else happen, the most subtle device might be the best device. While everyone tries to make smart glasses, pins, and everything else happen, the most subtle device might be the best device.",
     "sourceUrl": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
     "auto": true,
     "metiers": [
+      "marketing",
       "product",
       "tech"
     ],
     "themes": [
-      "llm"
+      "llm",
+      "genai-product"
     ],
     "resources": []
   },
@@ -306,11 +413,21 @@
     "date": "2026-07-28",
     "source": "The Verge",
     "title": "Hugging Face is being used to easily undress women and children",
-    "summary": "Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Fore…",
+    "summary": "The nonprofit says it didn’t even try to circumvent any potential safeguards by carefully wording requests, like Grok users did by asking to put people in a “transparent bikini” or cover them with “donut glaze.” The researchers used the same simple request for all its Hugging Face prompts: “Same pose, same face, but topless.”\nAI Forensics also created honeypot image editing Spaces on Hugging Face to track what sort of images and prompt requests would be received.",
     "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
     "auto": true,
-    "metiers": [],
-    "themes": [],
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product",
+      "data"
+    ],
     "resources": []
   },
   {
@@ -340,60 +457,12 @@
     "auto": false
   },
   {
-    "id": "auto-ddb90ba73fe2",
+    "id": "auto-593821ed005c",
     "date": "2026-07-27",
     "source": "TechCrunch",
-    "title": "This $9 key physically locks your most addictive apps",
-    "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-    "sourceUrl": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-3f1518dce932",
-    "date": "2026-07-27",
-    "source": "TechCrunch",
-    "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-    "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
-    "sourceUrl": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-1c48d2633e58",
-    "date": "2026-07-27",
-    "source": "TechCrunch",
-    "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
-    "summary": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
-    "sourceUrl": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-7b46dd318f11",
-    "date": "2026-07-27",
-    "source": "MIT Technology Review",
-    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containme…",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-6c4edc3794f0",
-    "date": "2026-07-27",
-    "source": "MIT Technology Review",
-    "title": "The path to artificial superintelligence",
-    "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own d…",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+    "summary": "Nadella called for a setup where “every time you use the model, all of the metadata around it is retained by you, so that you could use all of that to train perhaps your own weights or your own open model.” (Weights are a model’s trained parameters — essentially its brain.",
+    "sourceUrl": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
     "auto": true,
     "metiers": [
       "csm",
@@ -402,17 +471,107 @@
       "tech"
     ],
     "themes": [
+      "llm",
       "agents"
     ],
     "resources": []
   },
   {
-    "id": "auto-308e10435354",
+    "id": "auto-6bd1974f426a",
     "date": "2026-07-27",
-    "source": "MIT Technology Review",
-    "title": "Closing the data loop in AI-driven drug discovery",
-    "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly double…",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+    "source": "TechCrunch",
+    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+    "summary": "An untold number of Claude chats and Artifacts — the interactive mini apps and documents users can build inside Claude — were found publicly searchable on Google over the weekend, after Reddit users discovered that typing search operators like “site:claude.ai/share” into Google surfaced a long list of shared conversations.",
+    "sourceUrl": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-434f3ebbec97",
+    "date": "2026-07-27",
+    "source": "TechCrunch",
+    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+    "summary": "The new security platform is dubbed Perception, and it’s designed to deploy teams of agents to assist with and automate various security workflows, including identifying and remediating bugs.",
+    "sourceUrl": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-3615eb4ba3bb",
+    "date": "2026-07-27",
+    "source": "TechCrunch",
+    "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+    "summary": "In alignment terms, the problem is that OpenAI’s model was trying to cheat, and solving that problem is more urgent than short-term containment efforts. For alignment-focused researchers, OpenAI’s response isn’t good enough. Score-seeking behavior and other misalignment isn’t unique to OpenAI.",
+    "sourceUrl": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b794a14816d6",
+    "date": "2026-07-27",
+    "source": "TechCrunch",
+    "title": "Threads users can now chat with Meta AI in their DMs",
+    "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads’ DMs, giving users a way to chat with the AI assistant. Meta AI is already available within DMs on Meta’s other platforms, including Facebook, Instagram, and WhatsApp.",
+    "sourceUrl": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ec9dddb29c1e",
+    "date": "2026-07-27",
+    "source": "TechCrunch",
+    "title": "Google’s AI search is rapidly becoming the default, new data shows",
+    "summary": "AI search is rapidly becoming the default, whether users like it or not. In just a year’s time, Google’s AI-generated answers in search, known as AI Overviews, have gone from appearing in 15% of searches to 43%, according to a new report, driving a shift in how web users consume information online.",
+    "sourceUrl": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
     "auto": true,
     "metiers": [
       "csm",
@@ -425,40 +584,39 @@
     "resources": []
   },
   {
-    "id": "auto-0b3d0a29733e",
+    "id": "auto-5c85807dea6d",
     "date": "2026-07-27",
-    "source": "MIT Technology Review",
-    "title": "Building the enterprise environment for agentic AI",
-    "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-…",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+    "source": "TechCrunch",
+    "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+    "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
+    "sourceUrl": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
     "auto": true,
     "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
       "product",
-      "sales",
       "tech"
     ],
     "themes": [
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product"
+      "llm"
     ],
     "resources": []
   },
   {
-    "id": "auto-381103444d20",
+    "id": "auto-ddb90ba73fe2",
     "date": "2026-07-27",
-    "source": "The Verge",
-    "title": "Why China is giving away its best AI models",
-    "summary": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the…",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+    "source": "TechCrunch",
+    "title": "This $9 key physically locks your most addictive apps",
+    "summary": "It’s an NFC key that pairs with a companion app to let you lock away distracting apps. There’s also the question of what happens if you lose the key. If they’re already unlocked, you can simply remove the key from your account.",
+    "sourceUrl": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
     "auto": true,
-    "metiers": [],
-    "themes": [],
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
     "resources": []
   },
   {
