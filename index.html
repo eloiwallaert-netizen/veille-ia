@@ -160,15 +160,6 @@
             </sc-for>
           </select>
         </div>
-        <div style="display:flex;align-items:center;gap:8px;min-width:180px">
-          <span style="font-size:11px;color:{{ muted }};font-family:'JetBrains Mono',monospace;letter-spacing:.06em">NIVEAU</span>
-          <select onChange="{{ setLevelFromSelect }}" class="om-select" style="{{ inlineSelectStyle }}">
-            <option value="all">Tous niveaux</option>
-            <option value="decouverte" selected="{{ level==='decouverte' }}">Découverte</option>
-            <option value="intermediaire" selected="{{ level==='intermediaire' }}">Intermédiaire</option>
-            <option value="avance" selected="{{ level==='avance' }}">Avancé</option>
-          </select>
-        </div>
         <sc-if value="{{ hasActiveFilters }}" hint-placeholder-val="{{ false }}">
           <button onClick="{{ resetFilters }}" style="font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.08em;color:{{ muted }};padding:6px 10px;border-radius:8px;border:1px solid rgba(140,160,255,.14);transition:all .2s" class="om-cta">✕ RESET</button>
         </sc-if>
@@ -197,7 +188,6 @@
                   <sc-for list="{{ a.tagList }}" as="tag" hint-placeholder-count="2">
                     <span style="{{ tag.style }}">{{ tag.label }}</span>
                   </sc-for>
-                  <span style="{{ a.levelStyle }}">{{ a.levelLabel }}</span>
                 </div>
                 <h3 style="font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:26px;line-height:1.1;letter-spacing:-.02em;margin:0 0 8px;color:{{ ink }}">{{ a.title }}</h3>
                 <p style="font-size:14.5px;line-height:1.55;color:{{ muted }};margin:0;max-width:60ch">{{ a.summary }}</p>
@@ -226,7 +216,7 @@
       <div style="margin-bottom:40px">
         <div style="{{ eyebrowStyle }}">Navigation</div>
         <h1 class="om-neon" style="{{ pageTitleStyle }}">Par <span class="om-italic">métier</span></h1>
-        <p style="font-size:17px;color:{{ muted }};max-width:640px;line-height:1.55;margin:0">Sélectionnez votre rôle. L'algorithme priorise les thématiques les plus pertinentes pour votre fonction et ajuste le niveau des ressources.</p>
+        <p style="font-size:17px;color:{{ muted }};max-width:640px;line-height:1.55;margin:0">Sélectionnez votre rôle. L'algorithme priorise les thématiques les plus pertinentes pour votre fonction.</p>
       </div>
       <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px">
         <sc-for list="{{ metierCards }}" as="m" hint-placeholder-count="7">
@@ -285,7 +275,7 @@
                   <span style="font-family:'JetBrains Mono',monospace;font-size:11px;color:{{ muted }}">{{ s.num }}</span>
                   <div>
                     <a href="{{ s.url }}" target="_blank" rel="noopener" style="font-weight:500;line-height:1.3;display:block">{{ s.title }} ↗</a>
-                    <div style="color:{{ muted }};font-size:11.5px;margin-top:2px">{{ s.platform }} · {{ s.duration }} · {{ s.level }}</div>
+                    <div style="color:{{ muted }};font-size:11.5px;margin-top:2px">{{ s.platform }} · {{ s.duration }}</div>
                   </div>
                 </li>
               </sc-for>
@@ -347,7 +337,6 @@
         <div style="display:flex;gap:20px;font-family:'JetBrains Mono',monospace;font-size:12px;color:{{ muted }};margin-bottom:32px;padding-bottom:24px;border-bottom:1px solid {{ line }};flex-wrap:wrap">
           <span>{{ currentArticle.dateLong }}</span>
           <span>Source · {{ currentArticle.source }}</span>
-          <span>Niveau · {{ currentArticle.levelLabel }}</span>
         </div>
         <p style="font-family:'Space Grotesk',sans-serif;font-size:24px;line-height:1.4;margin:0 0 24px;color:{{ ink }};font-weight:500;letter-spacing:-.01em">{{ currentArticle.summary }}</p>
         <p style="font-size:16px;line-height:1.65;color:{{ ink }};margin:0 0 20px">{{ currentArticle.body1 }}</p>
@@ -360,7 +349,6 @@
         <div style="border-top:1px solid {{ line }};padding-top:32px;margin-top:40px">
           <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:20px;gap:20px;flex-wrap:wrap">
             <h2 style="font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:30px;margin:0;letter-spacing:-.02em;color:{{ ink }}">Ressources associées</h2>
-            <div style="font-size:12px;color:{{ muted }};font-family:'JetBrains Mono',monospace">Classées par niveau</div>
           </div>
           <sc-for list="{{ currentArticleResources }}" as="r" hint-placeholder-count="3">
             <a href="{{ r.url }}" target="_blank" rel="noopener" class="om-row" style="display:block;padding:20px 0;border-top:1px solid {{ line }}">
@@ -369,7 +357,6 @@
                 <div>
                   <div style="display:flex;gap:8px;align-items:center;margin-bottom:4px;flex-wrap:wrap">
                     <span style="{{ r.platformStyle }}">{{ r.platform }}</span>
-                    <span style="{{ r.levelStyle }}">{{ r.level }}</span>
                   </div>
                   <div style="font-size:17px;font-weight:500;line-height:1.3">{{ r.title }}</div>
                   <div style="font-size:13px;color:{{ muted }};margin-top:4px">{{ r.author }} · {{ r.duration }}</div>
@@ -387,7 +374,7 @@
       <div style="margin-bottom:40px">
         <div style="{{ eyebrowStyle }}">Générateur IA</div>
         <h1 class="om-neon" style="{{ pageTitleStyle }}">Votre parcours <span class="om-italic">sur mesure</span></h1>
-        <p style="font-size:17px;color:{{ muted }};max-width:680px;line-height:1.55;margin:0">Choisissez un métier, une thématique et un niveau de départ. On assemble un parcours ordonné, du plus introductif au plus avancé.</p>
+        <p style="font-size:17px;color:{{ muted }};max-width:680px;line-height:1.55;margin:0">Choisissez un métier et une thématique. On assemble un parcours de ressources adapté, prêt à suivre.</p>
       </div>
       <div style="display:grid;grid-template-columns:340px 1fr;gap:48px;align-items:start">
         <div class="om-glass" style="border-radius:16px;padding:24px;position:sticky;top:24px">
@@ -405,13 +392,6 @@
             <sc-for list="{{ themeOptions }}" as="o" hint-placeholder-count="7">
               <option value="{{ o.value }}" selected="{{ o.selected }}">{{ o.label }}</option>
             </sc-for>
-          </select>
-
-          <div style="{{ filterLabelStyle }};margin-bottom:8px;margin-top:20px">Niveau de départ</div>
-          <select onChange="{{ setStartLevelFromSelect }}" class="om-select" style="{{ selectStyle }}">
-            <option value="decouverte" selected="{{ startLevel==='decouverte' }}">Débutant</option>
-            <option value="intermediaire" selected="{{ startLevel==='intermediaire' }}">Intermédiaire</option>
-            <option value="avance" selected="{{ startLevel==='avance' }}">Confirmé</option>
           </select>
 
           <div style="border-top:1px solid {{ line }};margin-top:24px;padding-top:20px;font-size:12px;color:{{ muted }};line-height:1.5">
@@ -435,7 +415,6 @@
                 <div>
                   <div style="display:flex;gap:8px;align-items:center;margin-bottom:6px;flex-wrap:wrap">
                     <span style="{{ s.platformStyle }}">{{ s.platform }}</span>
-                    <span style="{{ s.levelStyle }}">{{ s.level }}</span>
                     <span style="font-family:'JetBrains Mono',monospace;font-size:11px;color:{{ muted }}">{{ s.duration }}</span>
                   </div>
                   <a href="{{ s.url }}" target="_blank" rel="noopener" style="font-size:19px;font-weight:500;line-height:1.3;margin-bottom:4px;display:block">{{ s.title }} <span style="color:#7fe8ff">↗</span></a>
@@ -528,8 +507,6 @@ const ARTICLES = [
   {id:'a8',date:'2026-07-17',source:'a16z',title:"Le stack agentique de 2026 : ce qui est stable, ce qui bouge encore",summary:"Après trois ans de turbulences, certains composants du stack (orchestration, mémoire, outils) se stabilisent. D'autres (évaluation, cost control) restent des chantiers ouverts.",why:"Pour un CTO ou un PM technique, décider maintenant sur quoi construire — versus attendre — vaut plusieurs centaines de milliers d'euros économisés ou perdus.",body1:"L'article cartographie les couches du stack agentique et note leur niveau de maturité. LangGraph, Temporal-like orchestrators, et les protocols type MCP côté connecteurs sortent lauréats.",body2:"À l'inverse, l'évaluation, la mémoire long-terme et le contrôle des coûts restent immatures. Le conseil implicite : externaliser les couches matures, garder l'expertise interne sur les couches instables.",metiers:['tech','product','management'],themes:['agents','llm','data'],level:'avance',resources:['anthropic-agents','ng-agents','rag-course']},
 ];
 
-const LEVEL_LABELS = {decouverte:'Découverte',intermediaire:'Intermédiaire',avance:'Avancé'};
-
 const METIER_PATHS = {
   sales:      ['ng-genai','hbr-sales-ai','gong-labs','ng-prompt','no-priors'],
   csm:        ['ng-genai','hbr-sales-ai','ng-prompt','anthropic-agents','no-priors'],
@@ -561,7 +538,7 @@ const PATH_WHY = {
 };
 
 const Component = class extends DCLogic {
-  state = { route:'/', metier:'all', theme_f:'all', level:'all', startLevel:'decouverte' };
+  state = { route:'/', metier:'all', theme_f:'all' };
 
   componentDidMount(){
     const applyHash=()=>{ const h=location.hash.replace(/^#/,'')||'/'; this.setState({route:h}); };
@@ -570,7 +547,7 @@ const Component = class extends DCLogic {
   }
 
   go=(r)=>(e)=>{ if(e)e.preventDefault(); location.hash='#'+r; this.setState({route:r}); window.scrollTo(0,0); };
-  resetFilters=()=>this.setState({metier:'all',theme_f:'all',level:'all'});
+  resetFilters=()=>this.setState({metier:'all',theme_f:'all'});
 
   articleTagList=(a,t)=>{
     const out=[];
@@ -580,14 +557,6 @@ const Component = class extends DCLogic {
   };
 
   chipMinor=(t)=>`font-size:10.5px;padding:3px 8px;border-radius:12px;background:rgba(20,24,48,.5);color:${t.muted};font-family:'JetBrains Mono',monospace;letter-spacing:.04em;border:1px solid ${t.line};backdrop-filter:blur(6px)`;
-  levelChip=(lvl,t)=>{
-    const colors={
-      decouverte:'rgba(0,229,255,.15);color:#7ff3ff;border:1px solid rgba(0,229,255,.35)',
-      intermediaire:'rgba(140,80,255,.18);color:#c9adff;border:1px solid rgba(140,80,255,.4)',
-      avance:'rgba(255,80,180,.18);color:#ffa6d8;border:1px solid rgba(255,80,180,.4)'
-    };
-    return `font-size:10.5px;padding:3px 8px;border-radius:12px;background:${colors[lvl]||'transparent'};font-family:'JetBrains Mono',monospace;letter-spacing:.04em;font-weight:600`;
-  };
   platformChip=(t)=>`font-size:10.5px;padding:3px 8px;border-radius:4px;background:linear-gradient(135deg,rgba(0,229,255,.85),rgba(124,60,224,.85));color:#fff;font-family:'JetBrains Mono',monospace;letter-spacing:.06em;font-weight:600;text-transform:uppercase;box-shadow:0 0 12px -2px rgba(0,229,255,.4)`;
 
   tokens(){
@@ -612,11 +581,10 @@ const Component = class extends DCLogic {
   }
 
   filteredArticlesRaw(){
-    const {metier,theme_f,level}=this.state;
+    const {metier,theme_f}=this.state;
     let list = ARTICLES.filter(a=>
       (metier==='all'||a.metiers.includes(metier)) &&
-      (theme_f==='all'||a.themes.includes(theme_f)) &&
-      (level==='all'||a.level===level)
+      (theme_f==='all'||a.themes.includes(theme_f))
     );
     if(metier!=='all'){
       list.sort((x,y)=>{
@@ -630,7 +598,7 @@ const Component = class extends DCLogic {
     return list;
   }
 
-  buildPath(metier,theme_f,startLevel){
+  buildPath(metier,theme_f){
     let base = METIER_PATHS[metier] || ['ng-genai','ng-prompt','stratechery-ai','anthropic-agents','no-priors'];
     if(theme_f!=='all'){
       const themeMap = {
@@ -644,16 +612,7 @@ const Component = class extends DCLogic {
       };
       base = themeMap[theme_f] || base;
     }
-    const order={'Découverte':0,'Intermédiaire':1,'Avancé':2};
-    let list = base.map(id=>R[id]).filter(Boolean);
-    const startIdx = {decouverte:0,intermediaire:1,avance:2}[startLevel]||0;
-    list.sort((a,b)=>{
-      const oa=order[a.level], ob=order[b.level];
-      const da=Math.max(0,startIdx-oa)*10 + oa;
-      const db=Math.max(0,startIdx-ob)*10 + ob;
-      return da-db;
-    });
-    return list;
+    return base.map(id=>R[id]).filter(Boolean);
   }
 
   parseDurationH(d){ const h=(/([\d.]+)\s*h/i.exec(d)||[])[1]; const m=(/(\d+)\s*min/i.exec(d)||[])[1]; return (h?parseFloat(h):0)+(m?parseInt(m)/60:0); }
@@ -662,7 +621,7 @@ const Component = class extends DCLogic {
 
   renderVals(){
     const t=this.tokens();
-    const {route,metier,theme_f,level,startLevel}=this.state;
+    const {route,metier,theme_f}=this.state;
 
     const isHome = route==='/' || route==='';
     const metierMatch = route.match(/^\/metier\/([\w-]+)$/);
@@ -686,14 +645,13 @@ const Component = class extends DCLogic {
       return {
         id:a.id, dateShort:this.fmtShort(a.date), source:a.source, title:a.title, summary:a.summary,
         tagList:this.articleTagList(a,t),
-        levelLabel:LEVEL_LABELS[a.level], levelStyle:this.levelChip(a.level,t),
         resourcesPreview:a.resources.slice(0,2).map(rid=>R[rid]).filter(Boolean),
         isPriority,
         open:this.go('/actu/'+a.id),
       };
     });
 
-    const hasActiveFilters = metier!=='all'||theme_f!=='all'||level!=='all';
+    const hasActiveFilters = metier!=='all'||theme_f!=='all';
     const currentMetierPriority = metier!=='all' ? METIERS.find(x=>x.id===metier) : null;
 
     const shell = {
@@ -741,7 +699,7 @@ const Component = class extends DCLogic {
         open:this.go('/actu/'+a.id),
       })) : [];
     const currentMetierPath = currentMetier ? (METIER_PATHS[currentMetier.id]||[]).map((rid,i)=>{
-      const r=R[rid]; return r?{num:String(i+1).padStart(2,'0'),title:r.title,platform:r.platform,duration:r.duration,level:r.level,url:r.url}:null;
+      const r=R[rid]; return r?{num:String(i+1).padStart(2,'0'),title:r.title,platform:r.platform,duration:r.duration,url:r.url}:null;
     }).filter(Boolean) : [];
     const currentMetierThemeBadges = currentMetier ? Object.entries(RELEVANCE[currentMetier.id]||{})
       .filter(([,v])=>v==='priority')
@@ -763,30 +721,25 @@ const Component = class extends DCLogic {
     const currentArticleTags = currentArticle ? [
       ...currentArticle.metiers.slice(0,2).map(mid=>{const m=METIERS.find(x=>x.id===mid);return m?{label:m.label,style:this.chipMinor(t)}:null;}).filter(Boolean),
       ...currentArticle.themes.slice(0,2).map(tid=>{const th=THEMES.find(x=>x.id===tid);return th?{label:th.label,style:this.chipMinor(t)}:null;}).filter(Boolean),
-      {label:LEVEL_LABELS[currentArticle.level],style:this.levelChip(currentArticle.level,t)},
     ] : [];
     const currentArticleResources = currentArticle ? currentArticle.resources.map((rid,i)=>{
       const r=R[rid]; if(!r) return null;
-      const lvl = r.level==='Découverte'?'decouverte':r.level==='Intermédiaire'?'intermediaire':'avance';
       return {
         num:String(i+1).padStart(2,'0'),
-        title:r.title, author:r.author, duration:r.duration, level:r.level, platform:r.platform,
+        title:r.title, author:r.author, duration:r.duration, platform:r.platform,
         url:r.url || search(r.platform,r.title,r.author),
-        levelStyle:this.levelChip(lvl,t),
         platformStyle:this.platformChip(t),
       };
     }).filter(Boolean) : [];
 
     // Parcours
-    const pathList = this.buildPath(metier,theme_f,startLevel);
+    const pathList = this.buildPath(metier,theme_f);
     const pathSteps = pathList.map((r,i)=>{
-      const lvl = r.level==='Découverte'?'decouverte':r.level==='Intermédiaire'?'intermediaire':'avance';
       return {
         n:String(i+1).padStart(2,'0'),
-        title:r.title, platform:r.platform, level:r.level, duration:r.duration,
+        title:r.title, platform:r.platform, duration:r.duration,
         why:PATH_WHY[r.id]||'',
         url:r.url || search(r.platform,r.title,r.author),
-        levelStyle:this.levelChip(lvl,t),
         platformStyle:this.platformChip(t),
       };
     });
@@ -806,13 +759,12 @@ const Component = class extends DCLogic {
       hasActiveFilters,
       hasMetierPriority: metier!=='all',
       currentMetierPriorityLabel: currentMetierPriority?.label || '',
-      metier, theme_f, level,
+      metier, theme_f,
 
       // filters
       metierOptions, themeOptions,
       setMetierFromSelect:(e)=>this.setState({metier:e.target.value}),
       setThemeFromSelect:(e)=>this.setState({theme_f:e.target.value}),
-      setLevelFromSelect:(e)=>this.setState({level:e.target.value}),
       resetFilters:this.resetFilters,
       inlineSelectStyle,
       selectStyle,
@@ -833,17 +785,15 @@ const Component = class extends DCLogic {
       currentArticle: currentArticle ? {
         title:currentArticle.title, summary:currentArticle.summary,
         source:currentArticle.source, dateLong:this.fmtLong(currentArticle.date),
-        levelLabel:LEVEL_LABELS[currentArticle.level],
         body1:currentArticle.body1, body2:currentArticle.body2, why:currentArticle.why,
       } : {},
       currentArticleTags, currentArticleResources,
       pullStyle:`border-left:2px solid transparent;border-image:linear-gradient(180deg,#00e5ff,#7c3ce0) 1;padding:16px 22px;margin:28px 0;background:${t.surface};backdrop-filter:blur(12px);border-radius:0 12px 12px 0;box-shadow:0 0 30px -8px rgba(0,229,255,.25)`,
 
       // parcours
-      isParcours, startLevel, pathSteps, pathTotalHours,
+      isParcours, pathSteps, pathTotalHours,
       pathHeadline:'Parcours ' + (pathHeadlineParts.join(' · ') || 'général'),
       shufflePath:()=>this.forceUpdate(),
-      setStartLevelFromSelect:(e)=>this.setState({startLevel:e.target.value}),
 
       // shared
       eyebrowStyle:`font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:${t.muted};margin-bottom:12px`,
