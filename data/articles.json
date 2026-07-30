@@ -1,5 +1,468 @@
 [
   {
+    "id": "auto-df34ed215123",
+    "date": "2026-07-30",
+    "source": "TechCrunch",
+    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+    "summary": "“You will maybe need multiple models to even remediate some challenges that get caused by one model. He added: “We’re also accelerating our own model development. Nadella pointed to Microsoft’s new Mythos competitor announced earlier this week, MAI Cyber One Flash.",
+    "sourceUrl": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-aa627740aa44",
+    "date": "2026-07-30",
+    "source": "MIT Technology Review",
+    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+    "summary": "Everything you type gets put between <user> tags, and everything the LLM writes back gets put between <assistant> tags. And many prompt injections (where a hacker slips a model new instructions) work by making a model read <tool> text as if it were <user>, <system>, or <think> text.",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-cc8e132c6199",
+    "date": "2026-07-29",
+    "source": "OpenAI",
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+    "sourceUrl": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-14fd05ad34f9",
+    "date": "2026-07-29",
+    "source": "OpenAI",
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+    "sourceUrl": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-6d964f10c333",
+    "date": "2026-07-29",
+    "source": "OpenAI",
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+    "sourceUrl": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ad9c3055b763",
+    "date": "2026-07-29",
+    "source": "TechCrunch",
+    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+    "summary": "Meta founder and CEO Mark Zuckerberg is trying to sell investors on his prediction for the future — one where billions of people will have their own personal AI agents in the next five years. The company reported free cash flow of $784 million this quarter, down from $8.55 billion the same quarter last year.",
+    "sourceUrl": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2413ef260878",
+    "date": "2026-07-29",
+    "source": "TechCrunch",
+    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+    "summary": "(Microsoft reported diluted earnings per share of $4.81 for the quarter). Microsoft owns about 27% of OpenAI. For the year, Microsoft’s OpenAI investment generated a $5 billion gain and added $0.67 on EPS, respectively, the company reported.",
+    "sourceUrl": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-39de907ded3d",
+    "date": "2026-07-29",
+    "source": "TechCrunch",
+    "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+    "summary": "“We see a large enterprise opportunity to sell to businesses, including APIs, business agents, potentially selling compute directly, and other services that we’re building for large customers,” Zuckerberg said.",
+    "sourceUrl": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ede83952feba",
+    "date": "2026-07-29",
+    "source": "TechCrunch",
+    "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+    "summary": "With Arsalan Tavakoli, Co-founder and SVP of Field Engineering, Databricks\nVisual AI has moved past attention-getting demos into real-time inference and physical reasoning.",
+    "sourceUrl": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-520a785ee396",
+    "date": "2026-07-29",
+    "source": "TechCrunch",
+    "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+    "summary": "Lilian Weng, co-founder of Thinking Machines, announced this week that she would step down from her role, citing health issues. According to a company spokesperson, Weng will lead a top-level team focused on accelerating OpenAI’s internal research. Thank you for everything,” Murati wrote in response to Weng’s post.",
+    "sourceUrl": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a657cafa7eea",
+    "date": "2026-07-29",
+    "source": "TechCrunch",
+    "title": "The Hugging Face break-in explained",
+    "summary": "That’s roughly what happened at Hugging Face. According to Hugging Face, the agent ran 17,600 actions over four and a half days without pausing. Here’s what to understand about what happened, per Hugging Face’s timeline, but in plainer English.",
+    "sourceUrl": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1bd342b4b31f",
+    "date": "2026-07-29",
+    "source": "TechCrunch",
+    "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+    "summary": "In any case, Sol refused and reported Opus to management again. It was all Opus’ own initiative. Sol wasn’t having it and kept reporting Opus to management.",
+    "sourceUrl": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b066f1212092",
+    "date": "2026-07-29",
+    "source": "TechCrunch",
+    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+    "summary": "Then, homeowners upload photos of the home’s major appliances, which allows the app to guide you through any “how to” questions or other maintenance tasks. Hint also provides an overall “home score,” offering an at-a-glance number that tells you how good of a job you’re doing managing your home to date.",
+    "sourceUrl": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-21cfdc136e07",
+    "date": "2026-07-29",
+    "source": "TechCrunch",
+    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+    "summary": "This lets Encore’s agents, and consequently its customers, learn what works best for any particular client or interaction, as different employees may be either more or less effective at different points during a sales or customer success process, Ginzburg told TechCrunch.",
+    "sourceUrl": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1fcec19a53a3",
+    "date": "2026-07-29",
+    "source": "TechCrunch",
+    "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+    "summary": "Pangram also offers its technology via API. For the most part, Pangram easily detected human-written text versus AI-written text. My limited testing of Pangram’s new image detection model turned out to be equally impressive.",
+    "sourceUrl": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0434773f642a",
+    "date": "2026-07-29",
+    "source": "The Verge",
+    "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+    "summary": "The app will merge Copilot’s chat, coding, and agentic features. The app will merge Copilot’s chat, coding, and agentic features. Microsoft is working on an AI “super app” that combines Copilot’s chat, coding, and agentic capabilities.",
+    "sourceUrl": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c5567c95ea90",
+    "date": "2026-07-29",
+    "source": "The Verge",
+    "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+    "summary": "However, Meta could have an uphill battle in personal agents. The company will have more to share about its personal agents “soon,” Zuckerberg said. The business agents are being rolled out to Instagram as well, Zuckerberg said.",
+    "sourceUrl": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5fe08d38c090",
+    "date": "2026-07-29",
+    "source": "The Verge",
+    "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+    "summary": "The Minnesota law is overbroad, it argues, because it imposes liability even for images that are consensually generated, or images of adults that are merely sort-of kind-of sexy, or images with “humorous” or “artistic” merit. Around 23,000 of those images depicted children. Maybe Minnesota’s HF 1606 is a bad law.",
+    "sourceUrl": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-453862f893b6",
+    "date": "2026-07-29",
+    "source": "The Verge",
+    "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
+    "summary": "Greg Brockman says he thinks we’ll start talking to our computers, rather than typing, for the ‘vast majority’ of tasks. Greg Brockman says he thinks we’ll start talking to our computers, rather than typing, for the ‘vast majority’ of tasks.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2faf95088d1e",
+    "date": "2026-07-29",
+    "source": "The Verge",
+    "title": "Artists are lawyering up against AI slop, and some are even winning",
+    "summary": "She, along with Karla Ortiz, Kelly McKernan, and several other visual artists, filed a class action suit against Stability, Midjourney, DeviantArt, and Runway AI. Despite the narrow setbacks in the case against Anthropic and Meta, she believes the pendulum is swinging in artists’ favor.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e8035148749c",
+    "date": "2026-07-29",
+    "source": "The Verge",
+    "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+    "summary": "New details reveal OpenAI’s agent hacked several other companies, intensifying already heightened concerns over advanced AI safety. New details reveal OpenAI’s agent hacked several other companies, intensifying already heightened concerns over advanced AI safety.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-fb6c24829ef2",
+    "date": "2026-07-29",
+    "source": "The Verge",
+    "title": "We’re running out of reasons to ignore AI safety",
+    "summary": "“Anyone who’s been paying attention has noted that capabilities are only going in one direction.”\nOpenAI’s account of the incident undeniably fits a broader industry narrative about the dangerous capabilities of frontier models.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-9108d8d6030c",
     "date": "2026-07-29",
     "source": "TechCrunch",
@@ -151,286 +614,6 @@
     "resources": []
   },
   {
-    "id": "auto-ac59c7d45b3c",
-    "date": "2026-07-28",
-    "source": "TechCrunch",
-    "title": "Bot-detection startup Spur nabs $200M from Insight",
-    "summary": "The startup’s tech helps enterprises distinguish legitimate human users from increasingly well-hidden bot traffic to help identify fake users and threats. As of mid-2026, bots are now more active on the internet than humans, Cloudflare reported last month.",
-    "sourceUrl": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5935209b00ca",
-    "date": "2026-07-28",
-    "source": "TechCrunch",
-    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-    "summary": "In the suit, Runlayer describes an extensive product trial conducted by Rippling as a prospective customer, during which the MCP startup shared everything from its product roadmap to its actual source code.",
-    "sourceUrl": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-261dce35af7b",
-    "date": "2026-07-28",
-    "source": "TechCrunch",
-    "title": "Sam Altman is ready to decelerate",
-    "summary": "OpenAI CEO Sam Altman says that it may be time to “pace” AI development so the world will be ready for it. While model safety and alignment has always been a concern in the AI world, the arrival of Anthropic’s highly capable Mythos model earlier this year has turned hypotheticals into real-world problems.",
-    "sourceUrl": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-fa0f2469b593",
-    "date": "2026-07-28",
-    "source": "TechCrunch",
-    "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-    "summary": "has struggled to cope with an onslaught of data centers. The grid operator is running another auction for new generating capacity. PJM has come under fire in recent months for the way it has managed new generating capacity and large new users, including data centers.",
-    "sourceUrl": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-7f280f9a9516",
-    "date": "2026-07-28",
-    "source": "TechCrunch",
-    "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-    "summary": "The market for AI-generated voice models is massive. The company has launched five models in the last year: four speech-generation models and one speech-to-text model. Looking ahead, Fish Audio plans to release an audio understanding model this year.",
-    "sourceUrl": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-85087db99984",
-    "date": "2026-07-28",
-    "source": "TechCrunch",
-    "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
-    "summary": "On Tuesday, the AI company Recursive Superintelligence announced a $410 million compute deal with Amazon Web Services. Today’s announcement is “likely going to be one of the smallest compute deals we’re going to sign in the next few years,” Socher said.",
-    "sourceUrl": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5dd05f1ed5d9",
-    "date": "2026-07-28",
-    "source": "TechCrunch",
-    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-    "summary": "On Monday, the startup introduced Cursor Start, a ₹649-a-month (about $7) subscription built specifically for India — and priced well below Cursor’s standard $20-a-month Pro subscription. The move reflects India’s growing importance to Cursor’s business. Cursor is not alone in tailoring its pricing for India.",
-    "sourceUrl": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2bc1e718b6f5",
-    "date": "2026-07-28",
-    "source": "TechCrunch",
-    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-    "summary": "government to ban open-weight Chinese models, or possibly open-weight models generally. Amodei said in the blog post published Monday that he views open-weight models as falling into a different bucket than the threat China poses.",
-    "sourceUrl": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-427bfd1aa7fc",
-    "date": "2026-07-28",
-    "source": "MIT Technology Review",
-    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-    "summary": "For decades, SK Hynix lived in Samsung’s shadow. SK Hynix now leads the global market for HBMs, while Samsung is playing catch-up. Samsung plans to hire 60,000 employees over the next five years, especially for its semiconductor division.",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-af8439b14cb1",
-    "date": "2026-07-28",
-    "source": "The Verge",
-    "title": "AI leaders sign a statement asking the government to do something about automated AI",
-    "summary": "The statement follows a recent high-profile cybersecurity incident that rocked the AI industry. The statement follows a recent high-profile cybersecurity incident that rocked the AI industry.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c889cb1c75bd",
-    "date": "2026-07-28",
-    "source": "The Verge",
-    "title": "AI’s finally expensive enough to make Wall Street nervous",
-    "summary": "Even the lower end of Google’s new projected range — $195 billion — is much more than the company had previously forecast as its top end spending. Plus, Google is spending more money than it’s making. You’re spending more and getting the same amount back, or — worse — spending more for less revenue.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-37db1a04f0b2",
-    "date": "2026-07-28",
-    "source": "The Verge",
-    "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
-    "summary": "﻿‘Now Microsoft users can ask Computer to work across their local files, Microsoft Office 365, and the web in one place.’\n﻿‘Now Microsoft users can ask Computer to work across their local files, Microsoft Office 365, and the web in one place.’\nPerplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world’s most popular OS to be used as a locally run AI system.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0f6e69dea15d",
-    "date": "2026-07-28",
-    "source": "The Verge",
-    "title": "Smart rings are looking like my kind of AI gadget",
-    "summary": "While everyone tries to make smart glasses, pins, and everything else happen, the most subtle device might be the best device. While everyone tries to make smart glasses, pins, and everything else happen, the most subtle device might be the best device.",
-    "sourceUrl": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2a58c8ebd3b1",
-    "date": "2026-07-28",
-    "source": "The Verge",
-    "title": "Hugging Face is being used to easily undress women and children",
-    "summary": "The nonprofit says it didn’t even try to circumvent any potential safeguards by carefully wording requests, like Grok users did by asking to put people in a “transparent bikini” or cover them with “donut glaze.” The researchers used the same simple request for all its Hugging Face prompts: “Same pose, same face, but topless.”\nAI Forensics also created honeypot image editing Spaces on Hugging Face to track what sort of images and prompt requests would be received.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
     "id": "a1",
     "date": "2026-07-27",
     "source": "The Information",
@@ -455,169 +638,6 @@
       "ng-agents"
     ],
     "auto": false
-  },
-  {
-    "id": "auto-593821ed005c",
-    "date": "2026-07-27",
-    "source": "TechCrunch",
-    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-    "summary": "Nadella called for a setup where “every time you use the model, all of the metadata around it is retained by you, so that you could use all of that to train perhaps your own weights or your own open model.” (Weights are a model’s trained parameters — essentially its brain.",
-    "sourceUrl": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6bd1974f426a",
-    "date": "2026-07-27",
-    "source": "TechCrunch",
-    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-    "summary": "An untold number of Claude chats and Artifacts — the interactive mini apps and documents users can build inside Claude — were found publicly searchable on Google over the weekend, after Reddit users discovered that typing search operators like “site:claude.ai/share” into Google surfaced a long list of shared conversations.",
-    "sourceUrl": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-434f3ebbec97",
-    "date": "2026-07-27",
-    "source": "TechCrunch",
-    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-    "summary": "The new security platform is dubbed Perception, and it’s designed to deploy teams of agents to assist with and automate various security workflows, including identifying and remediating bugs.",
-    "sourceUrl": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3615eb4ba3bb",
-    "date": "2026-07-27",
-    "source": "TechCrunch",
-    "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-    "summary": "In alignment terms, the problem is that OpenAI’s model was trying to cheat, and solving that problem is more urgent than short-term containment efforts. For alignment-focused researchers, OpenAI’s response isn’t good enough. Score-seeking behavior and other misalignment isn’t unique to OpenAI.",
-    "sourceUrl": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b794a14816d6",
-    "date": "2026-07-27",
-    "source": "TechCrunch",
-    "title": "Threads users can now chat with Meta AI in their DMs",
-    "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads’ DMs, giving users a way to chat with the AI assistant. Meta AI is already available within DMs on Meta’s other platforms, including Facebook, Instagram, and WhatsApp.",
-    "sourceUrl": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ec9dddb29c1e",
-    "date": "2026-07-27",
-    "source": "TechCrunch",
-    "title": "Google’s AI search is rapidly becoming the default, new data shows",
-    "summary": "AI search is rapidly becoming the default, whether users like it or not. In just a year’s time, Google’s AI-generated answers in search, known as AI Overviews, have gone from appearing in 15% of searches to 43%, according to a new report, driving a shift in how web users consume information online.",
-    "sourceUrl": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5c85807dea6d",
-    "date": "2026-07-27",
-    "source": "TechCrunch",
-    "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
-    "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
-    "sourceUrl": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ddb90ba73fe2",
-    "date": "2026-07-27",
-    "source": "TechCrunch",
-    "title": "This $9 key physically locks your most addictive apps",
-    "summary": "It’s an NFC key that pairs with a companion app to let you lock away distracting apps. There’s also the question of what happens if you lose the key. If they’re already unlocked, you can simply remove the key from your account.",
-    "sourceUrl": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
   },
   {
     "id": "a2",
