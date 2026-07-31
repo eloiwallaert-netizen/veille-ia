@@ -130,7 +130,7 @@
       <section style="margin-bottom:40px">
         <div class="om-rise" style="font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:{{ muted }};margin-bottom:14px;display:flex;align-items:center;gap:10px">
           <span class="om-pulse"></span>
-          Semaine du 20 → 27 juillet 2026 · {{ filteredCount }} actus
+          Mis à jour le {{ lastUpdateLabel }} · {{ filteredCount }} actus
         </div>
         <h1 class="om-shine om-rise-2" style="font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:clamp(48px,7vw,84px);line-height:.98;letter-spacing:-.03em;margin:0 0 18px;max-width:900px">L'IA, <span class="om-italic">décryptée</span><br>pour votre métier.</h1>
         <p class="om-rise-3" style="font-size:18px;line-height:1.55;color:{{ muted }};margin:0;max-width:640px">Chaque actu est reliée à des ressources concrètes pour transformer une info ponctuelle en montée en compétence réelle.</p>
@@ -652,6 +652,9 @@ const Component = class extends DCLogic {
       };
     });
 
+    const lastUpdateDate = ARTICLES.reduce((max,a)=> (!max||a.date>max) ? a.date : max, null);
+    const lastUpdateLabel = lastUpdateDate ? this.fmtLong(lastUpdateDate) : '';
+
     const hasActiveFilters = metier!=='all'||theme_f!=='all';
     const currentMetierPriority = metier!=='all' ? METIERS.find(x=>x.id===metier) : null;
 
@@ -761,6 +764,7 @@ const Component = class extends DCLogic {
 
       // home
       isHome, filteredArticles, filteredCount:filtered.length, noResults:filtered.length===0,
+      lastUpdateLabel,
       hasActiveFilters,
       hasMetierPriority: metier!=='all',
       currentMetierPriorityLabel: currentMetierPriority?.label || '',
