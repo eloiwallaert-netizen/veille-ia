@@ -1,5 +1,485 @@
 [
   {
+    "id": "auto-b86dc435d64a",
+    "date": "2026-07-31",
+    "source": "OpenAI",
+    "title": "Advancing responsible AI across Europe",
+    "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+    "sourceUrl": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-487981959078",
+    "date": "2026-07-31",
+    "source": "OpenAI",
+    "title": "Univé builds an AI-ready workforce",
+    "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+    "sourceUrl": "https://openai.com/index/unive",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-16030aac77d6",
+    "date": "2026-07-31",
+    "source": "TechCrunch",
+    "title": "Anthropic says its own AI models breached three companies during security tests",
+    "summary": "Anthropic said Thursday that an internal investigation uncovered three incidents in which its AI model Claude breached the systems of three organizations while conducting cybersecurity tests. Anthropic said the OpenAI episode earlier this month prompted the company to conduct its own cybersecurity evaluation.",
+    "sourceUrl": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-fc362ba711f5",
+    "date": "2026-07-30",
+    "source": "OpenAI",
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+    "sourceUrl": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9146ff1756af",
+    "date": "2026-07-30",
+    "source": "OpenAI",
+    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+    "sourceUrl": "https://openai.com/index/avatarin",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f684c3a66a25",
+    "date": "2026-07-30",
+    "source": "Hugging Face",
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "summary": "Specialization without orchestration frees capacity nobody reclaims. Specialization without orchestration frees capacity that nobody reclaims. One shrinks what each workload needs.",
+    "sourceUrl": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-fb1a03f293a2",
+    "date": "2026-07-30",
+    "source": "TechCrunch",
+    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+    "summary": "Situational Awareness, a hedge fund formed by former OpenAI researcher Leopold Aschenbrenner, has sold the majority of its public stock portfolio to Ken Griffin’s Citadel following steep losses over the past month, The Wall Street Journal reported earlier on Thursday.",
+    "sourceUrl": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-bada25387033",
+    "date": "2026-07-30",
+    "source": "TechCrunch",
+    "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+    "summary": "Reddit reported a strong second quarter but spooked investors by mentioning in an investor letter that traffic from search engines had grown “choppy.”\nThe company’s total revenue of $805 million jumped 61% compared to the year-ago quarter while net income was $253 million, up 183%.",
+    "sourceUrl": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0043e5cf7a4e",
+    "date": "2026-07-30",
+    "source": "TechCrunch",
+    "title": "Investors love AI, as long as you’re a cloud host",
+    "summary": "But Amazon has a revenue engine that helps justify the spending. AWS revenue rose 37% year over year, clocking $42 billion for the quarter. But Amazon’s hosting revenue is someone else’s AI bill.",
+    "sourceUrl": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a4b674c64517",
+    "date": "2026-07-30",
+    "source": "TechCrunch",
+    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+    "summary": "During a Thursday hearing, a judge said the Trump administration hasn’t presented enough evidence to justify labeling Anthropic a supply-chain risk and banning the federal government from using the company’s technology.",
+    "sourceUrl": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-8cf237c21253",
+    "date": "2026-07-30",
+    "source": "TechCrunch",
+    "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+    "summary": "Two years ago, tech founder Avi Schiffmann launched Friend, an AI wearable that you could talk to and that would send you text messages about your day. “Introducing friend 2.0,” Schiffmann tweeted Thursday. What can you really do with your Friend other than chitchat about your day?",
+    "sourceUrl": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e340cb73f930",
+    "date": "2026-07-30",
+    "source": "TechCrunch",
+    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "summary": "The tech giant announced on Thursday that it has fixed a whopping 1,072 security bugs in the last two versions of Chrome, both released in June. For context, Chrome’s 126 was released in June 2024, while the latest two Chrome releases, Chrome 149 and 150, were released last month.",
+    "sourceUrl": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-8c108a2fb263",
+    "date": "2026-07-30",
+    "source": "TechCrunch",
+    "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+    "summary": "LinkedIn is taking aim at the “AI slop” — low-quality, artificially generated content — filling its feed. The exec explained that the new “Seems like AI slop” button is now one of several measures LinkedIn is using to reduce the amount of low-quality, AI-generated content on its platform.",
+    "sourceUrl": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-25e60d949660",
+    "date": "2026-07-30",
+    "source": "TechCrunch",
+    "title": "Okta buys AI security startup Permiso — source says for about $200M",
+    "summary": "Okta on Thursday agreed to acquire AI identity security startup Permiso Security, betting that demand for protecting AI agents and other machine identities will grow as enterprises deploy autonomous software across their operations.",
+    "sourceUrl": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-13793f9f3249",
+    "date": "2026-07-30",
+    "source": "TechCrunch",
+    "title": "Meta says AI is making it easier to build new apps — and more are coming",
+    "summary": "We also just launched Forum, a stand-alone Groups app, and Seller, a stand-alone Marketplace app. That effort produced a handful of launches: the photo-sharing app Slingshot, the anonymous chat app Rooms, a Flipboard competitor called Paper, the Moments photo-sharing app, and a collaborative video app known as Riff.",
+    "sourceUrl": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-acd1de3b41db",
+    "date": "2026-07-30",
+    "source": "TechCrunch",
+    "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+    "summary": "Nscale is paying $1.65 billion for Anyscale, Bloomberg reported, citing an anonymous source. A deal to buy Anyscale would fall neatly into Nscale’s focus on building vertically to serve compute needs. Nscale said Anyscale will continue to operate under its own branding and serve its existing customers.",
+    "sourceUrl": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0d0a337bbf62",
+    "date": "2026-07-30",
+    "source": "TechCrunch",
+    "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+    "summary": "As Chris Taylor, CEO of Ode with Anthropic (a new FDE-focused services firm), put it: “Many FDEs are well equipped to help you roll Claude Code out to your workforce. Enterprises from insurance and fintech to healthcare and gaming are seeking out these specialists, Christian said.",
+    "sourceUrl": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-daaae50bac37",
+    "date": "2026-07-30",
+    "source": "TechCrunch",
+    "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
+    "summary": "“That kind of sustained, adaptive operation is what stands out most to me.”\nContact Us\n\t\t\tDo you any more information about OpenAI’s hack against Hugging Face?",
+    "sourceUrl": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-36667e90d9e5",
+    "date": "2026-07-30",
+    "source": "TechCrunch",
+    "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
+    "summary": "With Amjad Masad, Founder and CEO, Replit\nAs AI moves from the cloud into the real world, few companies sit at the center of the debate quite like Flock Safety. With Max Hodak, Founder and CEO, Science Corp\nBuilding a breakthrough software company is hard. And this is just the Disrupt Stage.",
+    "sourceUrl": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a1b11e2b2bb9",
+    "date": "2026-07-30",
+    "source": "TechCrunch",
+    "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+    "summary": "Dili is already making that system work in practice. Chaturvedi says the software is already being used at “about 700 projects,” ranging from manufacturing facilities to data centers.",
+    "sourceUrl": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ee384203db2a",
+    "date": "2026-07-30",
+    "source": "The Verge",
+    "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+    "summary": "‘We will have some kind of upgrade possibilities on iCloud Plus where people can buy up the stack.’\n‘We will have some kind of upgrade possibilities on iCloud Plus where people can buy up the stack.’\nApple may allow users to pay to increase their AI usage limits.",
+    "sourceUrl": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2d9d29aee7d3",
+    "date": "2026-07-30",
+    "source": "The Verge",
+    "title": "The loss of Situational Awareness",
+    "summary": "This 24-year-old first-time hedge funder screwed up his AI fund with one weird trick. This 24-year-old first-time hedge funder screwed up his AI fund with one weird trick. Two months after that, Aschenbrenner published Situational Awareness, his essays.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-b5180026e6d1",
+    "date": "2026-07-30",
+    "source": "The Verge",
+    "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
+    "summary": "You can now report posts that don’t feel human-written. You can now report posts that don’t feel human-written. A lot of content on LinkedIn might seem like AI slop, and now, you’ll be able to report those posts.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-286e4f221438",
+    "date": "2026-07-30",
+    "source": "The Verge",
+    "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+    "summary": "Gemini Robotics 2 controls a humanoid robot from ‘feet to fingertips.’\nGemini Robotics 2 controls a humanoid robot from ‘feet to fingertips.’\nGoogle DeepMind says the latest version of its Gemini Robotics AI model can “control entire humanoid robots.” While the previous model focused on controlling a humanoid robot’s upper body, Gemini Robotics 2 now supports “whole-body motions” ranging from its feet to fingertips, according to an announcement on Thursday.",
+    "sourceUrl": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ec12e93eaf42",
+    "date": "2026-07-30",
+    "source": "The Verge",
+    "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+    "summary": "Do you remember Friend? Yeah well, if you didn’t remember, Friend is back. This morning, Friend launched a new ad showing two people talking to their Friend pendants about very personal life problems.",
+    "sourceUrl": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
     "id": "auto-df34ed215123",
     "date": "2026-07-30",
     "source": "TechCrunch",
@@ -95,521 +575,6 @@
       "llm",
       "agents",
       "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ad9c3055b763",
-    "date": "2026-07-29",
-    "source": "TechCrunch",
-    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-    "summary": "Meta founder and CEO Mark Zuckerberg is trying to sell investors on his prediction for the future — one where billions of people will have their own personal AI agents in the next five years. The company reported free cash flow of $784 million this quarter, down from $8.55 billion the same quarter last year.",
-    "sourceUrl": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2413ef260878",
-    "date": "2026-07-29",
-    "source": "TechCrunch",
-    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-    "summary": "(Microsoft reported diluted earnings per share of $4.81 for the quarter). Microsoft owns about 27% of OpenAI. For the year, Microsoft’s OpenAI investment generated a $5 billion gain and added $0.67 on EPS, respectively, the company reported.",
-    "sourceUrl": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-39de907ded3d",
-    "date": "2026-07-29",
-    "source": "TechCrunch",
-    "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-    "summary": "“We see a large enterprise opportunity to sell to businesses, including APIs, business agents, potentially selling compute directly, and other services that we’re building for large customers,” Zuckerberg said.",
-    "sourceUrl": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ede83952feba",
-    "date": "2026-07-29",
-    "source": "TechCrunch",
-    "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-    "summary": "With Arsalan Tavakoli, Co-founder and SVP of Field Engineering, Databricks\nVisual AI has moved past attention-getting demos into real-time inference and physical reasoning.",
-    "sourceUrl": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-520a785ee396",
-    "date": "2026-07-29",
-    "source": "TechCrunch",
-    "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-    "summary": "Lilian Weng, co-founder of Thinking Machines, announced this week that she would step down from her role, citing health issues. According to a company spokesperson, Weng will lead a top-level team focused on accelerating OpenAI’s internal research. Thank you for everything,” Murati wrote in response to Weng’s post.",
-    "sourceUrl": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a657cafa7eea",
-    "date": "2026-07-29",
-    "source": "TechCrunch",
-    "title": "The Hugging Face break-in explained",
-    "summary": "That’s roughly what happened at Hugging Face. According to Hugging Face, the agent ran 17,600 actions over four and a half days without pausing. Here’s what to understand about what happened, per Hugging Face’s timeline, but in plainer English.",
-    "sourceUrl": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1bd342b4b31f",
-    "date": "2026-07-29",
-    "source": "TechCrunch",
-    "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-    "summary": "In any case, Sol refused and reported Opus to management again. It was all Opus’ own initiative. Sol wasn’t having it and kept reporting Opus to management.",
-    "sourceUrl": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b066f1212092",
-    "date": "2026-07-29",
-    "source": "TechCrunch",
-    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-    "summary": "Then, homeowners upload photos of the home’s major appliances, which allows the app to guide you through any “how to” questions or other maintenance tasks. Hint also provides an overall “home score,” offering an at-a-glance number that tells you how good of a job you’re doing managing your home to date.",
-    "sourceUrl": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-21cfdc136e07",
-    "date": "2026-07-29",
-    "source": "TechCrunch",
-    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-    "summary": "This lets Encore’s agents, and consequently its customers, learn what works best for any particular client or interaction, as different employees may be either more or less effective at different points during a sales or customer success process, Ginzburg told TechCrunch.",
-    "sourceUrl": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1fcec19a53a3",
-    "date": "2026-07-29",
-    "source": "TechCrunch",
-    "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-    "summary": "Pangram also offers its technology via API. For the most part, Pangram easily detected human-written text versus AI-written text. My limited testing of Pangram’s new image detection model turned out to be equally impressive.",
-    "sourceUrl": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0434773f642a",
-    "date": "2026-07-29",
-    "source": "The Verge",
-    "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-    "summary": "The app will merge Copilot’s chat, coding, and agentic features. The app will merge Copilot’s chat, coding, and agentic features. Microsoft is working on an AI “super app” that combines Copilot’s chat, coding, and agentic capabilities.",
-    "sourceUrl": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c5567c95ea90",
-    "date": "2026-07-29",
-    "source": "The Verge",
-    "title": "Mark Zuckerberg is planning a big push into personal AI agents",
-    "summary": "However, Meta could have an uphill battle in personal agents. The company will have more to share about its personal agents “soon,” Zuckerberg said. The business agents are being rolled out to Instagram as well, Zuckerberg said.",
-    "sourceUrl": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5fe08d38c090",
-    "date": "2026-07-29",
-    "source": "The Verge",
-    "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
-    "summary": "The Minnesota law is overbroad, it argues, because it imposes liability even for images that are consensually generated, or images of adults that are merely sort-of kind-of sexy, or images with “humorous” or “artistic” merit. Around 23,000 of those images depicted children. Maybe Minnesota’s HF 1606 is a bad law.",
-    "sourceUrl": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-453862f893b6",
-    "date": "2026-07-29",
-    "source": "The Verge",
-    "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
-    "summary": "Greg Brockman says he thinks we’ll start talking to our computers, rather than typing, for the ‘vast majority’ of tasks. Greg Brockman says he thinks we’ll start talking to our computers, rather than typing, for the ‘vast majority’ of tasks.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2faf95088d1e",
-    "date": "2026-07-29",
-    "source": "The Verge",
-    "title": "Artists are lawyering up against AI slop, and some are even winning",
-    "summary": "She, along with Karla Ortiz, Kelly McKernan, and several other visual artists, filed a class action suit against Stability, Midjourney, DeviantArt, and Runway AI. Despite the narrow setbacks in the case against Anthropic and Meta, she believes the pendulum is swinging in artists’ favor.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e8035148749c",
-    "date": "2026-07-29",
-    "source": "The Verge",
-    "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-    "summary": "New details reveal OpenAI’s agent hacked several other companies, intensifying already heightened concerns over advanced AI safety. New details reveal OpenAI’s agent hacked several other companies, intensifying already heightened concerns over advanced AI safety.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-fb6c24829ef2",
-    "date": "2026-07-29",
-    "source": "The Verge",
-    "title": "We’re running out of reasons to ignore AI safety",
-    "summary": "“Anyone who’s been paying attention has noted that capabilities are only going in one direction.”\nOpenAI’s account of the incident undeniably fits a broader industry narrative about the dangerous capabilities of frontier models.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9108d8d6030c",
-    "date": "2026-07-29",
-    "source": "TechCrunch",
-    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-    "summary": "Founded in 2022, Oasis has raised about $195 million from Accel, Craft Ventures, Cyberstarts and other investors. Post-acquisition, Cyera plans to integrate Oasis’s technology into a unified identity and data security platform. The five-year-old company has raised about $2.3 billion in total funding.",
-    "sourceUrl": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d39556b679b6",
-    "date": "2026-07-29",
-    "source": "MIT Technology Review",
-    "title": "The AI Hype Index: Unsexy AI",
-    "summary": "But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some, oddly sexy?) robotic hands in a July demo. Subquadratic has now shared more details about its new model. A new technique has let the company probe deeper than ever into the weird workings of an LLM.",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-df22037e3e0f",
-    "date": "2026-07-28",
-    "source": "OpenAI",
-    "title": "Scientific computing in the age of agentic AI",
-    "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-    "sourceUrl": "https://openai.com/index/scientific-computing-agentic-ai",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-be3ca53745f6",
-    "date": "2026-07-28",
-    "source": "Google AI Blog",
-    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-    "summary": "Managed Agents in Gemini API now default to Gemini 3.6 Flash. Managed Agents in Gemini API are getting environment hooks, model selection, and free tier access. Environment hooks let you run your custom scripts before or after every tool call the agent makes inside its sandbox.",
-    "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "genai-product",
-      "nocode"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-7c8ae2784e8b",
-    "date": "2026-07-28",
-    "source": "Google AI Blog",
-    "title": "5 ways AI Mode in Search helps you enjoy the real world",
-    "summary": "Google’s AI Mode helps you spend more time offline by simplifying how you plan activities and events. If you’ve chosen to connect Google Calendar, you’ll get suggestions that fit your existing schedule. Share details like your budget, how many tickets you want, and what event you’d like to go to.",
-    "sourceUrl": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-61b149676fcb",
-    "date": "2026-07-28",
-    "source": "Google AI Blog",
-    "title": "5 ways to host the ultimate dinner party with Google Search",
-    "summary": "You can use AI Mode to help you come up with food themes or brainstorm menu options that match your party’s vibe. Once you’ve landed on your dishes, you can turn to AI Mode to recommend drinks. For example, if you ask AI Mode, “I need help with drink pairings for my dinner party.",
-    "sourceUrl": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-92e866603de3",
-    "date": "2026-07-28",
-    "source": "Hugging Face",
-    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-    "summary": "🌍 Learn more about OlmoEarth Platform: https://allenai.org/olmoearth\nThe OlmoEarth models are our family of Earth observation foundation models, pretrained on roughly 10 terabytes of multimodal satellite data.",
-    "sourceUrl": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-85dd02699b25",
-    "date": "2026-07-28",
-    "source": "Hugging Face",
-    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-    "summary": "Today, we release two new encoder models on Hugging Face: LFM2.5-Encoder-230M and LFM2.5-Encoder-350M. We initialize the encoders from their respective LFM2 decoder backbones: LFM2.5-230M and LFM2.5-350M. We built the demos below from fine-tuned LFM2.5-Encoders.",
-    "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
     ],
     "resources": []
   },
