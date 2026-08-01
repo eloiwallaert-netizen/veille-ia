@@ -1,5 +1,311 @@
 [
   {
+    "id": "auto-6d58997b466c",
+    "date": "2026-08-01",
+    "source": "OpenAI",
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+    "sourceUrl": "https://openai.com/index/ten-advances-in-mathematics",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-6e145b017b5a",
+    "date": "2026-07-31",
+    "source": "OpenAI",
+    "title": "Building abundant intelligence",
+    "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+    "sourceUrl": "https://openai.com/index/building-abundant-intelligence",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-c5ad624a6ffb",
+    "date": "2026-07-31",
+    "source": "OpenAI",
+    "title": "Disrupting a Criminal Scam Operation",
+    "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+    "sourceUrl": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-ec77bd47dbb9",
+    "date": "2026-07-31",
+    "source": "TechCrunch",
+    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "summary": "OpenAI has since launched an investigation into how the incident occurred, which is still ongoing. However, one source downplayed the severity, saying that with those escapes, the agents didn’t appear to leave OpenAI’s network to hack into another company’s. TechCrunch reached out to OpenAI for more information.",
+    "sourceUrl": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9d803b495850",
+    "date": "2026-07-31",
+    "source": "TechCrunch",
+    "title": "India is starting to pay for apps, not just download them",
+    "summary": "app revenue actually declined 3% over the same period. India still trails more mature app markets by a wide margin. Much of India’s app revenue growth is also being driven by non-gaming apps.",
+    "sourceUrl": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6422ae0f316d",
+    "date": "2026-07-31",
+    "source": "TechCrunch",
+    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "summary": "Google rolled out a new feature on Thursday that allowed users to deploy Nano Banana 2, its AI image generator, to create fabricated images inside its satellite imagery mapping app Google Earth. Now, only a day after the feature’s release, Google has scrapped it.",
+    "sourceUrl": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-8f9218ebc14c",
+    "date": "2026-07-31",
+    "source": "TechCrunch",
+    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+    "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself.",
+    "sourceUrl": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-43fb41d57251",
+    "date": "2026-07-31",
+    "source": "TechCrunch",
+    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+    "summary": "In April, the company indicated that users would see less AI-generated content.",
+    "sourceUrl": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-27e1d6290bc3",
+    "date": "2026-07-31",
+    "source": "TechCrunch",
+    "title": "Siri AI could come with a paywall for power users",
+    "summary": "In his final earnings call as CEO of Apple, Tim Cook said that the company’s long-awaited Siri AI upgrade could come with some paywalled limits. Apple, like every other hardware manufacturer, is staring down a rocky road for accessing the supplies it needs to meet customer demand.",
+    "sourceUrl": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2508e3dc7aad",
+    "date": "2026-07-31",
+    "source": "TechCrunch",
+    "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+    "summary": "SpaceX said on Thursday that it will remove the unpermitted turbines powering its xAI data centers near Memphis as it transitions to a permanent, 1.2 gigawatt natural gas power plant.",
+    "sourceUrl": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d240f02eb7f1",
+    "date": "2026-07-31",
+    "source": "TechCrunch",
+    "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+    "summary": "Kamath said that any customer support company, including newer ones like Sierra and Decagon, is a potential customer for the startup.",
+    "sourceUrl": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e9b5c38dc7f2",
+    "date": "2026-07-31",
+    "source": "TechCrunch",
+    "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+    "summary": "You can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal. Anthony Ha is TechCrunch’s weekend editor. You can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.",
+    "sourceUrl": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-abe78d62759c",
+    "date": "2026-07-31",
+    "source": "The Verge",
+    "title": "Google Earth’s AI deepfake tool only lasted one day",
+    "summary": "Letting people easily alter images with an AI prompt was a bad idea. Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI.",
+    "sourceUrl": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-cb8ef2d60e0e",
+    "date": "2026-07-31",
+    "source": "The Verge",
+    "title": "Here’s the problem with putting an AI image generator in Google Earth",
+    "summary": "Even with Google’s watermarks and restrictions, a tool that created believable flyover images was ripe for misuse, as Henk van Ess demonstrated. Even with Google’s watermarks and restrictions, a tool that created believable flyover images was ripe for misuse, as Henk van Ess demonstrated.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e8b5e8d005e1",
+    "date": "2026-07-31",
+    "source": "The Verge",
+    "title": "The major labels propose rules to keep AI slop off the charts",
+    "summary": "To be eligible for the charts, songs would have to be ‘substantially human made,’ whatever that means. To be eligible for the charts, songs would have to be ‘substantially human made,’ whatever that means.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ee70bff51f97",
+    "date": "2026-07-31",
+    "source": "The Verge",
+    "title": "It’s time to panic about AI safety",
+    "summary": "But before we get into all of that, we talk about all the new ideas about how we use computers, from Mark Zuckerberg’s agent-filled future of everything to Samsung’s impressive new foldable phone to Apple’s new leasing program. And we want to hear all your thoughts about all of it!",
+    "sourceUrl": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6da874292559",
+    "date": "2026-07-31",
+    "source": "The Verge",
+    "title": "Anthropic says Claude accidentally hacked real companies too",
+    "summary": "﻿But swears OpenAI’s Hugging Face hack was worse. ﻿But swears OpenAI’s Hugging Face hack was worse. In a blog post describing the incidents, Anthropic said Claude gained unauthorized access to the systems during cybersecurity evaluations.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-b86dc435d64a",
     "date": "2026-07-31",
     "source": "OpenAI",
@@ -248,332 +554,6 @@
     ],
     "themes": [
       "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-25e60d949660",
-    "date": "2026-07-30",
-    "source": "TechCrunch",
-    "title": "Okta buys AI security startup Permiso — source says for about $200M",
-    "summary": "Okta on Thursday agreed to acquire AI identity security startup Permiso Security, betting that demand for protecting AI agents and other machine identities will grow as enterprises deploy autonomous software across their operations.",
-    "sourceUrl": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-13793f9f3249",
-    "date": "2026-07-30",
-    "source": "TechCrunch",
-    "title": "Meta says AI is making it easier to build new apps — and more are coming",
-    "summary": "We also just launched Forum, a stand-alone Groups app, and Seller, a stand-alone Marketplace app. That effort produced a handful of launches: the photo-sharing app Slingshot, the anonymous chat app Rooms, a Flipboard competitor called Paper, the Moments photo-sharing app, and a collaborative video app known as Riff.",
-    "sourceUrl": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-acd1de3b41db",
-    "date": "2026-07-30",
-    "source": "TechCrunch",
-    "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-    "summary": "Nscale is paying $1.65 billion for Anyscale, Bloomberg reported, citing an anonymous source. A deal to buy Anyscale would fall neatly into Nscale’s focus on building vertically to serve compute needs. Nscale said Anyscale will continue to operate under its own branding and serve its existing customers.",
-    "sourceUrl": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0d0a337bbf62",
-    "date": "2026-07-30",
-    "source": "TechCrunch",
-    "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
-    "summary": "As Chris Taylor, CEO of Ode with Anthropic (a new FDE-focused services firm), put it: “Many FDEs are well equipped to help you roll Claude Code out to your workforce. Enterprises from insurance and fintech to healthcare and gaming are seeking out these specialists, Christian said.",
-    "sourceUrl": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-daaae50bac37",
-    "date": "2026-07-30",
-    "source": "TechCrunch",
-    "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
-    "summary": "“That kind of sustained, adaptive operation is what stands out most to me.”\nContact Us\n\t\t\tDo you any more information about OpenAI’s hack against Hugging Face?",
-    "sourceUrl": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-36667e90d9e5",
-    "date": "2026-07-30",
-    "source": "TechCrunch",
-    "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
-    "summary": "With Amjad Masad, Founder and CEO, Replit\nAs AI moves from the cloud into the real world, few companies sit at the center of the debate quite like Flock Safety. With Max Hodak, Founder and CEO, Science Corp\nBuilding a breakthrough software company is hard. And this is just the Disrupt Stage.",
-    "sourceUrl": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a1b11e2b2bb9",
-    "date": "2026-07-30",
-    "source": "TechCrunch",
-    "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
-    "summary": "Dili is already making that system work in practice. Chaturvedi says the software is already being used at “about 700 projects,” ranging from manufacturing facilities to data centers.",
-    "sourceUrl": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ee384203db2a",
-    "date": "2026-07-30",
-    "source": "The Verge",
-    "title": "Tim Cook hints at iCloud Plus tier for AI power users",
-    "summary": "‘We will have some kind of upgrade possibilities on iCloud Plus where people can buy up the stack.’\n‘We will have some kind of upgrade possibilities on iCloud Plus where people can buy up the stack.’\nApple may allow users to pay to increase their AI usage limits.",
-    "sourceUrl": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2d9d29aee7d3",
-    "date": "2026-07-30",
-    "source": "The Verge",
-    "title": "The loss of Situational Awareness",
-    "summary": "This 24-year-old first-time hedge funder screwed up his AI fund with one weird trick. This 24-year-old first-time hedge funder screwed up his AI fund with one weird trick. Two months after that, Aschenbrenner published Situational Awareness, his essays.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-b5180026e6d1",
-    "date": "2026-07-30",
-    "source": "The Verge",
-    "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
-    "summary": "You can now report posts that don’t feel human-written. You can now report posts that don’t feel human-written. A lot of content on LinkedIn might seem like AI slop, and now, you’ll be able to report those posts.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-286e4f221438",
-    "date": "2026-07-30",
-    "source": "The Verge",
-    "title": "Google DeepMind’s new AI model can control a robot’s entire body",
-    "summary": "Gemini Robotics 2 controls a humanoid robot from ‘feet to fingertips.’\nGemini Robotics 2 controls a humanoid robot from ‘feet to fingertips.’\nGoogle DeepMind says the latest version of its Gemini Robotics AI model can “control entire humanoid robots.” While the previous model focused on controlling a humanoid robot’s upper body, Gemini Robotics 2 now supports “whole-body motions” ranging from its feet to fingertips, according to an announcement on Thursday.",
-    "sourceUrl": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ec12e93eaf42",
-    "date": "2026-07-30",
-    "source": "The Verge",
-    "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
-    "summary": "Do you remember Friend? Yeah well, if you didn’t remember, Friend is back. This morning, Friend launched a new ad showing two people talking to their Friend pendants about very personal life problems.",
-    "sourceUrl": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-df34ed215123",
-    "date": "2026-07-30",
-    "source": "TechCrunch",
-    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-    "summary": "“You will maybe need multiple models to even remediate some challenges that get caused by one model. He added: “We’re also accelerating our own model development. Nadella pointed to Microsoft’s new Mythos competitor announced earlier this week, MAI Cyber One Flash.",
-    "sourceUrl": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-aa627740aa44",
-    "date": "2026-07-30",
-    "source": "MIT Technology Review",
-    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-    "summary": "Everything you type gets put between <user> tags, and everything the LLM writes back gets put between <assistant> tags. And many prompt injections (where a hacker slips a model new instructions) work by making a model read <tool> text as if it were <user>, <system>, or <think> text.",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-cc8e132c6199",
-    "date": "2026-07-29",
-    "source": "OpenAI",
-    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-    "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-    "sourceUrl": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-14fd05ad34f9",
-    "date": "2026-07-29",
-    "source": "OpenAI",
-    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-    "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-    "sourceUrl": "https://openai.com/index/chatgpt-for-academic-researchers",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-6d964f10c333",
-    "date": "2026-07-29",
-    "source": "OpenAI",
-    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-    "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-    "sourceUrl": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
       "automation"
     ],
     "resources": []
