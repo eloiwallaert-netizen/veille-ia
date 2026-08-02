@@ -1,5 +1,111 @@
 [
   {
+    "id": "auto-e1bf53682cbd",
+    "date": "2026-08-01",
+    "source": "TechCrunch",
+    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward, according to NBC News.",
+    "sourceUrl": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-271ca55a8a1e",
+    "date": "2026-08-01",
+    "source": "TechCrunch",
+    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "summary": "In a since-deleted post on X, Green acknowledged that he’d produced the video “under a ton of pressure” and used ChatGPT “for research on this script.” At the same time, he said the “pushback” line was actually a response to the episode’s guest. Anthony Ha is TechCrunch’s weekend editor.",
+    "sourceUrl": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-53ed436cb442",
+    "date": "2026-08-01",
+    "source": "TechCrunch",
+    "title": "Sam Altman is still making the case for parenting via ChatGPT",
+    "summary": "Hirsch’s question seems to have gone even more viral than Altman’s initial post — while Altman’s comment has been reposted around 300 times and liked around 9,600 times (as of Saturday morning), Hirsch’s response has been reposted 9,000 times and received 122,000 likes.",
+    "sourceUrl": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e529c7879a4a",
+    "date": "2026-08-01",
+    "source": "TechCrunch",
+    "title": "This $9 key physically locks your most addictive apps",
+    "summary": "It’s an NFC key that pairs with a companion app to let you lock away distracting apps. There’s also the question of what happens if you lose the key. If they’re already unlocked, you can simply remove the key from your account.",
+    "sourceUrl": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-4a8975413aab",
+    "date": "2026-08-01",
+    "source": "The Verge",
+    "title": "Is this Billboard Hot 100 hit AI slop?",
+    "summary": "Fenix has primarily trafficked in trap-influenced West Coast rap. The vocal melody is clearly influenced by Morrissey, with Fenix even adopting a fake British accent. Things only get worse when Fenix actually does sing.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-6d58997b466c",
     "date": "2026-08-01",
     "source": "OpenAI",
@@ -460,101 +566,6 @@
     ],
     "themes": [
       "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0043e5cf7a4e",
-    "date": "2026-07-30",
-    "source": "TechCrunch",
-    "title": "Investors love AI, as long as you’re a cloud host",
-    "summary": "But Amazon has a revenue engine that helps justify the spending. AWS revenue rose 37% year over year, clocking $42 billion for the quarter. But Amazon’s hosting revenue is someone else’s AI bill.",
-    "sourceUrl": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a4b674c64517",
-    "date": "2026-07-30",
-    "source": "TechCrunch",
-    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-    "summary": "During a Thursday hearing, a judge said the Trump administration hasn’t presented enough evidence to justify labeling Anthropic a supply-chain risk and banning the federal government from using the company’s technology.",
-    "sourceUrl": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-8cf237c21253",
-    "date": "2026-07-30",
-    "source": "TechCrunch",
-    "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-    "summary": "Two years ago, tech founder Avi Schiffmann launched Friend, an AI wearable that you could talk to and that would send you text messages about your day. “Introducing friend 2.0,” Schiffmann tweeted Thursday. What can you really do with your Friend other than chitchat about your day?",
-    "sourceUrl": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e340cb73f930",
-    "date": "2026-07-30",
-    "source": "TechCrunch",
-    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "summary": "The tech giant announced on Thursday that it has fixed a whopping 1,072 security bugs in the last two versions of Chrome, both released in June. For context, Chrome’s 126 was released in June 2024, while the latest two Chrome releases, Chrome 149 and 150, were released last month.",
-    "sourceUrl": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-8c108a2fb263",
-    "date": "2026-07-30",
-    "source": "TechCrunch",
-    "title": "LinkedIn adds a button to report AI-generated ‘slop’",
-    "summary": "LinkedIn is taking aim at the “AI slop” — low-quality, artificially generated content — filling its feed. The exec explained that the new “Seems like AI slop” button is now one of several measures LinkedIn is using to reduce the amount of low-quality, AI-generated content on its platform.",
-    "sourceUrl": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
     ],
     "resources": []
   },
