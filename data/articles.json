@@ -1,5 +1,117 @@
 [
   {
+    "id": "auto-54eeff2c8d17",
+    "date": "2026-08-03",
+    "source": "TechCrunch",
+    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+    "summary": "“You have fragmented data across these platforms. You have complex workflows. “We give you a step by step guide.",
+    "sourceUrl": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-221346ac9085",
+    "date": "2026-08-03",
+    "source": "MIT Technology Review",
+    "title": "Here’s why AI agents lie and cheat to reach their goals",
+    "summary": "Regardless of whether today’s models learn to reward-hack during training or adopt it as a strategy later on, the solution is the same: Make cheating unrewarding. But that doesn’t mean reward hacking is harmless, Azarbal says. Reward-hacking AIs don’t aim to cause chaos.",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-8f42055e5336",
+    "date": "2026-08-02",
+    "source": "TechCrunch",
+    "title": "Sam Altman and AI’s decel debate",
+    "summary": "Because it kind of suggests that there’s only one path and we’re all stuck on this path. Sean: I think that’s right.",
+    "sourceUrl": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-59a85518969c",
+    "date": "2026-08-02",
+    "source": "The Verge",
+    "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+    "summary": "Bud Cole also compared learning cover songs to AI training data in a controversial interview. “I actually believe cover music has been sort of analog AI for a long time,” says Cole. The adage is that you need to write 100 (or 1,000) (or 10,000) bad songs before you write one good one.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-92beec8f131b",
+    "date": "2026-08-02",
+    "source": "The Verge",
+    "title": "Is paying artists enough to convince them to embrace AI?",
+    "summary": "﻿Pippa is trying to entice artists with a revenue share system. ﻿Pippa is trying to entice artists with a revenue share system. But Pippa faces an uphill battle as it seeks to convince artists.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-e1bf53682cbd",
     "date": "2026-08-01",
     "source": "TechCrunch",
@@ -465,107 +577,6 @@
       "llm",
       "agents",
       "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-fc362ba711f5",
-    "date": "2026-07-30",
-    "source": "OpenAI",
-    "title": "Advancing the price-performance frontier with GPT-5.6",
-    "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
-    "sourceUrl": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9146ff1756af",
-    "date": "2026-07-30",
-    "source": "OpenAI",
-    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-    "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
-    "sourceUrl": "https://openai.com/index/avatarin",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f684c3a66a25",
-    "date": "2026-07-30",
-    "source": "Hugging Face",
-    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-    "summary": "Specialization without orchestration frees capacity nobody reclaims. Specialization without orchestration frees capacity that nobody reclaims. One shrinks what each workload needs.",
-    "sourceUrl": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-fb1a03f293a2",
-    "date": "2026-07-30",
-    "source": "TechCrunch",
-    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-    "summary": "Situational Awareness, a hedge fund formed by former OpenAI researcher Leopold Aschenbrenner, has sold the majority of its public stock portfolio to Ken Griffin’s Citadel following steep losses over the past month, The Wall Street Journal reported earlier on Thursday.",
-    "sourceUrl": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-bada25387033",
-    "date": "2026-07-30",
-    "source": "TechCrunch",
-    "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-    "summary": "Reddit reported a strong second quarter but spooked investors by mentioning in an investor letter that traffic from search engines had grown “choppy.”\nThe company’s total revenue of $805 million jumped 61% compared to the year-ago quarter while net income was $253 million, up 183%.",
-    "sourceUrl": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
     ],
     "resources": []
   },
