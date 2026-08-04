@@ -1,5 +1,309 @@
 [
   {
+    "id": "auto-4250ad4d2928",
+    "date": "2026-08-04",
+    "source": "TechCrunch",
+    "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+    "summary": "The co-founders, CEO Charlie Horowitz and CTO Tyler Presser, aim to launch a network of laser-equipped spacecraft to link data centers from orbit.",
+    "sourceUrl": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-421264cc869b",
+    "date": "2026-08-04",
+    "source": "The Verge",
+    "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
+    "summary": "﻿The ChatGPT maker has published message exchanges as evidence that ‘Apple is getting this wrong.’\n﻿The ChatGPT maker has published message exchanges as evidence that ‘Apple is getting this wrong.’\nApple’s legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple’s version of events.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-71649e07497c",
+    "date": "2026-08-04",
+    "source": "The Verge",
+    "title": "Can Reddit fend off a new wave of AI SEO spam?",
+    "summary": "Reddit itself has acknowledged the new kinds of spam. “Reddit is tricky, right? You can’t bullshit Reddit,” Moschella says.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2163b413300d",
+    "date": "2026-08-03",
+    "source": "OpenAI",
+    "title": "Apple is getting this wrong",
+    "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+    "sourceUrl": "https://openai.com/index/apple-is-getting-this-wrong",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d04cc35bd3cc",
+    "date": "2026-08-03",
+    "source": "OpenAI",
+    "title": "How we built a realtime system for responsive voice AI in six months",
+    "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+    "sourceUrl": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-54e616a32e5e",
+    "date": "2026-08-03",
+    "source": "OpenAI",
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+    "sourceUrl": "https://openai.com/index/circles",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-2b53ceafa813",
+    "date": "2026-08-03",
+    "source": "TechCrunch",
+    "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+    "summary": "Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises. “There are Marxist overtones and undertones to our business,” he wrote in a letter to shareholders about Palantir’s outstanding quarter.",
+    "sourceUrl": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-3a82c94b1048",
+    "date": "2026-08-03",
+    "source": "TechCrunch",
+    "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+    "summary": "Vibe-coding startup Superblocks announced a multiyear joint marketing agreement with Amazon Web Services (AWS) that enables its tool to be embedded within the private clouds of AWS customers.",
+    "sourceUrl": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-52116e7a3a03",
+    "date": "2026-08-03",
+    "source": "TechCrunch",
+    "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+    "summary": "The result became Design Arena, an AI tool now used by 5.3 million people around the world. For non-enterprise users, using Design Arena is a lot like using a sophisticated model router.",
+    "sourceUrl": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0295a9d611d8",
+    "date": "2026-08-03",
+    "source": "TechCrunch",
+    "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+    "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+    "sourceUrl": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2601dbdbb3ea",
+    "date": "2026-08-03",
+    "source": "TechCrunch",
+    "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+    "summary": "The assistant can understand your personal context, helping you find things like photos, emails, contacts, texts, or calendar appointments — even when you’re not quite sure what you’re looking for or where. Siri can brainstorm with you, too.",
+    "sourceUrl": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-06e62134a24c",
+    "date": "2026-08-03",
+    "source": "TechCrunch",
+    "title": "Congress’ favorite AI tool? ChatGPT",
+    "summary": "OpenAI received roughly 90% of all spending on AI tools by House offices, committees, and institutional accounts during the year ending in March 31, per House disbursement records. CNBC found that Congress spent around $100,580 across 798 transactions on ChatGPT, out of at least $113,740 in total AI spending.",
+    "sourceUrl": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d9cedc16c2f0",
+    "date": "2026-08-03",
+    "source": "MIT Technology Review",
+    "title": "Trump’s AI protectionism has come for robotics",
+    "summary": "Some US robotics companies unsurprisingly welcome the FTC’s new move. Those companies, as well as academic robotics labs, are hugely reliant on cheap robots from China to do research.",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-153c499b0419",
+    "date": "2026-08-03",
+    "source": "The Verge",
+    "title": "Europe’s AI labeling and transparency rules are now in effect",
+    "summary": "Tech companies could face fines if they don’t meet new requirements for AI transparency. Tech companies could face fines if they don’t meet new requirements for AI transparency.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-92f8a546317f",
+    "date": "2026-08-03",
+    "source": "The Verge",
+    "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
+    "summary": "Alibaba says its latest model can compete with Anthropic’s Claude Fable 5. Alibaba says its latest model can compete with Anthropic’s Claude Fable 5. On the Arena text model leaderboard, Qwen3.8-Max trails only Fable 5 and three models in Anthropic’s Opus family.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-54eeff2c8d17",
     "date": "2026-08-03",
     "source": "TechCrunch",
@@ -295,288 +599,6 @@
       "llm",
       "ethics",
       "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6422ae0f316d",
-    "date": "2026-07-31",
-    "source": "TechCrunch",
-    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-    "summary": "Google rolled out a new feature on Thursday that allowed users to deploy Nano Banana 2, its AI image generator, to create fabricated images inside its satellite imagery mapping app Google Earth. Now, only a day after the feature’s release, Google has scrapped it.",
-    "sourceUrl": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-8f9218ebc14c",
-    "date": "2026-07-31",
-    "source": "TechCrunch",
-    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-    "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself.",
-    "sourceUrl": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-43fb41d57251",
-    "date": "2026-07-31",
-    "source": "TechCrunch",
-    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-    "summary": "In April, the company indicated that users would see less AI-generated content.",
-    "sourceUrl": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-27e1d6290bc3",
-    "date": "2026-07-31",
-    "source": "TechCrunch",
-    "title": "Siri AI could come with a paywall for power users",
-    "summary": "In his final earnings call as CEO of Apple, Tim Cook said that the company’s long-awaited Siri AI upgrade could come with some paywalled limits. Apple, like every other hardware manufacturer, is staring down a rocky road for accessing the supplies it needs to meet customer demand.",
-    "sourceUrl": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2508e3dc7aad",
-    "date": "2026-07-31",
-    "source": "TechCrunch",
-    "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-    "summary": "SpaceX said on Thursday that it will remove the unpermitted turbines powering its xAI data centers near Memphis as it transitions to a permanent, 1.2 gigawatt natural gas power plant.",
-    "sourceUrl": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d240f02eb7f1",
-    "date": "2026-07-31",
-    "source": "TechCrunch",
-    "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-    "summary": "Kamath said that any customer support company, including newer ones like Sierra and Decagon, is a potential customer for the startup.",
-    "sourceUrl": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e9b5c38dc7f2",
-    "date": "2026-07-31",
-    "source": "TechCrunch",
-    "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-    "summary": "You can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal. Anthony Ha is TechCrunch’s weekend editor. You can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.",
-    "sourceUrl": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-abe78d62759c",
-    "date": "2026-07-31",
-    "source": "The Verge",
-    "title": "Google Earth’s AI deepfake tool only lasted one day",
-    "summary": "Letting people easily alter images with an AI prompt was a bad idea. Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI.",
-    "sourceUrl": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-cb8ef2d60e0e",
-    "date": "2026-07-31",
-    "source": "The Verge",
-    "title": "Here’s the problem with putting an AI image generator in Google Earth",
-    "summary": "Even with Google’s watermarks and restrictions, a tool that created believable flyover images was ripe for misuse, as Henk van Ess demonstrated. Even with Google’s watermarks and restrictions, a tool that created believable flyover images was ripe for misuse, as Henk van Ess demonstrated.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e8b5e8d005e1",
-    "date": "2026-07-31",
-    "source": "The Verge",
-    "title": "The major labels propose rules to keep AI slop off the charts",
-    "summary": "To be eligible for the charts, songs would have to be ‘substantially human made,’ whatever that means. To be eligible for the charts, songs would have to be ‘substantially human made,’ whatever that means.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ee70bff51f97",
-    "date": "2026-07-31",
-    "source": "The Verge",
-    "title": "It’s time to panic about AI safety",
-    "summary": "But before we get into all of that, we talk about all the new ideas about how we use computers, from Mark Zuckerberg’s agent-filled future of everything to Samsung’s impressive new foldable phone to Apple’s new leasing program. And we want to hear all your thoughts about all of it!",
-    "sourceUrl": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6da874292559",
-    "date": "2026-07-31",
-    "source": "The Verge",
-    "title": "Anthropic says Claude accidentally hacked real companies too",
-    "summary": "﻿But swears OpenAI’s Hugging Face hack was worse. ﻿But swears OpenAI’s Hugging Face hack was worse. In a blog post describing the incidents, Anthropic said Claude gained unauthorized access to the systems during cybersecurity evaluations.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b86dc435d64a",
-    "date": "2026-07-31",
-    "source": "OpenAI",
-    "title": "Advancing responsible AI across Europe",
-    "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-    "sourceUrl": "https://openai.com/index/advancing-responsible-ai-across-europe",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-487981959078",
-    "date": "2026-07-31",
-    "source": "OpenAI",
-    "title": "Univé builds an AI-ready workforce",
-    "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-    "sourceUrl": "https://openai.com/index/unive",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-16030aac77d6",
-    "date": "2026-07-31",
-    "source": "TechCrunch",
-    "title": "Anthropic says its own AI models breached three companies during security tests",
-    "summary": "Anthropic said Thursday that an internal investigation uncovered three incidents in which its AI model Claude breached the systems of three organizations while conducting cybersecurity tests. Anthropic said the OpenAI episode earlier this month prompted the company to conduct its own cybersecurity evaluation.",
-    "sourceUrl": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
     ],
     "resources": []
   },
