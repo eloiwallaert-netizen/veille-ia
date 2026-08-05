@@ -1,5 +1,383 @@
 [
   {
+    "id": "auto-40d8458ed397",
+    "date": "2026-08-05",
+    "source": "TechCrunch",
+    "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+    "summary": "Founded in 2019, WindBorne started with a plan to acquire a novel set of weather data with its low-cost weather sensors and endurance balloons.",
+    "sourceUrl": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-db62e9447d41",
+    "date": "2026-08-05",
+    "source": "The Verge",
+    "title": "Google Assistant will disappear from your phone next month",
+    "summary": "“We will begin removing access to Google Assistant starting on 4 September,” Google states in the email, “and expect that this process may take a few weeks to reach everyone.",
+    "sourceUrl": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1dbe2cc7f0dc",
+    "date": "2026-08-05",
+    "source": "The Verge",
+    "title": "Trump’s AI testing plan is limited and vague",
+    "summary": "﻿The AI framework excludes open models entirely, and doesn’t define what a ‘national security risk’ is. ﻿The AI framework excludes open models entirely, and doesn’t define what a ‘national security risk’ is.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-977f60f7e5e3",
+    "date": "2026-08-04",
+    "source": "OpenAI",
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+    "sourceUrl": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-b274d6785ee9",
+    "date": "2026-08-04",
+    "source": "OpenAI",
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+    "sourceUrl": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-2a0a27605453",
+    "date": "2026-08-04",
+    "source": "Google AI Blog",
+    "title": "The latest AI news we announced in July 2026",
+    "summary": "Google’s July updates introduce faster Gemini models, advanced robotics, and new creative tools for video and music production. Check out three new Gemini models. Handle complex web errands with Gemini Spark.",
+    "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ea7f6df3de1a",
+    "date": "2026-08-04",
+    "source": "Hugging Face",
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "summary": "LFM2.5-2.6B is built to power capable agents entirely on-device. Reach for LFM2.5-2.6B when you need on-device agents for high-volume workloads. Both LFM2.5-2.6B and LFM2.5-2.6B-Base are available on Hugging Face today.",
+    "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-bedc6f3c7440",
+    "date": "2026-08-04",
+    "source": "TechCrunch",
+    "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+    "summary": "Earlier this year, SpaceX gobbled up xAI. Before xAI merged with SpaceX, the AI company bought $430 million worth of Megapacks for its data centers. AI data centers don’t draw power consistently.",
+    "sourceUrl": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-984281060450",
+    "date": "2026-08-04",
+    "source": "TechCrunch",
+    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+    "summary": "GLM-5.2, the open-weight AI model from China’s Z.ai, is only a few months behind OpenAI’s GPT-5.5 and Anthropic’s Claude Opus 4.7 on cyber and bio capabilities, according to a new report from AI safety nonprofit SaferAI. But the divide between frontier capabilities and safety practices is growing.",
+    "sourceUrl": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ee6239399ce0",
+    "date": "2026-08-04",
+    "source": "TechCrunch",
+    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nGet $100 off your Disrupt 2026 ticket: REGISTER NOW. Bloomberg originally reported that Volta, founded earlier this year, will provide cloud compute to the Claude maker over a six-year period.",
+    "sourceUrl": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9964c3e16d1d",
+    "date": "2026-08-04",
+    "source": "TechCrunch",
+    "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+    "summary": "A new app called Wrinkles uses your location to automatically surface stories about the places around you. Wrinkles was born from that same curiosity. Hansan and Stemler see Wrinkles as more than a travel app.",
+    "sourceUrl": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5d2add2dbedb",
+    "date": "2026-08-04",
+    "source": "TechCrunch",
+    "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+    "summary": "The group is already presenting proposals for open comment, and the Linux Foundation, a member of the group, is managing the proposals. Interestingly, both OpenAI and Google signed the original open letter that spawned this group. Google is generally known as a big supporter of open source, too.",
+    "sourceUrl": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2fd75f11dd8e",
+    "date": "2026-08-04",
+    "source": "TechCrunch",
+    "title": "Spotify expands AI remix and covers project with Merlin partnership",
+    "summary": "During its second-quarter earnings call on Tuesday, Spotify again teased the upcoming release of a new product that will allow music fans to leverage AI to make covers and remixes of artists’ music, with the artists’ consent. AI music has flooded streaming services.",
+    "sourceUrl": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a9c0b52c3e5d",
+    "date": "2026-08-04",
+    "source": "TechCrunch",
+    "title": "Texas halts new data centers as governor calls for audits",
+    "summary": "Only Virginia hosts more data centers than Texas. About 90% of those are data centers, according to the grid operator. But data centers have become a flash point across the country, including in Texas.",
+    "sourceUrl": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-01610e42603b",
+    "date": "2026-08-04",
+    "source": "TechCrunch",
+    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+    "summary": "In the year that followed, Musk only spent around 2% or less of his time talking about the project. On that same Q3 call last year, Musk spent less than 20% of his time talking about the automotive business.",
+    "sourceUrl": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-88dfcd64b73b",
+    "date": "2026-08-04",
+    "source": "TechCrunch",
+    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "summary": "“For example, another former Apple employee seems to have met with Mr.",
+    "sourceUrl": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-acf8eb5bad01",
+    "date": "2026-08-04",
+    "source": "TechCrunch",
+    "title": "Is the future of data centers portable? Runware builds a pod to find out",
+    "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod. Runware says the Pod can offer inference at a higher quality but lower cost than other serverless inference platforms and GPU clouds.",
+    "sourceUrl": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-4707f42c55fa",
+    "date": "2026-08-04",
+    "source": "The Verge",
+    "title": "AMD’s data center business is booming while gaming takes a backseat",
+    "summary": "The company’s data center revenue has more than doubled, hitting $6.7 billion. Driven by demand for AI capacity, AMD’s data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion.",
+    "sourceUrl": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-ed45a6ea5322",
+    "date": "2026-08-04",
+    "source": "The Verge",
+    "title": "SpaceX made more revenue as an AI company than a space company",
+    "summary": "SpaceX’s AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX’s quarterly earnings. SpaceX had the biggest-ever IPO in June.",
+    "sourceUrl": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f74b40f6583f",
+    "date": "2026-08-04",
+    "source": "The Verge",
+    "title": "How an OpenAI influencer trip backfired",
+    "summary": "﻿What did the content creators learn about ChatGPT at the “summer club” weekend trip? ﻿What did the content creators learn about ChatGPT at the “summer club” weekend trip? The brand trip is a right of passage for influencers.",
+    "sourceUrl": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-507e71c13bb9",
+    "date": "2026-08-04",
+    "source": "The Verge",
+    "title": "‘Not healthy’ LLM use is more common than you think",
+    "summary": "Much like social media platforms, they are explicitly built to engage users. Over time, concern has grown over social media’s impact on our well-being, attention, and sometimes compulsive use, and governments around the world are now responding with measures to restrict its use, such as banning children and teens.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-67d9c56c5b0c",
+    "date": "2026-08-04",
+    "source": "The Verge",
+    "title": "Texas says data centers must pass an audit before connecting to the grid",
+    "summary": "﻿It’s the second-largest data center market behind Virginia. ﻿It’s the second-largest data center market behind Virginia. Data centers account for about 90 percent of new power requests.",
+    "sourceUrl": "https://www.theverge.com/policy/975071/texas-data-center-audit",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
     "id": "auto-4250ad4d2928",
     "date": "2026-08-04",
     "source": "TechCrunch",
@@ -66,6 +444,30 @@
     "resources": []
   },
   {
+    "id": "auto-928c08785b29",
+    "date": "2026-08-03",
+    "source": "Google AI Blog",
+    "title": "Inside our 353,000-person vibe coding course",
+    "summary": "Google and Kaggle’s “AI Agents: Intensive Vibe Coding” course had expert-led sessions, technical whitepapers and notebooks, and capstone projects. You can still check out the lessons online if you want to learn these skills yourself.",
+    "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-2163b413300d",
     "date": "2026-08-03",
     "source": "OpenAI",
@@ -125,480 +527,6 @@
     ],
     "themes": [
       "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3a82c94b1048",
-    "date": "2026-08-03",
-    "source": "TechCrunch",
-    "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-    "summary": "Vibe-coding startup Superblocks announced a multiyear joint marketing agreement with Amazon Web Services (AWS) that enables its tool to be embedded within the private clouds of AWS customers.",
-    "sourceUrl": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-52116e7a3a03",
-    "date": "2026-08-03",
-    "source": "TechCrunch",
-    "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-    "summary": "The result became Design Arena, an AI tool now used by 5.3 million people around the world. For non-enterprise users, using Design Arena is a lot like using a sophisticated model router.",
-    "sourceUrl": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0295a9d611d8",
-    "date": "2026-08-03",
-    "source": "TechCrunch",
-    "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-    "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
-    "sourceUrl": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2601dbdbb3ea",
-    "date": "2026-08-03",
-    "source": "TechCrunch",
-    "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-    "summary": "The assistant can understand your personal context, helping you find things like photos, emails, contacts, texts, or calendar appointments — even when you’re not quite sure what you’re looking for or where. Siri can brainstorm with you, too.",
-    "sourceUrl": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-06e62134a24c",
-    "date": "2026-08-03",
-    "source": "TechCrunch",
-    "title": "Congress’ favorite AI tool? ChatGPT",
-    "summary": "OpenAI received roughly 90% of all spending on AI tools by House offices, committees, and institutional accounts during the year ending in March 31, per House disbursement records. CNBC found that Congress spent around $100,580 across 798 transactions on ChatGPT, out of at least $113,740 in total AI spending.",
-    "sourceUrl": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d9cedc16c2f0",
-    "date": "2026-08-03",
-    "source": "MIT Technology Review",
-    "title": "Trump’s AI protectionism has come for robotics",
-    "summary": "Some US robotics companies unsurprisingly welcome the FTC’s new move. Those companies, as well as academic robotics labs, are hugely reliant on cheap robots from China to do research.",
-    "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-153c499b0419",
-    "date": "2026-08-03",
-    "source": "The Verge",
-    "title": "Europe’s AI labeling and transparency rules are now in effect",
-    "summary": "Tech companies could face fines if they don’t meet new requirements for AI transparency. Tech companies could face fines if they don’t meet new requirements for AI transparency.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-92f8a546317f",
-    "date": "2026-08-03",
-    "source": "The Verge",
-    "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
-    "summary": "Alibaba says its latest model can compete with Anthropic’s Claude Fable 5. Alibaba says its latest model can compete with Anthropic’s Claude Fable 5. On the Arena text model leaderboard, Qwen3.8-Max trails only Fable 5 and three models in Anthropic’s Opus family.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-54eeff2c8d17",
-    "date": "2026-08-03",
-    "source": "TechCrunch",
-    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-    "summary": "“You have fragmented data across these platforms. You have complex workflows. “We give you a step by step guide.",
-    "sourceUrl": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-221346ac9085",
-    "date": "2026-08-03",
-    "source": "MIT Technology Review",
-    "title": "Here’s why AI agents lie and cheat to reach their goals",
-    "summary": "Regardless of whether today’s models learn to reward-hack during training or adopt it as a strategy later on, the solution is the same: Make cheating unrewarding. But that doesn’t mean reward hacking is harmless, Azarbal says. Reward-hacking AIs don’t aim to cause chaos.",
-    "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-8f42055e5336",
-    "date": "2026-08-02",
-    "source": "TechCrunch",
-    "title": "Sam Altman and AI’s decel debate",
-    "summary": "Because it kind of suggests that there’s only one path and we’re all stuck on this path. Sean: I think that’s right.",
-    "sourceUrl": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-59a85518969c",
-    "date": "2026-08-02",
-    "source": "The Verge",
-    "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-    "summary": "Bud Cole also compared learning cover songs to AI training data in a controversial interview. “I actually believe cover music has been sort of analog AI for a long time,” says Cole. The adage is that you need to write 100 (or 1,000) (or 10,000) bad songs before you write one good one.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-92beec8f131b",
-    "date": "2026-08-02",
-    "source": "The Verge",
-    "title": "Is paying artists enough to convince them to embrace AI?",
-    "summary": "﻿Pippa is trying to entice artists with a revenue share system. ﻿Pippa is trying to entice artists with a revenue share system. But Pippa faces an uphill battle as it seeks to convince artists.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e1bf53682cbd",
-    "date": "2026-08-01",
-    "source": "TechCrunch",
-    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-    "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward, according to NBC News.",
-    "sourceUrl": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-271ca55a8a1e",
-    "date": "2026-08-01",
-    "source": "TechCrunch",
-    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-    "summary": "In a since-deleted post on X, Green acknowledged that he’d produced the video “under a ton of pressure” and used ChatGPT “for research on this script.” At the same time, he said the “pushback” line was actually a response to the episode’s guest. Anthony Ha is TechCrunch’s weekend editor.",
-    "sourceUrl": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-53ed436cb442",
-    "date": "2026-08-01",
-    "source": "TechCrunch",
-    "title": "Sam Altman is still making the case for parenting via ChatGPT",
-    "summary": "Hirsch’s question seems to have gone even more viral than Altman’s initial post — while Altman’s comment has been reposted around 300 times and liked around 9,600 times (as of Saturday morning), Hirsch’s response has been reposted 9,000 times and received 122,000 likes.",
-    "sourceUrl": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e529c7879a4a",
-    "date": "2026-08-01",
-    "source": "TechCrunch",
-    "title": "This $9 key physically locks your most addictive apps",
-    "summary": "It’s an NFC key that pairs with a companion app to let you lock away distracting apps. There’s also the question of what happens if you lose the key. If they’re already unlocked, you can simply remove the key from your account.",
-    "sourceUrl": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-4a8975413aab",
-    "date": "2026-08-01",
-    "source": "The Verge",
-    "title": "Is this Billboard Hot 100 hit AI slop?",
-    "summary": "Fenix has primarily trafficked in trap-influenced West Coast rap. The vocal melody is clearly influenced by Morrissey, with Fenix even adopting a fake British accent. Things only get worse when Fenix actually does sing.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6d58997b466c",
-    "date": "2026-08-01",
-    "source": "OpenAI",
-    "title": "Ten advances in mathematics and theoretical computer science",
-    "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-    "sourceUrl": "https://openai.com/index/ten-advances-in-mathematics",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-6e145b017b5a",
-    "date": "2026-07-31",
-    "source": "OpenAI",
-    "title": "Building abundant intelligence",
-    "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
-    "sourceUrl": "https://openai.com/index/building-abundant-intelligence",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-c5ad624a6ffb",
-    "date": "2026-07-31",
-    "source": "OpenAI",
-    "title": "Disrupting a Criminal Scam Operation",
-    "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-    "sourceUrl": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-ec77bd47dbb9",
-    "date": "2026-07-31",
-    "source": "TechCrunch",
-    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-    "summary": "OpenAI has since launched an investigation into how the incident occurred, which is still ongoing. However, one source downplayed the severity, saying that with those escapes, the agents didn’t appear to leave OpenAI’s network to hack into another company’s. TechCrunch reached out to OpenAI for more information.",
-    "sourceUrl": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9d803b495850",
-    "date": "2026-07-31",
-    "source": "TechCrunch",
-    "title": "India is starting to pay for apps, not just download them",
-    "summary": "app revenue actually declined 3% over the same period. India still trails more mature app markets by a wide margin. Much of India’s app revenue growth is also being driven by non-gaming apps.",
-    "sourceUrl": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product"
     ],
     "resources": []
   },
