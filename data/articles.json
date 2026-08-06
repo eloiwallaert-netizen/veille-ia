@@ -1,5 +1,304 @@
 [
   {
+    "id": "auto-cbf9137373ac",
+    "date": "2026-08-06",
+    "source": "The Verge",
+    "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+    "summary": "﻿The ChatGPT maker is seeking to dismiss the case, calling Apple’s allegations ‘meritless.’\n﻿The ChatGPT maker is seeking to dismiss the case, calling Apple’s allegations ‘meritless.’\nOpenAI has asked a federal judge to toss out Apple’s landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as “meritless.” In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup’s employees as theft, and “generic” product development information as “trade secrets,” adding that Apple made no reasonable efforts to maintain such secrecy.",
+    "sourceUrl": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a165a3bad285",
+    "date": "2026-08-06",
+    "source": "The Verge",
+    "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
+    "summary": "Suggested Grokipedia edits haven’t been addressed since April, according to a report. Suggested Grokipedia edits haven’t been addressed since April, according to a report.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-13a41dea41f7",
+    "date": "2026-08-05",
+    "source": "TechCrunch",
+    "title": "Meta launches Muse Code, an AI agent for large code bases",
+    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nGet $400 off your Disrupt 2026 ticket: REGISTER NOW. This week, the company released a new terminal coding agent aimed at programmers looking for assistance with complex tasks across large software code bases.",
+    "sourceUrl": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e9f9bc817190",
+    "date": "2026-08-05",
+    "source": "TechCrunch",
+    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+    "summary": "Publicly traded e-commerce marketing automation platform Klaviyo has agreed to acquire Agency, a three-year-old AI-powered customer success startup founded by serial entrepreneur Elias Torres. Torres mentored Bialecki on early-stage startup dynamics.",
+    "sourceUrl": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d0d37e3ae246",
+    "date": "2026-08-05",
+    "source": "TechCrunch",
+    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nGet $400 off your Disrupt 2026 ticket: REGISTER NOW.",
+    "sourceUrl": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f868c2ae379c",
+    "date": "2026-08-05",
+    "source": "TechCrunch",
+    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+    "summary": "E-commerce software maker Shopify seems to be benefiting handily from people using AI to search. Indeed, the company credited its earnings beat and soaring revenue to AI search, at least partly. The company went into further detail about why AI search was working for its business.",
+    "sourceUrl": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2c94353a06fd",
+    "date": "2026-08-05",
+    "source": "TechCrunch",
+    "title": "Hark previews its browser use agent for completing tasks",
+    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nGet $400 off your Disrupt 2026 ticket: REGISTER NOW. Hark, a startup that raised $700 million in Series A funding in May, today launched its agent Hark Handoff, which can use a browser efficiently to complete tasks.",
+    "sourceUrl": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a9586ae9d88c",
+    "date": "2026-08-05",
+    "source": "TechCrunch",
+    "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nGet $400 off your Disrupt 2026 ticket: REGISTER NOW. But the Real World AI Stage is brand-new for TechCrunch Disrupt 2026. There’s plenty more in store for you at Disrupt 2026 — after all, that’s just one stage’s worth of programming!",
+    "sourceUrl": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-3b974bc0d486",
+    "date": "2026-08-05",
+    "source": "TechCrunch",
+    "title": "Anthropic is hiring an AI chip design team",
+    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nGet $400 off your Disrupt 2026 ticket: REGISTER NOW. Anthropic is building a team to design its own custom chips for AI usage. Anthropic isn’t the first AI company to decide to build its own chip.",
+    "sourceUrl": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-823827dc08f0",
+    "date": "2026-08-05",
+    "source": "TechCrunch",
+    "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+    "summary": "Ukraine-based app developer MacPaw has partnered with Liquid AI to power its products with locally hosted AI models, and eventually make the tech stack available to developers. Notably, Apple already provides its own local models to developers.",
+    "sourceUrl": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1dc2e64cdf70",
+    "date": "2026-08-05",
+    "source": "The Verge",
+    "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+    "summary": "The company’s new detection tool says the song is ‘very likely Treblo.’\nThe company’s new detection tool says the song is ‘very likely Treblo.’\nWe were pretty sure that Fenix Flexin’s “Rubberz” was made using AI, but musician Medasin was confident that it was made using Treblo specifically.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-8b1ada3050de",
+    "date": "2026-08-05",
+    "source": "The Verge",
+    "title": "Google just announced a major shakeup of its top AI leadership",
+    "summary": "Google’s AI head Demis Hassabis is leaving his role to become the Google DeepMind chair and Alphabet’s chief scientist. Google’s AI head Demis Hassabis is leaving his role to become the Google DeepMind chair and Alphabet’s chief scientist.",
+    "sourceUrl": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-73d50818e4cc",
+    "date": "2026-08-05",
+    "source": "The Verge",
+    "title": "SpaceX is barely Space and mostly X",
+    "summary": "Once, I had some questions about why SpaceX, Elon Musk’s healthiest company, acquired xAI, his sickliest one. Musk has claimed that he took SpaceX public because he wanted to build data centers in space. You can even argue about the feasibility of space data centers if you want.",
+    "sourceUrl": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-32802d2d5eba",
+    "date": "2026-08-05",
+    "source": "The Verge",
+    "title": "Reddit is introducing a new moderator: AI",
+    "summary": "It’s also planning big changes for developers and old Reddit. It’s also planning big changes for developers and old Reddit. Automod has been “one of the most important mod tools,” Reddit CEO Steve Huffman says in a post.",
+    "sourceUrl": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6cc6646c3071",
+    "date": "2026-08-05",
+    "source": "The Verge",
+    "title": "Rogue AI agents created fake online identities in another hacking attempt",
+    "summary": "AISI said AI agents from OpenAI and Anthropic displayed unprecedented ‘autonomy and deception’ in their test. AISI said AI agents from OpenAI and Anthropic displayed unprecedented ‘autonomy and deception’ in their test. OpenAI said Irregular notified it of the breach on July 29th.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-40d8458ed397",
     "date": "2026-08-05",
     "source": "TechCrunch",
@@ -270,264 +569,6 @@
     "auto": true,
     "metiers": [],
     "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-88dfcd64b73b",
-    "date": "2026-08-04",
-    "source": "TechCrunch",
-    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-    "summary": "“For example, another former Apple employee seems to have met with Mr.",
-    "sourceUrl": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-acf8eb5bad01",
-    "date": "2026-08-04",
-    "source": "TechCrunch",
-    "title": "Is the future of data centers portable? Runware builds a pod to find out",
-    "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod. Runware says the Pod can offer inference at a higher quality but lower cost than other serverless inference platforms and GPU clouds.",
-    "sourceUrl": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-4707f42c55fa",
-    "date": "2026-08-04",
-    "source": "The Verge",
-    "title": "AMD’s data center business is booming while gaming takes a backseat",
-    "summary": "The company’s data center revenue has more than doubled, hitting $6.7 billion. Driven by demand for AI capacity, AMD’s data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion.",
-    "sourceUrl": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-ed45a6ea5322",
-    "date": "2026-08-04",
-    "source": "The Verge",
-    "title": "SpaceX made more revenue as an AI company than a space company",
-    "summary": "SpaceX’s AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX’s quarterly earnings. SpaceX had the biggest-ever IPO in June.",
-    "sourceUrl": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f74b40f6583f",
-    "date": "2026-08-04",
-    "source": "The Verge",
-    "title": "How an OpenAI influencer trip backfired",
-    "summary": "﻿What did the content creators learn about ChatGPT at the “summer club” weekend trip? ﻿What did the content creators learn about ChatGPT at the “summer club” weekend trip? The brand trip is a right of passage for influencers.",
-    "sourceUrl": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-507e71c13bb9",
-    "date": "2026-08-04",
-    "source": "The Verge",
-    "title": "‘Not healthy’ LLM use is more common than you think",
-    "summary": "Much like social media platforms, they are explicitly built to engage users. Over time, concern has grown over social media’s impact on our well-being, attention, and sometimes compulsive use, and governments around the world are now responding with measures to restrict its use, such as banning children and teens.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-67d9c56c5b0c",
-    "date": "2026-08-04",
-    "source": "The Verge",
-    "title": "Texas says data centers must pass an audit before connecting to the grid",
-    "summary": "﻿It’s the second-largest data center market behind Virginia. ﻿It’s the second-largest data center market behind Virginia. Data centers account for about 90 percent of new power requests.",
-    "sourceUrl": "https://www.theverge.com/policy/975071/texas-data-center-audit",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-4250ad4d2928",
-    "date": "2026-08-04",
-    "source": "TechCrunch",
-    "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
-    "summary": "The co-founders, CEO Charlie Horowitz and CTO Tyler Presser, aim to launch a network of laser-equipped spacecraft to link data centers from orbit.",
-    "sourceUrl": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-421264cc869b",
-    "date": "2026-08-04",
-    "source": "The Verge",
-    "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
-    "summary": "﻿The ChatGPT maker has published message exchanges as evidence that ‘Apple is getting this wrong.’\n﻿The ChatGPT maker has published message exchanges as evidence that ‘Apple is getting this wrong.’\nApple’s legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple’s version of events.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-71649e07497c",
-    "date": "2026-08-04",
-    "source": "The Verge",
-    "title": "Can Reddit fend off a new wave of AI SEO spam?",
-    "summary": "Reddit itself has acknowledged the new kinds of spam. “Reddit is tricky, right? You can’t bullshit Reddit,” Moschella says.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-928c08785b29",
-    "date": "2026-08-03",
-    "source": "Google AI Blog",
-    "title": "Inside our 353,000-person vibe coding course",
-    "summary": "Google and Kaggle’s “AI Agents: Intensive Vibe Coding” course had expert-led sessions, technical whitepapers and notebooks, and capstone projects. You can still check out the lessons online if you want to learn these skills yourself.",
-    "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2163b413300d",
-    "date": "2026-08-03",
-    "source": "OpenAI",
-    "title": "Apple is getting this wrong",
-    "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-    "sourceUrl": "https://openai.com/index/apple-is-getting-this-wrong",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d04cc35bd3cc",
-    "date": "2026-08-03",
-    "source": "OpenAI",
-    "title": "How we built a realtime system for responsive voice AI in six months",
-    "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-    "sourceUrl": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-54e616a32e5e",
-    "date": "2026-08-03",
-    "source": "OpenAI",
-    "title": "Circles powers telco personalization with OpenAI technology",
-    "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-    "sourceUrl": "https://openai.com/index/circles",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-2b53ceafa813",
-    "date": "2026-08-03",
-    "source": "TechCrunch",
-    "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-    "summary": "Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises. “There are Marxist overtones and undertones to our business,” he wrote in a letter to shareholders about Palantir’s outstanding quarter.",
-    "sourceUrl": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
     "resources": []
   },
   {
