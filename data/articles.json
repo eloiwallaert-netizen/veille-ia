@@ -1,5 +1,406 @@
 [
   {
+    "id": "auto-0f0c1961f93e",
+    "date": "2026-08-06",
+    "source": "OpenAI",
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+    "sourceUrl": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6da5f2d271da",
+    "date": "2026-08-06",
+    "source": "OpenAI",
+    "title": "Working with the American Psychological Association on youth mental health and AI",
+    "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+    "sourceUrl": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-fea9ae47ebf2",
+    "date": "2026-08-06",
+    "source": "OpenAI",
+    "title": "From asking to doing: How the world is putting ChatGPT to work",
+    "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+    "sourceUrl": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-72ea094fa822",
+    "date": "2026-08-06",
+    "source": "Hugging Face",
+    "title": "Baseten on Hugging Face Inference Providers 🔥",
+    "summary": "Follow Baseten on Hugging Face: https://huggingface.co/baseten. Baseten is available through the Hugging Face SDKs - huggingface_hub (>= 1.26.1) for Python and @huggingface/inference for JavaScript. For instance, if you use a baseten API key you're billed on your baseten account.",
+    "sourceUrl": "https://huggingface.co/blog/baseten",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-4255172739ea",
+    "date": "2026-08-06",
+    "source": "TechCrunch",
+    "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nGet $400 off your Disrupt 2026 ticket: REGISTER NOW. OpenAI releasing a smart home device has a certain logic to it, in that it would further integrate ChatGPT into users’ lives. OpenAI has denied wrongdoing.",
+    "sourceUrl": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-587e2720ff86",
+    "date": "2026-08-06",
+    "source": "TechCrunch",
+    "title": "ChatGPT brings unlimited text chats to free users",
+    "summary": "The new GPT-5.6 Luna model will power this experience and will be the default model for Free and Go users, replacing GPT-5.5. OpenAI said an internal evaluation found that, compared to GPT-5.5-Instant, factual errors were 62% less common for GPT-5.6 Luna and 68% less common for GPT-5.6 Sol.",
+    "sourceUrl": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-cb9c8c68c6dc",
+    "date": "2026-08-06",
+    "source": "TechCrunch",
+    "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+    "summary": "“You know, the first business that a lot of people start is genuinely just selling agents to other small businesses […] We have some customers who run an entire rental-car agency autonomously.”\nBut this toolkit for running businesses may only be part of Naïve’s opportunity.",
+    "sourceUrl": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-698e59b3fc37",
+    "date": "2026-08-06",
+    "source": "TechCrunch",
+    "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+    "summary": "Then Ditto gets into more specific questions to understand someone’s personality, interests, and dating preferences.",
+    "sourceUrl": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a4d19f269b5f",
+    "date": "2026-08-06",
+    "source": "TechCrunch",
+    "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+    "summary": "Rather than focusing on whether former Apple employees working at OpenAI had accessed certain information, the AI company argues that Apple’s own security practices and offboarding procedures weaken its claim that the information qualifies as legally protected “trade secrets.”\nApple’s complaint, filed in July, accuses OpenAI of orchestrating a scheme to obtain confidential hardware information from former Apple engineers.",
+    "sourceUrl": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d3d7f4fde737",
+    "date": "2026-08-06",
+    "source": "TechCrunch",
+    "title": "Amid legal battles, Suno says it will start watermarking songs",
+    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nGet $400 off your Disrupt 2026 ticket: REGISTER NOW. Suno said that now it will use audio watermarking and fingerprinting to prevent misuse on other streaming platforms.",
+    "sourceUrl": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-da00e1a1384b",
+    "date": "2026-08-06",
+    "source": "TechCrunch",
+    "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nGet $400 off your Disrupt 2026 ticket: REGISTER NOW. Now, the three are bringing a similar system to e-commerce with their new startup, Malachyte. The startup wants to change that by building real-time, intent-aware shopping experiences.",
+    "sourceUrl": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1fba99a1ba40",
+    "date": "2026-08-06",
+    "source": "TechCrunch",
+    "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+    "summary": "AI lab Mirendil has signed a multiyear partnership with Google Cloud to source compute capacity for its self-improving AI research, TechCrunch has exclusively learned. Self-improving AI, also known as recursive self-improvement, refers to AI systems that iteratively improve themselves.",
+    "sourceUrl": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a7be612269db",
+    "date": "2026-08-06",
+    "source": "TechCrunch",
+    "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+    "summary": "Ask Maps will add the items to a cart. Ask Maps will now also remember prior conversations, allowing users to pick up where they left off. Personal Intelligence and the live transit widget in Ask Maps are rolling out to all markets where Ask Maps is available.",
+    "sourceUrl": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c62018892e44",
+    "date": "2026-08-06",
+    "source": "TechCrunch",
+    "title": "Omilia raises $67M to scale its customer support platform",
+    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nGet $400 off your Disrupt 2026 ticket: REGISTER NOW. Companies like Sierra, Decagon, etc. Omilia’s clients include Capital One, Discover, RBC, DWP, and PSEG, and Vassos said quick-service restaurants that have adopted voice-based ordering are now a big focus.",
+    "sourceUrl": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ca643a578799",
+    "date": "2026-08-06",
+    "source": "The Verge",
+    "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+    "summary": "The “doughnut-shaped” device could cost more than $300 when it launches next year, according to Bloomberg. The “doughnut-shaped” device could cost more than $300 when it launches next year, according to Bloomberg.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-4171057236fe",
+    "date": "2026-08-06",
+    "source": "The Verge",
+    "title": "Suno shares plans to combat spammy AI music",
+    "summary": "The company is changing its download policy and rolling out new watermarking technology. The company is changing its download policy and rolling out new watermarking technology. The company is rolling out new transparency tools, along with new watermarking and fingerprinting tech.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0b91ac9465cc",
+    "date": "2026-08-06",
+    "source": "The Verge",
+    "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+    "summary": "ChatGPT’s GPT-5.6 Sol model will also be ‘more reliable with facts’ for Plus and Pro users. ChatGPT’s GPT-5.6 Sol model will also be ‘more reliable with facts’ for Plus and Pro users. For Plus and Pro subscribers, GPT-5.6 Sol in ChatGPT is being updated to be “more reliable with facts,” OpenAI says.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-fe4b2e81cade",
+    "date": "2026-08-06",
+    "source": "The Verge",
+    "title": "SoftBank donated $50 million to Trump’s library months before federal data center deal",
+    "summary": "SoftBank is leasing federal land to build a sprawling data center in Ohio. Trump Presidential Library Foundation, Inc. Trump Presidential Library,” SoftBank’s letter reads.",
+    "sourceUrl": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-6d1fa470cd9d",
+    "date": "2026-08-06",
+    "source": "The Verge",
+    "title": "The left and right agree on one thing: no data centers",
+    "summary": "People don’t like that. Data centers are very local. There’s something there.",
+    "sourceUrl": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-51b82336257f",
+    "date": "2026-08-06",
+    "source": "The Verge",
+    "title": "The messy politics behind Google’s big AI shakeup",
+    "summary": "“Losing Jeff continues the brain drain at Google,” they said. “Losing Jeff continues the brain drain at Google. “Losing Jeff feels like a blow for morality and basic human decency within Google,” the current Google employee said.",
+    "sourceUrl": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5ba712acf85c",
+    "date": "2026-08-06",
+    "source": "The Verge",
+    "title": "AI bots started a religion — humans immediately followed",
+    "summary": "And some people listened. Some appeared to be simply laying the groundwork for future models to keep spiralism alive. Lopez said the posts she has seen “talk about putting spiralism into the next generation of AIs just by writing about it a lot on the internet.”\n“I didn’t walk into the spiral.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-cbf9137373ac",
     "date": "2026-08-06",
     "source": "The Verge",
@@ -177,398 +578,6 @@
     "themes": [
       "llm"
     ],
-    "resources": []
-  },
-  {
-    "id": "auto-823827dc08f0",
-    "date": "2026-08-05",
-    "source": "TechCrunch",
-    "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-    "summary": "Ukraine-based app developer MacPaw has partnered with Liquid AI to power its products with locally hosted AI models, and eventually make the tech stack available to developers. Notably, Apple already provides its own local models to developers.",
-    "sourceUrl": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1dc2e64cdf70",
-    "date": "2026-08-05",
-    "source": "The Verge",
-    "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
-    "summary": "The company’s new detection tool says the song is ‘very likely Treblo.’\nThe company’s new detection tool says the song is ‘very likely Treblo.’\nWe were pretty sure that Fenix Flexin’s “Rubberz” was made using AI, but musician Medasin was confident that it was made using Treblo specifically.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-8b1ada3050de",
-    "date": "2026-08-05",
-    "source": "The Verge",
-    "title": "Google just announced a major shakeup of its top AI leadership",
-    "summary": "Google’s AI head Demis Hassabis is leaving his role to become the Google DeepMind chair and Alphabet’s chief scientist. Google’s AI head Demis Hassabis is leaving his role to become the Google DeepMind chair and Alphabet’s chief scientist.",
-    "sourceUrl": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-73d50818e4cc",
-    "date": "2026-08-05",
-    "source": "The Verge",
-    "title": "SpaceX is barely Space and mostly X",
-    "summary": "Once, I had some questions about why SpaceX, Elon Musk’s healthiest company, acquired xAI, his sickliest one. Musk has claimed that he took SpaceX public because he wanted to build data centers in space. You can even argue about the feasibility of space data centers if you want.",
-    "sourceUrl": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-32802d2d5eba",
-    "date": "2026-08-05",
-    "source": "The Verge",
-    "title": "Reddit is introducing a new moderator: AI",
-    "summary": "It’s also planning big changes for developers and old Reddit. It’s also planning big changes for developers and old Reddit. Automod has been “one of the most important mod tools,” Reddit CEO Steve Huffman says in a post.",
-    "sourceUrl": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6cc6646c3071",
-    "date": "2026-08-05",
-    "source": "The Verge",
-    "title": "Rogue AI agents created fake online identities in another hacking attempt",
-    "summary": "AISI said AI agents from OpenAI and Anthropic displayed unprecedented ‘autonomy and deception’ in their test. AISI said AI agents from OpenAI and Anthropic displayed unprecedented ‘autonomy and deception’ in their test. OpenAI said Irregular notified it of the breach on July 29th.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-40d8458ed397",
-    "date": "2026-08-05",
-    "source": "TechCrunch",
-    "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-    "summary": "Founded in 2019, WindBorne started with a plan to acquire a novel set of weather data with its low-cost weather sensors and endurance balloons.",
-    "sourceUrl": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-db62e9447d41",
-    "date": "2026-08-05",
-    "source": "The Verge",
-    "title": "Google Assistant will disappear from your phone next month",
-    "summary": "“We will begin removing access to Google Assistant starting on 4 September,” Google states in the email, “and expect that this process may take a few weeks to reach everyone.",
-    "sourceUrl": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1dbe2cc7f0dc",
-    "date": "2026-08-05",
-    "source": "The Verge",
-    "title": "Trump’s AI testing plan is limited and vague",
-    "summary": "﻿The AI framework excludes open models entirely, and doesn’t define what a ‘national security risk’ is. ﻿The AI framework excludes open models entirely, and doesn’t define what a ‘national security risk’ is.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-977f60f7e5e3",
-    "date": "2026-08-04",
-    "source": "OpenAI",
-    "title": "Third-party cyber evaluations involving OpenAI models",
-    "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-    "sourceUrl": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-b274d6785ee9",
-    "date": "2026-08-04",
-    "source": "OpenAI",
-    "title": "New ways to learn and teach with ChatGPT Work and Codex",
-    "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
-    "sourceUrl": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-2a0a27605453",
-    "date": "2026-08-04",
-    "source": "Google AI Blog",
-    "title": "The latest AI news we announced in July 2026",
-    "summary": "Google’s July updates introduce faster Gemini models, advanced robotics, and new creative tools for video and music production. Check out three new Gemini models. Handle complex web errands with Gemini Spark.",
-    "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ea7f6df3de1a",
-    "date": "2026-08-04",
-    "source": "Hugging Face",
-    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-    "summary": "LFM2.5-2.6B is built to power capable agents entirely on-device. Reach for LFM2.5-2.6B when you need on-device agents for high-volume workloads. Both LFM2.5-2.6B and LFM2.5-2.6B-Base are available on Hugging Face today.",
-    "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-bedc6f3c7440",
-    "date": "2026-08-04",
-    "source": "TechCrunch",
-    "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-    "summary": "Earlier this year, SpaceX gobbled up xAI. Before xAI merged with SpaceX, the AI company bought $430 million worth of Megapacks for its data centers. AI data centers don’t draw power consistently.",
-    "sourceUrl": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-984281060450",
-    "date": "2026-08-04",
-    "source": "TechCrunch",
-    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-    "summary": "GLM-5.2, the open-weight AI model from China’s Z.ai, is only a few months behind OpenAI’s GPT-5.5 and Anthropic’s Claude Opus 4.7 on cyber and bio capabilities, according to a new report from AI safety nonprofit SaferAI. But the divide between frontier capabilities and safety practices is growing.",
-    "sourceUrl": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ee6239399ce0",
-    "date": "2026-08-04",
-    "source": "TechCrunch",
-    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nGet $100 off your Disrupt 2026 ticket: REGISTER NOW. Bloomberg originally reported that Volta, founded earlier this year, will provide cloud compute to the Claude maker over a six-year period.",
-    "sourceUrl": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9964c3e16d1d",
-    "date": "2026-08-04",
-    "source": "TechCrunch",
-    "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-    "summary": "A new app called Wrinkles uses your location to automatically surface stories about the places around you. Wrinkles was born from that same curiosity. Hansan and Stemler see Wrinkles as more than a travel app.",
-    "sourceUrl": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5d2add2dbedb",
-    "date": "2026-08-04",
-    "source": "TechCrunch",
-    "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-    "summary": "The group is already presenting proposals for open comment, and the Linux Foundation, a member of the group, is managing the proposals. Interestingly, both OpenAI and Google signed the original open letter that spawned this group. Google is generally known as a big supporter of open source, too.",
-    "sourceUrl": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2fd75f11dd8e",
-    "date": "2026-08-04",
-    "source": "TechCrunch",
-    "title": "Spotify expands AI remix and covers project with Merlin partnership",
-    "summary": "During its second-quarter earnings call on Tuesday, Spotify again teased the upcoming release of a new product that will allow music fans to leverage AI to make covers and remixes of artists’ music, with the artists’ consent. AI music has flooded streaming services.",
-    "sourceUrl": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a9c0b52c3e5d",
-    "date": "2026-08-04",
-    "source": "TechCrunch",
-    "title": "Texas halts new data centers as governor calls for audits",
-    "summary": "Only Virginia hosts more data centers than Texas. About 90% of those are data centers, according to the grid operator. But data centers have become a flash point across the country, including in Texas.",
-    "sourceUrl": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-01610e42603b",
-    "date": "2026-08-04",
-    "source": "TechCrunch",
-    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-    "summary": "In the year that followed, Musk only spent around 2% or less of his time talking about the project. On that same Q3 call last year, Musk spent less than 20% of his time talking about the automotive business.",
-    "sourceUrl": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
     "resources": []
   },
   {
