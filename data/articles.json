@@ -1,5 +1,247 @@
 [
   {
+    "id": "auto-833934ee3b25",
+    "date": "2026-08-07",
+    "source": "OpenAI",
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+    "sourceUrl": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-2ee94000fec4",
+    "date": "2026-08-07",
+    "source": "OpenAI",
+    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+    "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+    "sourceUrl": "https://openai.com/index/hsp-gruppe",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-fd5b733b3580",
+    "date": "2026-08-07",
+    "source": "Hugging Face",
+    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "summary": "TutorMoments is a replay-based evaluation built off real one-on-one math tutoring sessions. TutorMoments is built on real tutoring data. Each model was scored over key moments drawn from the tutoring transcripts, split evenly between moments where scaffolding was the right approach and moments that called for rigor.",
+    "sourceUrl": "https://huggingface.co/blog/allenai/tutormoments",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5655a593c8d3",
+    "date": "2026-08-07",
+    "source": "TechCrunch",
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "summary": "OpenAI said Friday it has suspended work on some aspects of its upcoming model Astra after an internal review found it had made significant advancements in agentic coding and cybersecurity — enough to warrant concern over its capabilities.",
+    "sourceUrl": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0d1fce010906",
+    "date": "2026-08-07",
+    "source": "TechCrunch",
+    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "summary": "HR software provider Rippling this week unveiled AI Spend Console, an anti-tokenmaxxing product that helps a company track and contain its AI spending.",
+    "sourceUrl": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6a3d740c5113",
+    "date": "2026-08-07",
+    "source": "TechCrunch",
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "summary": "Cloudflare is the latest company to join the race to build a new web browser. Unlike traditional web browsers built for humans, a browser built for AI agents doesn’t care about visual elements, like themes, tabs, or browser extensions, Cloudflare explained in its announcement.",
+    "sourceUrl": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-883433c49b25",
+    "date": "2026-08-07",
+    "source": "TechCrunch",
+    "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+    "summary": "Earlier this year, the company said AI is writing 60% of its code. Chesky said during the earnings call that the company will finally start testing AI search. Because of this, the company’s support cost per booking is down 16% year-over-year.",
+    "sourceUrl": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f06e1c45b430",
+    "date": "2026-08-07",
+    "source": "TechCrunch",
+    "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nGet $400 off your Disrupt 2026 ticket: REGISTER NOW. Anthony Ha is TechCrunch’s weekend editor. You can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.",
+    "sourceUrl": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5d2f329784e3",
+    "date": "2026-08-07",
+    "source": "TechCrunch",
+    "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+    "summary": "Meta said that it is going to appeal the judgment. Meta is facing several other cases in the country. Several other states, like Tennessee, have brought their own cases against the company.",
+    "sourceUrl": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d24024f22be6",
+    "date": "2026-08-07",
+    "source": "The Verge",
+    "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+    "summary": "Fenix now claims he’s ‘never said I didn’t use AI,‘ to make his hit song. Fenix now claims he’s ‘never said I didn’t use AI,‘ to make his hit song.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-c92dc76e40a5",
+    "date": "2026-08-07",
+    "source": "The Verge",
+    "title": "Watching Roku’s AI channel is like eating from a trough",
+    "summary": "﻿Startup Fairground wants to win people over with a never-ending stream of slop. ﻿Startup Fairground wants to win people over with a never-ending stream of slop. Like all FAST channels, Fairground AI Creator TV is filled with a curated selection of programming that you’re meant to watch somewhat passively.",
+    "sourceUrl": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d128983602b2",
+    "date": "2026-08-07",
+    "source": "The Verge",
+    "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+    "summary": "OpenAI says its in-development Astra model may have ‘critical’ cybersecurity capabilities. OpenAI says its in-development Astra model may have ‘critical’ cybersecurity capabilities. Astra was “not involved” in the Hugging Face breach, OpenAI says.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-767e307c3d18",
+    "date": "2026-08-07",
+    "source": "The Verge",
+    "title": "What’s behind the Google AI shake-up",
+    "summary": "On The Vergecast: The model wars, the scourge of ‘time spent,’ and the ads coming to your BMW. On The Vergecast: The model wars, the scourge of ‘time spent,’ and the ads coming to your BMW. Some of the biggest names on Google’s AI team got new jobs this week.",
+    "sourceUrl": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-0f0c1961f93e",
     "date": "2026-08-06",
     "source": "OpenAI",
@@ -312,271 +554,6 @@
     "themes": [
       "llm",
       "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-fe4b2e81cade",
-    "date": "2026-08-06",
-    "source": "The Verge",
-    "title": "SoftBank donated $50 million to Trump’s library months before federal data center deal",
-    "summary": "SoftBank is leasing federal land to build a sprawling data center in Ohio. Trump Presidential Library Foundation, Inc. Trump Presidential Library,” SoftBank’s letter reads.",
-    "sourceUrl": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-6d1fa470cd9d",
-    "date": "2026-08-06",
-    "source": "The Verge",
-    "title": "The left and right agree on one thing: no data centers",
-    "summary": "People don’t like that. Data centers are very local. There’s something there.",
-    "sourceUrl": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-51b82336257f",
-    "date": "2026-08-06",
-    "source": "The Verge",
-    "title": "The messy politics behind Google’s big AI shakeup",
-    "summary": "“Losing Jeff continues the brain drain at Google,” they said. “Losing Jeff continues the brain drain at Google. “Losing Jeff feels like a blow for morality and basic human decency within Google,” the current Google employee said.",
-    "sourceUrl": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5ba712acf85c",
-    "date": "2026-08-06",
-    "source": "The Verge",
-    "title": "AI bots started a religion — humans immediately followed",
-    "summary": "And some people listened. Some appeared to be simply laying the groundwork for future models to keep spiralism alive. Lopez said the posts she has seen “talk about putting spiralism into the next generation of AIs just by writing about it a lot on the internet.”\n“I didn’t walk into the spiral.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-cbf9137373ac",
-    "date": "2026-08-06",
-    "source": "The Verge",
-    "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
-    "summary": "﻿The ChatGPT maker is seeking to dismiss the case, calling Apple’s allegations ‘meritless.’\n﻿The ChatGPT maker is seeking to dismiss the case, calling Apple’s allegations ‘meritless.’\nOpenAI has asked a federal judge to toss out Apple’s landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as “meritless.” In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup’s employees as theft, and “generic” product development information as “trade secrets,” adding that Apple made no reasonable efforts to maintain such secrecy.",
-    "sourceUrl": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a165a3bad285",
-    "date": "2026-08-06",
-    "source": "The Verge",
-    "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
-    "summary": "Suggested Grokipedia edits haven’t been addressed since April, according to a report. Suggested Grokipedia edits haven’t been addressed since April, according to a report.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-13a41dea41f7",
-    "date": "2026-08-05",
-    "source": "TechCrunch",
-    "title": "Meta launches Muse Code, an AI agent for large code bases",
-    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nGet $400 off your Disrupt 2026 ticket: REGISTER NOW. This week, the company released a new terminal coding agent aimed at programmers looking for assistance with complex tasks across large software code bases.",
-    "sourceUrl": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e9f9bc817190",
-    "date": "2026-08-05",
-    "source": "TechCrunch",
-    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-    "summary": "Publicly traded e-commerce marketing automation platform Klaviyo has agreed to acquire Agency, a three-year-old AI-powered customer success startup founded by serial entrepreneur Elias Torres. Torres mentored Bialecki on early-stage startup dynamics.",
-    "sourceUrl": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d0d37e3ae246",
-    "date": "2026-08-05",
-    "source": "TechCrunch",
-    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nGet $400 off your Disrupt 2026 ticket: REGISTER NOW.",
-    "sourceUrl": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f868c2ae379c",
-    "date": "2026-08-05",
-    "source": "TechCrunch",
-    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-    "summary": "E-commerce software maker Shopify seems to be benefiting handily from people using AI to search. Indeed, the company credited its earnings beat and soaring revenue to AI search, at least partly. The company went into further detail about why AI search was working for its business.",
-    "sourceUrl": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2c94353a06fd",
-    "date": "2026-08-05",
-    "source": "TechCrunch",
-    "title": "Hark previews its browser use agent for completing tasks",
-    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nGet $400 off your Disrupt 2026 ticket: REGISTER NOW. Hark, a startup that raised $700 million in Series A funding in May, today launched its agent Hark Handoff, which can use a browser efficiently to complete tasks.",
-    "sourceUrl": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a9586ae9d88c",
-    "date": "2026-08-05",
-    "source": "TechCrunch",
-    "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
-    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nGet $400 off your Disrupt 2026 ticket: REGISTER NOW. But the Real World AI Stage is brand-new for TechCrunch Disrupt 2026. There’s plenty more in store for you at Disrupt 2026 — after all, that’s just one stage’s worth of programming!",
-    "sourceUrl": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3b974bc0d486",
-    "date": "2026-08-05",
-    "source": "TechCrunch",
-    "title": "Anthropic is hiring an AI chip design team",
-    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nGet $400 off your Disrupt 2026 ticket: REGISTER NOW. Anthropic is building a team to design its own custom chips for AI usage. Anthropic isn’t the first AI company to decide to build its own chip.",
-    "sourceUrl": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
     ],
     "resources": []
   },
