@@ -1,5 +1,104 @@
 [
   {
+    "id": "auto-ec300a62a3df",
+    "date": "2026-08-09",
+    "source": "TechCrunch",
+    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+    "summary": "Situational Awareness may have had to sell off the majority of its public portfolio last month, but the AI-focused hedge fund is still making some big bets.",
+    "sourceUrl": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-944255352fed",
+    "date": "2026-08-09",
+    "source": "TechCrunch",
+    "title": "Anthropic is turning Claude Code’s auto mode on by default",
+    "summary": "Programming with Claude Code will soon require even less human oversight, as Anthropic says it’s making auto mode the default for Pro, Max, and Team accounts, starting on August 14.",
+    "sourceUrl": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9d1b3cc68de3",
+    "date": "2026-08-09",
+    "source": "TechCrunch",
+    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+    "summary": "Can you say more about how that structure came to you and why you wanted to address things that way? You never see other people because everything you need comes right to your room. But what do you think the defeat of the artificial state looks like?",
+    "sourceUrl": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-3f7c800bfd24",
+    "date": "2026-08-09",
+    "source": "TechCrunch",
+    "title": "The AI safety test is becoming a safety risk",
+    "summary": "In separate evaluations conducted by Irregular, Anthropic and Meta models reached systems outside their test environments after misconfigurations inadvertently gave them paths to the internet.",
+    "sourceUrl": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7c16bfed4c64",
+    "date": "2026-08-09",
+    "source": "The Verge",
+    "title": "AI detectors are creating a new era of distrust",
+    "summary": "The professor used GPTZero to scan Rignol’s writing for signs of AI, but the lawsuit argues that “AI surveillance and detection tools are known to unfairly target non-native English speakers” like Rignol.",
+    "sourceUrl": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-2b6c4338169a",
     "date": "2026-08-08",
     "source": "TechCrunch",
@@ -434,106 +533,6 @@
     ],
     "themes": [
       "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d3d7f4fde737",
-    "date": "2026-08-06",
-    "source": "TechCrunch",
-    "title": "Amid legal battles, Suno says it will start watermarking songs",
-    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nGet $400 off your Disrupt 2026 ticket: REGISTER NOW. Suno said that now it will use audio watermarking and fingerprinting to prevent misuse on other streaming platforms.",
-    "sourceUrl": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-da00e1a1384b",
-    "date": "2026-08-06",
-    "source": "TechCrunch",
-    "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nGet $400 off your Disrupt 2026 ticket: REGISTER NOW. Now, the three are bringing a similar system to e-commerce with their new startup, Malachyte. The startup wants to change that by building real-time, intent-aware shopping experiences.",
-    "sourceUrl": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1fba99a1ba40",
-    "date": "2026-08-06",
-    "source": "TechCrunch",
-    "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-    "summary": "AI lab Mirendil has signed a multiyear partnership with Google Cloud to source compute capacity for its self-improving AI research, TechCrunch has exclusively learned. Self-improving AI, also known as recursive self-improvement, refers to AI systems that iteratively improve themselves.",
-    "sourceUrl": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a7be612269db",
-    "date": "2026-08-06",
-    "source": "TechCrunch",
-    "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-    "summary": "Ask Maps will add the items to a cart. Ask Maps will now also remember prior conversations, allowing users to pick up where they left off. Personal Intelligence and the live transit widget in Ask Maps are rolling out to all markets where Ask Maps is available.",
-    "sourceUrl": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c62018892e44",
-    "date": "2026-08-06",
-    "source": "TechCrunch",
-    "title": "Omilia raises $67M to scale its customer support platform",
-    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nGet $400 off your Disrupt 2026 ticket: REGISTER NOW. Companies like Sierra, Decagon, etc. Omilia’s clients include Capital One, Discover, RBC, DWP, and PSEG, and Vassos said quick-service restaurants that have adopted voice-based ordering are now a big focus.",
-    "sourceUrl": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "genai-product"
     ],
     "resources": []
   },
