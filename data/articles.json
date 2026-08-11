@@ -1,5 +1,498 @@
 [
   {
+    "id": "auto-1353da4a7fa7",
+    "date": "2026-08-11",
+    "source": "TechCrunch",
+    "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+    "summary": "The deal, reported by Bloomberg, valued OpenAI at $852 billion, the same as its most recent fundraising round in March, which added $122 billion to the company’s war chest.",
+    "sourceUrl": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-61282b7420ed",
+    "date": "2026-08-10",
+    "source": "OpenAI",
+    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
+    "sourceUrl": "https://openai.com/index/responsible-ai-infrastructure-texas",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-c7b962b1d9ef",
+    "date": "2026-08-10",
+    "source": "OpenAI",
+    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+    "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+    "sourceUrl": "https://openai.com/index/model-ml",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7a678e9a26d7",
+    "date": "2026-08-10",
+    "source": "OpenAI",
+    "title": "What building an AI-native finance function taught me",
+    "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+    "sourceUrl": "https://openai.com/index/building-an-ai-native-finance-function",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-3a8585570cab",
+    "date": "2026-08-10",
+    "source": "OpenAI",
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+    "sourceUrl": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7f776d7829d0",
+    "date": "2026-08-10",
+    "source": "OpenAI",
+    "title": "Putting frontier cyber models in more trusted hands",
+    "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+    "sourceUrl": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-ee449db47d8d",
+    "date": "2026-08-10",
+    "source": "OpenAI",
+    "title": "Premium seats are coming to ChatGPT Business",
+    "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+    "sourceUrl": "https://openai.com/index/premium-seats-chatgpt-business",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-1ea3eea3d9a5",
+    "date": "2026-08-10",
+    "source": "OpenAI",
+    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+    "sourceUrl": "https://openai.com/index/zapier",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-8f3f7b571773",
+    "date": "2026-08-10",
+    "source": "OpenAI",
+    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+    "sourceUrl": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-ae2292bf453d",
+    "date": "2026-08-10",
+    "source": "Google AI Blog",
+    "title": "Evolve your marketing with new AI tools",
+    "summary": "Google is rolling out new artificial intelligence tools in Google Ads and Google Analytics to help you uncover insights and act faster. Now, you can dig even deeper into your campaign performance in Google Analytics with Ask Advisor. Get started today in Google Ads and Google Analytics.",
+    "sourceUrl": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e5b664a37aa3",
+    "date": "2026-08-10",
+    "source": "Hugging Face",
+    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+    "summary": "NVIDIA Magpie Multilingual TTS is built for that. Latency you can measure is useful. Latency you can control is even better.",
+    "sourceUrl": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-90d59cd2b4ce",
+    "date": "2026-08-10",
+    "source": "Hugging Face",
+    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+    "summary": "Offline distillation. A fused, chunked KL loss. We have also open-sourced the chunked-loss implementation: github.com/CompactifAI/Full-Chunked-KL-Loss",
+    "sourceUrl": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0da6fb777e33",
+    "date": "2026-08-10",
+    "source": "Hugging Face",
+    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+    "summary": "You can find Muse Glimmer on the Hugging Face Hub. Muse glimmer need the Hugging Face MCP and the Hugging Face CLI and Skills. Try Muse Glimmer with your local coding setups today!",
+    "sourceUrl": "https://huggingface.co/blog/muse-glimmer",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c1d381bf28de",
+    "date": "2026-08-10",
+    "source": "TechCrunch",
+    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+    "summary": "The expansion includes access to a brand new cyber-focused model designed for defensive work. OpenAI said Monday that Daybreak would now consist of two tiers: Blue and Red. Both of these tiers will allow approved customers access to OpenAI’s limited-access frontier cyber models.",
+    "sourceUrl": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c457f9f01c60",
+    "date": "2026-08-10",
+    "source": "TechCrunch",
+    "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+    "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the “personal superintelligence” systems Meta AI is building.",
+    "sourceUrl": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f1e480bffee7",
+    "date": "2026-08-10",
+    "source": "TechCrunch",
+    "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+    "summary": "Then his agent told him it had found a way to book him into the classes in advance. Bird asked if it could move him up on the waitlist. Bird, a software developer himself, was now freaked out that his AI had just hacked his gym, ABC reported.",
+    "sourceUrl": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e7d6356c97dc",
+    "date": "2026-08-10",
+    "source": "TechCrunch",
+    "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+    "summary": "Meta on Monday released Muse Glimmer, an open-weight model designed to power AI agents locally on consumer hardware, providing the clearest picture yet of what CEO Mark Zuckerberg’s vision of “personal superintelligence” could look like in practice.",
+    "sourceUrl": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-393ea70e1fb7",
+    "date": "2026-08-10",
+    "source": "TechCrunch",
+    "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+    "summary": "Discovered Materials is the latest, with plans to use swarms of AI agents to find new materials that can be used to build more efficient integrated circuits.",
+    "sourceUrl": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-00b23f25dd9b",
+    "date": "2026-08-10",
+    "source": "MIT Technology Review",
+    "title": "AI professors are negotiating the new realities of academic research",
+    "summary": "Even for researchers who don’t run local models themselves, the cost of repeatedly querying OpenAI’s, Anthropic’s, and Google’s models in order to study them rigorously can be prohibitive.",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2231dcf4c34f",
+    "date": "2026-08-10",
+    "source": "MIT Technology Review",
+    "title": "AI for science needs reasoning, not just data",
+    "summary": "Every few decades, someone announces that science has reached its end. Instead, the acceleration of science will come about thanks to another approach: AI agents. While tools like AlphaFold apply a powerful approach to a limited question, agents are inherently generalists.",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5023b389af52",
+    "date": "2026-08-10",
+    "source": "MIT Technology Review",
+    "title": "These startups are chasing the next big thing in LLMs",
+    "summary": "As LLMs get bigger and better, transformers have become a bottleneck. Diffusion LLMs still use transformers to encode meaning, but by producing whole blocks of text at once, they make transformers do more for less. That’s because transformers force LLMs to do everything with text.",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-638db6f13c0d",
+    "date": "2026-08-10",
+    "source": "The Verge",
+    "title": "Mark Zuckerberg doesn’t understand how to live",
+    "summary": "Zuckerberg gives some vague handwaving about personalized therapies, which have long been a goal in medicine. You mean like they do right now, Mark? What have you learned about your own aesthetics from it?",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-38e9f5ee0031",
+    "date": "2026-08-10",
+    "source": "The Verge",
+    "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
+    "summary": "﻿The Meta CEO makes a case for unleashing Pandora’s box. Zuckerberg voices the importance of the US leading the open source AI ecosystem, citing concerns that competing models released by foreign labs “hold several advantages” because they face fewer training data restrictions.",
+    "sourceUrl": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-4427e8e8b939",
+    "date": "2026-08-10",
+    "source": "The Verge",
+    "title": "What happens to Bose when headphones become AI?",
+    "summary": "You said you’re a hybrid. You have limited compute, you have limited power. How do you think about that?",
+    "sourceUrl": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2ad030d458ae",
+    "date": "2026-08-10",
+    "source": "The Verge",
+    "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+    "summary": "The assistant is rolling out to the Ford mobile app now. The assistant is rolling out to the Ford mobile app now. Ford plans on rolling out a voice-powered assistant that works inside the vehicles themselves sometime in 2027 — but for now, customers will have to make do with the app-based assistant.",
+    "sourceUrl": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-ec300a62a3df",
     "date": "2026-08-09",
     "source": "TechCrunch",
@@ -95,444 +588,6 @@
       "ethics",
       "genai-product",
       "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2b6c4338169a",
-    "date": "2026-08-08",
-    "source": "TechCrunch",
-    "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-    "summary": "As part of a planned data center in Pecos County, Texas, Amazon is investing in an on-site power plant that could become the largest source of climate pollution in the United States, according to The New York Times.",
-    "sourceUrl": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-c9329978009e",
-    "date": "2026-08-08",
-    "source": "TechCrunch",
-    "title": "OpenAI acquires presentation startup NextSlide",
-    "summary": "NextSlide recently announced that it’s joining OpenAI, with the presentation startup’s team members now working on ChatGPT.",
-    "sourceUrl": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-3835de70aa7a",
-    "date": "2026-08-08",
-    "source": "The Verge",
-    "title": "An Amazon data center could have the worst polluting power plant in the country",
-    "summary": "An Amazon-owned site in Pecos County, Texas, received a permit to release up to 33 million tons of CO2. An Amazon-owned site in Pecos County, Texas, received a permit to release up to 33 million tons of CO2.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-833934ee3b25",
-    "date": "2026-08-07",
-    "source": "OpenAI",
-    "title": "Responding to the next frontier of critical cyber capabilities",
-    "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-    "sourceUrl": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-2ee94000fec4",
-    "date": "2026-08-07",
-    "source": "OpenAI",
-    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-    "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-    "sourceUrl": "https://openai.com/index/hsp-gruppe",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-fd5b733b3580",
-    "date": "2026-08-07",
-    "source": "Hugging Face",
-    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-    "summary": "TutorMoments is a replay-based evaluation built off real one-on-one math tutoring sessions. TutorMoments is built on real tutoring data. Each model was scored over key moments drawn from the tutoring transcripts, split evenly between moments where scaffolding was the right approach and moments that called for rigor.",
-    "sourceUrl": "https://huggingface.co/blog/allenai/tutormoments",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5655a593c8d3",
-    "date": "2026-08-07",
-    "source": "TechCrunch",
-    "title": "OpenAI says it slowed Astra model development over security concerns",
-    "summary": "OpenAI said Friday it has suspended work on some aspects of its upcoming model Astra after an internal review found it had made significant advancements in agentic coding and cybersecurity — enough to warrant concern over its capabilities.",
-    "sourceUrl": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0d1fce010906",
-    "date": "2026-08-07",
-    "source": "TechCrunch",
-    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-    "summary": "HR software provider Rippling this week unveiled AI Spend Console, an anti-tokenmaxxing product that helps a company track and contain its AI spending.",
-    "sourceUrl": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6a3d740c5113",
-    "date": "2026-08-07",
-    "source": "TechCrunch",
-    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "summary": "Cloudflare is the latest company to join the race to build a new web browser. Unlike traditional web browsers built for humans, a browser built for AI agents doesn’t care about visual elements, like themes, tabs, or browser extensions, Cloudflare explained in its announcement.",
-    "sourceUrl": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-883433c49b25",
-    "date": "2026-08-07",
-    "source": "TechCrunch",
-    "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-    "summary": "Earlier this year, the company said AI is writing 60% of its code. Chesky said during the earnings call that the company will finally start testing AI search. Because of this, the company’s support cost per booking is down 16% year-over-year.",
-    "sourceUrl": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f06e1c45b430",
-    "date": "2026-08-07",
-    "source": "TechCrunch",
-    "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nGet $400 off your Disrupt 2026 ticket: REGISTER NOW. Anthony Ha is TechCrunch’s weekend editor. You can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.",
-    "sourceUrl": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5d2f329784e3",
-    "date": "2026-08-07",
-    "source": "TechCrunch",
-    "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-    "summary": "Meta said that it is going to appeal the judgment. Meta is facing several other cases in the country. Several other states, like Tennessee, have brought their own cases against the company.",
-    "sourceUrl": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d24024f22be6",
-    "date": "2026-08-07",
-    "source": "The Verge",
-    "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-    "summary": "Fenix now claims he’s ‘never said I didn’t use AI,‘ to make his hit song. Fenix now claims he’s ‘never said I didn’t use AI,‘ to make his hit song.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-c92dc76e40a5",
-    "date": "2026-08-07",
-    "source": "The Verge",
-    "title": "Watching Roku’s AI channel is like eating from a trough",
-    "summary": "﻿Startup Fairground wants to win people over with a never-ending stream of slop. ﻿Startup Fairground wants to win people over with a never-ending stream of slop. Like all FAST channels, Fairground AI Creator TV is filled with a curated selection of programming that you’re meant to watch somewhat passively.",
-    "sourceUrl": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d128983602b2",
-    "date": "2026-08-07",
-    "source": "The Verge",
-    "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-    "summary": "OpenAI says its in-development Astra model may have ‘critical’ cybersecurity capabilities. OpenAI says its in-development Astra model may have ‘critical’ cybersecurity capabilities. Astra was “not involved” in the Hugging Face breach, OpenAI says.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-767e307c3d18",
-    "date": "2026-08-07",
-    "source": "The Verge",
-    "title": "What’s behind the Google AI shake-up",
-    "summary": "On The Vergecast: The model wars, the scourge of ‘time spent,’ and the ads coming to your BMW. On The Vergecast: The model wars, the scourge of ‘time spent,’ and the ads coming to your BMW. Some of the biggest names on Google’s AI team got new jobs this week.",
-    "sourceUrl": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0f0c1961f93e",
-    "date": "2026-08-06",
-    "source": "OpenAI",
-    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-    "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-    "sourceUrl": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6da5f2d271da",
-    "date": "2026-08-06",
-    "source": "OpenAI",
-    "title": "Working with the American Psychological Association on youth mental health and AI",
-    "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
-    "sourceUrl": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-fea9ae47ebf2",
-    "date": "2026-08-06",
-    "source": "OpenAI",
-    "title": "From asking to doing: How the world is putting ChatGPT to work",
-    "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
-    "sourceUrl": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-72ea094fa822",
-    "date": "2026-08-06",
-    "source": "Hugging Face",
-    "title": "Baseten on Hugging Face Inference Providers 🔥",
-    "summary": "Follow Baseten on Hugging Face: https://huggingface.co/baseten. Baseten is available through the Hugging Face SDKs - huggingface_hub (>= 1.26.1) for Python and @huggingface/inference for JavaScript. For instance, if you use a baseten API key you're billed on your baseten account.",
-    "sourceUrl": "https://huggingface.co/blog/baseten",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-4255172739ea",
-    "date": "2026-08-06",
-    "source": "TechCrunch",
-    "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nGet $400 off your Disrupt 2026 ticket: REGISTER NOW. OpenAI releasing a smart home device has a certain logic to it, in that it would further integrate ChatGPT into users’ lives. OpenAI has denied wrongdoing.",
-    "sourceUrl": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-587e2720ff86",
-    "date": "2026-08-06",
-    "source": "TechCrunch",
-    "title": "ChatGPT brings unlimited text chats to free users",
-    "summary": "The new GPT-5.6 Luna model will power this experience and will be the default model for Free and Go users, replacing GPT-5.5. OpenAI said an internal evaluation found that, compared to GPT-5.5-Instant, factual errors were 62% less common for GPT-5.6 Luna and 68% less common for GPT-5.6 Sol.",
-    "sourceUrl": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-cb9c8c68c6dc",
-    "date": "2026-08-06",
-    "source": "TechCrunch",
-    "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-    "summary": "“You know, the first business that a lot of people start is genuinely just selling agents to other small businesses […] We have some customers who run an entire rental-car agency autonomously.”\nBut this toolkit for running businesses may only be part of Naïve’s opportunity.",
-    "sourceUrl": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-698e59b3fc37",
-    "date": "2026-08-06",
-    "source": "TechCrunch",
-    "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-    "summary": "Then Ditto gets into more specific questions to understand someone’s personality, interests, and dating preferences.",
-    "sourceUrl": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a4d19f269b5f",
-    "date": "2026-08-06",
-    "source": "TechCrunch",
-    "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-    "summary": "Rather than focusing on whether former Apple employees working at OpenAI had accessed certain information, the AI company argues that Apple’s own security practices and offboarding procedures weaken its claim that the information qualifies as legally protected “trade secrets.”\nApple’s complaint, filed in July, accuses OpenAI of orchestrating a scheme to obtain confidential hardware information from former Apple engineers.",
-    "sourceUrl": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
     ],
     "resources": []
   },
