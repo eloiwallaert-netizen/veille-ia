@@ -1,5 +1,429 @@
 [
   {
+    "id": "auto-fb21820d806b",
+    "date": "2026-08-12",
+    "source": "OpenAI",
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+    "sourceUrl": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-cad35e6294fe",
+    "date": "2026-08-12",
+    "source": "OpenAI",
+    "title": "How RingCentral builds AI-native work from engineering to ops",
+    "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+    "sourceUrl": "https://openai.com/index/ringcentral",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-e43158037a35",
+    "date": "2026-08-12",
+    "source": "Hugging Face",
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "summary": "Custom-computed embeddings are now available for users of OlmoEarth Studio. Similar embeddings get similar colors automatically. Create a project, configure an embeddings model, and compute your embeddings.",
+    "sourceUrl": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ab799e9da743",
+    "date": "2026-08-12",
+    "source": "Hugging Face",
+    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "summary": "LFM2.5-VL-3B extends the vision-language capabilities of our previous releases with four major improvements:\nLFM2.5-VL-3B pairs a SigLIP2 400M NaFlex vision encoder with the same pre-trained backbone as our LFM2.5-2.6B text model. We evaluated LFM2.5-VL-3B across both vision and text benchmarks.",
+    "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6648dbd01204",
+    "date": "2026-08-12",
+    "source": "TechCrunch",
+    "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+    "summary": "Anthropic recently made the decision to watermark Claude’s outputs — inserting invisible code into the chatbot’s editorial text that marks it as AI-generated. The student who used Claude to reorganize a paragraph.",
+    "sourceUrl": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-05510c646bcd",
+    "date": "2026-08-12",
+    "source": "TechCrunch",
+    "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+    "summary": "The streaming platform Twitch will now use creators’ content to help train generative AI models for its parent company, Amazon. But Twitch users worry that since creators have to manually opt out, they might be surrendering their content to train Amazon’s AI content models without even knowing it.",
+    "sourceUrl": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b83b50f51835",
+    "date": "2026-08-12",
+    "source": "TechCrunch",
+    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+    "summary": "Cognition, maker of the AI coding agent Devin, is reportedly already talking to investors about raising another funding round with a big leap in valuation, after it raised $1 billion at a $26 billon valuation in May.",
+    "sourceUrl": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-84d87ed8b9ce",
+    "date": "2026-08-12",
+    "source": "TechCrunch",
+    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+    "summary": "“Open source is great. That’s very different,” Hinton said. We now have open-weight models, so the barrier to lots of people getting these big models, which was the cost of training foundation models, that barrier has disappeared.",
+    "sourceUrl": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-26e311ec1c77",
+    "date": "2026-08-12",
+    "source": "TechCrunch",
+    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+    "summary": "Thrive Holdings is akin to a private equity firm for AI, buying traditional businesses like accounting firms and implementing AI into their workflows. In December 2025, OpenAI took an ownership stake in Thrive Holdings.",
+    "sourceUrl": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-82aaff986494",
+    "date": "2026-08-12",
+    "source": "TechCrunch",
+    "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+    "summary": "On Android, the company customized Mesh’s app to work with key platform features, like split-screen and pop-up views. This allows users to access Mesh while working in other apps, like messages or email.",
+    "sourceUrl": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-12039e33c821",
+    "date": "2026-08-12",
+    "source": "TechCrunch",
+    "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+    "summary": "Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way. Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts.",
+    "sourceUrl": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-1880293b64f3",
+    "date": "2026-08-12",
+    "source": "TechCrunch",
+    "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+    "summary": "Europe’s favorite vibe-coding startup Lovable has confirmed previously reported whispers that it was raising another mega round at a $13.3 billion valuation. This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
+    "sourceUrl": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-c102a64d07ec",
+    "date": "2026-08-12",
+    "source": "TechCrunch",
+    "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+    "summary": "Even the acquirer, Minute Media, seems to be backing away. Shrivastav and Minute Media had agreed to induce Clippings’ shareholders to approve the merger.”\nEven VideoVerse executives have begun lobbing accusations. But Lingotto now says critical documents provided by Shrivastav were forged.",
+    "sourceUrl": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7b115a886840",
+    "date": "2026-08-12",
+    "source": "TechCrunch",
+    "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
+    "summary": "On this episode of TechCrunch’s Equity podcast, Rebecca Bellan talks with Sandbar co-founder and CEO Mina Fahmi about why he thinks so many voice hardware devices before Stream struggled to break through, and why he’s betting that keeping the human firmly in control is what it’ll take to get wearable tech right.",
+    "sourceUrl": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-3eb99b6d02d6",
+    "date": "2026-08-12",
+    "source": "TechCrunch",
+    "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+    "summary": "The company says the Pixel 11 Pro and Pixel 11 Pro XL have improved drop resistance and a new anti-scratch display coating that provides more than twice the scratch resistance of the Pixel 10 Pro models. The Pixel 11 Pro starts at $1,099, compared to $999 for the Pixel 10 Pro.",
+    "sourceUrl": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-4f312455f728",
+    "date": "2026-08-12",
+    "source": "TechCrunch",
+    "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+    "summary": "Founded in 2024, Blacksmith helps companies build, test, and verify software before it reaches production. Jayaprakash said his startup is competing on the speed of testing code as well as affordability.",
+    "sourceUrl": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c0a1cd381041",
+    "date": "2026-08-12",
+    "source": "MIT Technology Review",
+    "title": "Scaling AI agents with trustworthy data",
+    "summary": "Two-thirds of data laggards say legacy data systems limit AI agent scaling (66%) and prevent agents from making decisions at speed (68%). Data access and context are top priorities. Data leaders are also focusing heavily on the automation of data management.",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-70c73a35f66a",
+    "date": "2026-08-12",
+    "source": "The Verge",
+    "title": "Twitch streamers can now opt out from training Amazon’s AI",
+    "summary": "Flip the new Twitch toggle if you don’t want your content to be used to train Amazon’s generative AI content models. Flip the new Twitch toggle if you don’t want your content to be used to train Amazon’s generative AI content models.",
+    "sourceUrl": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-617b8a3f0682",
+    "date": "2026-08-12",
+    "source": "The Verge",
+    "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+    "summary": "After initially denying it, the company now admits that its string demo video was made with Suno. After initially denying it, the company now admits that its string demo video was made with Suno. D’Addario has now admitted that Suno Studio was used to regenerate the track.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1b0e93cced6d",
+    "date": "2026-08-12",
+    "source": "The Verge",
+    "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+    "summary": "The $399 Google Pixel Watch 5 isn’t about the hardware. Two other health features are blood pressure trends and insulin resistance trends. Last year, Google introduced dual-frequency GPS.",
+    "sourceUrl": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2484f165f26a",
+    "date": "2026-08-12",
+    "source": "The Verge",
+    "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+    "summary": "That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer “personalised mRNA cancer vaccines for dogs.” But his ambitions go well beyond dogs — and pets — with Gamgee’s website promising the company will harness AI and genetics to develop personalized treatments for a range of diseases and species, including humans.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-4312292f9917",
+    "date": "2026-08-12",
+    "source": "The Verge",
+    "title": "Grok is now an AI ‘teammate’ you can assign work",
+    "summary": "﻿The Grok Bot AI agents can work independently using their own cloud-based computer. ﻿The Grok Bot AI agents can work independently using their own cloud-based computer. SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent “AI teammates” that can do your work for you.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-1b1c36bc0450",
     "date": "2026-08-12",
     "source": "The Verge",
@@ -154,392 +578,6 @@
       "agents",
       "automation",
       "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-34ac2f6b9783",
-    "date": "2026-08-11",
-    "source": "TechCrunch",
-    "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-    "summary": "Brad Lightcap, one of the longest-serving executives at OpenAI, is leaving the powerful AI lab to “start something new.”\nIn an internal message that Lightcap shared online Tuesday, the outgoing executive told OpenAI staff that it was “bittersweet to share that I’ll be moving on from OpenAI to start something new.”\nLightcap, who joined the company in 2018, spent four years as OpenAI’s chief financial officer.",
-    "sourceUrl": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-76fde13897ce",
-    "date": "2026-08-11",
-    "source": "TechCrunch",
-    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-    "summary": "Less like the assistants you call on today when you need a task done, more like guardian angels: quietly present, on your side, helping with what actually matters to you. “Prompting steers a model you don’t own and can’t improve.",
-    "sourceUrl": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5570c557a3ab",
-    "date": "2026-08-11",
-    "source": "TechCrunch",
-    "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-    "summary": "On Monday, Anthropic announced that an as-yet-unreleased model had made significant progress on the Riemann hypothesis, significantly increasing the lower bound of solutions for which the hypothesis holds true.",
-    "sourceUrl": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-606016c2c865",
-    "date": "2026-08-11",
-    "source": "TechCrunch",
-    "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-    "summary": "Spotify will begin labeling AI-generated artists with “AI Persona” profile tags and ban their music from its editorial and algorithmic recommendations, the company announced on Tuesday.",
-    "sourceUrl": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6899735f131a",
-    "date": "2026-08-11",
-    "source": "TechCrunch",
-    "title": "Anthropic says it will watermark text generated by its AI models",
-    "summary": "Anthropic will watermark text generated by its models, including Claude, to comply with European regulations, the company now says. Anthropic said that all models released after August 2 will automatically have tech to watermark both computer-generated text and files.",
-    "sourceUrl": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-72f52ad1b938",
-    "date": "2026-08-11",
-    "source": "The Verge",
-    "title": "ChatGPT and Gemini both just passed 1 billion users",
-    "summary": "For the 14th time, a Google product has hit 1 billion users. OpenAI spokesperson Lindsay McCallum says ChatGPT crossed 1 billion monthly users some time ago, and hit a billion a week in July. McCallum declined to say how many monthly users ChatGPT has.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-4b76f34b9372",
-    "date": "2026-08-11",
-    "source": "The Verge",
-    "title": "Another OpenAI executive takes off",
-    "summary": "Brad Lightcap, special projects lead and the company’s former COO, will be departing. Brad Lightcap, special projects lead and the company’s former COO, will be departing. Brad Lightcap, OpenAI’s special projects lead and the company’s former COO, announced his departure after an eight-year stint at the AI lab.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-816ed2f1a2f2",
-    "date": "2026-08-11",
-    "source": "The Verge",
-    "title": "Made by Google 2026: all the Pixel news and announcements",
-    "summary": "Google may take the wraps off the new devices well ahead of its Made by Google livestream. This year, Google has only escalated matters. It’s that time of year: On Wednesday, Google is set to host its annual Made by Google hardware launch event for Pixel gadgets.",
-    "sourceUrl": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-95bd5da674d9",
-    "date": "2026-08-11",
-    "source": "The Verge",
-    "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
-    "summary": "‘Apple Reference Image’ may soon allow iPhone users to authenticate photographs at the point of capture.﻿\n‘Apple Reference Image’ may soon allow iPhone users to authenticate photographs at the point of capture.﻿\nApple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera.",
-    "sourceUrl": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-493648df61c5",
-    "date": "2026-08-11",
-    "source": "The Verge",
-    "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-    "summary": "The Zoom vulnerability allowed hackers to take over everyone’s device on a call, security researchers say. The Zoom vulnerability allowed hackers to take over everyone’s device on a call, security researchers say.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a3faa36ed318",
-    "date": "2026-08-11",
-    "source": "The Verge",
-    "title": "Why your Amazon order confirmation emails have become so unhelpful",
-    "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn’t name specific items anymore, and instead listed only item categories. Amazon has been more protective of its direct relationship with shoppers.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5f3f98dab4f3",
-    "date": "2026-08-11",
-    "source": "The Verge",
-    "title": "Spotify says it won’t recommend music from ‘AI Personas’",
-    "summary": "Spotify will apply an ‘AI Persona’ badge to profiles that do ‘not represent a real person.’\nSpotify will apply an ‘AI Persona’ badge to profiles that do ‘not represent a real person.’\nSpotify will soon label AI artists and remove their music from your recommendations.",
-    "sourceUrl": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-fe459dc13f2f",
-    "date": "2026-08-11",
-    "source": "The Verge",
-    "title": "Claude will apply invisible watermarks to AI text and images",
-    "summary": "“Generated text will carry embedded watermarks, and generated files will include digitally signed provenance metadata where supported,” Anthropic says on a new Claude support page.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-69a3ccd0de54",
-    "date": "2026-08-11",
-    "source": "The Verge",
-    "title": "The AI takeover of mathematics has begun",
-    "summary": "OpenAI showed that AI can tackle long-standing problems in mathematics. “It’s rather sloppy,” Kun said.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1353da4a7fa7",
-    "date": "2026-08-11",
-    "source": "TechCrunch",
-    "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-    "summary": "The deal, reported by Bloomberg, valued OpenAI at $852 billion, the same as its most recent fundraising round in March, which added $122 billion to the company’s war chest.",
-    "sourceUrl": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-61282b7420ed",
-    "date": "2026-08-10",
-    "source": "OpenAI",
-    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-    "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-    "sourceUrl": "https://openai.com/index/responsible-ai-infrastructure-texas",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-c7b962b1d9ef",
-    "date": "2026-08-10",
-    "source": "OpenAI",
-    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-    "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-    "sourceUrl": "https://openai.com/index/model-ml",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-7a678e9a26d7",
-    "date": "2026-08-10",
-    "source": "OpenAI",
-    "title": "What building an AI-native finance function taught me",
-    "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-    "sourceUrl": "https://openai.com/index/building-an-ai-native-finance-function",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3a8585570cab",
-    "date": "2026-08-10",
-    "source": "OpenAI",
-    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-    "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-    "sourceUrl": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-7f776d7829d0",
-    "date": "2026-08-10",
-    "source": "OpenAI",
-    "title": "Putting frontier cyber models in more trusted hands",
-    "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-    "sourceUrl": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-ee449db47d8d",
-    "date": "2026-08-10",
-    "source": "OpenAI",
-    "title": "Premium seats are coming to ChatGPT Business",
-    "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
-    "sourceUrl": "https://openai.com/index/premium-seats-chatgpt-business",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-1ea3eea3d9a5",
-    "date": "2026-08-10",
-    "source": "OpenAI",
-    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-    "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-    "sourceUrl": "https://openai.com/index/zapier",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
     ],
     "resources": []
   },
