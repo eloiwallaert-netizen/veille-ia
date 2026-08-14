@@ -1,5 +1,481 @@
 [
   {
+    "id": "auto-855fa77e93e1",
+    "date": "2026-08-13",
+    "source": "OpenAI",
+    "title": "The builder’s guide to GPT‑5.6",
+    "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+    "sourceUrl": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6357d7795d21",
+    "date": "2026-08-13",
+    "source": "OpenAI",
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+    "sourceUrl": "https://openai.com/index/previewing-ultrafast",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9e022b7caa78",
+    "date": "2026-08-13",
+    "source": "OpenAI",
+    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+    "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+    "sourceUrl": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-4cbb438f4fdf",
+    "date": "2026-08-13",
+    "source": "Google AI Blog",
+    "title": "Bring your spreadsheet data to life with Sheets canvas",
+    "summary": "Google Sheets now features Sheets canvas, a tool that uses artificial intelligence to turn your data into interactive, visual mini-apps without any coding. With Sheets canvas, you can turn a long list of assignments into an interactive study aid.",
+    "sourceUrl": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c1c988556190",
+    "date": "2026-08-13",
+    "source": "Hugging Face",
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "summary": "Record the episode, then sync the finished dataset into a bucket. Pass an explicit run_id per collection run, as in sync_dataset_to_bucket(\"./recordings\", \"my-org/robot-fave\", run_id=\"run-021\").",
+    "sourceUrl": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5fa28c256021",
+    "date": "2026-08-13",
+    "source": "Hugging Face",
+    "title": "What We Learned by Reproducing 2,200 papers from ICML",
+    "summary": "Here is what a finished reproduction looks like:\nBy the numbers, this hackathon was probably the largest attempted reproduction of a scientific conference:\nAggregating the claim-level verdicts per paper:\n51% of examined papers (1,103) had at least one claim independently verified.",
+    "sourceUrl": "https://huggingface.co/blog/icml-2026-open-reproductions",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-952a2dd22c0e",
+    "date": "2026-08-13",
+    "source": "TechCrunch",
+    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "summary": "Together with the new model, the company also released significant upgrades to its standard agentic harness. A recent paper from Writer researchers lends credence to this approach, testing small changes in harness efficiency across multiple different models.",
+    "sourceUrl": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9409c8f8a952",
+    "date": "2026-08-13",
+    "source": "TechCrunch",
+    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "summary": "This scenario recently played out with AI big-data company Databricks and its latest $5 billion raise announced Thursday, co-founder and CEO Ali Ghodsi (pictured above) told TechCrunch. The company had already raised $20 billion over the past 20 months. AI is expensive, Ghodsi said.",
+    "sourceUrl": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a894d6a4673a",
+    "date": "2026-08-13",
+    "source": "TechCrunch",
+    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "summary": "“Ultrafast points to progress in a new direction: more useful work per second.”\nOpenAI’s competitors, like Anthropic, have similarly launched accelerated versions of their models. Claude has fast mode, although it doesn’t deliver the kind of speed that OpenAI is offering here.",
+    "sourceUrl": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-79aa75fcb7a5",
+    "date": "2026-08-13",
+    "source": "TechCrunch",
+    "title": "IBM partners with OpenAI to bolster enterprise AI push",
+    "summary": "OpenAI and IBM will jointly market AI offerings and develop industry-specific solutions for sectors including financial services, government, telecommunications, and retail, IBM said.",
+    "sourceUrl": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d83d050a9809",
+    "date": "2026-08-13",
+    "source": "TechCrunch",
+    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+    "summary": "What happens when you pit AI agents against each other? Agents are just like us. Working together creates a new trust boundary; agents will have to judge information received from other agents.",
+    "sourceUrl": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d15dea0ae7b5",
+    "date": "2026-08-13",
+    "source": "TechCrunch",
+    "title": "OpenAI hires new CRO as executive shake-up continues",
+    "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab’s top sales job. 2 executive, CEO of AGI deployment Fidji Simo.",
+    "sourceUrl": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-024707716675",
+    "date": "2026-08-13",
+    "source": "TechCrunch",
+    "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+    "summary": "As initially reported by GeekWire and detailed in Microsoft’s support documentation, the tech giant will combine the functionality of its consumer-facing Copilot app and the more business-oriented Microsoft 365 Copilot app.",
+    "sourceUrl": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-fc27ea23a8d5",
+    "date": "2026-08-13",
+    "source": "TechCrunch",
+    "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+    "summary": "That is, Nvidia’s obligations will grow as demand weakens. The Lucent comparison is a shadow over Nvidia, Huang knows. In that future, Nvidia cares as much about aging architecture as it does the new chips.",
+    "sourceUrl": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5e692bda6f8f",
+    "date": "2026-08-13",
+    "source": "TechCrunch",
+    "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+    "summary": "Apple is in talks to pay publishers to use their content to power the upcoming Siri AI, according to a new report from The Wall Street Journal. The tech giant has reached out to publishers in recent months about using their content to provide Siri with access to current news and information.",
+    "sourceUrl": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ce303cd37c53",
+    "date": "2026-08-13",
+    "source": "MIT Technology Review",
+    "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+    "summary": "Flock’s 120,000 cameras form a nationwide network that police departments can use, giving officers access to an enormous pool of searchable location data. Because Flock won’t verify case numbers, officers could circumvent the new safeguard just as easily.",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5ee3fd3c5de3",
+    "date": "2026-08-13",
+    "source": "MIT Technology Review",
+    "title": "How kids feel about AI, in their own words",
+    "summary": "You just put what you’ve made out there. You can find pretty much anything. You can’t have it just write for you, but you can use it to help.",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2cd82d85e587",
+    "date": "2026-08-13",
+    "source": "The Verge",
+    "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+    "summary": "Mico launched in Copilot’s voice mode less than a year ago. Mico launched in Copilot’s voice mode less than a year ago. “Those learnings are shaping Copilot going forward.” Microsoft is removing Mico from Copilot “in waves.”\nThe change is part of Microsoft’s plans to merge its Copilot and Microsoft 365 Copilot apps.",
+    "sourceUrl": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7bececf76d95",
+    "date": "2026-08-13",
+    "source": "The Verge",
+    "title": "OpenAI is losing its second executive this week",
+    "summary": "﻿Chief revenue officer Denise Dresser announced she is leaving OpenAI. ﻿Chief revenue officer Denise Dresser announced she is leaving OpenAI. Two days ago, Brad Lightcap also said he’d be leaving.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-9f3f44e2b729",
+    "date": "2026-08-13",
+    "source": "The Verge",
+    "title": "Suno is trying to look more like a real music production tool",
+    "summary": "Studio 2.0 adds MIDI, effects plugins, and a synth, but also a chatbot that does everything for you. Studio 2.0 adds MIDI, effects plugins, and a synth, but also a chatbot that does everything for you.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-10836071bb56",
+    "date": "2026-08-13",
+    "source": "The Verge",
+    "title": "I looked inside an AI generated movie, and the best parts were all human",
+    "summary": "But all of this actually comes from Cully Hill Boys, the latest project from the AI filmmaking platform Higgsfield. In addition to posting Cully Hill Boys online, Higgsfield published many of the prompts that were used to make it. Cully Hill Boys’ story was crafted by a human with an understanding of proper pacing.",
+    "sourceUrl": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a1ebe27fc26a",
+    "date": "2026-08-13",
+    "source": "The Verge",
+    "title": "Does Google even want to win at AI?",
+    "summary": "Google reorganized its AI division, Google DeepMind. How do you see that playing out inside of Google? There’s a lot here where Google just has structural advantages.",
+    "sourceUrl": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6e6b6506dea2",
+    "date": "2026-08-13",
+    "source": "The Verge",
+    "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
+    "summary": "Merging Copilot will finally get rid of the annoying double icons.﻿\nMerging Copilot will finally get rid of the annoying double icons.﻿\nMicrosoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single “super app” interface, starting with the Copilot and Microsoft 365 Copilot apps.",
+    "sourceUrl": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-fb21820d806b",
     "date": "2026-08-12",
     "source": "OpenAI",
@@ -126,458 +602,6 @@
     ],
     "themes": [
       "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-84d87ed8b9ce",
-    "date": "2026-08-12",
-    "source": "TechCrunch",
-    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-    "summary": "“Open source is great. That’s very different,” Hinton said. We now have open-weight models, so the barrier to lots of people getting these big models, which was the cost of training foundation models, that barrier has disappeared.",
-    "sourceUrl": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-26e311ec1c77",
-    "date": "2026-08-12",
-    "source": "TechCrunch",
-    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-    "summary": "Thrive Holdings is akin to a private equity firm for AI, buying traditional businesses like accounting firms and implementing AI into their workflows. In December 2025, OpenAI took an ownership stake in Thrive Holdings.",
-    "sourceUrl": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-82aaff986494",
-    "date": "2026-08-12",
-    "source": "TechCrunch",
-    "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-    "summary": "On Android, the company customized Mesh’s app to work with key platform features, like split-screen and pop-up views. This allows users to access Mesh while working in other apps, like messages or email.",
-    "sourceUrl": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-12039e33c821",
-    "date": "2026-08-12",
-    "source": "TechCrunch",
-    "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-    "summary": "Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way. Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts.",
-    "sourceUrl": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-1880293b64f3",
-    "date": "2026-08-12",
-    "source": "TechCrunch",
-    "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-    "summary": "Europe’s favorite vibe-coding startup Lovable has confirmed previously reported whispers that it was raising another mega round at a $13.3 billion valuation. This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
-    "sourceUrl": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-c102a64d07ec",
-    "date": "2026-08-12",
-    "source": "TechCrunch",
-    "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-    "summary": "Even the acquirer, Minute Media, seems to be backing away. Shrivastav and Minute Media had agreed to induce Clippings’ shareholders to approve the merger.”\nEven VideoVerse executives have begun lobbing accusations. But Lingotto now says critical documents provided by Shrivastav were forged.",
-    "sourceUrl": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-7b115a886840",
-    "date": "2026-08-12",
-    "source": "TechCrunch",
-    "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
-    "summary": "On this episode of TechCrunch’s Equity podcast, Rebecca Bellan talks with Sandbar co-founder and CEO Mina Fahmi about why he thinks so many voice hardware devices before Stream struggled to break through, and why he’s betting that keeping the human firmly in control is what it’ll take to get wearable tech right.",
-    "sourceUrl": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3eb99b6d02d6",
-    "date": "2026-08-12",
-    "source": "TechCrunch",
-    "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-    "summary": "The company says the Pixel 11 Pro and Pixel 11 Pro XL have improved drop resistance and a new anti-scratch display coating that provides more than twice the scratch resistance of the Pixel 10 Pro models. The Pixel 11 Pro starts at $1,099, compared to $999 for the Pixel 10 Pro.",
-    "sourceUrl": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-4f312455f728",
-    "date": "2026-08-12",
-    "source": "TechCrunch",
-    "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-    "summary": "Founded in 2024, Blacksmith helps companies build, test, and verify software before it reaches production. Jayaprakash said his startup is competing on the speed of testing code as well as affordability.",
-    "sourceUrl": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c0a1cd381041",
-    "date": "2026-08-12",
-    "source": "MIT Technology Review",
-    "title": "Scaling AI agents with trustworthy data",
-    "summary": "Two-thirds of data laggards say legacy data systems limit AI agent scaling (66%) and prevent agents from making decisions at speed (68%). Data access and context are top priorities. Data leaders are also focusing heavily on the automation of data management.",
-    "sourceUrl": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-70c73a35f66a",
-    "date": "2026-08-12",
-    "source": "The Verge",
-    "title": "Twitch streamers can now opt out from training Amazon’s AI",
-    "summary": "Flip the new Twitch toggle if you don’t want your content to be used to train Amazon’s generative AI content models. Flip the new Twitch toggle if you don’t want your content to be used to train Amazon’s generative AI content models.",
-    "sourceUrl": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-617b8a3f0682",
-    "date": "2026-08-12",
-    "source": "The Verge",
-    "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
-    "summary": "After initially denying it, the company now admits that its string demo video was made with Suno. After initially denying it, the company now admits that its string demo video was made with Suno. D’Addario has now admitted that Suno Studio was used to regenerate the track.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1b0e93cced6d",
-    "date": "2026-08-12",
-    "source": "The Verge",
-    "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
-    "summary": "The $399 Google Pixel Watch 5 isn’t about the hardware. Two other health features are blood pressure trends and insulin resistance trends. Last year, Google introduced dual-frequency GPS.",
-    "sourceUrl": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2484f165f26a",
-    "date": "2026-08-12",
-    "source": "The Verge",
-    "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-    "summary": "That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer “personalised mRNA cancer vaccines for dogs.” But his ambitions go well beyond dogs — and pets — with Gamgee’s website promising the company will harness AI and genetics to develop personalized treatments for a range of diseases and species, including humans.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-4312292f9917",
-    "date": "2026-08-12",
-    "source": "The Verge",
-    "title": "Grok is now an AI ‘teammate’ you can assign work",
-    "summary": "﻿The Grok Bot AI agents can work independently using their own cloud-based computer. ﻿The Grok Bot AI agents can work independently using their own cloud-based computer. SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent “AI teammates” that can do your work for you.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1b1c36bc0450",
-    "date": "2026-08-12",
-    "source": "The Verge",
-    "title": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
-    "summary": "﻿Saber’s CEO says the game’s story was ‘written entirely by real people’ except for one experimental mode. ﻿Saber’s CEO says the game’s story was ‘written entirely by real people’ except for one experimental mode.",
-    "sourceUrl": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-de2ca3d7578d",
-    "date": "2026-08-11",
-    "source": "OpenAI",
-    "title": "Testing ads in ChatGPT",
-    "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "sourceUrl": "https://openai.com/index/testing-ads-in-chatgpt",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-b274e00978a8",
-    "date": "2026-08-11",
-    "source": "OpenAI",
-    "title": "Daybreak models are now available on AWS",
-    "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-    "sourceUrl": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-dbc30e861442",
-    "date": "2026-08-11",
-    "source": "Google AI Blog",
-    "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-    "summary": "Today, Google Research and Google DeepMind are advancing AMIE, our research medical AI system, toward real-time clinical video consultations, with a first-of-its-kind demonstration of expert-level AI capabilities in this setting.",
-    "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5eb3c49c6262",
-    "date": "2026-08-11",
-    "source": "Hugging Face",
-    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-    "summary": "Same lessons, two containers. — ACE and ALTK-Evolve give the same answer: no. ACE injects the comprehensive playbook on every step, the same way regardless of model or task.",
-    "sourceUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-66a531732738",
-    "date": "2026-08-11",
-    "source": "TechCrunch",
-    "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-    "summary": "Accel has closed a new $550 million India fund, less than two years after raising its previous India-focused vehicle, as part of a coordinated $3.5 billion global fundraising effort.",
-    "sourceUrl": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-25809d3aff13",
-    "date": "2026-08-11",
-    "source": "TechCrunch",
-    "title": "OpenAI launches ChatGPT desktop app for Linux",
-    "summary": "As of this week, OpenAI has rectified this oversight, launching a dedicated ChatGPT app for Linux. “Linux has been one of the most-requested platforms for the desktop app, and this launch extends ChatGPT and Codex across every major desktop operating system,” the company said Tuesday.",
-    "sourceUrl": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-8b18fe174be4",
-    "date": "2026-08-11",
-    "source": "TechCrunch",
-    "title": "Google’s Gemini app surges to 1 billion users",
-    "summary": "In a significant milestone for Google, CEO Sundar Pichai announced via X that the Gemini app has become one of the company’s fastest-growing products, recently surpassing 1 billion monthly active users. Plus, Gemini now generates more than 150 million images every day, according to Google.",
-    "sourceUrl": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "genai-product"
     ],
     "resources": []
   },
