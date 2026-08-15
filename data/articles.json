@@ -1,5 +1,186 @@
 [
   {
+    "id": "auto-d556a48bace2",
+    "date": "2026-08-14",
+    "source": "Hugging Face",
+    "title": "State of Open Models: Summer 2026 Observations",
+    "summary": "releases above 100B parameters this year are not new models, but built on top of Chinese models. Model repositories grew 21.5% over these seven months. While the US open source models continue, the racing between several Chinese frontier models, drawing also strong attention within the community.",
+    "sourceUrl": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f51202f8724d",
+    "date": "2026-08-14",
+    "source": "TechCrunch",
+    "title": "Google will now allow users to remove visible watermark from its AI generations",
+    "summary": "Google announced on Friday that it will now allow users to remove a visible watermark from its AI generations, including images, videos, and songs. He specified that the setting to turn the visible watermark off will be available in Gemini and Google’s video editor, Flow, with support for Search coming soon.",
+    "sourceUrl": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f3fe42a4b3a4",
+    "date": "2026-08-14",
+    "source": "TechCrunch",
+    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+    "summary": "Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod.",
+    "sourceUrl": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-21c40107424f",
+    "date": "2026-08-14",
+    "source": "TechCrunch",
+    "title": "Kog is going deeper to squeeze more inference out of GPUs",
+    "summary": "But French startup Kog is betting that there’s a lot more power to be squeezed out of conventional GPUs. “GPUs have a bright future,” he said. But Delalleau said Kog is more akin to Stanford University lab Hazy Research, with an even deeper-level focus on GPU acceleration.",
+    "sourceUrl": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-887ae253679f",
+    "date": "2026-08-14",
+    "source": "TechCrunch",
+    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+    "summary": "Natural gas prices could triple in some parts of the U.S. For the foreseeable future, natural gas prices appear stable — futures contracts aren’t anticipating big changes. That angst could spill over to natural gas bills.",
+    "sourceUrl": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c3418764be1f",
+    "date": "2026-08-14",
+    "source": "TechCrunch",
+    "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+    "summary": "Anthony Ha is TechCrunch’s weekend editor. You can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com. You can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.",
+    "sourceUrl": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-8fce1ccaf76f",
+    "date": "2026-08-14",
+    "source": "The Verge",
+    "title": "Mark Zuckerberg has an Instagzam",
+    "summary": "On The Vergecast: Instagram’s new logo, Zuck’s AI manifesto, and lots of other bad ideas. On The Vergecast: Instagram’s new logo, Zuck’s AI manifesto, and lots of other bad ideas. Instagram’s wordmark is iconic.",
+    "sourceUrl": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d469d19d5d59",
+    "date": "2026-08-14",
+    "source": "The Verge",
+    "title": "You can now turn off Google Gemini’s visible watermarks",
+    "summary": "Google will still embed invisible SynthID and C2PA watermarks into AI-generated images, videos, and music. Google will still embed invisible SynthID and C2PA watermarks into AI-generated images, videos, and music.",
+    "sourceUrl": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a8d30f7063b5",
+    "date": "2026-08-14",
+    "source": "The Verge",
+    "title": "Apple trained its own AI model for China with help from Alibaba",
+    "summary": "﻿The rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China. ﻿The rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China. The report comes as Apple gears up to release Apple Intelligence in China.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-855fa77e93e1",
     "date": "2026-08-13",
     "source": "OpenAI",
@@ -430,178 +611,6 @@
       "automation",
       "genai-product",
       "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a1ebe27fc26a",
-    "date": "2026-08-13",
-    "source": "The Verge",
-    "title": "Does Google even want to win at AI?",
-    "summary": "Google reorganized its AI division, Google DeepMind. How do you see that playing out inside of Google? There’s a lot here where Google just has structural advantages.",
-    "sourceUrl": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6e6b6506dea2",
-    "date": "2026-08-13",
-    "source": "The Verge",
-    "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
-    "summary": "Merging Copilot will finally get rid of the annoying double icons.﻿\nMerging Copilot will finally get rid of the annoying double icons.﻿\nMicrosoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single “super app” interface, starting with the Copilot and Microsoft 365 Copilot apps.",
-    "sourceUrl": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-fb21820d806b",
-    "date": "2026-08-12",
-    "source": "OpenAI",
-    "title": "From assistance to execution: How enterprises put AI to work",
-    "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-    "sourceUrl": "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-cad35e6294fe",
-    "date": "2026-08-12",
-    "source": "OpenAI",
-    "title": "How RingCentral builds AI-native work from engineering to ops",
-    "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-    "sourceUrl": "https://openai.com/index/ringcentral",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-e43158037a35",
-    "date": "2026-08-12",
-    "source": "Hugging Face",
-    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-    "summary": "Custom-computed embeddings are now available for users of OlmoEarth Studio. Similar embeddings get similar colors automatically. Create a project, configure an embeddings model, and compute your embeddings.",
-    "sourceUrl": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ab799e9da743",
-    "date": "2026-08-12",
-    "source": "Hugging Face",
-    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-    "summary": "LFM2.5-VL-3B extends the vision-language capabilities of our previous releases with four major improvements:\nLFM2.5-VL-3B pairs a SigLIP2 400M NaFlex vision encoder with the same pre-trained backbone as our LFM2.5-2.6B text model. We evaluated LFM2.5-VL-3B across both vision and text benchmarks.",
-    "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6648dbd01204",
-    "date": "2026-08-12",
-    "source": "TechCrunch",
-    "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-    "summary": "Anthropic recently made the decision to watermark Claude’s outputs — inserting invisible code into the chatbot’s editorial text that marks it as AI-generated. The student who used Claude to reorganize a paragraph.",
-    "sourceUrl": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-05510c646bcd",
-    "date": "2026-08-12",
-    "source": "TechCrunch",
-    "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-    "summary": "The streaming platform Twitch will now use creators’ content to help train generative AI models for its parent company, Amazon. But Twitch users worry that since creators have to manually opt out, they might be surrendering their content to train Amazon’s AI content models without even knowing it.",
-    "sourceUrl": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b83b50f51835",
-    "date": "2026-08-12",
-    "source": "TechCrunch",
-    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-    "summary": "Cognition, maker of the AI coding agent Devin, is reportedly already talking to investors about raising another funding round with a big leap in valuation, after it raised $1 billion at a $26 billon valuation in May.",
-    "sourceUrl": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
     ],
     "resources": []
   },
