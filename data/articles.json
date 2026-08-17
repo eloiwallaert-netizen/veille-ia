@@ -1,5 +1,123 @@
 [
   {
+    "id": "auto-fafd24ceadc9",
+    "date": "2026-08-16",
+    "source": "TechCrunch",
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "summary": "Stripe has finalized a deal to acquire OpenRouter, according to a new report in Bloomberg. OpenRouter helps customers to select different AI models to perform different tasks, depending on their specific needs and budget. The Wall Street Journal reported last month that Stripe and OpenRouter were in acquisition talks.",
+    "sourceUrl": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-832c648f0c9f",
+    "date": "2026-08-16",
+    "source": "TechCrunch",
+    "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+    "summary": "Rebecca: I think that is really fair to say. You need specific hardware. If you’re skeptical about AI, none of that is going to convince you, because it seems unreal.",
+    "sourceUrl": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1968340f8ece",
+    "date": "2026-08-16",
+    "source": "TechCrunch",
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "summary": "But in a series of posts, Amodei disagreed with the idea that his “messaging has been disproportionately negative.” Instead, he said that his writing has been “about equally balanced between risks and benefits,” and that he wrote his essay “Machines of Loving Grace” because he “didn’t feel the AI industry was painting an inspiring enough picture of how the technology could radically transform the world for the better.”\nNonetheless, Amodei acknowledged that “the public has a negative view of AI” and he agreed that “this is a big problem.” Where he disagreed was with the idea that this negativity is “primarily caused” by Amodei “or any other AI leader warning about AI’s risks.”\n“I think it is fundamentally a crisis of trust,” Amodei said.",
+    "sourceUrl": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-639f236e7d0f",
+    "date": "2026-08-16",
+    "source": "The Verge",
+    "title": "OpenAI reportedly disbanded its preparedness team",
+    "summary": "It’s just the latest shakeup of its safety teams as it heads towards an IPO. It’s just the latest shakeup of its safety teams as it heads towards an IPO. According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a1c7d35e0718",
+    "date": "2026-08-16",
+    "source": "The Verge",
+    "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+    "summary": "It’s like Windows Recall, but without all the creepy screenshots. (But it’s still kind of creepy.)\nIt’s like Windows Recall, but without all the creepy screenshots.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-af2af46d5d3a",
+    "date": "2026-08-16",
+    "source": "The Verge",
+    "title": "Rogue AI aren’t science fiction anymore",
+    "summary": "For years, fears about AI systems slipping human control were dismissed as speculative. For years, fears about AI systems slipping human control were dismissed as speculative.",
+    "sourceUrl": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-49b0a683c25a",
     "date": "2026-08-15",
     "source": "TechCrunch",
@@ -490,130 +608,6 @@
       "automation",
       "ethics",
       "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d15dea0ae7b5",
-    "date": "2026-08-13",
-    "source": "TechCrunch",
-    "title": "OpenAI hires new CRO as executive shake-up continues",
-    "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab’s top sales job. 2 executive, CEO of AGI deployment Fidji Simo.",
-    "sourceUrl": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-024707716675",
-    "date": "2026-08-13",
-    "source": "TechCrunch",
-    "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-    "summary": "As initially reported by GeekWire and detailed in Microsoft’s support documentation, the tech giant will combine the functionality of its consumer-facing Copilot app and the more business-oriented Microsoft 365 Copilot app.",
-    "sourceUrl": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-fc27ea23a8d5",
-    "date": "2026-08-13",
-    "source": "TechCrunch",
-    "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-    "summary": "That is, Nvidia’s obligations will grow as demand weakens. The Lucent comparison is a shadow over Nvidia, Huang knows. In that future, Nvidia cares as much about aging architecture as it does the new chips.",
-    "sourceUrl": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5e692bda6f8f",
-    "date": "2026-08-13",
-    "source": "TechCrunch",
-    "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-    "summary": "Apple is in talks to pay publishers to use their content to power the upcoming Siri AI, according to a new report from The Wall Street Journal. The tech giant has reached out to publishers in recent months about using their content to provide Siri with access to current news and information.",
-    "sourceUrl": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ce303cd37c53",
-    "date": "2026-08-13",
-    "source": "MIT Technology Review",
-    "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-    "summary": "Flock’s 120,000 cameras form a nationwide network that police departments can use, giving officers access to an enormous pool of searchable location data. Because Flock won’t verify case numbers, officers could circumvent the new safeguard just as easily.",
-    "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5ee3fd3c5de3",
-    "date": "2026-08-13",
-    "source": "MIT Technology Review",
-    "title": "How kids feel about AI, in their own words",
-    "summary": "You just put what you’ve made out there. You can find pretty much anything. You can’t have it just write for you, but you can use it to help.",
-    "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "genai-product"
     ],
     "resources": []
   },
