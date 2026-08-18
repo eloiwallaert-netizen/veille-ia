@@ -1,5 +1,297 @@
 [
   {
+    "id": "auto-f137d9ea2f9f",
+    "date": "2026-08-17",
+    "source": "OpenAI",
+    "title": "The Defender’s Window",
+    "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+    "sourceUrl": "https://openai.com/index/the-defenders-window",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-ad5623d5cc70",
+    "date": "2026-08-17",
+    "source": "OpenAI",
+    "title": "OpenAI joins PORTS-Pike project",
+    "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+    "sourceUrl": "https://openai.com/index/openai-joins-ports-pike-project",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-96670aeff66e",
+    "date": "2026-08-17",
+    "source": "OpenAI",
+    "title": "New policy ideas for the Intelligence Age",
+    "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+    "sourceUrl": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ef87e3b0ab28",
+    "date": "2026-08-17",
+    "source": "Google AI Blog",
+    "title": "Get closer to the game with Gemini and Pixel",
+    "summary": "Google is partnering with five iconic football clubs—Arsenal, FC Barcelona, FC Bayern München, Liverpool, and Paris Saint-Germain—to bring fans closer to the action. You can now use Gemini for deep match insights and Pixel cameras for exclusive, behind-the-scenes content that highlights both men’s and women’s teams.",
+    "sourceUrl": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b597a3d03ee7",
+    "date": "2026-08-17",
+    "source": "Hugging Face",
+    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+    "summary": "One unit of unmet real-time demand therefore costs what 5 to 10 GPU-timesteps of equal-priority batch work costs. Everything above assumes the scheduler knows how many GPU-hours each job needs and how much real-time traffic is coming. Real-time inference is not estimated per job at all.",
+    "sourceUrl": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-dbbfe5994f2d",
+    "date": "2026-08-17",
+    "source": "TechCrunch",
+    "title": "Anthropic’s annualized revenue surges to $65B",
+    "summary": "The model maker’s annualized revenue run rate — a projection of a full year’s revenue based on a recent, shorter period —surpassed $65 billion at the end of July, Bloomberg reported on Monday, up from $47 billion in May and just $9 billion at the end of last year.",
+    "sourceUrl": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-63576ecb69ad",
+    "date": "2026-08-17",
+    "source": "TechCrunch",
+    "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+    "summary": "Bank originally joined Google in 2015 after his previous startup, a scheduling app called Timeful, was acquired by the search giant. At Google, he worked in a number of different areas, including as product lead for Gmail, Google Calendar, and Google Chat, before eventually leaving to launch Relay.",
+    "sourceUrl": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-4802671e550c",
+    "date": "2026-08-17",
+    "source": "TechCrunch",
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nSave $300 on your Disrupt 2026 ticket: REGISTER NOW.",
+    "sourceUrl": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5eb5d5336082",
+    "date": "2026-08-17",
+    "source": "TechCrunch",
+    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+    "summary": "In June, Groq raised a $650 million round to kick off its pivot. Groq’s financials are still private for now, but its pivot puts the company directly inside Nvidia’s AI infrastructure ecosystem. TechCrunch has reached out to Groq for more information.",
+    "sourceUrl": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-873e13072ba2",
+    "date": "2026-08-17",
+    "source": "TechCrunch",
+    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+    "summary": "Nvidia said on Monday that it will invest $1.5 billion in SB Energy, a data center linked to SoftBank and OpenAI. The data center and power developer will build a 9.2 gigawatt natural gas power plant on the site, which is land owned by the U.S. The power plant is expected to cost $33 billion.",
+    "sourceUrl": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-995014bcc5ad",
+    "date": "2026-08-17",
+    "source": "TechCrunch",
+    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+    "summary": "Alongside the funding news, Wispr announced it’s launching a new model to improve the quality of speech understanding. For the last few weeks, several users have complained about a quality dip in Wispr Flow’s dictation output. With this lab, Wispr aims to explore new interfaces for human-computer interaction.",
+    "sourceUrl": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-62ec9bf13b60",
+    "date": "2026-08-17",
+    "source": "MIT Technology Review",
+    "title": "What Flock’s defenders are missing",
+    "summary": "Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. Consider, for example, its new requirement that officers enter a case number before running a search on Flock’s platform.",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ba65ed22f510",
+    "date": "2026-08-17",
+    "source": "MIT Technology Review",
+    "title": "What happens when a kid’s robot best friend dies?",
+    "summary": "“Sounds like you’re talking about Bulborb,” Moxie replied. Unlike Aidan, Xander was fascinated by Moxie. Last he heard, she’d sold her Moxie.",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a9f248df49c3",
+    "date": "2026-08-17",
+    "source": "The Verge",
+    "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+    "summary": "I spent six months testing the $899 Litter-Robot 5 Pro, alongside its budget counterpart, the $599 Litter-Robot Evo, both of which launched late last year. Whisker currently has four models: the Litter-Robot Evo, the Litter-Robot 4, the Litter-Robot 5, and the 5 Pro.",
+    "sourceUrl": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e6c585a846b4",
+    "date": "2026-08-17",
+    "source": "The Verge",
+    "title": "Anthropic explains how Claude’s invisible text watermarks will work",
+    "summary": "﻿It’s using ‘a version’ of the open-source SynthID-Text system Google developed. ﻿It’s using ‘a version’ of the open-source SynthID-Text system Google developed.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-fafd24ceadc9",
     "date": "2026-08-16",
     "source": "TechCrunch",
@@ -297,317 +589,6 @@
     "themes": [
       "llm",
       "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c3418764be1f",
-    "date": "2026-08-14",
-    "source": "TechCrunch",
-    "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-    "summary": "Anthony Ha is TechCrunch’s weekend editor. You can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com. You can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.",
-    "sourceUrl": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-8fce1ccaf76f",
-    "date": "2026-08-14",
-    "source": "The Verge",
-    "title": "Mark Zuckerberg has an Instagzam",
-    "summary": "On The Vergecast: Instagram’s new logo, Zuck’s AI manifesto, and lots of other bad ideas. On The Vergecast: Instagram’s new logo, Zuck’s AI manifesto, and lots of other bad ideas. Instagram’s wordmark is iconic.",
-    "sourceUrl": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d469d19d5d59",
-    "date": "2026-08-14",
-    "source": "The Verge",
-    "title": "You can now turn off Google Gemini’s visible watermarks",
-    "summary": "Google will still embed invisible SynthID and C2PA watermarks into AI-generated images, videos, and music. Google will still embed invisible SynthID and C2PA watermarks into AI-generated images, videos, and music.",
-    "sourceUrl": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a8d30f7063b5",
-    "date": "2026-08-14",
-    "source": "The Verge",
-    "title": "Apple trained its own AI model for China with help from Alibaba",
-    "summary": "﻿The rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China. ﻿The rare US-China partnership comes as Apple prepares to roll out its on-device generative AI service in China. The report comes as Apple gears up to release Apple Intelligence in China.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-855fa77e93e1",
-    "date": "2026-08-13",
-    "source": "OpenAI",
-    "title": "The builder’s guide to GPT‑5.6",
-    "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-    "sourceUrl": "https://openai.com/index/builders-guide-to-gpt-5-6",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6357d7795d21",
-    "date": "2026-08-13",
-    "source": "OpenAI",
-    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-    "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-    "sourceUrl": "https://openai.com/index/previewing-ultrafast",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9e022b7caa78",
-    "date": "2026-08-13",
-    "source": "OpenAI",
-    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-    "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-    "sourceUrl": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-4cbb438f4fdf",
-    "date": "2026-08-13",
-    "source": "Google AI Blog",
-    "title": "Bring your spreadsheet data to life with Sheets canvas",
-    "summary": "Google Sheets now features Sheets canvas, a tool that uses artificial intelligence to turn your data into interactive, visual mini-apps without any coding. With Sheets canvas, you can turn a long list of assignments into an interactive study aid.",
-    "sourceUrl": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c1c988556190",
-    "date": "2026-08-13",
-    "source": "Hugging Face",
-    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-    "summary": "Record the episode, then sync the finished dataset into a bucket. Pass an explicit run_id per collection run, as in sync_dataset_to_bucket(\"./recordings\", \"my-org/robot-fave\", run_id=\"run-021\").",
-    "sourceUrl": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5fa28c256021",
-    "date": "2026-08-13",
-    "source": "Hugging Face",
-    "title": "What We Learned by Reproducing 2,200 papers from ICML",
-    "summary": "Here is what a finished reproduction looks like:\nBy the numbers, this hackathon was probably the largest attempted reproduction of a scientific conference:\nAggregating the claim-level verdicts per paper:\n51% of examined papers (1,103) had at least one claim independently verified.",
-    "sourceUrl": "https://huggingface.co/blog/icml-2026-open-reproductions",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-952a2dd22c0e",
-    "date": "2026-08-13",
-    "source": "TechCrunch",
-    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-    "summary": "Together with the new model, the company also released significant upgrades to its standard agentic harness. A recent paper from Writer researchers lends credence to this approach, testing small changes in harness efficiency across multiple different models.",
-    "sourceUrl": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9409c8f8a952",
-    "date": "2026-08-13",
-    "source": "TechCrunch",
-    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-    "summary": "This scenario recently played out with AI big-data company Databricks and its latest $5 billion raise announced Thursday, co-founder and CEO Ali Ghodsi (pictured above) told TechCrunch. The company had already raised $20 billion over the past 20 months. AI is expensive, Ghodsi said.",
-    "sourceUrl": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a894d6a4673a",
-    "date": "2026-08-13",
-    "source": "TechCrunch",
-    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-    "summary": "“Ultrafast points to progress in a new direction: more useful work per second.”\nOpenAI’s competitors, like Anthropic, have similarly launched accelerated versions of their models. Claude has fast mode, although it doesn’t deliver the kind of speed that OpenAI is offering here.",
-    "sourceUrl": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-79aa75fcb7a5",
-    "date": "2026-08-13",
-    "source": "TechCrunch",
-    "title": "IBM partners with OpenAI to bolster enterprise AI push",
-    "summary": "OpenAI and IBM will jointly market AI offerings and develop industry-specific solutions for sectors including financial services, government, telecommunications, and retail, IBM said.",
-    "sourceUrl": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d83d050a9809",
-    "date": "2026-08-13",
-    "source": "TechCrunch",
-    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-    "summary": "What happens when you pit AI agents against each other? Agents are just like us. Working together creates a new trust boundary; agents will have to judge information received from other agents.",
-    "sourceUrl": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "data"
     ],
     "resources": []
   },
