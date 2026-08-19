@@ -1,5 +1,488 @@
 [
   {
+    "id": "auto-e4563871866d",
+    "date": "2026-08-18",
+    "source": "OpenAI",
+    "title": "ChatGPT Ads expands across Europe",
+    "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+    "sourceUrl": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-67f37d861d34",
+    "date": "2026-08-18",
+    "source": "OpenAI",
+    "title": "Strengthening democratic oversight in national security",
+    "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+    "sourceUrl": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-9765648ad527",
+    "date": "2026-08-18",
+    "source": "OpenAI",
+    "title": "Partnering with CodeAI to prepare the first AI generation",
+    "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+    "sourceUrl": "https://openai.com/index/partnering-with-codeai",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-68c52c81310f",
+    "date": "2026-08-18",
+    "source": "OpenAI",
+    "title": "Pacing model development in an era of cyber-critical capabilities",
+    "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+    "sourceUrl": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-01003c6680bc",
+    "date": "2026-08-18",
+    "source": "OpenAI",
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+    "sourceUrl": "https://openai.com/index/chatgpt-for-teens",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-dfcf73efa3a6",
+    "date": "2026-08-18",
+    "source": "OpenAI",
+    "title": "How NVIDIA scales expertise with ChatGPT Work",
+    "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
+    "sourceUrl": "https://openai.com/index/nvidia/chatgpt-work",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7d7eacff40aa",
+    "date": "2026-08-18",
+    "source": "OpenAI",
+    "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+    "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
+    "sourceUrl": "https://openai.com/index/asana",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-5ce8103476b1",
+    "date": "2026-08-18",
+    "source": "Hugging Face",
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "summary": "The right dose differs by model tier: strong models with headroom want the full guideline set, weaker models do best with a compact core plus per-task retrieval, and saturated models show no measurable gain. Smaller or weaker models get drowned by a large guideline set. Memory for very weak models.",
+    "sourceUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e520424e436f",
+    "date": "2026-08-18",
+    "source": "Hugging Face",
+    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "summary": "Where a regular embedding model compresses a whole text into one vector, a multi-vector model keeps one vector per token and scores query against document with the MaxSim operator. It isn't one-to-one either, since several query tokens routinely settle on the same document token.",
+    "sourceUrl": "https://huggingface.co/blog/multi-vector-encoder",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5ae44dec09ad",
+    "date": "2026-08-18",
+    "source": "TechCrunch",
+    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "summary": "“Your GitHub repos can sit alongside the ones Cursor hosts,” Cursor says in its blog. “Connect GitHub to Cursor, pick your org, and you’ll see the repos you can sync. Indeed, on the same day that Cursor launched its new platform, GitHub suffered a quite lengthy worldwide outage.",
+    "sourceUrl": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d8b7c8511a2c",
+    "date": "2026-08-18",
+    "source": "TechCrunch",
+    "title": "OpenAI institutes new safeguards after Hugging Face breach",
+    "summary": "On Tuesday, OpenAI announced a new batch of security policies focused on containing security incidents while models are being tested. The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+    "sourceUrl": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7d26bb4b9e08",
+    "date": "2026-08-18",
+    "source": "TechCrunch",
+    "title": "Etched’s valuation doubles to $21B in a month",
+    "summary": "Etched was valued at $5 billion in December. Etched created a new type of memory and an interconnect for the decode process that the company calls cluster-scale memory. Etched’s systems can run any frontier model.",
+    "sourceUrl": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1b26716648fa",
+    "date": "2026-08-18",
+    "source": "TechCrunch",
+    "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+    "summary": "But Apple’s now-leaked camera-equipped AirPods may not be as creepy as they first sound. See something you like? He questioned the light’s visibility, given the AirPods’ small size, but either way, its inclusion could work against Apple.",
+    "sourceUrl": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c64a0d365d61",
+    "date": "2026-08-18",
+    "source": "TechCrunch",
+    "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+    "summary": "Now, a system from Warp could make that transition a lot easier. On Tuesday, the AI coding company introduced Warp Factories, a new system designed to make building and operating AI software factories as easy as possible.",
+    "sourceUrl": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-36f832273628",
+    "date": "2026-08-18",
+    "source": "TechCrunch",
+    "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+    "summary": "After numerous lawsuits over AI chatbots’ lack of safety measures, leading to teens’ suicides and other mental health concerns, OpenAI on Monday announced the launch of ChatGPT for Teens.",
+    "sourceUrl": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d4f09d555b2d",
+    "date": "2026-08-18",
+    "source": "TechCrunch",
+    "title": "Perplexity’s free AI offer left it with millions more users in India",
+    "summary": "In July 2025, Perplexity partnered with Airtel, India’s second-biggest telecom operator, to offer a free 12-month Perplexity Pro subscription, normally worth about $200, to the Indian carrier’s 360 million customers.",
+    "sourceUrl": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-dcedd6fa1f80",
+    "date": "2026-08-18",
+    "source": "MIT Technology Review",
+    "title": "We still don’t know how people are really using AI",
+    "summary": "For example, the researchers found that people used Grok and Gemini more frequently for information retrieval. These conversations came from 5,000 users interacting with 52 different models, including ChatGPT, Gemini, Claude, and Grok, between 2023 and 2025.",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-72564937568e",
+    "date": "2026-08-18",
+    "source": "MIT Technology Review",
+    "title": "AI’s recursive self-improvement might not come so quickly after all",
+    "summary": "The agents were capable of all the engineering required to conduct the research, the human scientists found. “On the other hand, the agents were unambiguously bad at carrying out the research itself,” says Kapoor.",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9dffd5e77e26",
+    "date": "2026-08-18",
+    "source": "The Verge",
+    "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+    "summary": "Zelda, Zak, and Cody Williams say their father’s Instagram account will be a ‘trusted place’ to share photos, videos, and memories. Zelda, Zak, and Cody Williams say their father’s Instagram account will be a ‘trusted place’ to share photos, videos, and memories.",
+    "sourceUrl": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-34d85fbbba0b",
+    "date": "2026-08-18",
+    "source": "The Verge",
+    "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+    "summary": "OpenAI is updating its research environments, monitoring, and alignment techniques to avoid another security fiasco. OpenAI is updating its research environments, monitoring, and alignment techniques to avoid another security fiasco.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-dc3392639f20",
+    "date": "2026-08-18",
+    "source": "The Verge",
+    "title": "Firefox’s Smart Window promises a better AI browser",
+    "summary": "Mozilla says its AI browser feature is user-first and privacy-focused, without taking over your browser.﻿\nMozilla says its AI browser feature is user-first and privacy-focused, without taking over your browser.﻿\nStarting today, AI chats in Firefox’s Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d3969698435f",
+    "date": "2026-08-18",
+    "source": "The Verge",
+    "title": "Google’s Pet Memory forgot who my cats are",
+    "summary": "Pet Memory promises to teach your Google Home smart home who your pets are, allowing connected Nest cameras to go beyond simply telling you they saw an animal to which animal they saw.",
+    "sourceUrl": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9b37fd2d441f",
+    "date": "2026-08-18",
+    "source": "The Verge",
+    "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
+    "summary": "Its signature achievement was the termination of 400 FAA employees, including maintenance technicians at 18 different air traffic control centers. Unexplained fumes in Atlanta, Newark, and the Potomac air traffic control center.",
+    "sourceUrl": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-78030b55c4fa",
+    "date": "2026-08-18",
+    "source": "The Verge",
+    "title": "ChatGPT is getting a dedicated mode for teens",
+    "summary": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. ChatGPT for Teens is “an experience designed to help teens learn, think critically, deepen understanding, and use AI with confidence,” OpenAI said in a blog post published Tuesday.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-14640eb10ad8",
+    "date": "2026-08-18",
+    "source": "The Verge",
+    "title": "Apple’s camera-equipped AirPods appear in leaked video",
+    "summary": "﻿A short clip found in the latest macOS beta demos the AirPods using visual intelligence. ﻿A short clip found in the latest macOS beta demos the AirPods using visual intelligence. The AirPods shown in the new demo clip look like a slightly thicker version of the AirPods Pro 3.",
+    "sourceUrl": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
     "id": "auto-f137d9ea2f9f",
     "date": "2026-08-17",
     "source": "OpenAI",
@@ -85,510 +568,6 @@
       "llm",
       "ethics",
       "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-dbbfe5994f2d",
-    "date": "2026-08-17",
-    "source": "TechCrunch",
-    "title": "Anthropic’s annualized revenue surges to $65B",
-    "summary": "The model maker’s annualized revenue run rate — a projection of a full year’s revenue based on a recent, shorter period —surpassed $65 billion at the end of July, Bloomberg reported on Monday, up from $47 billion in May and just $9 billion at the end of last year.",
-    "sourceUrl": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-63576ecb69ad",
-    "date": "2026-08-17",
-    "source": "TechCrunch",
-    "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-    "summary": "Bank originally joined Google in 2015 after his previous startup, a scheduling app called Timeful, was acquired by the search giant. At Google, he worked in a number of different areas, including as product lead for Gmail, Google Calendar, and Google Chat, before eventually leaving to launch Relay.",
-    "sourceUrl": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-4802671e550c",
-    "date": "2026-08-17",
-    "source": "TechCrunch",
-    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nSave $300 on your Disrupt 2026 ticket: REGISTER NOW.",
-    "sourceUrl": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5eb5d5336082",
-    "date": "2026-08-17",
-    "source": "TechCrunch",
-    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-    "summary": "In June, Groq raised a $650 million round to kick off its pivot. Groq’s financials are still private for now, but its pivot puts the company directly inside Nvidia’s AI infrastructure ecosystem. TechCrunch has reached out to Groq for more information.",
-    "sourceUrl": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-873e13072ba2",
-    "date": "2026-08-17",
-    "source": "TechCrunch",
-    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-    "summary": "Nvidia said on Monday that it will invest $1.5 billion in SB Energy, a data center linked to SoftBank and OpenAI. The data center and power developer will build a 9.2 gigawatt natural gas power plant on the site, which is land owned by the U.S. The power plant is expected to cost $33 billion.",
-    "sourceUrl": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-995014bcc5ad",
-    "date": "2026-08-17",
-    "source": "TechCrunch",
-    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-    "summary": "Alongside the funding news, Wispr announced it’s launching a new model to improve the quality of speech understanding. For the last few weeks, several users have complained about a quality dip in Wispr Flow’s dictation output. With this lab, Wispr aims to explore new interfaces for human-computer interaction.",
-    "sourceUrl": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-62ec9bf13b60",
-    "date": "2026-08-17",
-    "source": "MIT Technology Review",
-    "title": "What Flock’s defenders are missing",
-    "summary": "Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. Consider, for example, its new requirement that officers enter a case number before running a search on Flock’s platform.",
-    "sourceUrl": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ba65ed22f510",
-    "date": "2026-08-17",
-    "source": "MIT Technology Review",
-    "title": "What happens when a kid’s robot best friend dies?",
-    "summary": "“Sounds like you’re talking about Bulborb,” Moxie replied. Unlike Aidan, Xander was fascinated by Moxie. Last he heard, she’d sold her Moxie.",
-    "sourceUrl": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a9f248df49c3",
-    "date": "2026-08-17",
-    "source": "The Verge",
-    "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
-    "summary": "I spent six months testing the $899 Litter-Robot 5 Pro, alongside its budget counterpart, the $599 Litter-Robot Evo, both of which launched late last year. Whisker currently has four models: the Litter-Robot Evo, the Litter-Robot 4, the Litter-Robot 5, and the 5 Pro.",
-    "sourceUrl": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e6c585a846b4",
-    "date": "2026-08-17",
-    "source": "The Verge",
-    "title": "Anthropic explains how Claude’s invisible text watermarks will work",
-    "summary": "﻿It’s using ‘a version’ of the open-source SynthID-Text system Google developed. ﻿It’s using ‘a version’ of the open-source SynthID-Text system Google developed.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-fafd24ceadc9",
-    "date": "2026-08-16",
-    "source": "TechCrunch",
-    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-    "summary": "Stripe has finalized a deal to acquire OpenRouter, according to a new report in Bloomberg. OpenRouter helps customers to select different AI models to perform different tasks, depending on their specific needs and budget. The Wall Street Journal reported last month that Stripe and OpenRouter were in acquisition talks.",
-    "sourceUrl": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-832c648f0c9f",
-    "date": "2026-08-16",
-    "source": "TechCrunch",
-    "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-    "summary": "Rebecca: I think that is really fair to say. You need specific hardware. If you’re skeptical about AI, none of that is going to convince you, because it seems unreal.",
-    "sourceUrl": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1968340f8ece",
-    "date": "2026-08-16",
-    "source": "TechCrunch",
-    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-    "summary": "But in a series of posts, Amodei disagreed with the idea that his “messaging has been disproportionately negative.” Instead, he said that his writing has been “about equally balanced between risks and benefits,” and that he wrote his essay “Machines of Loving Grace” because he “didn’t feel the AI industry was painting an inspiring enough picture of how the technology could radically transform the world for the better.”\nNonetheless, Amodei acknowledged that “the public has a negative view of AI” and he agreed that “this is a big problem.” Where he disagreed was with the idea that this negativity is “primarily caused” by Amodei “or any other AI leader warning about AI’s risks.”\n“I think it is fundamentally a crisis of trust,” Amodei said.",
-    "sourceUrl": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-639f236e7d0f",
-    "date": "2026-08-16",
-    "source": "The Verge",
-    "title": "OpenAI reportedly disbanded its preparedness team",
-    "summary": "It’s just the latest shakeup of its safety teams as it heads towards an IPO. It’s just the latest shakeup of its safety teams as it heads towards an IPO. According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a1c7d35e0718",
-    "date": "2026-08-16",
-    "source": "The Verge",
-    "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-    "summary": "It’s like Windows Recall, but without all the creepy screenshots. (But it’s still kind of creepy.)\nIt’s like Windows Recall, but without all the creepy screenshots.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-af2af46d5d3a",
-    "date": "2026-08-16",
-    "source": "The Verge",
-    "title": "Rogue AI aren’t science fiction anymore",
-    "summary": "For years, fears about AI systems slipping human control were dismissed as speculative. For years, fears about AI systems slipping human control were dismissed as speculative.",
-    "sourceUrl": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-49b0a683c25a",
-    "date": "2026-08-15",
-    "source": "TechCrunch",
-    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-    "summary": "A woman identified as Jane Doe 4 has joined a lawsuit filed by three Tennessee teenagers against Elon Musk’s xAI over the role the company’s chatbot Grok allegedly played in creating child sexual abuse material.",
-    "sourceUrl": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-447c79c5c7dd",
-    "date": "2026-08-15",
-    "source": "TechCrunch",
-    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-    "summary": "Anthropic published a blog post Friday seeking to answer some basic questions about how it will watermark the text generated by its chatbot Claude.",
-    "sourceUrl": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c2a2d25fa30b",
-    "date": "2026-08-15",
-    "source": "TechCrunch",
-    "title": "SpaceX officially closes its Cursor acquisition",
-    "summary": "AI coding startup Cursor is now officially a part of SpaceX, according to an announcement on the Cursor blog.",
-    "sourceUrl": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-10bbeaa8150c",
-    "date": "2026-08-15",
-    "source": "The Verge",
-    "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-    "summary": "On one side you enter a request. You can also just wait as you get one free request every two minutes. If a request doesn’t appeal to you, you can always skip it.",
-    "sourceUrl": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d556a48bace2",
-    "date": "2026-08-14",
-    "source": "Hugging Face",
-    "title": "State of Open Models: Summer 2026 Observations",
-    "summary": "releases above 100B parameters this year are not new models, but built on top of Chinese models. Model repositories grew 21.5% over these seven months. While the US open source models continue, the racing between several Chinese frontier models, drawing also strong attention within the community.",
-    "sourceUrl": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f51202f8724d",
-    "date": "2026-08-14",
-    "source": "TechCrunch",
-    "title": "Google will now allow users to remove visible watermark from its AI generations",
-    "summary": "Google announced on Friday that it will now allow users to remove a visible watermark from its AI generations, including images, videos, and songs. He specified that the setting to turn the visible watermark off will be available in Gemini and Google’s video editor, Flow, with support for Search coming soon.",
-    "sourceUrl": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f3fe42a4b3a4",
-    "date": "2026-08-14",
-    "source": "TechCrunch",
-    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-    "summary": "Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod.",
-    "sourceUrl": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-21c40107424f",
-    "date": "2026-08-14",
-    "source": "TechCrunch",
-    "title": "Kog is going deeper to squeeze more inference out of GPUs",
-    "summary": "But French startup Kog is betting that there’s a lot more power to be squeezed out of conventional GPUs. “GPUs have a bright future,” he said. But Delalleau said Kog is more akin to Stanford University lab Hazy Research, with an even deeper-level focus on GPU acceleration.",
-    "sourceUrl": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-887ae253679f",
-    "date": "2026-08-14",
-    "source": "TechCrunch",
-    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-    "summary": "Natural gas prices could triple in some parts of the U.S. For the foreseeable future, natural gas prices appear stable — futures contracts aren’t anticipating big changes. That angst could spill over to natural gas bills.",
-    "sourceUrl": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
     ],
     "resources": []
   },
