@@ -1,5 +1,84 @@
 [
   {
+    "id": "auto-bab230b853cb",
+    "date": "2026-08-23",
+    "source": "TechCrunch",
+    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nSave $300 on your Disrupt 2026 ticket: REGISTER NOW. A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation about who actually built it.",
+    "sourceUrl": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ff8825167e80",
+    "date": "2026-08-23",
+    "source": "TechCrunch",
+    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    "summary": "One of Linkdaze’s biggest strengths is its calendar compatibility. Launched last December, Linkdaze is available in 15.6-inch and 10.1-inch models, giving you some flexibility depending on how much wall space you have.",
+    "sourceUrl": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-80d039e631a9",
+    "date": "2026-08-23",
+    "source": "TechCrunch",
+    "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+    "summary": "The country needs to find a “compromise” between privacy and safety, according to Flock Safety CEO Garrett Langley.",
+    "sourceUrl": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-badce9233977",
+    "date": "2026-08-23",
+    "source": "TechCrunch",
+    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+    "summary": "Fair use is a carve out of copyright law that allows for the use of copyrighted materials without explicit permission, protecting the ability to comment and iterate on copyrighted works through criticism, parody, education, and other means.",
+    "sourceUrl": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-6024a826f303",
     "date": "2026-08-22",
     "source": "TechCrunch",
@@ -531,107 +610,6 @@
     "themes": [
       "llm",
       "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9c25d151328b",
-    "date": "2026-08-20",
-    "source": "TechCrunch",
-    "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-    "summary": "Fusion startup Inertia Enterprises said it has found a way to cut the time it takes to make its fuel pellets from several days to just minutes. Plus, reducing manufacturing time helps keep inventory small. Inertia expects its full-scale commercial power plant will use 10 fuel pellets every second.",
-    "sourceUrl": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d252e5e06fc4",
-    "date": "2026-08-20",
-    "source": "TechCrunch",
-    "title": "Meta AI’s new Mac app wants you to talk to your apps",
-    "summary": "Meta today announced a new Mac app for Meta AI with built-in system-wide dictation. Last month, Google also updated its Gemini app for Mac to enable a system-wide dictation feature. The Mac app release is part of a Meta AI update for business owners.",
-    "sourceUrl": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c770fe34bf36",
-    "date": "2026-08-20",
-    "source": "TechCrunch",
-    "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-    "summary": "Called Agent OS, the platform lets developers connect AI applications and agents to Binance’s financial infrastructure. Unlike exchange trading, where Binance does not impose a separate cap on how much an agent can trade or lose within its subaccount, Agentic Wallet transactions carry Binance-set daily limits.",
-    "sourceUrl": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0f9772a27c74",
-    "date": "2026-08-20",
-    "source": "MIT Technology Review",
-    "title": "Debates over AI consciousness are a trap",
-    "summary": "For beliefs about consciousness to have any bearing, AI would need to be granted legal personhood. We already possess a legal framework for granting personhood to non-natural, human-built entities: corporate personhood. Legal personhood exists to grant protection.",
-    "sourceUrl": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
     ],
     "resources": []
   },
