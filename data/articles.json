@@ -1,5 +1,228 @@
 [
   {
+    "id": "auto-2983dbf79834",
+    "date": "2026-08-25",
+    "source": "Hugging Face",
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "summary": "One graph, three pipelines. That’s one canvas, two model calls through Hugging Face Inference Providers, and two calls to Gradio Spaces. Every node so far reaches out to Hugging Face.",
+    "sourceUrl": "https://huggingface.co/blog/gradio-workflow-guide",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-23a36ae92a3c",
+    "date": "2026-08-25",
+    "source": "TechCrunch",
+    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nBack by popular demand: Save up to $300 on Disrupt\nSituational Awareness, the AI focused hedge fund that was Wall Street’s fleeting obsession, is having a very bad month. Now, federal regulators are reportedly probing the company as well.",
+    "sourceUrl": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-df015003760c",
+    "date": "2026-08-24",
+    "source": "OpenAI",
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+    "sourceUrl": "https://openai.com/index/gpt-5-6-in-kiro",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-44dcec9c1286",
+    "date": "2026-08-24",
+    "source": "TechCrunch",
+    "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nBack by popular demand: Save up to $300 on Disrupt\nPresident Donald Trump bought as much as $50,000 worth of SpaceX shares on June 23, according to a financial disclosure first reported by Reuters, two weeks after the record-setting IPO of Elon Musk’s company.",
+    "sourceUrl": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d7e46a5aa854",
+    "date": "2026-08-24",
+    "source": "TechCrunch",
+    "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+    "summary": "They assigned the company a $9 billion valuation earlier this year, a mere six months after the company was assigned a $3 billion valuation. Grab your ticket today to make sure you get the best available price.",
+    "sourceUrl": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-679f443c1885",
+    "date": "2026-08-24",
+    "source": "TechCrunch",
+    "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+    "summary": "pic.twitter.com/J2qhYVqwxN\nAnother person, Claire Vo, found that Instinct was still summarizing their inbox after disconnecting its access. Instinct is an amazing product. I've been using Instinct every day for the last week now.",
+    "sourceUrl": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-97614477a912",
+    "date": "2026-08-24",
+    "source": "TechCrunch",
+    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nBack by popular demand: Save up to $300 on Disrupt\nNew York-based General Intuition, the startup building a foundation model that trains generalized AI agents to move through space and time, is in talks to raise funding at a $6 billion pre-money valuation from new investors including Valor Equity Partners, Point72 Ventures, and Seven Seven Six, according to sources familiar with the matter.",
+    "sourceUrl": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-25d39522dc75",
+    "date": "2026-08-24",
+    "source": "TechCrunch",
+    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+    "summary": "Yes,” Ambrosino told TechCrunch. Now, OpenAI wants to make functionality found in tools like OpenClaw, which coders use to put LLMs to work, as easy as prompting. OpenAI eventually followed suit by adding more opportunities for users to interact with the model.",
+    "sourceUrl": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c98f9ed20318",
+    "date": "2026-08-24",
+    "source": "TechCrunch",
+    "title": "Hugging Face reportedly in talks to be acquired for $13B",
+    "summary": "Hugging Face last raised in 2023 at a $4.5 billion post-money valuation in a round led by Salesforce Ventures, with participation from Alphabet, GV, IBM Ventures, and others.",
+    "sourceUrl": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b09e26ca9fd0",
+    "date": "2026-08-24",
+    "source": "MIT Technology Review",
+    "title": "How to encourage smarter AI use in the classroom",
+    "summary": "Now, teachers there often use generative AI to prepare class materials. But she started seeing students try to use AI-powered tools like Google Translate to take shortcuts on their assignments years before ChatGPT’s launch.",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-3d1f34a6b2ee",
+    "date": "2026-08-24",
+    "source": "MIT Technology Review",
+    "title": "Kids outlearn AI—and we still don’t know why",
+    "summary": "Testing hypotheses about human learning in machine models could also settle enduring questions about language and children’s developing minds. It also largely failed to produce models actually capable of handling human language at scale.",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-bab230b853cb",
     "date": "2026-08-23",
     "source": "TechCrunch",
@@ -363,254 +586,6 @@
     "auto": true,
     "metiers": [],
     "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-c7cdb6722fd8",
-    "date": "2026-08-20",
-    "source": "Hugging Face",
-    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-    "summary": "Today, we release DSpark draft model checkpoints for three models from our LFM2.5 family: LFM2.5-1.2B-Instruct, LFM2.5-2.6B, and LFM2.5-8B-A1B.",
-    "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e1438dc5cd8f",
-    "date": "2026-08-20",
-    "source": "TechCrunch",
-    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-    "summary": "One of those sources, Ramp, the corporate credit card and expense management company, has just released some surprising new data: OpenAI has started gaining on Anthropic with U.S. That’s when Anthropic hit 41% market share to OpenAI’s 39%. As of July, Anthropic has nearly 44% to OpenAI’s nearly 40%.",
-    "sourceUrl": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f9af7db8aba1",
-    "date": "2026-08-20",
-    "source": "TechCrunch",
-    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-    "summary": "If you’ve ever wanted to share all of your digital conversations with OpenAI, we have good news for you: The AI lab has just launched an Apple Messages plug-in for ChatGPT, allowing interested users to connect their Messages inbox with the chatbot.",
-    "sourceUrl": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1eb80258f556",
-    "date": "2026-08-20",
-    "source": "TechCrunch",
-    "title": "OK, can we actually cool data centers with our pee?",
-    "summary": "“Every day right now, I’m working on recycled water for data centers,” she said.",
-    "sourceUrl": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3d82ea00a221",
-    "date": "2026-08-20",
-    "source": "TechCrunch",
-    "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-    "summary": "Becoming a preferred source can drive more traffic to publishers’ websites, Google said. Alongside the new button, Google said that readers will soon be able to customize their Discover feed in Google’s app in their own words. This helps Google refine the feed in real time.",
-    "sourceUrl": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-859f0b88d5ad",
-    "date": "2026-08-20",
-    "source": "TechCrunch",
-    "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-    "summary": "On Wednesday night, Runlayer and Rippling dropped their respective lawsuits against each other. After Rippling tested Runlayer’s MCP gateway for more than a year, with the two engineering teams working closely together, Rippling never signed on to become a customer, according to Runlayer’s lawsuit.",
-    "sourceUrl": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-594513ac4c6d",
-    "date": "2026-08-20",
-    "source": "TechCrunch",
-    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "summary": "One of Linkdaze’s biggest strengths is its calendar compatibility. Instead of asking everyone to switch to a single calendar app, Linkdaze brings multiple schedules together and uses color coding to make individual family members easy to identify.",
-    "sourceUrl": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-aacf0e17caa3",
-    "date": "2026-08-20",
-    "source": "TechCrunch",
-    "title": "Grok keeps sending gibberish responses to users",
-    "summary": "An unusual glitch has resulted in xAI’s Grok chatbot speaking gibberish to many users. Still, the result has been a lot of confused Grok users. Sorry about the gibberish,” the account wrote Thursday morning.",
-    "sourceUrl": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-8b7a6ac6a084",
-    "date": "2026-08-20",
-    "source": "TechCrunch",
-    "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
-    "summary": "And apparently, much of it is bots reading web pages written by other bots. In a random sample of 10,000 web pages collected in July 2026, around 10% showed “significant signs of AI authorship,” Pew said.",
-    "sourceUrl": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-cb6503028d2b",
-    "date": "2026-08-20",
-    "source": "TechCrunch",
-    "title": "Ramp launches its own AI model router, called Router",
-    "summary": "Ramp on Wednesday evening launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models through an API. Router functions similarly to OpenRouter, though the latter offers many more AI model options than Ramp’s current offerings.",
-    "sourceUrl": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a80433f1fe5e",
-    "date": "2026-08-20",
-    "source": "TechCrunch",
-    "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-    "summary": "Meta’s experimental vibe-coding gaming app, Pocket, is now rolling out to everyone in the U.S. We also just launched Forum, a stand-alone Groups app, and Seller, a stand-alone Marketplace app. With the launch of Pocket, Meta is shutting down the original app acquired from Atma Sciences.",
-    "sourceUrl": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
     "resources": []
   },
   {
