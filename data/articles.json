@@ -1,5 +1,378 @@
 [
   {
+    "id": "auto-67b26b621662",
+    "date": "2026-08-26",
+    "source": "TechCrunch",
+    "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+    "summary": "Indian fintech Cred became its first customer, and Ringg has since signed Indian startups like Flipkart, Practo, Groww, and PolicyBazaar. Voice calls still make up over 70% of Ringg’s business, but the startup has started branching into other channels, including chat and WhatsApp.",
+    "sourceUrl": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5700b1aa91de",
+    "date": "2026-08-26",
+    "source": "TechCrunch",
+    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+    "summary": "The fresh capital totals nearly $200 million according to a regulatory filing. The new capital brings the round’s total funding to $600 million. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
+    "sourceUrl": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-bae87cb1275d",
+    "date": "2026-08-26",
+    "source": "TechCrunch",
+    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+    "summary": "Chris Malone, OpenAI’s former head of data centers, left the company last week, the Wall Street Journal has reported.",
+    "sourceUrl": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-829e237a888d",
+    "date": "2026-08-25",
+    "source": "OpenAI",
+    "title": "The full stack behind abundant intelligence",
+    "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+    "sourceUrl": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-9ad99bb5f40a",
+    "date": "2026-08-25",
+    "source": "OpenAI",
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+    "sourceUrl": "https://openai.com/index/jalapeno-first-results",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-da55f7d7bd9d",
+    "date": "2026-08-25",
+    "source": "OpenAI",
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+    "sourceUrl": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-cfc376addf8c",
+    "date": "2026-08-25",
+    "source": "OpenAI",
+    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+    "sourceUrl": "https://openai.com/index/introducing-admin-plugin",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-5f0b03166bf1",
+    "date": "2026-08-25",
+    "source": "Google AI Blog",
+    "title": "5 ways to upgrade your home decor with Google Search",
+    "summary": "You can use Google Search tools to turn your home decor inspiration into reality. You can also use live video guidance for DIY projects and track price history to ensure you get the best deals. Search Live can help guide you through DIY projects step-by-step.",
+    "sourceUrl": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-74043a2c13e4",
+    "date": "2026-08-25",
+    "source": "Hugging Face",
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "summary": "Every model supports native tool calling. Granite 4.2 was evaluated across agentic coding, general agentic and tool use, reasoning, chat and instruction following, and long context. Agentic coding resolve rates.",
+    "sourceUrl": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f6b26e55a489",
+    "date": "2026-08-25",
+    "source": "Hugging Face",
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "summary": "This inverts the usual relationship between a 4-bit model and the 16-bit model it came from. The QAH model wins on 7 of the 9 benchmarks. The 4-bit QAH model matches or beats its bfloat16 source on 7 of 9 benchmarks, and beats the full-size teacher on LiveCodeBench.",
+    "sourceUrl": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e1546878c759",
+    "date": "2026-08-25",
+    "source": "TechCrunch",
+    "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+    "summary": "The company announced the round Tuesday, saying the new capital comes partly from a number of prominent entertainment industry organizations, including Universal Music Group, Sony Music Group, Warner Music Group, and gaming giant Electronic Arts (EA).",
+    "sourceUrl": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c00d0b0febc0",
+    "date": "2026-08-25",
+    "source": "TechCrunch",
+    "title": "Claude Cowork finally remembers what you told the app in chat",
+    "summary": "Anthropic is also exposing what Claude has retained in its memory, allowing users to read, edit, or delete information on any topic. The update makes Claude now feel like one continuous assistant, rather than two separate products under one roof.",
+    "sourceUrl": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-3fceac33cede",
+    "date": "2026-08-25",
+    "source": "TechCrunch",
+    "title": "Gamma acquires Accel-backed design startup Lica",
+    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nBack by popular demand: Save up to $300 on Disrupt\nPresentation startup Gamma has acquired Accel-backed design startup Lica in a bid to build out its own design research lab, TechCrunch has learned exclusively.",
+    "sourceUrl": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d95a58ad472b",
+    "date": "2026-08-25",
+    "source": "TechCrunch",
+    "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+    "summary": "First announced last October, Jalapeño was developed by OpenAI in close collaboration with Broadcom, with OpenAI’s own models assisting in the development process.",
+    "sourceUrl": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9f1468a44254",
+    "date": "2026-08-25",
+    "source": "TechCrunch",
+    "title": "Accel-backed Keenable is indexing the web for AI agents",
+    "summary": "Andrey Styskin, who previously led Russian search giant Yandex’s search, AI, and cloud division, and German AI scientist Matthias Petri are working to solve that problem with their new startup, Keenable.",
+    "sourceUrl": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9e2dc1206d7d",
+    "date": "2026-08-25",
+    "source": "TechCrunch",
+    "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+    "summary": "Do you think about a minimum viable product? Do you think about discrete problems? What are you evaluating?",
+    "sourceUrl": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f898977be79d",
+    "date": "2026-08-25",
+    "source": "MIT Technology Review",
+    "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+    "summary": "Humanoid robots are having a moment in China. Nearly 90% of the more than 13,000 two-armed, two-legged robots delivered globally last year were made in China. Robots in many forms—including humanoid ones—entertained the public and demonstrated their skills.",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0f75219d5e8f",
+    "date": "2026-08-25",
+    "source": "The Verge",
+    "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+    "summary": "Jalapeño outperformed Nvidia’s superchips on an AI inference benchmark test. Jalapeño outperformed Nvidia’s superchips on an AI inference benchmark test. To measure Jalapeño’s performance, OpenAI used InferenceX, a benchmarking platform that shows how well AI systems handle inference.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-63243808b149",
+    "date": "2026-08-25",
+    "source": "The Verge",
+    "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+    "summary": "The state is investigating whether OpenAI’s ‘inability or unwillingness to ensure the safety of its products’ endangers citizens. The state is investigating whether OpenAI’s ‘inability or unwillingness to ensure the safety of its products’ endangers citizens.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-2983dbf79834",
     "date": "2026-08-25",
     "source": "Hugging Face",
@@ -220,372 +593,6 @@
       "ethics",
       "genai-product"
     ],
-    "resources": []
-  },
-  {
-    "id": "auto-bab230b853cb",
-    "date": "2026-08-23",
-    "source": "TechCrunch",
-    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nSave $300 on your Disrupt 2026 ticket: REGISTER NOW. A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation about who actually built it.",
-    "sourceUrl": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ff8825167e80",
-    "date": "2026-08-23",
-    "source": "TechCrunch",
-    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "summary": "One of Linkdaze’s biggest strengths is its calendar compatibility. Launched last December, Linkdaze is available in 15.6-inch and 10.1-inch models, giving you some flexibility depending on how much wall space you have.",
-    "sourceUrl": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-80d039e631a9",
-    "date": "2026-08-23",
-    "source": "TechCrunch",
-    "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-    "summary": "The country needs to find a “compromise” between privacy and safety, according to Flock Safety CEO Garrett Langley.",
-    "sourceUrl": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-badce9233977",
-    "date": "2026-08-23",
-    "source": "TechCrunch",
-    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-    "summary": "Fair use is a carve out of copyright law that allows for the use of copyrighted materials without explicit permission, protecting the ability to comment and iterate on copyrighted works through criticism, parody, education, and other means.",
-    "sourceUrl": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6024a826f303",
-    "date": "2026-08-22",
-    "source": "TechCrunch",
-    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nSave $300 on your Disrupt 2026 ticket: REGISTER NOW. However, after HBS released a trial version, students said they wanted a more guided experience.",
-    "sourceUrl": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-00b5c41772e1",
-    "date": "2026-08-22",
-    "source": "TechCrunch",
-    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-    "summary": "Inherent, a London AI lab founded by Google DeepMind alumni, says its AI agent just outperformed much larger models from Anthropic and OpenAI using a fraction of the size. Of all the startups launched by Google DeepMind alumni, Inherent has gotten relatively little attention.",
-    "sourceUrl": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ceb77d2acd27",
-    "date": "2026-08-22",
-    "source": "TechCrunch",
-    "title": "OpenAI says California should strengthen its AI safety bill",
-    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nSave $300 on your Disrupt 2026 ticket: REGISTER NOW. OpenAI is calling for California to add more safeguards to a landmark AI safety bill that was passed last year.",
-    "sourceUrl": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-32aab1e02878",
-    "date": "2026-08-22",
-    "source": "TechCrunch",
-    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-    "summary": "OpenAI came out on top; Anthropic and Meta scored lowest. Guidelight’s report says the best public evidence shows that companies have “few containment protocols ready for an emergency.”\nThere could, of course, be containment plans that companies have in place but haven’t shared publicly.",
-    "sourceUrl": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-68e9fb1705e1",
-    "date": "2026-08-21",
-    "source": "Hugging Face",
-    "title": "Measuring benchmark optimization in speech recognition",
-    "summary": "Models exhibiting benchmark-optimized behavior reproduced erroneous reference transcripts 18–30% of the time. The effect weakened on freshly collected data for several models, suggesting that the surrounding benchmark-associated audio—not only textual autocomplete—helped the models recover the reference.",
-    "sourceUrl": "https://huggingface.co/blog/asr-benchmark-optimization",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5a859cda5199",
-    "date": "2026-08-21",
-    "source": "TechCrunch",
-    "title": "Anthropic’s Opus 4.6 is a smut-machine",
-    "summary": "Other older models, including Opus 3 and Haiku 4.5, also generate sexually explicit content through a recently exploited jailbreak method. More recent Opus models (4.7 through the current Opus 5) are resistant to the jailbreak.",
-    "sourceUrl": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e4f6afd078cd",
-    "date": "2026-08-21",
-    "source": "TechCrunch",
-    "title": "Nvidia partners with data center developer Cloverleaf",
-    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nSave $300 on your Disrupt 2026 ticket: REGISTER NOW. On Friday, it announced a partnership with Cloverleaf Infrastructure, a company that lays the groundwork for data centers. TechCrunch reached out to Nvidia for more information.",
-    "sourceUrl": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-6df4ce907837",
-    "date": "2026-08-21",
-    "source": "TechCrunch",
-    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-    "summary": "The harness is what makes a model an agent: It handles memory, context, and feedback. This is a cheap model. But wait, which harness are you using?",
-    "sourceUrl": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-897ae96f35ff",
-    "date": "2026-08-21",
-    "source": "TechCrunch",
-    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-    "summary": "Anthony Ha is TechCrunch’s weekend editor. You can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com. You can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.",
-    "sourceUrl": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-8a5a6d190a21",
-    "date": "2026-08-21",
-    "source": "TechCrunch",
-    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-    "summary": "The additional capital will allow the company to open a larger manufacturing facility and advance its largest orbital data center spacecraft, Starcloud-3, which is intended to fly on SpaceX’s forthcoming Starship rocket.",
-    "sourceUrl": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-016ca72fa4b5",
-    "date": "2026-08-21",
-    "source": "The Verge",
-    "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-    "summary": "LinkedIn’s new AI slop button is apparently getting a lot of use. LinkedIn’s new AI slop button is apparently getting a lot of use. LinkedIn actually announced a “Seems like AI slop” button on July 30th, and the company says that a lot of people have already used it.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-e16f2484c31f",
-    "date": "2026-08-21",
-    "source": "The Verge",
-    "title": "Major YouTube creators are facing backlash for accepting AI money",
-    "summary": "﻿Videos promoting Higgsfield are leaving some fans unhappy. ﻿Videos promoting Higgsfield are leaving some fans unhappy. Almost immediately, fans began dragging Haapoja and Kolder for seemingly working with Higgsfield.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-35f97ccf8783",
-    "date": "2026-08-21",
-    "source": "TechCrunch",
-    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-    "summary": "Additionally, some of the data it generates can be sold to multiple customers, driving gross margins for this “off-the-shelf” data as high as 80% to 90%, a person familiar with the startup’s finances told TechCrunch.",
-    "sourceUrl": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-027379c08484",
-    "date": "2026-08-20",
-    "source": "OpenAI",
-    "title": "Introducing AI Futures",
-    "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-    "sourceUrl": "https://openai.com/index/introducing-ai-futures",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-cb030de2dd94",
-    "date": "2026-08-20",
-    "source": "OpenAI",
-    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-    "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-    "sourceUrl": "https://openai.com/index/stampli",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
     "resources": []
   },
   {
