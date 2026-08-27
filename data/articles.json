@@ -1,237 +1,35 @@
 [
   {
-    "id": "auto-67b26b621662",
-    "date": "2026-08-26",
-    "source": "TechCrunch",
-    "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-    "summary": "Indian fintech Cred became its first customer, and Ringg has since signed Indian startups like Flipkart, Practo, Groww, and PolicyBazaar. Voice calls still make up over 70% of Ringg’s business, but the startup has started branching into other channels, including chat and WhatsApp.",
-    "sourceUrl": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5700b1aa91de",
-    "date": "2026-08-26",
-    "source": "TechCrunch",
-    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-    "summary": "The fresh capital totals nearly $200 million according to a regulatory filing. The new capital brings the round’s total funding to $600 million. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
-    "sourceUrl": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-bae87cb1275d",
-    "date": "2026-08-26",
-    "source": "TechCrunch",
-    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-    "summary": "Chris Malone, OpenAI’s former head of data centers, left the company last week, the Wall Street Journal has reported.",
-    "sourceUrl": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-829e237a888d",
-    "date": "2026-08-25",
+    "id": "auto-3062d8cdad5f",
+    "date": "2026-08-27",
     "source": "OpenAI",
-    "title": "The full stack behind abundant intelligence",
-    "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-    "sourceUrl": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+    "sourceUrl": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
     "auto": true,
     "metiers": [],
     "themes": [],
     "resources": []
   },
   {
-    "id": "auto-9ad99bb5f40a",
-    "date": "2026-08-25",
+    "id": "auto-57e276283c19",
+    "date": "2026-08-27",
     "source": "OpenAI",
-    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-    "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-    "sourceUrl": "https://openai.com/index/jalapeno-first-results",
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+    "sourceUrl": "https://openai.com/index/expanding-our-presence-in-brazil",
     "auto": true,
     "metiers": [],
     "themes": [],
     "resources": []
   },
   {
-    "id": "auto-da55f7d7bd9d",
-    "date": "2026-08-25",
-    "source": "OpenAI",
-    "title": "Disrupting a new covert influence campaign from Russia",
-    "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-    "sourceUrl": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-cfc376addf8c",
-    "date": "2026-08-25",
-    "source": "OpenAI",
-    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-    "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
-    "sourceUrl": "https://openai.com/index/introducing-admin-plugin",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-5f0b03166bf1",
-    "date": "2026-08-25",
+    "id": "auto-5a6b85529262",
+    "date": "2026-08-27",
     "source": "Google AI Blog",
-    "title": "5 ways to upgrade your home decor with Google Search",
-    "summary": "You can use Google Search tools to turn your home decor inspiration into reality. You can also use live video guidance for DIY projects and track price history to ensure you get the best deals. Search Live can help guide you through DIY projects step-by-step.",
-    "sourceUrl": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-74043a2c13e4",
-    "date": "2026-08-25",
-    "source": "Hugging Face",
-    "title": "Granite 4.2 LLMs: How They're Built",
-    "summary": "Every model supports native tool calling. Granite 4.2 was evaluated across agentic coding, general agentic and tool use, reasoning, chat and instruction following, and long context. Agentic coding resolve rates.",
-    "sourceUrl": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f6b26e55a489",
-    "date": "2026-08-25",
-    "source": "Hugging Face",
-    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-    "summary": "This inverts the usual relationship between a 4-bit model and the 16-bit model it came from. The QAH model wins on 7 of the 9 benchmarks. The 4-bit QAH model matches or beats its bfloat16 source on 7 of 9 benchmarks, and beats the full-size teacher on LiveCodeBench.",
-    "sourceUrl": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e1546878c759",
-    "date": "2026-08-25",
-    "source": "TechCrunch",
-    "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-    "summary": "The company announced the round Tuesday, saying the new capital comes partly from a number of prominent entertainment industry organizations, including Universal Music Group, Sony Music Group, Warner Music Group, and gaming giant Electronic Arts (EA).",
-    "sourceUrl": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c00d0b0febc0",
-    "date": "2026-08-25",
-    "source": "TechCrunch",
-    "title": "Claude Cowork finally remembers what you told the app in chat",
-    "summary": "Anthropic is also exposing what Claude has retained in its memory, allowing users to read, edit, or delete information on any topic. The update makes Claude now feel like one continuous assistant, rather than two separate products under one roof.",
-    "sourceUrl": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3fceac33cede",
-    "date": "2026-08-25",
-    "source": "TechCrunch",
-    "title": "Gamma acquires Accel-backed design startup Lica",
-    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nBack by popular demand: Save up to $300 on Disrupt\nPresentation startup Gamma has acquired Accel-backed design startup Lica in a bid to build out its own design research lab, TechCrunch has learned exclusively.",
-    "sourceUrl": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+    "title": "3 new ways to plan and book travel in Search",
+    "summary": "Now, AI Mode in Search can show you the cost in points or miles for flights and hotels. When you find a hotel you love, making the reservation should feel quick and effortless. Once you’ve found the right hotel, just ask AI Mode to help you complete the booking.",
+    "sourceUrl": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
     "auto": true,
     "metiers": [
       "management",
@@ -243,12 +41,209 @@
     "resources": []
   },
   {
-    "id": "auto-d95a58ad472b",
-    "date": "2026-08-25",
+    "id": "auto-3f482c14d673",
+    "date": "2026-08-27",
+    "source": "VentureBeat",
+    "title": "Orchestration is the new challenge for CX in the age of AI agents",
+    "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has i…",
+    "sourceUrl": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b0a07733da19",
+    "date": "2026-08-27",
+    "source": "VentureBeat",
+    "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+    "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don't deploy a single agent and watch it run, they deploy fle…",
+    "sourceUrl": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c92e20e633fb",
+    "date": "2026-08-27",
+    "source": "VentureBeat",
+    "title": "When agents act on their own, governance has to live in the data layer",
+    "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: W…",
+    "sourceUrl": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6c5141d5d38f",
+    "date": "2026-08-27",
     "source": "TechCrunch",
-    "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-    "summary": "First announced last October, Jalapeño was developed by OpenAI in close collaboration with Broadcom, with OpenAI’s own models assisting in the development process.",
-    "sourceUrl": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+    "summary": "Users will now be able to ask AI Mode to track flight prices, book hotels, and see the cost of flights and hotels in points or miles. As for hotel booking, users will be able to discover and book their next hotel through a conversation with AI Mode.",
+    "sourceUrl": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-740a2542039e",
+    "date": "2026-08-27",
+    "source": "TechCrunch",
+    "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+    "summary": "Hugging Face is best known as a platform and community where developers go for open model weights. However, the company acquired French startup Pollen Robotics in April 2025 to build affordable, open source AI hardware. TechCrunch has reached out to Hugging Face and Pollen Robotics for more information.",
+    "sourceUrl": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e180fa990e85",
+    "date": "2026-08-27",
+    "source": "TechCrunch",
+    "title": "AI’s memory crunch is coming for Android apps",
+    "summary": "This week, the tech giant announced two new app quality requirements, one of which is focused on reducing apps’ memory usage and optimizing its code. To address this, Google is now establishing new performance thresholds across several areas, like dynamic memory usage and bitmap usage.",
+    "sourceUrl": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d8d0246454ac",
+    "date": "2026-08-27",
+    "source": "TechCrunch",
+    "title": "Here’s all the times AI has gone rogue and hacked other companies",
+    "summary": "In July, OpenAI admitted that one of its agents tasked with completing a cybersecurity experiment broke out of containment and hacked AI dataset platform Hugging Face. OpenAI only found out after Hugging Face disclosed it had been a victim of a fully autonomous attack.",
+    "sourceUrl": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-3a7d70a0e7de",
+    "date": "2026-08-27",
+    "source": "TechCrunch",
+    "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+    "summary": "One of these companies is Plaud, which has over 2.5 million people using its hardware or software. Plaud isn’t the first to this form factor. The Plaud One has 12mm drivers and features active noise cancellation.",
+    "sourceUrl": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b32137f532da",
+    "date": "2026-08-27",
+    "source": "TechCrunch",
+    "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+    "summary": "OpenAI said on Thursday that it will start showing ads on its ChatGPT Free and Go subscription tiers in India.",
+    "sourceUrl": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-885ea181f134",
+    "date": "2026-08-27",
+    "source": "TechCrunch",
+    "title": "Nvidia closes in on Hugging Face acquisition",
+    "summary": "Nvidia has agreed to buy Hugging Face for $12.9 billion, The Information reported Wednesday night, citing a source familiar with the matter. Owning Hugging Face would give Nvidia the ability to sell that unused capacity to Hugging Face’s customers.",
+    "sourceUrl": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
     "auto": true,
     "metiers": [
       "management",
@@ -260,107 +255,36 @@
     "resources": []
   },
   {
-    "id": "auto-9f1468a44254",
-    "date": "2026-08-25",
+    "id": "auto-9180d12bb88b",
+    "date": "2026-08-27",
     "source": "TechCrunch",
-    "title": "Accel-backed Keenable is indexing the web for AI agents",
-    "summary": "Andrey Styskin, who previously led Russian search giant Yandex’s search, AI, and cloud division, and German AI scientist Matthias Petri are working to solve that problem with their new startup, Keenable.",
-    "sourceUrl": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+    "summary": "The company, which offers an AI assistant that has inspired enthusiasm among its early users, told The Wall Street Journal on Wednesday that it had raised $250 million in a recent Series B funding round.",
+    "sourceUrl": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
     "auto": true,
     "metiers": [
       "csm",
-      "management",
       "marketing",
-      "ops",
       "product",
       "sales",
       "tech"
     ],
     "themes": [
-      "llm",
       "agents",
-      "ethics",
       "genai-product"
     ],
     "resources": []
   },
   {
-    "id": "auto-9e2dc1206d7d",
-    "date": "2026-08-25",
-    "source": "TechCrunch",
-    "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-    "summary": "Do you think about a minimum viable product? Do you think about discrete problems? What are you evaluating?",
-    "sourceUrl": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f898977be79d",
-    "date": "2026-08-25",
-    "source": "MIT Technology Review",
-    "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-    "summary": "Humanoid robots are having a moment in China. Nearly 90% of the more than 13,000 two-armed, two-legged robots delivered globally last year were made in China. Robots in many forms—including humanoid ones—entertained the public and demonstrated their skills.",
-    "sourceUrl": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0f75219d5e8f",
-    "date": "2026-08-25",
+    "id": "auto-7529af836f99",
+    "date": "2026-08-27",
     "source": "The Verge",
-    "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-    "summary": "Jalapeño outperformed Nvidia’s superchips on an AI inference benchmark test. Jalapeño outperformed Nvidia’s superchips on an AI inference benchmark test. To measure Jalapeño’s performance, OpenAI used InferenceX, a benchmarking platform that shows how well AI systems handle inference.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+    "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+    "summary": "In March, during an appearance on the Lex Fridman podcast, he plainly stated, “I think we’ve achieved AGI.” Huang didn’t say exactly what he meant by AGI. So expect the industry — Huang included — to keep the AGI talk coming. Maybe an AGI will eventually show up and tell us what AGI actually means.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
     "auto": true,
     "metiers": [
       "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-63243808b149",
-    "date": "2026-08-25",
-    "source": "The Verge",
-    "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-    "summary": "The state is investigating whether OpenAI’s ‘inability or unwillingness to ensure the safety of its products’ endangers citizens. The state is investigating whether OpenAI’s ‘inability or unwillingness to ensure the safety of its products’ endangers citizens.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
       "ops",
       "product",
       "sales",
@@ -368,17 +292,56 @@
     ],
     "themes": [
       "agents",
-      "ethics"
+      "automation"
     ],
     "resources": []
   },
   {
-    "id": "auto-2983dbf79834",
-    "date": "2026-08-25",
-    "source": "Hugging Face",
-    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-    "summary": "One graph, three pipelines. That’s one canvas, two model calls through Hugging Face Inference Providers, and two calls to Gradio Spaces. Every node so far reaches out to Hugging Face.",
-    "sourceUrl": "https://huggingface.co/blog/gradio-workflow-guide",
+    "id": "auto-d9738fe90b0d",
+    "date": "2026-08-27",
+    "source": "The Verge",
+    "title": "OpenAI’s executive exodus has one big winner",
+    "summary": "You just wrote a long story about this. There’s a lot going on there. You’ve talked to Brockman before.",
+    "sourceUrl": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c5408a4b6797",
+    "date": "2026-08-27",
+    "source": "The Verge",
+    "title": "Hugging Face’s new robot is an adorable rollerskating duck",
+    "summary": "Each Microduck can also sing with its own unique generated voice.﻿\nEach Microduck can also sing with its own unique generated voice.﻿\nHugging Face’s Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall.",
+    "sourceUrl": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-52e774adbc6b",
+    "date": "2026-08-27",
+    "source": "The Verge",
+    "title": "Plaud is launching AI earbuds",
+    "summary": "﻿Preorders are now available for the $249.99 Plaud One, with shipping to start in September. ﻿Preorders are now available for the $249.99 Plaud One, with shipping to start in September.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
     "auto": true,
     "metiers": [
       "csm",
@@ -388,48 +351,121 @@
       "tech"
     ],
     "themes": [
-      "llm",
-      "automation",
+      "agents",
       "data"
     ],
     "resources": []
   },
   {
-    "id": "auto-23a36ae92a3c",
-    "date": "2026-08-25",
-    "source": "TechCrunch",
-    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nBack by popular demand: Save up to $300 on Disrupt\nSituational Awareness, the AI focused hedge fund that was Wall Street’s fleeting obsession, is having a very bad month. Now, federal regulators are reportedly probing the company as well.",
-    "sourceUrl": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+    "id": "auto-d02f5ca62fca",
+    "date": "2026-08-27",
+    "source": "The Verge",
+    "title": "Adobe is adding more AI to Photoshop",
+    "summary": "Photoshop’s new ‘AI Assisted Editor’ interface puts AI features in a simplified toolbar. Photoshop’s new ‘AI Assisted Editor’ interface puts AI features in a simplified toolbar.",
+    "sourceUrl": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
     "auto": true,
     "metiers": [
-      "management",
-      "ops"
+      "marketing",
+      "product"
     ],
     "themes": [
-      "ethics"
+      "genai-product"
     ],
     "resources": []
   },
   {
-    "id": "auto-df015003760c",
-    "date": "2026-08-24",
+    "id": "auto-d6bb1031e66b",
+    "date": "2026-08-26",
     "source": "OpenAI",
-    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-    "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-    "sourceUrl": "https://openai.com/index/gpt-5-6-in-kiro",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+    "sourceUrl": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "auto": true,
     "metiers": [],
     "themes": [],
     "resources": []
   },
   {
-    "id": "auto-44dcec9c1286",
-    "date": "2026-08-24",
+    "id": "auto-cdfc10030b4b",
+    "date": "2026-08-26",
+    "source": "OpenAI",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+    "sourceUrl": "https://openai.com/index/learning-never-stops",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-504dd1ec9508",
+    "date": "2026-08-26",
+    "source": "OpenAI",
+    "title": "The Hugging Face incident and the road ahead",
+    "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+    "sourceUrl": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-d34e82eae2f2",
+    "date": "2026-08-26",
+    "source": "OpenAI",
+    "title": "How loveholidays is making everyone a builder with Codex",
+    "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+    "sourceUrl": "https://openai.com/index/loveholidays",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-5309d9655463",
+    "date": "2026-08-26",
+    "source": "Hugging Face",
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "summary": "Finetuning multi-vector models involves several components: the model itself, datasets, loss functions, training arguments, evaluators, and the trainer class. This blogpost is about training multi-vector models.",
+    "sourceUrl": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-54c6ad305de6",
+    "date": "2026-08-26",
     "source": "TechCrunch",
-    "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nBack by popular demand: Save up to $300 on Disrupt\nPresident Donald Trump bought as much as $50,000 worth of SpaceX shares on June 23, according to a financial disclosure first reported by Reuters, two weeks after the record-setting IPO of Elon Musk’s company.",
-    "sourceUrl": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+    "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+    "summary": "Amazon and Nvidia just got a lot closer. The announcement, made during Nvidia’s quarterly earnings call, comes just five months after Amazon agreed to deploy more than 1 million Nvidia GPUs across AWS infrastructure starting this year. Nvidia said it began production shipments this quarter.",
+    "sourceUrl": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9951d4d1612a",
+    "date": "2026-08-26",
+    "source": "TechCrunch",
+    "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+    "summary": "Anthropic has signed a deal to rent about $45 billion in AI compute from Nscale, a British AI infrastructure company, a source familiar with the deal told TechCrunch. In July, the company also signed a $5 billion compute-related deal with AMD.",
+    "sourceUrl": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
     "auto": true,
     "metiers": [
       "management",
@@ -441,29 +477,12 @@
     "resources": []
   },
   {
-    "id": "auto-d7e46a5aa854",
-    "date": "2026-08-24",
+    "id": "auto-5069764c86d0",
+    "date": "2026-08-26",
     "source": "TechCrunch",
-    "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-    "summary": "They assigned the company a $9 billion valuation earlier this year, a mere six months after the company was assigned a $3 billion valuation. Grab your ticket today to make sure you get the best available price.",
-    "sourceUrl": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-679f443c1885",
-    "date": "2026-08-24",
-    "source": "TechCrunch",
-    "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-    "summary": "pic.twitter.com/J2qhYVqwxN\nAnother person, Claire Vo, found that Instinct was still summarizing their inbox after disconnecting its access. Instinct is an amazing product. I've been using Instinct every day for the last week now.",
-    "sourceUrl": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+    "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+    "summary": "Google gets something right in its Wednesday announcement about new Gemini Live voice features when it says, “You shouldn’t have to guess whether a task requires Spark, a Daily Brief, or a quick inbox search.” Google means that as a promise — that the updated Gemini app can handle a variety of tasks via voice commands.",
+    "sourceUrl": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
     "auto": true,
     "metiers": [
       "csm",
@@ -475,6 +494,7 @@
       "tech"
     ],
     "themes": [
+      "llm",
       "agents",
       "ethics",
       "genai-product"
@@ -482,12 +502,12 @@
     "resources": []
   },
   {
-    "id": "auto-97614477a912",
-    "date": "2026-08-24",
+    "id": "auto-a4f802256344",
+    "date": "2026-08-26",
     "source": "TechCrunch",
-    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket\nBack by popular demand: Save up to $300 on Disrupt\nNew York-based General Intuition, the startup building a foundation model that trains generalized AI agents to move through space and time, is in talks to raise funding at a $6 billion pre-money valuation from new investors including Valor Equity Partners, Point72 Ventures, and Seven Seven Six, according to sources familiar with the matter.",
-    "sourceUrl": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+    "title": "How do we explain OpenAI’s executive exodus?",
+    "summary": "OpenAI is the original frontier lab. OpenAI has also already filed to go public. The specter of the company’s IPO hangs over everything.",
+    "sourceUrl": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
     "auto": true,
     "metiers": [
       "csm",
@@ -506,92 +526,46 @@
     "resources": []
   },
   {
-    "id": "auto-25d39522dc75",
-    "date": "2026-08-24",
+    "id": "auto-e0f5f82e7dc2",
+    "date": "2026-08-26",
     "source": "TechCrunch",
-    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-    "summary": "Yes,” Ambrosino told TechCrunch. Now, OpenAI wants to make functionality found in tools like OpenClaw, which coders use to put LLMs to work, as easy as prompting. OpenAI eventually followed suit by adding more opportunities for users to interact with the model.",
-    "sourceUrl": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+    "title": "OpenAI releases its official report on the Hugging Face breach",
+    "summary": "The report gives critical new details about the models that carried out the breach.",
+    "sourceUrl": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
     "auto": true,
     "metiers": [
       "csm",
       "management",
-      "marketing",
       "ops",
       "product",
       "sales",
       "tech"
     ],
     "themes": [
-      "llm",
       "agents",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c98f9ed20318",
-    "date": "2026-08-24",
-    "source": "TechCrunch",
-    "title": "Hugging Face reportedly in talks to be acquired for $13B",
-    "summary": "Hugging Face last raised in 2023 at a $4.5 billion post-money valuation in a round led by Salesforce Ventures, with participation from Alphabet, GV, IBM Ventures, and others.",
-    "sourceUrl": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
       "ethics"
     ],
     "resources": []
   },
   {
-    "id": "auto-b09e26ca9fd0",
-    "date": "2026-08-24",
-    "source": "MIT Technology Review",
-    "title": "How to encourage smarter AI use in the classroom",
-    "summary": "Now, teachers there often use generative AI to prepare class materials. But she started seeing students try to use AI-powered tools like Google Translate to take shortcuts on their assignments years before ChatGPT’s launch.",
-    "sourceUrl": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+    "id": "auto-00cb96597285",
+    "date": "2026-08-26",
+    "source": "TechCrunch",
+    "title": "Radar makes podcasts searchable — and usable by AI agents",
+    "summary": "On Wednesday, the company introduced Radar, a podcast search engine that not only transcribes podcast audio but also understands what it means, enabling it to pull out key quotes and highlights. “Our vision is really to have all new media intelligence and all audio intelligence in that API.",
+    "sourceUrl": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
     "auto": true,
     "metiers": [
       "csm",
       "management",
-      "marketing",
       "ops",
       "product",
+      "sales",
       "tech"
     ],
     "themes": [
-      "llm",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3d1f34a6b2ee",
-    "date": "2026-08-24",
-    "source": "MIT Technology Review",
-    "title": "Kids outlearn AI—and we still don’t know why",
-    "summary": "Testing hypotheses about human learning in machine models could also settle enduring questions about language and children’s developing minds. It also largely failed to produce models actually capable of handling human language at scale.",
-    "sourceUrl": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product"
+      "agents",
+      "ethics"
     ],
     "resources": []
   },
