@@ -1,5 +1,172 @@
 [
   {
+    "id": "auto-0b00c80d502c",
+    "date": "2026-08-28",
+    "source": "OpenAI",
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+    "sourceUrl": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-c6fae4a04883",
+    "date": "2026-08-28",
+    "source": "TechCrunch",
+    "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+    "summary": "A federal judge in California ruled on Thursday evening that the Trump administration’s designation of Anthropic as a supply-chain risk was illegal.",
+    "sourceUrl": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f3970ce5d9ff",
+    "date": "2026-08-28",
+    "source": "TechCrunch",
+    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+    "summary": "Meta’s India and Southeast Asia vice president, Sandhya Devanathan, is leaving the social media giant to join OpenAI, the ChatGPT maker told TechCrunch. Devanathan’s appointment comes days after Prabhjeet Singh joined OpenAI as its India head.",
+    "sourceUrl": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2c0deb26fc84",
+    "date": "2026-08-28",
+    "source": "The Verge",
+    "title": "Trump’s EPA wants to let data centers hide their air pollution",
+    "summary": "Advocates say it’ll help data center developers avoid public scrutiny. The Trump administration wants to scrap another federal air pollution rule. Advocates say it’ll help data center developers avoid public scrutiny.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9ec4728e0bc5",
+    "date": "2026-08-28",
+    "source": "The Verge",
+    "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+    "summary": "She also wrote that the actions were “unlawful retaliation in violation of the First Amendment,” adding that Defense Secretary Pete Hegseth’s decision to designate Anthropic a supply chain risk “was arbitrary and capricious.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2f47506cdbcd",
+    "date": "2026-08-27",
+    "source": "TechCrunch",
+    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+    "summary": "With Cat de Jong, Head of Applied AI, Anthropic\nTwo years ago, GTM engineering did not exist.",
+    "sourceUrl": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9d531c3266a9",
+    "date": "2026-08-27",
+    "source": "TechCrunch",
+    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+    "summary": "Barret Zoph, a co-founder of the AI startup Thinking Machines who left the company earlier this year to rejoin OpenAI, has found yet another job. Zoph spent two years at OpenAI and left in October 2024 to co-found Thinking Machines with Mira Murati, who had left the AI lab the month prior.",
+    "sourceUrl": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9eadc7db28e1",
+    "date": "2026-08-27",
+    "source": "TechCrunch",
+    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+    "summary": "Over a hundred tech companies — including OpenAI, Anthropic, Google, and Microsoft — have signed an open letter urging both the private and public sectors to work together to defend themselves from AI-related cyber threats.",
+    "sourceUrl": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-01f0ee112f1e",
+    "date": "2026-08-27",
+    "source": "The Verge",
+    "title": "Google’s AI note-taking app now allows you to interact with books",
+    "summary": "Gemini Notebook’s new ‘Expert Intelligence’ feature pulls information from the books you’ve purchased. Gemini Notebook’s new ‘Expert Intelligence’ feature pulls information from the books you’ve purchased. Google’s AI note-taking app, Gemini Notebook, can now pull information from the books you’ve purchased.",
+    "sourceUrl": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-3062d8cdad5f",
     "date": "2026-08-27",
     "source": "OpenAI",
@@ -374,140 +541,12 @@
     "resources": []
   },
   {
-    "id": "auto-d6bb1031e66b",
+    "id": "auto-69b225fb598b",
     "date": "2026-08-26",
-    "source": "OpenAI",
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-    "sourceUrl": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-cdfc10030b4b",
-    "date": "2026-08-26",
-    "source": "OpenAI",
-    "title": "Learning never stops: How AI makes learning continuous",
-    "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-    "sourceUrl": "https://openai.com/index/learning-never-stops",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-504dd1ec9508",
-    "date": "2026-08-26",
-    "source": "OpenAI",
-    "title": "The Hugging Face incident and the road ahead",
-    "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-    "sourceUrl": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-d34e82eae2f2",
-    "date": "2026-08-26",
-    "source": "OpenAI",
-    "title": "How loveholidays is making everyone a builder with Codex",
-    "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-    "sourceUrl": "https://openai.com/index/loveholidays",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-5309d9655463",
-    "date": "2026-08-26",
-    "source": "Hugging Face",
-    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-    "summary": "Finetuning multi-vector models involves several components: the model itself, datasets, loss functions, training arguments, evaluators, and the trainer class. This blogpost is about training multi-vector models.",
-    "sourceUrl": "https://huggingface.co/blog/train-multi-vector-encoder",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-54c6ad305de6",
-    "date": "2026-08-26",
-    "source": "TechCrunch",
-    "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-    "summary": "Amazon and Nvidia just got a lot closer. The announcement, made during Nvidia’s quarterly earnings call, comes just five months after Amazon agreed to deploy more than 1 million Nvidia GPUs across AWS infrastructure starting this year. Nvidia said it began production shipments this quarter.",
-    "sourceUrl": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9951d4d1612a",
-    "date": "2026-08-26",
-    "source": "TechCrunch",
-    "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-    "summary": "Anthropic has signed a deal to rent about $45 billion in AI compute from Nscale, a British AI infrastructure company, a source familiar with the deal told TechCrunch. In July, the company also signed a $5 billion compute-related deal with AMD.",
-    "sourceUrl": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5069764c86d0",
-    "date": "2026-08-26",
-    "source": "TechCrunch",
-    "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-    "summary": "Google gets something right in its Wednesday announcement about new Gemini Live voice features when it says, “You shouldn’t have to guess whether a task requires Spark, a Daily Brief, or a quick inbox search.” Google means that as a promise — that the updated Gemini app can handle a variety of tasks via voice commands.",
-    "sourceUrl": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a4f802256344",
-    "date": "2026-08-26",
-    "source": "TechCrunch",
-    "title": "How do we explain OpenAI’s executive exodus?",
-    "summary": "OpenAI is the original frontier lab. OpenAI has also already filed to go public. The specter of the company’s IPO hangs over everything.",
-    "sourceUrl": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+    "source": "MIT Technology Review",
+    "title": "The inside story on why OpenAI agents hacked Hugging Face",
+    "summary": "Then in July, while being evaluated for their cybersecurity abilities, some models created a new message board. But monitoring its models’ thinking does give OpenAI the chance to halt the training process and reassess its approach if models do start learning to reward hack.",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
     "auto": true,
     "metiers": [
       "csm",
@@ -520,53 +559,20 @@
     "themes": [
       "llm",
       "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e0f5f82e7dc2",
-    "date": "2026-08-26",
-    "source": "TechCrunch",
-    "title": "OpenAI releases its official report on the Hugging Face breach",
-    "summary": "The report gives critical new details about the models that carried out the breach.",
-    "sourceUrl": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
       "ethics"
     ],
     "resources": []
   },
   {
-    "id": "auto-00cb96597285",
+    "id": "auto-5466e82242f5",
     "date": "2026-08-26",
-    "source": "TechCrunch",
-    "title": "Radar makes podcasts searchable — and usable by AI agents",
-    "summary": "On Wednesday, the company introduced Radar, a podcast search engine that not only transcribes podcast audio but also understands what it means, enabling it to pull out key quotes and highlights. “Our vision is really to have all new media intelligence and all audio intelligence in that API.",
-    "sourceUrl": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+    "source": "The Verge",
+    "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+    "summary": "﻿The chip company made over $96 billion in the past quarter, most of it from its data center business. ﻿The chip company made over $96 billion in the past quarter, most of it from its data center business.",
+    "sourceUrl": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
     "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
+    "metiers": [],
+    "themes": [],
     "resources": []
   },
   {
