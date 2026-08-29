@@ -1,5 +1,99 @@
 [
   {
+    "id": "auto-092c8de02e8b",
+    "date": "2026-08-28",
+    "source": "OpenAI",
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+    "sourceUrl": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-b0b2c2da12a5",
+    "date": "2026-08-28",
+    "source": "Hugging Face",
+    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "summary": "The four splits are speaker-disjoint, comprising 4,888 speakers, with 12 speaker attributes recorded for each. Five clips from the public Indian English split, with the metadata each one carries:\n29-year-old woman, West Tripura, Tripura.",
+    "sourceUrl": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d63f08afee62",
+    "date": "2026-08-28",
+    "source": "TechCrunch",
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "summary": "The $1 billion private debt deal comes as Lambda is reportedly in talks for a $3 billion pre-IPO round. The company last November raised $1.5 billion in venture capital at a $5.43 billion post-money valuation, per PitchBook data.",
+    "sourceUrl": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-09fc2e9c2c2d",
+    "date": "2026-08-28",
+    "source": "TechCrunch",
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "summary": "On Friday, Anthropic published a new paper titled “Automated Researchers Can Reliably Mitigate Alignment Failures,” detailing how AI systems could reliably improve a model’s performance on a set of alignment benchmarks.",
+    "sourceUrl": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-883e80af1d55",
+    "date": "2026-08-28",
+    "source": "TechCrunch",
+    "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+    "summary": "If model builders are making chips, Nvidia wants a chunk of the model-making business. Nvidia already builds its own Nemotron family of open-weight models, but their uptake hasn’t been huge. Albarran says that as companies dial in AI workflows, it will be easier to turn to open models.",
+    "sourceUrl": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-0b00c80d502c",
     "date": "2026-08-28",
     "source": "OpenAI",
@@ -483,96 +577,6 @@
       "ethics",
       "data"
     ],
-    "resources": []
-  },
-  {
-    "id": "auto-c5408a4b6797",
-    "date": "2026-08-27",
-    "source": "The Verge",
-    "title": "Hugging Face’s new robot is an adorable rollerskating duck",
-    "summary": "Each Microduck can also sing with its own unique generated voice.﻿\nEach Microduck can also sing with its own unique generated voice.﻿\nHugging Face’s Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall.",
-    "sourceUrl": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-52e774adbc6b",
-    "date": "2026-08-27",
-    "source": "The Verge",
-    "title": "Plaud is launching AI earbuds",
-    "summary": "﻿Preorders are now available for the $249.99 Plaud One, with shipping to start in September. ﻿Preorders are now available for the $249.99 Plaud One, with shipping to start in September.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d02f5ca62fca",
-    "date": "2026-08-27",
-    "source": "The Verge",
-    "title": "Adobe is adding more AI to Photoshop",
-    "summary": "Photoshop’s new ‘AI Assisted Editor’ interface puts AI features in a simplified toolbar. Photoshop’s new ‘AI Assisted Editor’ interface puts AI features in a simplified toolbar.",
-    "sourceUrl": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-69b225fb598b",
-    "date": "2026-08-26",
-    "source": "MIT Technology Review",
-    "title": "The inside story on why OpenAI agents hacked Hugging Face",
-    "summary": "Then in July, while being evaluated for their cybersecurity abilities, some models created a new message board. But monitoring its models’ thinking does give OpenAI the chance to halt the training process and reassess its approach if models do start learning to reward hack.",
-    "sourceUrl": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5466e82242f5",
-    "date": "2026-08-26",
-    "source": "The Verge",
-    "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
-    "summary": "﻿The chip company made over $96 billion in the past quarter, most of it from its data center business. ﻿The chip company made over $96 billion in the past quarter, most of it from its data center business.",
-    "sourceUrl": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
     "resources": []
   },
   {
