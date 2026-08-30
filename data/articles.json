@@ -1,5 +1,116 @@
 [
   {
+    "id": "auto-a07c3116b1cc",
+    "date": "2026-08-29",
+    "source": "TechCrunch",
+    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "summary": "The publishers accuse Anthropic of “blatant theft” by using thousands of copyrighted works to train its AI model Claude. This isn’t the first intellectual property lawsuit Anthropic has faced. Anthropic case, in which a group of authors accused Anthropic of using copyrighted works to train products like Claude.",
+    "sourceUrl": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-160a511db123",
+    "date": "2026-08-29",
+    "source": "TechCrunch",
+    "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+    "summary": "Then they give you a drug — and if that doesn’t work, they give you another drug, then another drug. You’re onto something really big here. You say you’re also incubating a company with a founder you’ve known for 20 years.",
+    "sourceUrl": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-dcb10e4dd984",
+    "date": "2026-08-29",
+    "source": "TechCrunch",
+    "title": "Nvidia’s AI advantage is moving beyond the GPU",
+    "summary": "Before this week, the dominant story about Nvidia went something like this: For the first few years of the AI boom, Nvidia was the only source for state-of-the-art GPUs, which became immensely profitable as the industry scaled out.",
+    "sourceUrl": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-202512972a82",
+    "date": "2026-08-29",
+    "source": "The Verge",
+    "title": "Sony Music and Warner Chappell are suing Anthropic",
+    "summary": "The companies call it “one of the largest and most blatant ongoing thefts of intellectual property in history.”\nThe companies call it “one of the largest and most blatant ongoing thefts of intellectual property in history.”\nSony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for “tens of thousands” copyrighted works.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-143903ddbe91",
+    "date": "2026-08-29",
+    "source": "The Verge",
+    "title": "Musicians-turned-detectives are hunting for AI grifters",
+    "summary": "Young’s posts on Threads about people using Suno are what initially inspired Harris to make his videos. Like Harris, Young has spent the past few months watching multiple EDM newcomers’ stars rise after they post music he thinks was generated with AI tools like Suno’s.",
+    "sourceUrl": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-092c8de02e8b",
     "date": "2026-08-28",
     "source": "OpenAI",
@@ -475,107 +586,6 @@
       "agents",
       "automation",
       "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b32137f532da",
-    "date": "2026-08-27",
-    "source": "TechCrunch",
-    "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-    "summary": "OpenAI said on Thursday that it will start showing ads on its ChatGPT Free and Go subscription tiers in India.",
-    "sourceUrl": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-885ea181f134",
-    "date": "2026-08-27",
-    "source": "TechCrunch",
-    "title": "Nvidia closes in on Hugging Face acquisition",
-    "summary": "Nvidia has agreed to buy Hugging Face for $12.9 billion, The Information reported Wednesday night, citing a source familiar with the matter. Owning Hugging Face would give Nvidia the ability to sell that unused capacity to Hugging Face’s customers.",
-    "sourceUrl": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9180d12bb88b",
-    "date": "2026-08-27",
-    "source": "TechCrunch",
-    "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-    "summary": "The company, which offers an AI assistant that has inspired enthusiasm among its early users, told The Wall Street Journal on Wednesday that it had raised $250 million in a recent Series B funding round.",
-    "sourceUrl": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-7529af836f99",
-    "date": "2026-08-27",
-    "source": "The Verge",
-    "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
-    "summary": "In March, during an appearance on the Lex Fridman podcast, he plainly stated, “I think we’ve achieved AGI.” Huang didn’t say exactly what he meant by AGI. So expect the industry — Huang included — to keep the AGI talk coming. Maybe an AGI will eventually show up and tell us what AGI actually means.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d9738fe90b0d",
-    "date": "2026-08-27",
-    "source": "The Verge",
-    "title": "OpenAI’s executive exodus has one big winner",
-    "summary": "You just wrote a long story about this. There’s a lot going on there. You’ve talked to Brockman before.",
-    "sourceUrl": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "data"
     ],
     "resources": []
   },
