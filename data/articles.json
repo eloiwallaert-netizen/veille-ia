@@ -1,5 +1,82 @@
 [
   {
+    "id": "auto-f2a0380f36ec",
+    "date": "2026-08-31",
+    "source": "TechCrunch",
+    "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+    "summary": "But none can simply replace China, Saxena said, given how deeply Chinese components remain embedded across the global robotics industry. offerings, Mandal said. Chinese robotics companies, for example, may focus on products suited to China and nearby markets, while U.S.",
+    "sourceUrl": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a05533f3a710",
+    "date": "2026-08-30",
+    "source": "TechCrunch",
+    "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+    "summary": "The limiting factor for nat gas turbine production is casting the blades & vanes. In Memphis, where SpaceXAI has run gas turbines to power its Colossus data centers since 2024, the NAACP has repeatedly accused the company of operating turbines without the permits or pollution controls required by federal law.",
+    "sourceUrl": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d42720224276",
+    "date": "2026-08-30",
+    "source": "TechCrunch",
+    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+    "summary": "Mineart said the tool is now being used by customers, operators and technicians. Mineart said Caterpillar has about 1.6 million connected assets globally and more than 16 petabytes of structured data.",
+    "sourceUrl": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-4538153b570f",
+    "date": "2026-08-30",
+    "source": "The Verge",
+    "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+    "summary": "As bipartisan backlash mounts, more politicians are turning against AI surveillance. As backlash grows over Flock’s AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
     "id": "auto-a07c3116b1cc",
     "date": "2026-08-29",
     "source": "TechCrunch",
@@ -497,94 +574,6 @@
     ],
     "themes": [
       "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-740a2542039e",
-    "date": "2026-08-27",
-    "source": "TechCrunch",
-    "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-    "summary": "Hugging Face is best known as a platform and community where developers go for open model weights. However, the company acquired French startup Pollen Robotics in April 2025 to build affordable, open source AI hardware. TechCrunch has reached out to Hugging Face and Pollen Robotics for more information.",
-    "sourceUrl": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e180fa990e85",
-    "date": "2026-08-27",
-    "source": "TechCrunch",
-    "title": "AI’s memory crunch is coming for Android apps",
-    "summary": "This week, the tech giant announced two new app quality requirements, one of which is focused on reducing apps’ memory usage and optimizing its code. To address this, Google is now establishing new performance thresholds across several areas, like dynamic memory usage and bitmap usage.",
-    "sourceUrl": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d8d0246454ac",
-    "date": "2026-08-27",
-    "source": "TechCrunch",
-    "title": "Here’s all the times AI has gone rogue and hacked other companies",
-    "summary": "In July, OpenAI admitted that one of its agents tasked with completing a cybersecurity experiment broke out of containment and hacked AI dataset platform Hugging Face. OpenAI only found out after Hugging Face disclosed it had been a victim of a fully autonomous attack.",
-    "sourceUrl": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3a7d70a0e7de",
-    "date": "2026-08-27",
-    "source": "TechCrunch",
-    "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
-    "summary": "One of these companies is Plaud, which has over 2.5 million people using its hardware or software. Plaud isn’t the first to this form factor. The Plaud One has 12mm drivers and features active noise cancellation.",
-    "sourceUrl": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
       "ethics"
     ],
     "resources": []
