@@ -1,5 +1,288 @@
 [
   {
+    "id": "auto-71ebe41f5e82",
+    "date": "2026-09-01",
+    "source": "TechCrunch",
+    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+    "summary": "These new details emerged after the legal counsel for former Apple employee Chang Liu — who now works at OpenAI — handed over Liu’s old Apple work laptop for investigation earlier this month.",
+    "sourceUrl": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0703988e3a33",
+    "date": "2026-08-31",
+    "source": "OpenAI",
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+    "sourceUrl": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7bc341571432",
+    "date": "2026-08-31",
+    "source": "OpenAI",
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+    "sourceUrl": "https://openai.com/index/polimill",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-44f61163770f",
+    "date": "2026-08-31",
+    "source": "OpenAI",
+    "title": "A milestone in expanding access to AI",
+    "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+    "sourceUrl": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-bb1d02abd1c3",
+    "date": "2026-08-31",
+    "source": "TechCrunch",
+    "title": "The Pentagon now has its own version of ChatGPT and Grok",
+    "summary": "The Pentagon has launched versions of OpenAI’s ChatGPT and xAI’s Grok, giving 3 million civilian and military personnel access to generative AI tools that have been tailored to “warfighter needs.”\nChatGPT Mil and Grok for Government — custom versions of the popular consumer generative AI tools — are now part of GenAI.mil, a centralized, secure portal launched last year.",
+    "sourceUrl": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5714bb72d855",
+    "date": "2026-08-31",
+    "source": "TechCrunch",
+    "title": "Instagram puts new limits on undisclosed AI profiles",
+    "summary": "The new label is meant to tell users that the person featured on a profile was generated or substantially created with AI. Under the new policy, creators who don’t properly label an AI-generated profile could see their reach reduced.",
+    "sourceUrl": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-84762d7f4362",
+    "date": "2026-08-31",
+    "source": "TechCrunch",
+    "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+    "summary": "David Lawrence was a Harvard Law student when an on-campus shooting involving a police officer sparked intense controversy over police conduct. Today, Blue Voice answers a question every minute.",
+    "sourceUrl": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-09c8fe5e8ea1",
+    "date": "2026-08-31",
+    "source": "TechCrunch",
+    "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+    "summary": "Clipto indexes videos, audio, images, meetings, and other files on a user’s computer. Kang said access to indexed files requires the user’s active request and authorization.",
+    "sourceUrl": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-3f983827d88c",
+    "date": "2026-08-31",
+    "source": "TechCrunch",
+    "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+    "summary": "Nvidia is investing $3.5 billion into Taiwanese chipmaker MediaTek. As part of the deal, MediaTek will adopt Nvidia’s technology that will help it design custom chips for AI companies and hyperscalers that can be plugged directly into Nvidia-based data centers.",
+    "sourceUrl": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-121993fc43fd",
+    "date": "2026-08-31",
+    "source": "TechCrunch",
+    "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
+    "summary": "The free plan lets users record meetings, access mobile and Apple Watch apps, use AI to query transcripts, and integrate the app with Linear and Slack. Prior to this change, Circleback didn’t have any free tier, and its plans started at $20.83 per month.",
+    "sourceUrl": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-de5690d7d612",
+    "date": "2026-08-31",
+    "source": "MIT Technology Review",
+    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+    "summary": "On Wednesday, OpenAI released a postmortem technical report on the incident, which I wrote about here. In response to questions about whether and how the company is reflecting on its safety culture, OpenAI referred MIT Technology Review back to the technical report.",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-662ad6a9f4e0",
+    "date": "2026-08-31",
+    "source": "The Verge",
+    "title": "Debian won’t ban AI code from its Linux distribution",
+    "summary": "The distro’s new AI policy says it ‘neither endorses nor prohibits the use of generative AI tools.’\nThe distro’s new AI policy says it ‘neither endorses nor prohibits the use of generative AI tools.’\nDebian voted to allow developers to use AI tools in their contributions to the Linux distribution’s “development, maintenance, [and] documentation.” The new policy on AI acknowledges that “responsible” use of AI can improve developers’ productivity, and goes on to say, “generative AI is neither exempt from nor subject to special rules beyond the standards already expected of Debian contributors.”\nThe project’s voting developers considered several other proposals on how to handle AI, including some that would have banned contributions made using AI tools.",
+    "sourceUrl": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2c0ffcd676ea",
+    "date": "2026-08-31",
+    "source": "The Verge",
+    "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+    "summary": "How do you make decisions? Let me ask you about this. You can look at them and you can say stop.",
+    "sourceUrl": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-8b9768eab1b1",
+    "date": "2026-08-31",
+    "source": "The Verge",
+    "title": "ChatGPT to face tougher regulation in the EU",
+    "summary": "The EU designated ChatGPT, Reddit, and Roblox as ‘Very Large’ under the Digital Services Act. The EU designated ChatGPT, Reddit, and Roblox as ‘Very Large’ under the Digital Services Act.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-8051bcd07a89",
+    "date": "2026-08-31",
+    "source": "The Verge",
+    "title": "Instagram cracks down on AI accounts pretending to be human",
+    "summary": "Fake humans that fail to self-label will have their reach limited. Fake humans that fail to self-label will have their reach limited.",
+    "sourceUrl": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-f2a0380f36ec",
     "date": "2026-08-31",
     "source": "TechCrunch",
@@ -291,291 +574,6 @@
     "auto": true,
     "metiers": [],
     "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-c6fae4a04883",
-    "date": "2026-08-28",
-    "source": "TechCrunch",
-    "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-    "summary": "A federal judge in California ruled on Thursday evening that the Trump administration’s designation of Anthropic as a supply-chain risk was illegal.",
-    "sourceUrl": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f3970ce5d9ff",
-    "date": "2026-08-28",
-    "source": "TechCrunch",
-    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-    "summary": "Meta’s India and Southeast Asia vice president, Sandhya Devanathan, is leaving the social media giant to join OpenAI, the ChatGPT maker told TechCrunch. Devanathan’s appointment comes days after Prabhjeet Singh joined OpenAI as its India head.",
-    "sourceUrl": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2c0deb26fc84",
-    "date": "2026-08-28",
-    "source": "The Verge",
-    "title": "Trump’s EPA wants to let data centers hide their air pollution",
-    "summary": "Advocates say it’ll help data center developers avoid public scrutiny. The Trump administration wants to scrap another federal air pollution rule. Advocates say it’ll help data center developers avoid public scrutiny.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9ec4728e0bc5",
-    "date": "2026-08-28",
-    "source": "The Verge",
-    "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-    "summary": "She also wrote that the actions were “unlawful retaliation in violation of the First Amendment,” adding that Defense Secretary Pete Hegseth’s decision to designate Anthropic a supply chain risk “was arbitrary and capricious.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2f47506cdbcd",
-    "date": "2026-08-27",
-    "source": "TechCrunch",
-    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-    "summary": "With Cat de Jong, Head of Applied AI, Anthropic\nTwo years ago, GTM engineering did not exist.",
-    "sourceUrl": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9d531c3266a9",
-    "date": "2026-08-27",
-    "source": "TechCrunch",
-    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-    "summary": "Barret Zoph, a co-founder of the AI startup Thinking Machines who left the company earlier this year to rejoin OpenAI, has found yet another job. Zoph spent two years at OpenAI and left in October 2024 to co-found Thinking Machines with Mira Murati, who had left the AI lab the month prior.",
-    "sourceUrl": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9eadc7db28e1",
-    "date": "2026-08-27",
-    "source": "TechCrunch",
-    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-    "summary": "Over a hundred tech companies — including OpenAI, Anthropic, Google, and Microsoft — have signed an open letter urging both the private and public sectors to work together to defend themselves from AI-related cyber threats.",
-    "sourceUrl": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-01f0ee112f1e",
-    "date": "2026-08-27",
-    "source": "The Verge",
-    "title": "Google’s AI note-taking app now allows you to interact with books",
-    "summary": "Gemini Notebook’s new ‘Expert Intelligence’ feature pulls information from the books you’ve purchased. Gemini Notebook’s new ‘Expert Intelligence’ feature pulls information from the books you’ve purchased. Google’s AI note-taking app, Gemini Notebook, can now pull information from the books you’ve purchased.",
-    "sourceUrl": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3062d8cdad5f",
-    "date": "2026-08-27",
-    "source": "OpenAI",
-    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-    "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-    "sourceUrl": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-57e276283c19",
-    "date": "2026-08-27",
-    "source": "OpenAI",
-    "title": "Expanding OpenAI’s presence in Brazil",
-    "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-    "sourceUrl": "https://openai.com/index/expanding-our-presence-in-brazil",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-5a6b85529262",
-    "date": "2026-08-27",
-    "source": "Google AI Blog",
-    "title": "3 new ways to plan and book travel in Search",
-    "summary": "Now, AI Mode in Search can show you the cost in points or miles for flights and hotels. When you find a hotel you love, making the reservation should feel quick and effortless. Once you’ve found the right hotel, just ask AI Mode to help you complete the booking.",
-    "sourceUrl": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3f482c14d673",
-    "date": "2026-08-27",
-    "source": "VentureBeat",
-    "title": "Orchestration is the new challenge for CX in the age of AI agents",
-    "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has i…",
-    "sourceUrl": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b0a07733da19",
-    "date": "2026-08-27",
-    "source": "VentureBeat",
-    "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-    "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don't deploy a single agent and watch it run, they deploy fle…",
-    "sourceUrl": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c92e20e633fb",
-    "date": "2026-08-27",
-    "source": "VentureBeat",
-    "title": "When agents act on their own, governance has to live in the data layer",
-    "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: W…",
-    "sourceUrl": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6c5141d5d38f",
-    "date": "2026-08-27",
-    "source": "TechCrunch",
-    "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-    "summary": "Users will now be able to ask AI Mode to track flight prices, book hotels, and see the cost of flights and hotels in points or miles. As for hotel booking, users will be able to discover and book their next hotel through a conversation with AI Mode.",
-    "sourceUrl": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
     "resources": []
   },
   {
