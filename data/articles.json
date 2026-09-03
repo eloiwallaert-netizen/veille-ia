@@ -1,5 +1,529 @@
 [
   {
+    "id": "auto-b844bdeeb825",
+    "date": "2026-09-03",
+    "source": "Hugging Face",
+    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "summary": "Training\nthe model itself goes further. I trained three runs with this reward. If the reward\nonly pays for matching one flower, the model learns to paint that one flower.",
+    "sourceUrl": "https://huggingface.co/blog/train-to-paint-with-code",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b07b0b2b4d66",
+    "date": "2026-09-02",
+    "source": "OpenAI",
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+    "sourceUrl": "https://openai.com/index/atv-big-air-tour",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-28b149c75e15",
+    "date": "2026-09-02",
+    "source": "Google AI Blog",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "summary": "Today, we’re launching our Fairwind Program, a limited access program for governments and trusted partners to use our most advanced cyber defense capabilities.",
+    "sourceUrl": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-22915ca8a273",
+    "date": "2026-09-02",
+    "source": "Hugging Face",
+    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "summary": "A time series foundation model (TSFM) changes that. No data science team required, and the same model rolls to every line in every factory. One series or thousands?",
+    "sourceUrl": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f3b8c7fe39ca",
+    "date": "2026-09-02",
+    "source": "TechCrunch",
+    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+    "summary": "With Puneet Agarwal, Managing Partner, True Ventures; Austin Clements, Managing Partner, Slauson and Co; and Sandhya Venkatachalam, Founder and Managing Partner, Axiom Partners\nFounders are increasingly expected to compete for capital before they even have a product.",
+    "sourceUrl": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e54d1c1e8577",
+    "date": "2026-09-02",
+    "source": "TechCrunch",
+    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+    "summary": "Since its founding in 2024, Console has raised $29 million across two rounds: a $6.2 million seed led by Thrive Capital and a $23 million Series A co-led by DST Global and Thrive. Palo Alto Networks declined to comment. Console is Palo Alto Networks’ seventh acquisition in 2026, according to PitchBook.",
+    "sourceUrl": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-16bf1bec9e4b",
+    "date": "2026-09-02",
+    "source": "TechCrunch",
+    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+    "summary": "But the Real World AI Stage is brand-new for TechCrunch Disrupt 2026. This session brings together founders who have crossed that gap in space hardware, humanoid robotics, and autonomous systems.",
+    "sourceUrl": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-800d247a22b0",
+    "date": "2026-09-02",
+    "source": "TechCrunch",
+    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+    "summary": "“OpenAI has worked to preserve and utilize chain-of-thought monitoring since our very first reasoning models,” Pachocki wrote. All AI models do some quantity of opaque reasoning, and few researchers take chain-of-thought logs as a direct representation of a model’s reasoning.",
+    "sourceUrl": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-8561de7d3711",
+    "date": "2026-09-02",
+    "source": "TechCrunch",
+    "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+    "summary": "Pangram also recently dropped a new AI image detection tool. Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. 1 in Navigation after refusing to rename Lake Ontario\n\t\t\t\n\n\nSarah Perez\nSubscribe for the industry’s biggest tech news",
+    "sourceUrl": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-52702342c41b",
+    "date": "2026-09-02",
+    "source": "TechCrunch",
+    "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+    "summary": "Pangram also recently dropped a new AI image detection tool. Rebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence.",
+    "sourceUrl": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5981cc5d14f7",
+    "date": "2026-09-02",
+    "source": "TechCrunch",
+    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+    "summary": "In a lawsuit that The New York Times filed against OpenAI, the Trump administration has contributed a 20-page brief in defense of the ChatGPT maker’s unlicensed use of copyrighted material to train its LLMs. This question — can you use copyrighted material to train an AI?",
+    "sourceUrl": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-634abc23ca9f",
+    "date": "2026-09-02",
+    "source": "TechCrunch",
+    "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+    "summary": "The company says it now works across more than 35 countries. Departing from its customer service roots, Wonderful now offers a platform, dubbed “Wonderful AI OS,” which it says can coordinate and connect agents, workflows, and AI applications with companies’ data, context, and existing integrations.",
+    "sourceUrl": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-14dcfb7c952c",
+    "date": "2026-09-02",
+    "source": "TechCrunch",
+    "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+    "summary": "Jio is betting that cloud computing can stretch those lifecycles further. “Jio is broadening its value proposition by opening JioPC to non-Jio users, while also challenging the traditional hardware upgrade cycle,” Ram told TechCrunch.",
+    "sourceUrl": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-71656b2e31d5",
+    "date": "2026-09-02",
+    "source": "TechCrunch",
+    "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+    "summary": "Security companies are now scrambling to build products that can monitor not just agents but also the tools and add-ons they use. The company’s new products reflect that shift, and Sestito highlighted a new opportunity for attackers in exploiting open source models.",
+    "sourceUrl": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0de66ce5b51f",
+    "date": "2026-09-02",
+    "source": "TechCrunch",
+    "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+    "summary": "The retailer said some 360,000 customers every year reach out to its customer service department wondering whether a message they received from Amazon is real or a scam. Now, customers will be able to ask Amazon’s consumer AI service, Alexa for Shopping, to help answer that question instead.",
+    "sourceUrl": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-73ecf3d27d3f",
+    "date": "2026-09-02",
+    "source": "TechCrunch",
+    "title": "Adobe acquires Indian market intelligence startup Rilo",
+    "summary": "Adobe has acquired India-based marketing intelligence startup Rilo in a deal involving licensing and team acquisition, TechCrunch learned and the company confirmed. Beyond confirming the deal, Adobe declined to comment.",
+    "sourceUrl": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c6ca4d83df40",
+    "date": "2026-09-02",
+    "source": "TechCrunch",
+    "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+    "summary": "OpenAI employees reportedly urged leaders to alert Canadian law enforcement about Van Rootselaar’s potential for real-world violence, but leaders decided not to contact the authorities.",
+    "sourceUrl": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-97f276dfad17",
+    "date": "2026-09-02",
+    "source": "MIT Technology Review",
+    "title": "Facilitating AI integration with simplicity at scale",
+    "summary": "That's a little bit about Jabil. Harish: I talked about our global footprint across 100-plus sites. We don't want data silos across different systems.",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-535ee29f1ad1",
+    "date": "2026-09-02",
+    "source": "The Verge",
+    "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+    "summary": "﻿Gemini 3.8 Flash Cyber is also launching to Google’s new Fairwind Program. ﻿Gemini 3.8 Flash Cyber is also launching to Google’s new Fairwind Program. Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2140bd018ec6",
+    "date": "2026-09-02",
+    "source": "The Verge",
+    "title": "Amazon’s AI assistant can now spot fake emails from the company",
+    "summary": "Alexa for Shopping can compare the message you received ‘against a record of every message Amazon has sent.’\nAlexa for Shopping can compare the message you received ‘against a record of every message Amazon has sent.’\nAmazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company.",
+    "sourceUrl": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1db8587bd622",
+    "date": "2026-09-02",
+    "source": "The Verge",
+    "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
+    "summary": "A report triggered concerns about a safety ‘race to the bottom.’\nA report triggered concerns about a safety ‘race to the bottom.’\nOpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b94dc7898a32",
+    "date": "2026-09-02",
+    "source": "The Verge",
+    "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+    "summary": "﻿Letting models train on copyrighted work will preserve ‘American prosperity,’ it says. ﻿Letting models train on copyrighted work will preserve ‘American prosperity,’ it says.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6cd28bbd776b",
+    "date": "2026-09-02",
+    "source": "The Verge",
+    "title": "Google is sending MrBeast into the wilderness, armed with AI",
+    "summary": "﻿One of YouTube’s biggest creators has a new deal to promote Gemini and Google Health. ﻿One of YouTube’s biggest creators has a new deal to promote Gemini and Google Health. MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google.",
+    "sourceUrl": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-455599cea252",
+    "date": "2026-09-02",
+    "source": "The Verge",
+    "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+    "summary": "The lawsuits accuse OpenAI of providing ‘substantial assistance and encouragement’ to the Tumbler Ridge shooting suspect. The lawsuits accuse OpenAI of providing ‘substantial assistance and encouragement’ to the Tumbler Ridge shooting suspect.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-941b974b5b6e",
+    "date": "2026-09-02",
+    "source": "The Verge",
+    "title": "NYC bans AI use for students until they reach high school",
+    "summary": "﻿The policy also bans companion chatbots across all grades. ﻿The policy also bans companion chatbots across all grades.",
+    "sourceUrl": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-3b5f2688fec1",
     "date": "2026-09-01",
     "source": "OpenAI",
@@ -84,513 +608,6 @@
       "ethics",
       "data"
     ],
-    "resources": []
-  },
-  {
-    "id": "auto-77cd2a6a82f1",
-    "date": "2026-09-01",
-    "source": "Google AI Blog",
-    "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-    "summary": "Plus, upcoming Workspace integrations will let you create and edit directly within Google Slides, Docs, and Drive. Google just launched a new tool called Google Pics that uses AI to help you create and edit images. Create anything you can imagine with Google Pics.",
-    "sourceUrl": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-23bdbfdbd061",
-    "date": "2026-09-01",
-    "source": "Hugging Face",
-    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-    "summary": "BenchMIRT applies IRT at both the model and question level. For many benchmarks, BenchMIRT largely confirmed their intended focus: strong performance on reasoning benchmarks tracked with reasoning ability, while strong performance on jailbreak and harmful-content benchmarks tracked with safety.",
-    "sourceUrl": "https://huggingface.co/blog/allenai/benchmirt",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-85562dc16345",
-    "date": "2026-09-01",
-    "source": "Hugging Face",
-    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-    "summary": "Today, we are releasing the first layer of that effort: @huggingface/kernels, a minimal library for loading and running optimized WebGPU kernels from the Hugging Face Hub, together with an initial collection of 207 kernels at huggingface.co/webgpu-kernels. Running these kernels requires a browser with WebGPU support.",
-    "sourceUrl": "https://huggingface.co/blog/webgpu-kernels",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-79fb6f58239f",
-    "date": "2026-09-01",
-    "source": "TechCrunch",
-    "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-    "summary": "AI training-data startup AfterQuery has reportedly raised a round that valued it at $3.2 billion. AfterQuery’s founders, today 22 and 23 years old, attended Y Combinator’s Winter 2025 cohort, just 18 months ago. AfterQuery could not be immediately reached for comment.",
-    "sourceUrl": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a4eeed34b997",
-    "date": "2026-09-01",
-    "source": "TechCrunch",
-    "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-    "summary": "OpenAI shared new details on its forthcoming Astra model, which the company said is the first large language model to meet its “critical cybersecurity threshold,” in preparation for its imminent release. For Astra, however, the company invested in unspecified new techniques designed to make the model safer.",
-    "sourceUrl": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-011aafc373c1",
-    "date": "2026-09-01",
-    "source": "TechCrunch",
-    "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-    "summary": "Google says this feature is available to Android 17 users. Google is also introducing “Guided Vision,” a feature designed with blind and low-vision users in mind. Another update gives Gemini a new way to help users remember where they put important items.",
-    "sourceUrl": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d6a02419dcb3",
-    "date": "2026-09-01",
-    "source": "TechCrunch",
-    "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-    "summary": "On Tuesday, Anthropic released Fable and Mythos 5.1, twinned versions of the company’s most advanced AI model. One of the most significant changes is Anthropic’s previously reported embrace of zero data retention, allowing clients to run Anthropic models on their own infrastructure without data outflows.",
-    "sourceUrl": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5f4331d84f49",
-    "date": "2026-09-01",
-    "source": "TechCrunch",
-    "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-    "summary": "Google is entering the creative design market with a new image-creation and editing tool called Google Pics, which will become a part of its Google Workspace suite for business customers and premium Google AI subscribers.",
-    "sourceUrl": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-d365bbca127d",
-    "date": "2026-09-01",
-    "source": "TechCrunch",
-    "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-    "summary": "The company said that in certain systems, it will also integrate ChatGPT directly within EHR workflows. Last month, OpenAI rolled out ChatGPT for health to all U.S. The company said at that time that people are asking 300 million health-related queries to ChatGPT every week.",
-    "sourceUrl": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c188aed38ce5",
-    "date": "2026-09-01",
-    "source": "TechCrunch",
-    "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-    "summary": "This insight led them to build Empirik, a product that tracks system changes and infers their potential ripple effects across the entire infrastructure. Sequoia recognized that Empirik could be a new type of observability tool that helps prevent and resolve incidents.",
-    "sourceUrl": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-50b4daf62f64",
-    "date": "2026-09-01",
-    "source": "TechCrunch",
-    "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-    "summary": "For instance, Amazon suggests people could use the feature to track when a favorite brand launches a new product line, when a new season of a favorite TV show drops, when an artist they like announces a concert tour, when an author they read releases a new book, when a tech company releases a new product, and more.",
-    "sourceUrl": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-18476908426c",
-    "date": "2026-09-01",
-    "source": "TechCrunch",
-    "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-    "summary": "It also offers a marketplace of vetted add-ons and skills for AI agents. Noma Security offers discovery, access controls, and runtime monitoring for agents, MCP servers, and skills, while Zenity sells security and governance tools that work similarly.",
-    "sourceUrl": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-fb0b621eb4ed",
-    "date": "2026-09-01",
-    "source": "TechCrunch",
-    "title": "Fambot introduces an ‘AI chief of staff’ for families",
-    "summary": "By offering software solutions instead of just text, Fambot can build out more advanced features. Of course, you can still text Fambot to ask questions or get updates, if you prefer.",
-    "sourceUrl": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9954f98e0635",
-    "date": "2026-09-01",
-    "source": "The Verge",
-    "title": "Google needs Hollywood more than the studios need AI",
-    "summary": "Striking deals with studios like Disney could help the tech giant shift the narrative about artificial intelligence. Striking deals with studios like Disney could help the tech giant shift the narrative about artificial intelligence.",
-    "sourceUrl": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e05e11f4e828",
-    "date": "2026-09-01",
-    "source": "The Verge",
-    "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
-    "summary": "﻿Mythos 5.1 is also launching in Project Glasswing. ﻿Mythos 5.1 is also launching in Project Glasswing. Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-52dc97c53c27",
-    "date": "2026-09-01",
-    "source": "The Verge",
-    "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-    "summary": "The company is doing some AI safety damage control ahead of Astra’s release. The company is doing some AI safety damage control ahead of Astra’s release.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-07d9f1d4fa78",
-    "date": "2026-09-01",
-    "source": "The Verge",
-    "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
-    "summary": "The internet fights over anthropomorphism around the Hugging Face hack. The internet fights over anthropomorphism around the Hugging Face hack. Critics weren’t unified over what was wrong with Patel’s language.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-07f23843f168",
-    "date": "2026-09-01",
-    "source": "The Verge",
-    "title": "Apple accuses OpenAI of destroying evidence",
-    "summary": "A former Apple employee allegedly discussed ‘destroying the types of forensic data Apple needs.’\nA former Apple employee allegedly discussed ‘destroying the types of forensic data Apple needs.’\nApple is pushing for “expedited discovery” in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg.",
-    "sourceUrl": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6d0e3cbcab90",
-    "date": "2026-09-01",
-    "source": "The Verge",
-    "title": "John Deere launched an AI chatbot for farmers",
-    "summary": "John Deere does not sell your farm data. You should receive clear value from your farm data. John Deere will continue to listen to farmers, strengthen its data practices, and develop new solutions that help you receive value from your farm data.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a1bcccbde514",
-    "date": "2026-09-01",
-    "source": "The Verge",
-    "title": "Google Pics is like Canva, but with even more AI",
-    "summary": "This new image generation and editing app is bringing graphic design to Google Workspace.﻿\nThis new image generation and editing app is bringing graphic design to Google Workspace.﻿\nGoogle has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating “professional-grade” AI images less cumbersome for businesses.",
-    "sourceUrl": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f90150b766c3",
-    "date": "2026-09-01",
-    "source": "The Verge",
-    "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-    "summary": "DLSS 5 is almost here, but only for NBA 2K27, and only officially for 50-series RTX GPUs. DLSS 5 is almost here, but only for NBA 2K27, and only officially for 50-series RTX GPUs. DLSS 5 is still a huge performance hit.",
-    "sourceUrl": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-71ebe41f5e82",
-    "date": "2026-09-01",
-    "source": "TechCrunch",
-    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-    "summary": "These new details emerged after the legal counsel for former Apple employee Chang Liu — who now works at OpenAI — handed over Liu’s old Apple work laptop for investigation earlier this month.",
-    "sourceUrl": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0703988e3a33",
-    "date": "2026-08-31",
-    "source": "OpenAI",
-    "title": "OpenAI supports California’s bill to advance youth AI safety",
-    "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-    "sourceUrl": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-7bc341571432",
-    "date": "2026-08-31",
-    "source": "OpenAI",
-    "title": "Polimill builds Japan's next-generation public AI infrastructure",
-    "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-    "sourceUrl": "https://openai.com/index/polimill",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-44f61163770f",
-    "date": "2026-08-31",
-    "source": "OpenAI",
-    "title": "A milestone in expanding access to AI",
-    "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-    "sourceUrl": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
     "resources": []
   },
   {
