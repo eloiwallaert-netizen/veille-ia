@@ -1,5 +1,490 @@
 [
   {
+    "id": "auto-73d7f7bb41fa",
+    "date": "2026-09-04",
+    "source": "TechCrunch",
+    "title": "The sameness problem behind those unappetizing AI-generated menus",
+    "summary": "When it first happens to you, you think you’re crazy. You might think you’re paranoid, but you’re not losing your mind.",
+    "sourceUrl": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-49b35d8af934",
+    "date": "2026-09-04",
+    "source": "TechCrunch",
+    "title": "Crusoe reportedly raises $3B at a $30B valuation",
+    "summary": "Data center developer Crusoe, which counts Meta, Microsoft, and OpenAI as its customers, has raised a new $3 billion round at a $30 billion valuation, Bloomberg reported.",
+    "sourceUrl": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-a610fa8217a8",
+    "date": "2026-09-04",
+    "source": "MIT Technology Review",
+    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "summary": "The resulting data is critical. Training data creates a new tracing problem, though. Battlefield data should not be treated as ordinary commercial material.",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-4abbfbab9ab1",
+    "date": "2026-09-04",
+    "source": "The Verge",
+    "title": "This NAS company wants to run your local smart home",
+    "summary": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home — in a big way.",
+    "sourceUrl": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5190d2a1dccd",
+    "date": "2026-09-03",
+    "source": "OpenAI",
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+    "sourceUrl": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-be4a3c542626",
+    "date": "2026-09-03",
+    "source": "OpenAI",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+    "sourceUrl": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7a45b185cff5",
+    "date": "2026-09-03",
+    "source": "OpenAI",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+    "sourceUrl": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2e155b11d809",
+    "date": "2026-09-03",
+    "source": "OpenAI",
+    "title": "Safety overview: GPT-6 Astra",
+    "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+    "sourceUrl": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-96a3500c5a4b",
+    "date": "2026-09-03",
+    "source": "Hugging Face",
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "summary": "NeoMME-Retriever returns dense and late-interaction embeddings in one forward pass. Both NeoMME-Retriever models lie on the model-size Pareto frontier. NeoMME-Retriever is a fine-tuned version of NeoMME for visual document retrieval.",
+    "sourceUrl": "https://huggingface.co/blog/Hcompany/neomme",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-45020768fad9",
+    "date": "2026-09-03",
+    "source": "Hugging Face",
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "summary": "The benchmark is open-source in Liquid4All/ifstruct, with the public benchmark dataset available on Hugging Face at LiquidAI/ifstruct-v1.0. A short GRPO run with about 500 samples and 100 steps can lift a small 350M parameter model from 22.6% to 29.7% on IFStruct.",
+    "sourceUrl": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-86b47b47cb74",
+    "date": "2026-09-03",
+    "source": "Hugging Face",
+    "title": "Give Your Coding Agents a Memory You Own",
+    "summary": "To make a memory follow your work, bind one when you add funes to an agent:\nThe bind publishes your current memory there. We published a\nmemory of funes development,\nso you can ask why funes works the way it does without creating a memory of your own:\nfunes ask is the read-only, one-question sibling of funes add.",
+    "sourceUrl": "https://huggingface.co/blog/funes",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-46fa5743a6b1",
+    "date": "2026-09-03",
+    "source": "TechCrunch",
+    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+    "summary": "Thinking Machines, the AI lab founded early last year by former OpenAI CTO Mira Murati, is in discussions to raise $1 billion at a valuation of at least $40 billion, The Information reported Thursday.",
+    "sourceUrl": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-222024e01d06",
+    "date": "2026-09-03",
+    "source": "TechCrunch",
+    "title": "Abliteration.ai is making a business out of removing AI guardrails",
+    "summary": "Abliteration is a long-standing technique among open source models. Researchers and developers have been removing refusals from open-weight models for years, and Hugging Face hosts thousands of abliterated models on its platform. “The big picture of abliterated models is they’re able to model bad actors,” Devon said.",
+    "sourceUrl": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-91a2b0e86629",
+    "date": "2026-09-03",
+    "source": "TechCrunch",
+    "title": "Meta is paying to peek at how you use their latest AI model",
+    "summary": "While 1 million input tokens under a standard agreement costs $1.25, under the contributor pricing model they cost just 10 cents. For output tokens, the standard price is $4.25 per million, but that same million costs just 20 cents under the contributor model.",
+    "sourceUrl": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-341a230bd977",
+    "date": "2026-09-03",
+    "source": "TechCrunch",
+    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+    "summary": "OpenAI released Astra on Thursday, its latest AI model and — according to the company — its most powerful and capable one yet.",
+    "sourceUrl": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-fb930f0d98d9",
+    "date": "2026-09-03",
+    "source": "TechCrunch",
+    "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+    "summary": "Ollie, a personal assistant for everyday life, is betting that doesn’t mean you have to hand over all your data and sacrifice your privacy in the process. Lennon is taking a different approach with Ollie. That experience could help as Ollie moves further into money management.",
+    "sourceUrl": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-92509264c2a3",
+    "date": "2026-09-03",
+    "source": "TechCrunch",
+    "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+    "summary": "National Weather service and the ECMWF. This time around, the designers also trained the model to target its forecasts to specific weather data stations.",
+    "sourceUrl": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-8163e951a781",
+    "date": "2026-09-03",
+    "source": "TechCrunch",
+    "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+    "summary": "Hugging Face’s platform hosts three million models, one million applications used by over 18 million developers, and half a million datasets. Huang pitched open models while answering one of the analysts and said that almost all open models run on Nvidia hardware.",
+    "sourceUrl": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0e473f34711c",
+    "date": "2026-09-03",
+    "source": "The Verge",
+    "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+    "summary": "It emphasized stronger guardrails for GPT-6 Astra after the company’s models hacked Hugging Face. It emphasized stronger guardrails for GPT-6 Astra after the company’s models hacked Hugging Face. OpenAI’s next big model is here: GPT-6 Astra.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-37ec33c253da",
+    "date": "2026-09-03",
+    "source": "The Verge",
+    "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+    "summary": "﻿PAIR is designed to get your desktop and laptop working together on local AI tasks when not in use. ﻿PAIR is designed to get your desktop and laptop working together on local AI tasks when not in use. The Nvidia PAIR beta is available today, with support for Windows, Linux, and macOS.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-341e06206731",
+    "date": "2026-09-03",
+    "source": "The Verge",
+    "title": "Google now lets you chat with Gmail, Docs, and Keep",
+    "summary": "The real time conversational capabilities are called Gmail Live, Docs Live, and Keep Live, and like the Gemini Live experience for Google’s chatbot, aim to make it easier to note down or find specific information when you’re on the move or unable to do so manually.",
+    "sourceUrl": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6d91c5f5c6e3",
+    "date": "2026-09-03",
+    "source": "The Verge",
+    "title": "ChatGPT, Grok, and Claude all went down at the same time",
+    "summary": "Three of the biggest AI chatbots stopped working for many users. OpenAI’s ChatGPT, xAI’s Grok, and Anthropic’s Claude are back online after they all began experiencing issues around the same time on Thursday.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0ab3b0e32fad",
+    "date": "2026-09-03",
+    "source": "The Verge",
+    "title": "Google says its AI weather model is getting better",
+    "summary": "It’s launching an updated weather model that makes forecasts based on real-time satellite observations. It’s launching an updated weather model that makes forecasts based on real-time satellite observations. Google also designed its latest AI weather model to produce forecasts for renewable energy generation.",
+    "sourceUrl": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-52a8d0c31484",
+    "date": "2026-09-03",
+    "source": "The Verge",
+    "title": "Nvidia is buying Hugging Face for almost $13 billion",
+    "summary": "﻿The GitHub-like open-source AI repository was last valued at $4.5 billion in 2023. ﻿The GitHub-like open-source AI repository was last valued at $4.5 billion in 2023. “Hugging Face will remain an open platform for the entire AI ecosystem.",
+    "sourceUrl": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-b844bdeeb825",
     "date": "2026-09-03",
     "source": "Hugging Face",
@@ -124,489 +609,6 @@
       "agents",
       "automation",
       "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-16bf1bec9e4b",
-    "date": "2026-09-02",
-    "source": "TechCrunch",
-    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-    "summary": "But the Real World AI Stage is brand-new for TechCrunch Disrupt 2026. This session brings together founders who have crossed that gap in space hardware, humanoid robotics, and autonomous systems.",
-    "sourceUrl": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-800d247a22b0",
-    "date": "2026-09-02",
-    "source": "TechCrunch",
-    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-    "summary": "“OpenAI has worked to preserve and utilize chain-of-thought monitoring since our very first reasoning models,” Pachocki wrote. All AI models do some quantity of opaque reasoning, and few researchers take chain-of-thought logs as a direct representation of a model’s reasoning.",
-    "sourceUrl": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-8561de7d3711",
-    "date": "2026-09-02",
-    "source": "TechCrunch",
-    "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-    "summary": "Pangram also recently dropped a new AI image detection tool. Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts. 1 in Navigation after refusing to rename Lake Ontario\n\t\t\t\n\n\nSarah Perez\nSubscribe for the industry’s biggest tech news",
-    "sourceUrl": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-52702342c41b",
-    "date": "2026-09-02",
-    "source": "TechCrunch",
-    "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-    "summary": "Pangram also recently dropped a new AI image detection tool. Rebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence.",
-    "sourceUrl": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5981cc5d14f7",
-    "date": "2026-09-02",
-    "source": "TechCrunch",
-    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-    "summary": "In a lawsuit that The New York Times filed against OpenAI, the Trump administration has contributed a 20-page brief in defense of the ChatGPT maker’s unlicensed use of copyrighted material to train its LLMs. This question — can you use copyrighted material to train an AI?",
-    "sourceUrl": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-634abc23ca9f",
-    "date": "2026-09-02",
-    "source": "TechCrunch",
-    "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-    "summary": "The company says it now works across more than 35 countries. Departing from its customer service roots, Wonderful now offers a platform, dubbed “Wonderful AI OS,” which it says can coordinate and connect agents, workflows, and AI applications with companies’ data, context, and existing integrations.",
-    "sourceUrl": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-14dcfb7c952c",
-    "date": "2026-09-02",
-    "source": "TechCrunch",
-    "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-    "summary": "Jio is betting that cloud computing can stretch those lifecycles further. “Jio is broadening its value proposition by opening JioPC to non-Jio users, while also challenging the traditional hardware upgrade cycle,” Ram told TechCrunch.",
-    "sourceUrl": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-71656b2e31d5",
-    "date": "2026-09-02",
-    "source": "TechCrunch",
-    "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-    "summary": "Security companies are now scrambling to build products that can monitor not just agents but also the tools and add-ons they use. The company’s new products reflect that shift, and Sestito highlighted a new opportunity for attackers in exploiting open source models.",
-    "sourceUrl": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0de66ce5b51f",
-    "date": "2026-09-02",
-    "source": "TechCrunch",
-    "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-    "summary": "The retailer said some 360,000 customers every year reach out to its customer service department wondering whether a message they received from Amazon is real or a scam. Now, customers will be able to ask Amazon’s consumer AI service, Alexa for Shopping, to help answer that question instead.",
-    "sourceUrl": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-73ecf3d27d3f",
-    "date": "2026-09-02",
-    "source": "TechCrunch",
-    "title": "Adobe acquires Indian market intelligence startup Rilo",
-    "summary": "Adobe has acquired India-based marketing intelligence startup Rilo in a deal involving licensing and team acquisition, TechCrunch learned and the company confirmed. Beyond confirming the deal, Adobe declined to comment.",
-    "sourceUrl": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c6ca4d83df40",
-    "date": "2026-09-02",
-    "source": "TechCrunch",
-    "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-    "summary": "OpenAI employees reportedly urged leaders to alert Canadian law enforcement about Van Rootselaar’s potential for real-world violence, but leaders decided not to contact the authorities.",
-    "sourceUrl": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-97f276dfad17",
-    "date": "2026-09-02",
-    "source": "MIT Technology Review",
-    "title": "Facilitating AI integration with simplicity at scale",
-    "summary": "That's a little bit about Jabil. Harish: I talked about our global footprint across 100-plus sites. We don't want data silos across different systems.",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-535ee29f1ad1",
-    "date": "2026-09-02",
-    "source": "The Verge",
-    "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-    "summary": "﻿Gemini 3.8 Flash Cyber is also launching to Google’s new Fairwind Program. ﻿Gemini 3.8 Flash Cyber is also launching to Google’s new Fairwind Program. Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2140bd018ec6",
-    "date": "2026-09-02",
-    "source": "The Verge",
-    "title": "Amazon’s AI assistant can now spot fake emails from the company",
-    "summary": "Alexa for Shopping can compare the message you received ‘against a record of every message Amazon has sent.’\nAlexa for Shopping can compare the message you received ‘against a record of every message Amazon has sent.’\nAmazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company.",
-    "sourceUrl": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1db8587bd622",
-    "date": "2026-09-02",
-    "source": "The Verge",
-    "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
-    "summary": "A report triggered concerns about a safety ‘race to the bottom.’\nA report triggered concerns about a safety ‘race to the bottom.’\nOpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b94dc7898a32",
-    "date": "2026-09-02",
-    "source": "The Verge",
-    "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-    "summary": "﻿Letting models train on copyrighted work will preserve ‘American prosperity,’ it says. ﻿Letting models train on copyrighted work will preserve ‘American prosperity,’ it says.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6cd28bbd776b",
-    "date": "2026-09-02",
-    "source": "The Verge",
-    "title": "Google is sending MrBeast into the wilderness, armed with AI",
-    "summary": "﻿One of YouTube’s biggest creators has a new deal to promote Gemini and Google Health. ﻿One of YouTube’s biggest creators has a new deal to promote Gemini and Google Health. MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google.",
-    "sourceUrl": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-455599cea252",
-    "date": "2026-09-02",
-    "source": "The Verge",
-    "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
-    "summary": "The lawsuits accuse OpenAI of providing ‘substantial assistance and encouragement’ to the Tumbler Ridge shooting suspect. The lawsuits accuse OpenAI of providing ‘substantial assistance and encouragement’ to the Tumbler Ridge shooting suspect.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-941b974b5b6e",
-    "date": "2026-09-02",
-    "source": "The Verge",
-    "title": "NYC bans AI use for students until they reach high school",
-    "summary": "﻿The policy also bans companion chatbots across all grades. ﻿The policy also bans companion chatbots across all grades.",
-    "sourceUrl": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3b5f2688fec1",
-    "date": "2026-09-01",
-    "source": "OpenAI",
-    "title": "How AI-native companies turn workflows into operating capability",
-    "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-    "sourceUrl": "https://openai.com/index/ai-native-company-workflows",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-309be27bdcfe",
-    "date": "2026-09-01",
-    "source": "OpenAI",
-    "title": "Path to Astra: critical capabilities and frontier safeguards",
-    "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-    "sourceUrl": "https://openai.com/index/path-to-astra",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-50e05f9b472e",
-    "date": "2026-09-01",
-    "source": "OpenAI",
-    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-    "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-    "sourceUrl": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-631a857c7a24",
-    "date": "2026-09-01",
-    "source": "OpenAI",
-    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-    "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-    "sourceUrl": "https://openai.com/index/gilbert-tobin",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-66eabab6976f",
-    "date": "2026-09-01",
-    "source": "Google AI Blog",
-    "title": "The latest AI news we announced in August 2026",
-    "summary": "Try the new Pixel 11 series, designed for Gemini Intelligence. Omni 1.1 Flash is now available in Google Flow, Google AI Studio, the Gemini Enterprise Agent Platform, and the Gemini app. Some features available through Gemini app.",
-    "sourceUrl": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "data"
     ],
     "resources": []
   },
