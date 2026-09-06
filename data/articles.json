@@ -1,5 +1,89 @@
 [
   {
+    "id": "auto-a5bf96dbe6d6",
+    "date": "2026-09-05",
+    "source": "TechCrunch",
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Back in 2023, The New York Times sued OpenAI and its partner/investor Microsoft over alleged copyright infringement; other publications have followed suit as the case continued.",
+    "sourceUrl": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e2a0f6185b9a",
+    "date": "2026-09-05",
+    "source": "TechCrunch",
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nThree hikers were rescued from California’s Mount Shasta this week after using Google’s AI chatbot Gemini to plan their expedition, according to the Chicago Tribune.",
+    "sourceUrl": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5d4986f08b90",
+    "date": "2026-09-05",
+    "source": "TechCrunch",
+    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nOpenAI has acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+    "sourceUrl": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ac5a64ceef28",
+    "date": "2026-09-05",
+    "source": "The Verge",
+    "title": "OpenAI admits to German wiki ‘incident’",
+    "summary": "The company pledged to overhaul their agent ‘misalignment incident’ reporting. The company pledged to overhaul their agent ‘misalignment incident’ reporting. In the X post, OpenAI said it had “considered the wiki incident to be an instance of misalignment similar to the ones we’d shared” in previous safety reports.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-266031deb404",
     "date": "2026-09-04",
     "source": "TechCrunch",
@@ -502,86 +586,6 @@
     "themes": [
       "llm",
       "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-45020768fad9",
-    "date": "2026-09-03",
-    "source": "Hugging Face",
-    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-    "summary": "The benchmark is open-source in Liquid4All/ifstruct, with the public benchmark dataset available on Hugging Face at LiquidAI/ifstruct-v1.0. A short GRPO run with about 500 samples and 100 steps can lift a small 350M parameter model from 22.6% to 29.7% on IFStruct.",
-    "sourceUrl": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-86b47b47cb74",
-    "date": "2026-09-03",
-    "source": "Hugging Face",
-    "title": "Give Your Coding Agents a Memory You Own",
-    "summary": "To make a memory follow your work, bind one when you add funes to an agent:\nThe bind publishes your current memory there. We published a\nmemory of funes development,\nso you can ask why funes works the way it does without creating a memory of your own:\nfunes ask is the read-only, one-question sibling of funes add.",
-    "sourceUrl": "https://huggingface.co/blog/funes",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-46fa5743a6b1",
-    "date": "2026-09-03",
-    "source": "TechCrunch",
-    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-    "summary": "Thinking Machines, the AI lab founded early last year by former OpenAI CTO Mira Murati, is in discussions to raise $1 billion at a valuation of at least $40 billion, The Information reported Thursday.",
-    "sourceUrl": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-222024e01d06",
-    "date": "2026-09-03",
-    "source": "TechCrunch",
-    "title": "Abliteration.ai is making a business out of removing AI guardrails",
-    "summary": "Abliteration is a long-standing technique among open source models. Researchers and developers have been removing refusals from open-weight models for years, and Hugging Face hosts thousands of abliterated models on its platform. “The big picture of abliterated models is they’re able to model bad actors,” Devon said.",
-    "sourceUrl": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
     ],
     "resources": []
   },
