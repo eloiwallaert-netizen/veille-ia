@@ -1,5 +1,106 @@
 [
   {
+    "id": "auto-e02ae19def6b",
+    "date": "2026-09-07",
+    "source": "OpenAI",
+    "title": "Supporting independent journalism in Ukraine",
+    "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+    "sourceUrl": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-a8e8f9dc895a",
+    "date": "2026-09-06",
+    "source": "OpenAI",
+    "title": "An Alien Mind",
+    "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+    "sourceUrl": "https://openai.com/index/an-alien-mind",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-19672c4832d4",
+    "date": "2026-09-06",
+    "source": "OpenAI",
+    "title": "Research acceleration: The view inside OpenAI",
+    "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+    "sourceUrl": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6a3a62ca594a",
+    "date": "2026-09-06",
+    "source": "TechCrunch",
+    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. In both cases, Strauss said she’s “reluctant to attribute to malice what can be plausibly explained by poor recordkeeping” — and she noted that some publishers have already said this is a mistake that they’ve asked Anthropic to fix.",
+    "sourceUrl": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5325508b04b8",
+    "date": "2026-09-06",
+    "source": "TechCrunch",
+    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+    "summary": "Now a story in the Financial Times offers more details about Atoms’ goals. (Uber has already partnered with a long list of autonomous vehicle companies.) The report also noted that Uber has invested $100 million in Atoms — a figure previously confirmed by TechCrunch.",
+    "sourceUrl": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-2f083f991a7f",
+    "date": "2026-09-06",
+    "source": "The Verge",
+    "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+    "summary": "They want the AI models built on their works destroyed. They want the AI models built on their works destroyed. The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-a5bf96dbe6d6",
     "date": "2026-09-05",
     "source": "TechCrunch",
@@ -478,113 +579,6 @@
       "agents",
       "automation",
       "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0f3b76bc480d",
-    "date": "2026-09-03",
-    "source": "OpenAI",
-    "title": "GPT-6 Astra: A new generation of intelligence",
-    "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-    "sourceUrl": "https://openai.com/index/gpt-6-astra",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5190d2a1dccd",
-    "date": "2026-09-03",
-    "source": "OpenAI",
-    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-    "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-    "sourceUrl": "https://openai.com/index/daybreak-for-frontline-defenders",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-be4a3c542626",
-    "date": "2026-09-03",
-    "source": "OpenAI",
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-    "sourceUrl": "https://openai.com/index/legora-financial-statement-review-with-astra",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-7a45b185cff5",
-    "date": "2026-09-03",
-    "source": "OpenAI",
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-    "sourceUrl": "https://openai.com/index/playco-game-prototyping-with-astra",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2e155b11d809",
-    "date": "2026-09-03",
-    "source": "OpenAI",
-    "title": "Safety overview: GPT-6 Astra",
-    "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-    "sourceUrl": "https://openai.com/index/safety-overview-gpt-6-astra",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-96a3500c5a4b",
-    "date": "2026-09-03",
-    "source": "Hugging Face",
-    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-    "summary": "NeoMME-Retriever returns dense and late-interaction embeddings in one forward pass. Both NeoMME-Retriever models lie on the model-size Pareto frontier. NeoMME-Retriever is a fine-tuned version of NeoMME for visual document retrieval.",
-    "sourceUrl": "https://huggingface.co/blog/Hcompany/neomme",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
       "data"
     ],
     "resources": []
