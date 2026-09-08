@@ -1,5 +1,32 @@
 [
   {
+    "id": "auto-bbd44de733a8",
+    "date": "2026-09-07",
+    "source": "TechCrunch",
+    "title": "Opaque recurrence, and other AI terms that you should probably know",
+    "summary": "Reasoning models are developed from traditional large language models and optimized for chain-of-thought thinking thanks to reinforcement learning. Distillation is a technique used to extract knowledge from a large AI model with a ‘teacher-student’ model.",
+    "sourceUrl": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-e02ae19def6b",
     "date": "2026-09-07",
     "source": "OpenAI",
@@ -554,31 +581,6 @@
     "themes": [
       "llm",
       "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-4abbfbab9ab1",
-    "date": "2026-09-04",
-    "source": "The Verge",
-    "title": "This NAS company wants to run your local smart home",
-    "summary": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home — in a big way.",
-    "sourceUrl": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "genai-product",
       "data"
     ],
     "resources": []
