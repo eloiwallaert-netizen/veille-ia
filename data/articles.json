@@ -1,5 +1,472 @@
 [
   {
+    "id": "auto-014159943e4d",
+    "date": "2026-09-10",
+    "source": "OpenAI",
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+    "sourceUrl": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-4d4e7920d8a7",
+    "date": "2026-09-10",
+    "source": "OpenAI",
+    "title": "Now everyone can put data to work",
+    "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+    "sourceUrl": "https://openai.com/index/put-data-to-work",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-016c3ec9b775",
+    "date": "2026-09-10",
+    "source": "OpenAI",
+    "title": "Introducing ChatGPT for Financial Services",
+    "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+    "sourceUrl": "https://openai.com/index/introducing-chatgpt-financial-services",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1ef5285e671d",
+    "date": "2026-09-10",
+    "source": "OpenAI",
+    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+    "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+    "sourceUrl": "https://openai.com/index/expanding-ai-access-us-government",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-4e410dad70fb",
+    "date": "2026-09-10",
+    "source": "OpenAI",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+    "sourceUrl": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-2b26a8066576",
+    "date": "2026-09-10",
+    "source": "OpenAI",
+    "title": "Introducing the Agents API",
+    "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+    "sourceUrl": "https://openai.com/index/introducing-the-agents-api",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1852061b5cf6",
+    "date": "2026-09-10",
+    "source": "Google AI Blog",
+    "title": "3 ways to prep for your next big race with Search",
+    "summary": "Search can help you get race-day ready with tailored training plans, custom playlists, and more. Here are three ways Search can help you make it across the finish line. AI Mode in Search can help you map out your strategy and develop a detailed plan.",
+    "sourceUrl": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-cb50b0c3c856",
+    "date": "2026-09-10",
+    "source": "Hugging Face",
+    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+    "summary": "That same Kontext node doubles as the image-to-image tab. Workflow1111 does the same. It just calls the fn node.",
+    "sourceUrl": "https://huggingface.co/blog/gradio-workflow-1111",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-31c8ff759101",
+    "date": "2026-09-10",
+    "source": "TechCrunch",
+    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+    "summary": "“I think we could grow 70% year over year. So 70% growth would mean around $680 billion next year. “Nvidia runs every model.",
+    "sourceUrl": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6ef5efba8093",
+    "date": "2026-09-10",
+    "source": "TechCrunch",
+    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Grab your ticket here so you don’t miss a moment of this session and Disrupt 2026.",
+    "sourceUrl": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c3c4ec3c1286",
+    "date": "2026-09-10",
+    "source": "TechCrunch",
+    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+    "summary": "25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nDemand for OpenAI’s newest and most powerful model, Astra, has led the company to temporarily pause subscriptions for its $200-per-month Pro plan, citing strain on its infrastructure.",
+    "sourceUrl": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-8e2bb477609d",
+    "date": "2026-09-10",
+    "source": "TechCrunch",
+    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. All told, the company observed nearly 200 million exchanges linked to distillation attacks, attributed to five separate campaigns.",
+    "sourceUrl": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-11165f51c8c6",
+    "date": "2026-09-10",
+    "source": "TechCrunch",
+    "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+    "summary": "for now.)\nWhile this pushed Muse into the No. 2 position on the App Store’s Top Charts, its launch pales when compared with other recent app debuts from Meta, like Threads and Meta AI, the data indicates. App Store on Wednesday to now No.",
+    "sourceUrl": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-4a1ed4173818",
+    "date": "2026-09-10",
+    "source": "TechCrunch",
+    "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+    "summary": "The two crocs: left faces LEFT with a longer/open snout showing nostril; right faces RIGHT slightly darker. Round 2: FOUR gorillas (3 vivid: center ~(540,470), bottom-center ~(470,790), bottomright ~(780,730); 1 ghost top-left ~(320,390)) + ONE GHOST CAT!! From page 480 to 505, it is in CAPTCHA hell again.",
+    "sourceUrl": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-bb541ac986c0",
+    "date": "2026-09-10",
+    "source": "TechCrunch",
+    "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+    "summary": "Pocket FM’s annualized revenue run rate stood at about $250 million a year ago before climbing to $430 million in April and $500 million now. Pocket FM’s parent company, Pocket Entertainment, is now looking to take its AI-driven content model beyond audio.",
+    "sourceUrl": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-70dbdcfd0be5",
+    "date": "2026-09-10",
+    "source": "TechCrunch",
+    "title": "AI agents are flooding public services with new requests",
+    "summary": "While some might see the new applications as AI-generated spam, Schmitz sees it as a rare opportunity to remake social services for the AI era. Schmitz looked at services ranging from welfare applications to official judicial appeals, but they all have online services that could be accessed by an AI assistant.",
+    "sourceUrl": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f9f39a68dceb",
+    "date": "2026-09-10",
+    "source": "TechCrunch",
+    "title": "Maven Robotics wants to steal your robot deployment deal",
+    "summary": "After two years of work with that company and a few other partners, Derbas says Maven has as many as eight robots working 16 hours a day,  with 99% or higher uptime. A live video screen shows two robots working in a customer facility while employees walk around them.",
+    "sourceUrl": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-bd0657d2bfec",
+    "date": "2026-09-10",
+    "source": "MIT Technology Review",
+    "title": "Powering AI is an architecture problem",
+    "summary": "The grid needs more electrons. Grid faults hit the utility side, including a full zero-voltage event. Neither did the grid side.",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-1a89e65b75c7",
+    "date": "2026-09-10",
+    "source": "The Verge",
+    "title": "Slack can now vibe-code interactive charts and reports inside chats",
+    "summary": "You can ask Slackbot to build a tool for you by just describing it. You can ask Slackbot to build a tool for you by just describing it.",
+    "sourceUrl": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5e0cb078bed7",
+    "date": "2026-09-10",
+    "source": "The Verge",
+    "title": "Schools are catching on to Big Tech’s playbook",
+    "summary": "In a new book, Coding Kids, Singer details how tech companies took a central role in promoting computers and coding skills in education, promising computer science skills were the ticket to high-paying jobs.",
+    "sourceUrl": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-95095ad6209d",
+    "date": "2026-09-10",
+    "source": "The Verge",
+    "title": "Universal Music is launching an AI music platform with ElevenLabs",
+    "summary": "UMG’s AI music platform will let users create remixes, mashups, and new takes on tracks. UMG’s AI music platform will let users create remixes, mashups, and new takes on tracks. The new AI music platform will remain separate from ElevenLabs’ Music API and ElevenMusic generator.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-8b4677a71fac",
+    "date": "2026-09-10",
+    "source": "The Verge",
+    "title": "Meta’s Muse AI works and creeps me out",
+    "summary": "Muse rattled off very specific interests linked to my Instagram account. Muse rattled off very specific interests linked to my Instagram account. In one image, Muse created what looks like an iPhone-like foldable, an Apple Watch, and AirPods.",
+    "sourceUrl": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-81e9f4988943",
+    "date": "2026-09-10",
+    "source": "The Verge",
+    "title": "Why the current tech backlash feels different",
+    "summary": "Because you listen to the end of every episode, we know you do. If you’re a Decoder listener, you know I think this. You want the sound bite.",
+    "sourceUrl": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6be9484307df",
+    "date": "2026-09-10",
+    "source": "The Verge",
+    "title": "Mathematicians want proof OpenAI didn’t use their work",
+    "summary": "Another mathematician accused the company of ‘dishonesty’ after several big breakthroughs. Another mathematician accused the company of ‘dishonesty’ after several big breakthroughs.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-c1f34cbe9cec",
     "date": "2026-09-10",
     "source": "TechCrunch",
@@ -104,467 +571,6 @@
       "automation",
       "ethics",
       "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e8608e40b722",
-    "date": "2026-09-09",
-    "source": "Hugging Face",
-    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-    "summary": "GIFT-Eval is a comprehensive time series forecasting benchmark designed to evaluate models across diverse forecasting scenarios; the model ranks #2 overall among replicable, zero-shot models. GIFT-Eval CRPS for leading replicable zero-shot models. GIFT-Eval MASE for leading replicable zero-shot models.",
-    "sourceUrl": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2d26331197e7",
-    "date": "2026-09-09",
-    "source": "TechCrunch",
-    "title": "OpenAI adds a prominent AI doomer to its board of directors",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
-    "sourceUrl": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9b8574f42722",
-    "date": "2026-09-09",
-    "source": "TechCrunch",
-    "title": "Massachusetts hits data centers with new clean power rules",
-    "summary": "A new state mandate would require developers building data centers larger than 25 megawatts to provide clean power or pay into a ratepayer protection fund. Healey said data centers must meet the Massachusetts clean energy standard enshrined in state law, although it comes with some added strength.",
-    "sourceUrl": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-679dc40aaefa",
-    "date": "2026-09-09",
-    "source": "TechCrunch",
-    "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-    "summary": "Does this mean you’re always being recorded if the person you’re interacting with is wearing an Apple Watch? Apple notes that Siri Recap doesn’t default to always being on like some other AI wearables are.",
-    "sourceUrl": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-28b798c31b50",
-    "date": "2026-09-09",
-    "source": "TechCrunch",
-    "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-    "summary": "Apple also announced its iPhone 18 Pro lineup, along with new AirPods, and more. The Apple Watch Series 12 starts at $399, while the Apple Watch Ultra 4 costs $499. Apple announced a redesigned Apple Health app that takes advantage of Apple Intelligence to make better sense of your health data.",
-    "sourceUrl": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-7522d1a44966",
-    "date": "2026-09-09",
-    "source": "TechCrunch",
-    "title": "The hinge for Apple’s new foldable phone was built with AI",
-    "summary": "The new phone represents Apple’s first entry into the foldable phone genre — a category of devices that has seen significant consumer enthusiasm but whose form factors haven’t always lived up to the hype.",
-    "sourceUrl": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-6e5ebd9079dc",
-    "date": "2026-09-09",
-    "source": "TechCrunch",
-    "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
-    "summary": "25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nAlongside the new Apple Watch Series 12 and Ultra 4, Apple on Wednesday introduced a redesigned Apple Health app that takes advantage of Apple Intelligence to make better sense of your health data.",
-    "sourceUrl": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-83655f368aed",
-    "date": "2026-09-09",
-    "source": "TechCrunch",
-    "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
-    "summary": "The company announced Wednesday during its Surprise and Shine event that it is introducing Apple Reference Image, a feature it says can prove whether an image taken with the iPhone 18 Pro is authentic.",
-    "sourceUrl": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-357dc0e4f8bc",
-    "date": "2026-09-09",
-    "source": "TechCrunch",
-    "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-    "summary": "25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nApple’s new CEO, John Ternus, used the opening of the company’s Surprise and Shine event Wednesday to make its AI strategy clear: The iPhone is already the best AI device out there, and Apple cares more about data privacy than its rivals.",
-    "sourceUrl": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e4d7a91899aa",
-    "date": "2026-09-09",
-    "source": "TechCrunch",
-    "title": "Superintelligence is coming. Should we let it?",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts.",
-    "sourceUrl": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c7488c67c7fa",
-    "date": "2026-09-09",
-    "source": "TechCrunch",
-    "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
-    "summary": "Rebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. You can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.",
-    "sourceUrl": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-8a3c145c0f81",
-    "date": "2026-09-09",
-    "source": "TechCrunch",
-    "title": "Viral AI assistant Instinct now has its own email address",
-    "summary": "Starting today, your Instinct will have its own email address. Instinct says it has reserved some email addresses for its earliest users, and others can claim theirs at mail.instinct.com.",
-    "sourceUrl": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2a6c42dd68bf",
-    "date": "2026-09-09",
-    "source": "TechCrunch",
-    "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Anthropic and OpenAI aren’t the only companies actively chasing recursive self-improvement. to ban the development and deployment of superintelligence.",
-    "sourceUrl": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c44948af036a",
-    "date": "2026-09-09",
-    "source": "TechCrunch",
-    "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
-    "summary": "With this launch, Shipt joins a growing list of delivery platforms baking AI assistants into their apps. Users can ask Shipt to do things like “Create a cart for my Saturday tailgate for 25 people and include some brunch items,” or “Build a cart for easy school lunches and after-school snacks,” Shipt says.",
-    "sourceUrl": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6c16839213c8",
-    "date": "2026-09-09",
-    "source": "TechCrunch",
-    "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
-    "summary": "This isn’t the first time Ramp’s metrics have shown adoption slowing down. Census Bureau survey of AI adoption updated on August 23 shows just 22% of businesses report using AI. But there are other warning signs for companies that depend on token spend, per Ramp economist Ara Kharazian.",
-    "sourceUrl": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1b1ce38b26f4",
-    "date": "2026-09-09",
-    "source": "TechCrunch",
-    "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-    "summary": "Sequoia has also been using Cymphony’s product internally since early in its development, Balkansky said. Dekel told TechCrunch that Cymphony is already replacing some existing security products at customers. Cymphony has about 30 employees across Tel Aviv and New York.",
-    "sourceUrl": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b5b867855799",
-    "date": "2026-09-09",
-    "source": "TechCrunch",
-    "title": "Instacart launches an AI grocery shopping assistant called Clementine",
-    "summary": "The company announced on Wednesday that it’s launching a new AI-powered grocery shopping assistant called Clementine that can turn a conversation, grocery list, or recipe into a ready-to-buy cart.",
-    "sourceUrl": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-646e8eb9c4ce",
-    "date": "2026-09-09",
-    "source": "TechCrunch",
-    "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-    "summary": "Besxar, a startup founded by former OpenAI staffer Ashley Pilipiszyn, wants to make the key precursors for advanced semiconductors by taking advantage of the vacuum of space.",
-    "sourceUrl": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-724c3fbff8ab",
-    "date": "2026-09-09",
-    "source": "TechCrunch",
-    "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-    "summary": "The company said Suno v6 is not trained using the data it used to train previous versions of its music-generating model. Suno says the new model lineup offers greater flexibility in how you use them. Last month, Suno said it plans to add a watermark to songs generated using its platform.",
-    "sourceUrl": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6e51b045209f",
-    "date": "2026-09-09",
-    "source": "The Verge",
-    "title": "Suno releases its first AI music model made with record industry help",
-    "summary": "v6 still can’t capture the ‘natural imperfections’ of real human music. v6 still can’t capture the ‘natural imperfections’ of real human music. All three models are dramatically better at understanding genre.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-243705570522",
-    "date": "2026-09-09",
-    "source": "The Verge",
-    "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
-    "summary": "﻿OpenAI is disrupting mathematics, alright. ﻿OpenAI is disrupting mathematics, alright. OpenAI said it only later realized the rumors concerned Alpöge and Buckmaster.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d6f0852fba8f",
-    "date": "2026-09-09",
-    "source": "The Verge",
-    "title": "Read the Apple document explaining how new listening features still protect your privacy",
-    "summary": "﻿Apple says it can’t access users’ raw audio from its new Audio Intelligence features. ﻿Apple says it can’t access users’ raw audio from its new Audio Intelligence features.",
-    "sourceUrl": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-9289099b73c5",
-    "date": "2026-09-09",
-    "source": "The Verge",
-    "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
-    "summary": "A new sensor in the iPhone 18 Pro will authenticate photos captured in Reference mode. A new sensor in the iPhone 18 Pro will authenticate photos captured in Reference mode.",
-    "sourceUrl": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-63ea6811b42b",
-    "date": "2026-09-09",
-    "source": "The Verge",
-    "title": "Microsoft has new AI privacy rules for schools",
-    "summary": "﻿Amid a policy crackdown, it’s agreeing to avoid training on student data and prohibit AI companions. ﻿Amid a policy crackdown, it’s agreeing to avoid training on student data and prohibit AI companions.",
-    "sourceUrl": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
     ],
     "resources": []
   },
