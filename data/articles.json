@@ -1,5 +1,277 @@
 [
   {
+    "id": "auto-12e9dd685180",
+    "date": "2026-09-14",
+    "source": "OpenAI",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "sourceUrl": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c7d3c8aeae42",
+    "date": "2026-09-11",
+    "source": "OpenAI",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+    "sourceUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c3aa33826442",
+    "date": "2026-09-11",
+    "source": "OpenAI",
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+    "sourceUrl": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-fad5f970d050",
+    "date": "2026-09-11",
+    "source": "TechCrunch",
+    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+    "summary": "While Mecka AI hasn’t publicly disclosed its customer list, many robotics companies and AI labs rely on real-world data captured through this “egocentric” approach, alongside other physical data collection methods like teleoperation, to build their models.",
+    "sourceUrl": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2619d8ade240",
+    "date": "2026-09-11",
+    "source": "TechCrunch",
+    "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+    "summary": "AI labs should perhaps play the same game. “We could argue that there should be an American distillation regime.”\nHe elaborated to TechCrunch that this means he wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S.",
+    "sourceUrl": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b3b4818aa362",
+    "date": "2026-09-11",
+    "source": "TechCrunch",
+    "title": "OpenAI’s feud with mathematicians is only escalating",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
+    "sourceUrl": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c9bc20e4988d",
+    "date": "2026-09-11",
+    "source": "TechCrunch",
+    "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+    "summary": "25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nBook your exhibit table at TechCrunch Disrupt 2026 by September 18 at 11:59 p.m.",
+    "sourceUrl": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-54bc95a279e4",
+    "date": "2026-09-11",
+    "source": "TechCrunch",
+    "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+    "summary": "Don’t just attend Disrupt. You don’t need to host a Side Event to make Disrupt work for your business. Get your ticket to TechCrunch Disrupt 2026.",
+    "sourceUrl": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-83e605502ca5",
+    "date": "2026-09-11",
+    "source": "TechCrunch",
+    "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+    "summary": "Moonshot’s projected revenue is still dwarfed by that of OpenAI and Anthropic, which recent reports put at $40 billion and $65 billion, respectively. Because Moonshot’s model weights are freely available, the company has far lower margins than its closed-weight competitors.",
+    "sourceUrl": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0c8057bddc5c",
+    "date": "2026-09-11",
+    "source": "TechCrunch",
+    "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+    "summary": "Anthony Ha is TechCrunch’s weekend editor. You can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com. You can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.",
+    "sourceUrl": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b8f06fc0f836",
+    "date": "2026-09-11",
+    "source": "TechCrunch",
+    "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+    "summary": "Simo joins high-profile tech executives Sheryl Sandberg, Susan Decker, and Nick Clegg on Nscale’s board ahead of the startup’s anticipated IPO this fall. Before OpenAI, Simo was chair and CEO of Instacart, where she led the company through its 2023 IPO. Simo also sits on Shopify’s board.",
+    "sourceUrl": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-bc7fdc500a76",
+    "date": "2026-09-11",
+    "source": "MIT Technology Review",
+    "title": "Roundtables: AI’s apocalypse crisis",
+    "summary": "Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction fears: where they come from, whether they hold any water, and, if so, what we should do.",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-eb3fa8e52380",
+    "date": "2026-09-11",
+    "source": "The Verge",
+    "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+    "summary": "A justice asked, ‘Counsel, do you watch the news?’ when a lawyer admitted to relying on ChatGPT without understanding the risks. A justice asked, ‘Counsel, do you watch the news?’ when a lawyer admitted to relying on ChatGPT without understanding the risks. “Counsel, do you watch the news?",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-c18234270271",
+    "date": "2026-09-11",
+    "source": "The Verge",
+    "title": "Anthropic spent this week in hot water over cybersecurity",
+    "summary": "A researcher’s resignation letter went viral, just before the company released details about four models going rogue. A researcher’s resignation letter went viral, just before the company released details about four models going rogue. The saga only ended when the model “exhausted its token budget,” per Anthropic.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-62d35db41d4e",
+    "date": "2026-09-11",
+    "source": "The Verge",
+    "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+    "summary": "The change comes after a viral video showed Meta AI prompting a user to identify the child in one of her videos. The change comes after a viral video showed Meta AI prompting a user to identify the child in one of her videos.",
+    "sourceUrl": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-014159943e4d",
     "date": "2026-09-10",
     "source": "OpenAI",
@@ -282,295 +554,6 @@
       "automation",
       "ethics",
       "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-70dbdcfd0be5",
-    "date": "2026-09-10",
-    "source": "TechCrunch",
-    "title": "AI agents are flooding public services with new requests",
-    "summary": "While some might see the new applications as AI-generated spam, Schmitz sees it as a rare opportunity to remake social services for the AI era. Schmitz looked at services ranging from welfare applications to official judicial appeals, but they all have online services that could be accessed by an AI assistant.",
-    "sourceUrl": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f9f39a68dceb",
-    "date": "2026-09-10",
-    "source": "TechCrunch",
-    "title": "Maven Robotics wants to steal your robot deployment deal",
-    "summary": "After two years of work with that company and a few other partners, Derbas says Maven has as many as eight robots working 16 hours a day,  with 99% or higher uptime. A live video screen shows two robots working in a customer facility while employees walk around them.",
-    "sourceUrl": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-bd0657d2bfec",
-    "date": "2026-09-10",
-    "source": "MIT Technology Review",
-    "title": "Powering AI is an architecture problem",
-    "summary": "The grid needs more electrons. Grid faults hit the utility side, including a full zero-voltage event. Neither did the grid side.",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-1a89e65b75c7",
-    "date": "2026-09-10",
-    "source": "The Verge",
-    "title": "Slack can now vibe-code interactive charts and reports inside chats",
-    "summary": "You can ask Slackbot to build a tool for you by just describing it. You can ask Slackbot to build a tool for you by just describing it.",
-    "sourceUrl": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5e0cb078bed7",
-    "date": "2026-09-10",
-    "source": "The Verge",
-    "title": "Schools are catching on to Big Tech’s playbook",
-    "summary": "In a new book, Coding Kids, Singer details how tech companies took a central role in promoting computers and coding skills in education, promising computer science skills were the ticket to high-paying jobs.",
-    "sourceUrl": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-95095ad6209d",
-    "date": "2026-09-10",
-    "source": "The Verge",
-    "title": "Universal Music is launching an AI music platform with ElevenLabs",
-    "summary": "UMG’s AI music platform will let users create remixes, mashups, and new takes on tracks. UMG’s AI music platform will let users create remixes, mashups, and new takes on tracks. The new AI music platform will remain separate from ElevenLabs’ Music API and ElevenMusic generator.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-8b4677a71fac",
-    "date": "2026-09-10",
-    "source": "The Verge",
-    "title": "Meta’s Muse AI works and creeps me out",
-    "summary": "Muse rattled off very specific interests linked to my Instagram account. Muse rattled off very specific interests linked to my Instagram account. In one image, Muse created what looks like an iPhone-like foldable, an Apple Watch, and AirPods.",
-    "sourceUrl": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-81e9f4988943",
-    "date": "2026-09-10",
-    "source": "The Verge",
-    "title": "Why the current tech backlash feels different",
-    "summary": "Because you listen to the end of every episode, we know you do. If you’re a Decoder listener, you know I think this. You want the sound bite.",
-    "sourceUrl": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6be9484307df",
-    "date": "2026-09-10",
-    "source": "The Verge",
-    "title": "Mathematicians want proof OpenAI didn’t use their work",
-    "summary": "Another mathematician accused the company of ‘dishonesty’ after several big breakthroughs. Another mathematician accused the company of ‘dishonesty’ after several big breakthroughs.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c1f34cbe9cec",
-    "date": "2026-09-10",
-    "source": "TechCrunch",
-    "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-    "summary": "Listen Labs, Salesforce, Menlo Ventures, and Simile did not immediately respond to requests for comment. Listen Labs’ AI develops survey questions and interviews customers over audio or video. Listen Labs and Simile aren’t the only startups using AI to disrupt the customer research market.",
-    "sourceUrl": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9786c92a289d",
-    "date": "2026-09-09",
-    "source": "OpenAI",
-    "title": "The AI policy window is open. We need to act.",
-    "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-    "sourceUrl": "https://openai.com/index/ai-policy-window",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-587a70348a73",
-    "date": "2026-09-09",
-    "source": "OpenAI",
-    "title": "GPT-6 Astra: The next generation in intelligence for work",
-    "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-    "sourceUrl": "https://openai.com/index/gpt-6-astra-next-generation-work",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-534907e0d31e",
-    "date": "2026-09-09",
-    "source": "OpenAI",
-    "title": "Paul Christiano joins OpenAI Foundation Board",
-    "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-    "sourceUrl": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b0dd0e34ba0b",
-    "date": "2026-09-09",
-    "source": "Google AI Blog",
-    "title": "Get ready for the game with new football features in Search",
-    "summary": "Now, when you search for a matchup, you’ll see a new carousel that lets you check the scores for other games happening across the league, without needing to search for them individually. Now, you can link your Yahoo Fantasy or Sleeper account with Search and ask for customized insights through AI Mode.",
-    "sourceUrl": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-e8269fc9a109",
-    "date": "2026-09-09",
-    "source": "Google AI Blog",
-    "title": "Recreating a 70-year love story frame by frame",
-    "summary": "The documentary \"Love, Rendered\" uses artificial intelligence to help a couple with memory loss recreate a cherished, unrecorded moment from their past. A new documentary called \"Love, Rendered\" uses AI to help an elderly couple recreate a precious memory that was never caught on camera.",
-    "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics",
-      "data"
     ],
     "resources": []
   },
