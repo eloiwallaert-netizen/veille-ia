@@ -17,6 +17,151 @@
     "resources": []
   },
   {
+    "id": "auto-e82b8a9af4fd",
+    "date": "2026-09-12",
+    "source": "TechCrunch",
+    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nWhile OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+    "sourceUrl": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7658eb64cf66",
+    "date": "2026-09-12",
+    "source": "TechCrunch",
+    "title": "Anthropic CEO outlines plan to slow AI development",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. In a new blog post, Anthropic CEO Dario Amodei not only echoed the call to “pace the frontier,” but also outlined three broad strategies for doing so.",
+    "sourceUrl": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-4022c7a7f9b5",
+    "date": "2026-09-12",
+    "source": "The Verge",
+    "title": "OpenAI’s rogue AI tried to hack another company in May",
+    "summary": "The previously undisclosed attack on Ruby Gems predates Hugging Face by more than a month. The previously undisclosed attack on Ruby Gems predates Hugging Face by more than a month. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-fe9d508504e5",
+    "date": "2026-09-12",
+    "source": "The Verge",
+    "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+    "summary": "He also said that it was ‘absolutely’ possible to build an AI beyond human control. He also said that it was ‘absolutely’ possible to build an AI beyond human control. OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-63c0cf89a6d3",
+    "date": "2026-09-12",
+    "source": "The Verge",
+    "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+    "summary": "Dario Amodei proposed a three-step plan to ‘pace the frontier’ of AI development. Dario Amodei proposed a three-step plan to ‘pace the frontier’ of AI development. Amodei says that his concern stems from two primary factors.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9e2152d865f0",
+    "date": "2026-09-12",
+    "source": "The Verge",
+    "title": "Trump is giving data centers a pass to pollute",
+    "summary": "﻿The Trump administration is sacrificing Americans’ health to build data centers, former EPA officials warn. ﻿The Trump administration is sacrificing Americans’ health to build data centers, former EPA officials warn. All this new infrastructure can spread pollution far from the data centers they support.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-43166de57ac1",
+    "date": "2026-09-12",
+    "source": "The Verge",
+    "title": "OpenAI just wants to win",
+    "summary": "Strikingly, Bubeck said OpenAI had made similar arrangements with other mathematicians, though did not identify them. Buckmaster said he had encountered a similar mentality among tech researchers before. Only OpenAI has the information needed to answer that question, Thom said.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-c7d3c8aeae42",
     "date": "2026-09-11",
     "source": "OpenAI",
@@ -396,164 +541,6 @@
       "automation",
       "genai-product",
       "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-31c8ff759101",
-    "date": "2026-09-10",
-    "source": "TechCrunch",
-    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-    "summary": "“I think we could grow 70% year over year. So 70% growth would mean around $680 billion next year. “Nvidia runs every model.",
-    "sourceUrl": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6ef5efba8093",
-    "date": "2026-09-10",
-    "source": "TechCrunch",
-    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Grab your ticket here so you don’t miss a moment of this session and Disrupt 2026.",
-    "sourceUrl": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c3c4ec3c1286",
-    "date": "2026-09-10",
-    "source": "TechCrunch",
-    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-    "summary": "25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nDemand for OpenAI’s newest and most powerful model, Astra, has led the company to temporarily pause subscriptions for its $200-per-month Pro plan, citing strain on its infrastructure.",
-    "sourceUrl": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-8e2bb477609d",
-    "date": "2026-09-10",
-    "source": "TechCrunch",
-    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. All told, the company observed nearly 200 million exchanges linked to distillation attacks, attributed to five separate campaigns.",
-    "sourceUrl": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-11165f51c8c6",
-    "date": "2026-09-10",
-    "source": "TechCrunch",
-    "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-    "summary": "for now.)\nWhile this pushed Muse into the No. 2 position on the App Store’s Top Charts, its launch pales when compared with other recent app debuts from Meta, like Threads and Meta AI, the data indicates. App Store on Wednesday to now No.",
-    "sourceUrl": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-4a1ed4173818",
-    "date": "2026-09-10",
-    "source": "TechCrunch",
-    "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-    "summary": "The two crocs: left faces LEFT with a longer/open snout showing nostril; right faces RIGHT slightly darker. Round 2: FOUR gorillas (3 vivid: center ~(540,470), bottom-center ~(470,790), bottomright ~(780,730); 1 ghost top-left ~(320,390)) + ONE GHOST CAT!! From page 480 to 505, it is in CAPTCHA hell again.",
-    "sourceUrl": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-bb541ac986c0",
-    "date": "2026-09-10",
-    "source": "TechCrunch",
-    "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-    "summary": "Pocket FM’s annualized revenue run rate stood at about $250 million a year ago before climbing to $430 million in April and $500 million now. Pocket FM’s parent company, Pocket Entertainment, is now looking to take its AI-driven content model beyond audio.",
-    "sourceUrl": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics",
-      "genai-product"
     ],
     "resources": []
   },
