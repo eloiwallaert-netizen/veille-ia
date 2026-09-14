@@ -17,6 +17,68 @@
     "resources": []
   },
   {
+    "id": "auto-89769e5f1d2d",
+    "date": "2026-09-13",
+    "source": "TechCrunch",
+    "title": "What’s behind the AI industry’s latest warnings of doom?",
+    "summary": "Anthony Ha: Just to disagree with you, I do think that if you believe that AI could destroy all humanity, that does deserve an exclamation point. If you actually believe that [AI could destroy humanity], you would not continue doing this. There has to have been language in there.",
+    "sourceUrl": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7e363c87d8ff",
+    "date": "2026-09-13",
+    "source": "TechCrunch",
+    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
+    "sourceUrl": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-76cfee61f91f",
+    "date": "2026-09-13",
+    "source": "The Verge",
+    "title": "Trump and Mike Johnson think the AI industry is overreacting",
+    "summary": "The Republicans fear slowing down AI development could give China the edge. The Republicans fear slowing down AI development could give China the edge. Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to “pace the frontier” and slow down AI development.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-e82b8a9af4fd",
     "date": "2026-09-12",
     "source": "TechCrunch",
@@ -486,62 +548,6 @@
     "auto": true,
     "metiers": [],
     "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-2b26a8066576",
-    "date": "2026-09-10",
-    "source": "OpenAI",
-    "title": "Introducing the Agents API",
-    "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-    "sourceUrl": "https://openai.com/index/introducing-the-agents-api",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1852061b5cf6",
-    "date": "2026-09-10",
-    "source": "Google AI Blog",
-    "title": "3 ways to prep for your next big race with Search",
-    "summary": "Search can help you get race-day ready with tailored training plans, custom playlists, and more. Here are three ways Search can help you make it across the finish line. AI Mode in Search can help you map out your strategy and develop a detailed plan.",
-    "sourceUrl": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-cb50b0c3c856",
-    "date": "2026-09-10",
-    "source": "Hugging Face",
-    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-    "summary": "That same Kontext node doubles as the image-to-image tab. Workflow1111 does the same. It just calls the fn node.",
-    "sourceUrl": "https://huggingface.co/blog/gradio-workflow-1111",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "genai-product",
-      "data"
-    ],
     "resources": []
   },
   {
