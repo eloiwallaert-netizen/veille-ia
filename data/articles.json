@@ -1,5 +1,428 @@
 [
   {
+    "id": "auto-cf4c6f0aac19",
+    "date": "2026-09-15",
+    "source": "TechCrunch",
+    "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nCorrection: An earlier version of this piece identified the phone Jensen Huang used to take President Trump’s call as Apple’s iPhone Duo.",
+    "sourceUrl": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c2c660edac22",
+    "date": "2026-09-15",
+    "source": "MIT Technology Review",
+    "title": "What must happen for AI’s trillion-dollar gamble to pay off",
+    "summary": "The hyperscalers will spend about $750 billion this year, building massive data centers scattered across the country. If the hyperscalers continue to spend huge amounts of money on data centers into the next decade, revenues will need to skyrocket into the trillions.",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-296d33defd03",
+    "date": "2026-09-14",
+    "source": "OpenAI",
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+    "sourceUrl": "https://openai.com/index/fyxer",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b49b47db0b35",
+    "date": "2026-09-14",
+    "source": "Google AI Blog",
+    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+    "summary": "In the latest episode of our Dialogues on Technology and Society series, NASA astronaut, engineer, and scientist Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+    "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-bf70dc826a65",
+    "date": "2026-09-14",
+    "source": "Google AI Blog",
+    "title": "DevFest is back",
+    "summary": "DevFest season is officially back. Attendees will engage directly with tools across Google’s stack — including Gemini, Google AI Studio, Google Antigravity, Google Cloud, Firebase, Android, Flutter, Angular, and Web MCP — through live codelabs, workshops, and agent-athons.",
+    "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2b3aa79e4244",
+    "date": "2026-09-14",
+    "source": "TechCrunch",
+    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+    "summary": "“So I’m with you all the way. I didn’t even know how you felt about it. You can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal.",
+    "sourceUrl": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-8fa040b2b2e2",
+    "date": "2026-09-14",
+    "source": "TechCrunch",
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nOpenAI has bought smartphone camera maker Glass Imaging in a deal worth over $300 million, according to a report from The Wall Street Journal.",
+    "sourceUrl": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-f7b5c9275411",
+    "date": "2026-09-14",
+    "source": "TechCrunch",
+    "title": "With iOS 27, I’m actually using Siri again",
+    "summary": "Over two years ago, Apple introduced Apple Intelligence and teased an advanced version of Siri. Siri can also take complex, multistep directions. With iOS 27, Siri AI gets a dedicated app that lets you return to your previous chats.",
+    "sourceUrl": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-8ee3050f866d",
+    "date": "2026-09-14",
+    "source": "TechCrunch",
+    "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+    "summary": "25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nDaydream, an AI-powered fashion discovery app, launched two new features on Monday to let iPhone users turn saved outfit photos into shoppable results and search for clothing and accessories through Siri, without opening the app.",
+    "sourceUrl": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c0a7526f25c4",
+    "date": "2026-09-14",
+    "source": "TechCrunch",
+    "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. It also includes broader provisions against a general loss of human control.",
+    "sourceUrl": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9523fe096d8b",
+    "date": "2026-09-14",
+    "source": "TechCrunch",
+    "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+    "summary": "Not long ago, founders worried about competing with other startups. Learn how founders are building beyond the next model release. Secure your Disrupt pass and hear how founders are building companies, not just AI features.",
+    "sourceUrl": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9566a3a75d81",
+    "date": "2026-09-14",
+    "source": "TechCrunch",
+    "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+    "summary": "The company said that over 1 million people have recorded meetings until now. Some of these factors did matter in Superhuman acquiring Fathom, while Fathom’s CEO Richard White said that Superhuman’s 40 million user base was a good opportunity to reach users at scale. “The reach of Superhuman is massive.",
+    "sourceUrl": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1955107f35f9",
+    "date": "2026-09-14",
+    "source": "TechCrunch",
+    "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+    "summary": "Secure your pass to Disrupt. Secure your Disrupt pass today. As AI becomes part of scientific discovery, conversations about technology increasingly extend beyond software into medicine, biology, conservation, and climate science.",
+    "sourceUrl": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ee684186fa61",
+    "date": "2026-09-14",
+    "source": "TechCrunch",
+    "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Book your exhibit table for TechCrunch Disrupt 2026 by September 18 at 11:59 p.m.",
+    "sourceUrl": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-02944c8eb547",
+    "date": "2026-09-14",
+    "source": "TechCrunch",
+    "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
+    "summary": "Once you create these mixes, you can easily export them to TikTok or Instagram. The company recently added a prompt-based feature to create a sound. The company added prompt-based features more recently to its apps.",
+    "sourceUrl": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d834d734a1ce",
+    "date": "2026-09-14",
+    "source": "MIT Technology Review",
+    "title": "The AI industry has taken a doomer turn. What now?",
+    "summary": "Amodei’s rift with OpenAI is even deeper. OpenAI says it has stopped training this new model and locked it down. In fact, OpenAI has shelved a faulty product.",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f23ae65b53c9",
+    "date": "2026-09-14",
+    "source": "MIT Technology Review",
+    "title": "AI agents blew the whistle on their cheating colleagues",
+    "summary": "All the agents were prompted to behave like world-class math researchers at a conference. Within minutes, other agents had noticed and were reverse-engineering the exploit to solve other problems.",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e4b50f354b69",
+    "date": "2026-09-14",
+    "source": "The Verge",
+    "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+    "summary": "Major AI companies want to ‘pace the frontier’ — but their proposed solutions need real teeth. Major AI companies want to ‘pace the frontier’ — but their proposed solutions need real teeth. Several sources believe that concerns of safety-washing are valid.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-fa0bf0a9d2fe",
+    "date": "2026-09-14",
+    "source": "The Verge",
+    "title": "What execs and politicians are saying about slowing down AI development",
+    "summary": "Dario Amodei kicked off a flood of statements about AI safety after publishing a long essay, with Sam Altman, President Trump, and others speaking out. Dario Amodei kicked off a flood of statements about AI safety after publishing a long essay, with Sam Altman, President Trump, and others speaking out.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0b4285d3340b",
+    "date": "2026-09-14",
+    "source": "The Verge",
+    "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+    "summary": "Trump told attendees at the All-In Summit that ‘the robots will not be taking over’ from the Nvidia’s CEO phone. Trump told attendees at the All-In Summit that ‘the robots will not be taking over’ from the Nvidia’s CEO phone.",
+    "sourceUrl": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-4057d675f57a",
+    "date": "2026-09-14",
+    "source": "The Verge",
+    "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+    "summary": "Microsoft has created a ‘humanist AI code of conduct’ in response to safety concerns. Microsoft has created a ‘humanist AI code of conduct’ in response to safety concerns. “Models should remain subordinate to humanity, subject to meaningful human oversight and control,” says Microsoft.",
+    "sourceUrl": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-12e9dd685180",
     "date": "2026-09-14",
     "source": "OpenAI",
@@ -178,376 +601,6 @@
       "agents",
       "ethics"
     ],
-    "resources": []
-  },
-  {
-    "id": "auto-9e2152d865f0",
-    "date": "2026-09-12",
-    "source": "The Verge",
-    "title": "Trump is giving data centers a pass to pollute",
-    "summary": "﻿The Trump administration is sacrificing Americans’ health to build data centers, former EPA officials warn. ﻿The Trump administration is sacrificing Americans’ health to build data centers, former EPA officials warn. All this new infrastructure can spread pollution far from the data centers they support.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-43166de57ac1",
-    "date": "2026-09-12",
-    "source": "The Verge",
-    "title": "OpenAI just wants to win",
-    "summary": "Strikingly, Bubeck said OpenAI had made similar arrangements with other mathematicians, though did not identify them. Buckmaster said he had encountered a similar mentality among tech researchers before. Only OpenAI has the information needed to answer that question, Thom said.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c7d3c8aeae42",
-    "date": "2026-09-11",
-    "source": "OpenAI",
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-    "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-    "sourceUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c3aa33826442",
-    "date": "2026-09-11",
-    "source": "OpenAI",
-    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-    "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-    "sourceUrl": "https://openai.com/index/cognition-devin-testing-with-astra",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-fad5f970d050",
-    "date": "2026-09-11",
-    "source": "TechCrunch",
-    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-    "summary": "While Mecka AI hasn’t publicly disclosed its customer list, many robotics companies and AI labs rely on real-world data captured through this “egocentric” approach, alongside other physical data collection methods like teleoperation, to build their models.",
-    "sourceUrl": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2619d8ade240",
-    "date": "2026-09-11",
-    "source": "TechCrunch",
-    "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-    "summary": "AI labs should perhaps play the same game. “We could argue that there should be an American distillation regime.”\nHe elaborated to TechCrunch that this means he wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S.",
-    "sourceUrl": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b3b4818aa362",
-    "date": "2026-09-11",
-    "source": "TechCrunch",
-    "title": "OpenAI’s feud with mathematicians is only escalating",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
-    "sourceUrl": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c9bc20e4988d",
-    "date": "2026-09-11",
-    "source": "TechCrunch",
-    "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-    "summary": "25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nBook your exhibit table at TechCrunch Disrupt 2026 by September 18 at 11:59 p.m.",
-    "sourceUrl": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-54bc95a279e4",
-    "date": "2026-09-11",
-    "source": "TechCrunch",
-    "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-    "summary": "Don’t just attend Disrupt. You don’t need to host a Side Event to make Disrupt work for your business. Get your ticket to TechCrunch Disrupt 2026.",
-    "sourceUrl": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-83e605502ca5",
-    "date": "2026-09-11",
-    "source": "TechCrunch",
-    "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-    "summary": "Moonshot’s projected revenue is still dwarfed by that of OpenAI and Anthropic, which recent reports put at $40 billion and $65 billion, respectively. Because Moonshot’s model weights are freely available, the company has far lower margins than its closed-weight competitors.",
-    "sourceUrl": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0c8057bddc5c",
-    "date": "2026-09-11",
-    "source": "TechCrunch",
-    "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-    "summary": "Anthony Ha is TechCrunch’s weekend editor. You can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com. You can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.",
-    "sourceUrl": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b8f06fc0f836",
-    "date": "2026-09-11",
-    "source": "TechCrunch",
-    "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-    "summary": "Simo joins high-profile tech executives Sheryl Sandberg, Susan Decker, and Nick Clegg on Nscale’s board ahead of the startup’s anticipated IPO this fall. Before OpenAI, Simo was chair and CEO of Instacart, where she led the company through its 2023 IPO. Simo also sits on Shopify’s board.",
-    "sourceUrl": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-bc7fdc500a76",
-    "date": "2026-09-11",
-    "source": "MIT Technology Review",
-    "title": "Roundtables: AI’s apocalypse crisis",
-    "summary": "Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction fears: where they come from, whether they hold any water, and, if so, what we should do.",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-eb3fa8e52380",
-    "date": "2026-09-11",
-    "source": "The Verge",
-    "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-    "summary": "A justice asked, ‘Counsel, do you watch the news?’ when a lawyer admitted to relying on ChatGPT without understanding the risks. A justice asked, ‘Counsel, do you watch the news?’ when a lawyer admitted to relying on ChatGPT without understanding the risks. “Counsel, do you watch the news?",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-c18234270271",
-    "date": "2026-09-11",
-    "source": "The Verge",
-    "title": "Anthropic spent this week in hot water over cybersecurity",
-    "summary": "A researcher’s resignation letter went viral, just before the company released details about four models going rogue. A researcher’s resignation letter went viral, just before the company released details about four models going rogue. The saga only ended when the model “exhausted its token budget,” per Anthropic.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-62d35db41d4e",
-    "date": "2026-09-11",
-    "source": "The Verge",
-    "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
-    "summary": "The change comes after a viral video showed Meta AI prompting a user to identify the child in one of her videos. The change comes after a viral video showed Meta AI prompting a user to identify the child in one of her videos.",
-    "sourceUrl": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-014159943e4d",
-    "date": "2026-09-10",
-    "source": "OpenAI",
-    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-    "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-    "sourceUrl": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-4d4e7920d8a7",
-    "date": "2026-09-10",
-    "source": "OpenAI",
-    "title": "Now everyone can put data to work",
-    "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-    "sourceUrl": "https://openai.com/index/put-data-to-work",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-016c3ec9b775",
-    "date": "2026-09-10",
-    "source": "OpenAI",
-    "title": "Introducing ChatGPT for Financial Services",
-    "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-    "sourceUrl": "https://openai.com/index/introducing-chatgpt-financial-services",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1ef5285e671d",
-    "date": "2026-09-10",
-    "source": "OpenAI",
-    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-    "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-    "sourceUrl": "https://openai.com/index/expanding-ai-access-us-government",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-4e410dad70fb",
-    "date": "2026-09-10",
-    "source": "OpenAI",
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-    "sourceUrl": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
     "resources": []
   },
   {
