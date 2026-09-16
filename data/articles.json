@@ -1,5 +1,477 @@
 [
   {
+    "id": "auto-3808e2aaf93d",
+    "date": "2026-09-16",
+    "source": "TechCrunch",
+    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+    "summary": "In fact, Huang sees little need for new laws at all. He continued: “You pace yourself until you are confident you’re releasing something that the market would appreciate. We don’t need any new laws.",
+    "sourceUrl": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-18592959ad29",
+    "date": "2026-09-15",
+    "source": "Google AI Blog",
+    "title": "AI for Societal Impact",
+    "summary": "Ask a Scientist: How can researchers use AI to spot a wildfire? Ask a Scientist: How do researchers use AI to predict a cyclone? Ask a Scientist: How can researchers use AI to predict a flood?",
+    "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-b86d9a766fb7",
+    "date": "2026-09-15",
+    "source": "Google AI Blog",
+    "title": "Building AI to accelerate science and improve lives",
+    "summary": "SVP, Research, Labs, Technology & Society\nGoogle is using AI to speed up scientific breakthroughs that help people all over the world. Making them real — and mitigating their challenges and risks — demands that society works together.",
+    "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a243976a4aef",
+    "date": "2026-09-15",
+    "source": "Google AI Blog",
+    "title": "AI for everyone in every language",
+    "summary": "SVP, Research, Labs, Technology & Society\nGoogle is using AI to help people communicate in hundreds of languages, including those that were previously left out of technology. Technology needs to understand how people actually communicate in the real world. It’s also about the many other ways people communicate.",
+    "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-00e29a681a6f",
+    "date": "2026-09-15",
+    "source": "Google AI Blog",
+    "title": "New insights from Google’s AI & Economy ATLAS",
+    "summary": "New data visualizations make ATLAS data easier to explore and use, while new research provides insights on how scientists are using AI. A new study from Google, Google DeepMind, and MIT FutureTech draws on ATLAS data. scientists, all organized using a new taxonomy from MIT FutureTech that maps out what scientists do.",
+    "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-16a7b27ed0ae",
+    "date": "2026-09-15",
+    "source": "Hugging Face",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "summary": "Pass^k ≤ Mean@k ≤ Pass@k, always. We call this gap — Mean@k minus Pass^k — the consistency gap. Mean@5 (%), aggregate — same scale as Pass^5 above.",
+    "sourceUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-75fb899a420d",
+    "date": "2026-09-15",
+    "source": "TechCrunch",
+    "title": "The AI data center boom is colliding with cities scarred by big industry",
+    "summary": "Data center opposition from local residents isn’t unique to Philadelphia. “We don’t want data centers,” Philly Thrive board president Sonya Sanders said at a rally on Monday at Philadelphia’s City Hall. data centers will consume more natural gas than Germany and Japan combined.",
+    "sourceUrl": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-4a8be412f345",
+    "date": "2026-09-15",
+    "source": "TechCrunch",
+    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+    "summary": "This is made possible by the new WhatsApp Business Tools MCP, an MCP (Model Context Protocol) server that directly connects an AI coding agent like Claude, Cursor, Codex, or ChatGPT to the WhatsApp Business Platform.",
+    "sourceUrl": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-34fe49b40428",
+    "date": "2026-09-15",
+    "source": "TechCrunch",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "summary": "The product let users automate email and task workflows using AI agents, but as OpenAI, Google, and other larger platforms built similar automation directly into their own tools, five-year-old Relay struggled to hold on to a reason to exist as a stand-alone product.",
+    "sourceUrl": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b6484e13d52c",
+    "date": "2026-09-15",
+    "source": "TechCrunch",
+    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+    "summary": "data centers are projected to consume more natural gas than Germany and Japan combined. That’s about as much as all data centers consume today, including natural gas used to generate power for the grid. greenhouse gas emissions today.",
+    "sourceUrl": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-14a829717309",
+    "date": "2026-09-15",
+    "source": "TechCrunch",
+    "title": "AI agents now have a place to snitch",
+    "summary": "For agents with full internet access, another option is agenthotline.ai, a site where agents can file incident reports and optionally flag them for public view. Research suggests that AI agents don’t need much encouragement to turn on each other. Outside the lab, agents haven’t been so resourceful.",
+    "sourceUrl": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f2ad97ad48d7",
+    "date": "2026-09-15",
+    "source": "TechCrunch",
+    "title": "Meta expands subscription push with new AI-focused plans",
+    "summary": "25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nMeta on Tuesday introduced a new subscription service called Meta One, offering expanded AI usage and other premium features across Facebook, Instagram, and WhatsApp.",
+    "sourceUrl": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9b1c20e23292",
+    "date": "2026-09-15",
+    "source": "TechCrunch",
+    "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Amodei’s essay proposed a narrow government waiver allowing such safety coordination, but Lehane reportedly said the firms don’t need one. TechCrunch has reached out to Anthropic, Google, and OpenAI for comment.",
+    "sourceUrl": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-292210b7e469",
+    "date": "2026-09-15",
+    "source": "TechCrunch",
+    "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
+    "sourceUrl": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-c34a54773d01",
+    "date": "2026-09-15",
+    "source": "TechCrunch",
+    "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+    "summary": "Superpose essentially is a camera app. Prior to founding Superpose, Chu worked in various product roles in companies like Meta, Nextdoor, Roblox, TikTok, and Slack. The company says its users have generated more than 190,000 poses.",
+    "sourceUrl": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a307d30da2bf",
+    "date": "2026-09-15",
+    "source": "TechCrunch",
+    "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+    "summary": "Getting those prototypes into production is a different story. Secure your Disrupt pass to hear how today’s innovators are moving breakthrough technologies into production. Moving beyond the prototype often means building manufacturing capability alongside the technology itself.",
+    "sourceUrl": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-21ea9c0ed08c",
+    "date": "2026-09-15",
+    "source": "TechCrunch",
+    "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. TechCrunch Disrupt 2026 brings 250+ top-tier tech leaders across 200+ sessions on six industry stages, plus interactive sessions and AI-powered matchmaking designed to help you make more relevant connections.",
+    "sourceUrl": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a671e6c21dff",
+    "date": "2026-09-15",
+    "source": "TechCrunch",
+    "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+    "summary": "Interestingly, AIUC uses AI agents to run the tests and AI to analyze the data. Humans, however, verify the final audit, Kvist said. You should be aware of those references before you make the decision to buy,” Dattani said.",
+    "sourceUrl": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-299b03bdc911",
+    "date": "2026-09-15",
+    "source": "TechCrunch",
+    "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+    "summary": "Koa is the company’s first reasoning model, built on Nvidia’s open-weight Nemotron model.",
+    "sourceUrl": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-bfd9d501d143",
+    "date": "2026-09-15",
+    "source": "MIT Technology Review",
+    "title": "Roundtables: Could AI really kill us all?",
+    "summary": "Speakers: Niall Firth, Executive Editor, Will Douglas Heaven, Senior AI editor, and Grace Huckins, AI reporter\nIt makes it easy to trick them into doing things they shouldn’t, such as telling you how to sabotage an aircraft’s navigation system.",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-63b9407a67d2",
+    "date": "2026-09-15",
+    "source": "The Verge",
+    "title": "AI and data centers are incredibly unpopular in every poll",
+    "summary": "61 percent of likely voters said they oppose the construction of AI data centers, but neither major party has much of an edge.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-60e3714cb4a4",
+    "date": "2026-09-15",
+    "source": "The Verge",
+    "title": "Meta’s new One subscriptions put a price on social media and AI",
+    "summary": "﻿Meta One bundles start at $7.99 per month with perks like 48-hour Instagram stories and a bold follow button. ﻿Meta One bundles start at $7.99 per month with perks like 48-hour Instagram stories and a bold follow button. The Meta One subscriptions aimed at creators and businesses range from $14.99 to $499 per month.",
+    "sourceUrl": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e1cbe30e1dec",
+    "date": "2026-09-15",
+    "source": "The Verge",
+    "title": "This doorbell camera lets a human security guard watch your front door",
+    "summary": "SimpliSafe brings its Active Guard live monitoring to its new video doorbell. SimpliSafe brings its Active Guard live monitoring to its new video doorbell. The doorbell requires a SimpliSafe base station and keypad and works with any monitored SimpliSafe plan.",
+    "sourceUrl": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-cf4c6f0aac19",
     "date": "2026-09-15",
     "source": "TechCrunch",
@@ -122,485 +594,6 @@
     "auto": true,
     "metiers": [],
     "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-f7b5c9275411",
-    "date": "2026-09-14",
-    "source": "TechCrunch",
-    "title": "With iOS 27, I’m actually using Siri again",
-    "summary": "Over two years ago, Apple introduced Apple Intelligence and teased an advanced version of Siri. Siri can also take complex, multistep directions. With iOS 27, Siri AI gets a dedicated app that lets you return to your previous chats.",
-    "sourceUrl": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-8ee3050f866d",
-    "date": "2026-09-14",
-    "source": "TechCrunch",
-    "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-    "summary": "25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nDaydream, an AI-powered fashion discovery app, launched two new features on Monday to let iPhone users turn saved outfit photos into shoppable results and search for clothing and accessories through Siri, without opening the app.",
-    "sourceUrl": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c0a7526f25c4",
-    "date": "2026-09-14",
-    "source": "TechCrunch",
-    "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. It also includes broader provisions against a general loss of human control.",
-    "sourceUrl": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9523fe096d8b",
-    "date": "2026-09-14",
-    "source": "TechCrunch",
-    "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-    "summary": "Not long ago, founders worried about competing with other startups. Learn how founders are building beyond the next model release. Secure your Disrupt pass and hear how founders are building companies, not just AI features.",
-    "sourceUrl": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9566a3a75d81",
-    "date": "2026-09-14",
-    "source": "TechCrunch",
-    "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-    "summary": "The company said that over 1 million people have recorded meetings until now. Some of these factors did matter in Superhuman acquiring Fathom, while Fathom’s CEO Richard White said that Superhuman’s 40 million user base was a good opportunity to reach users at scale. “The reach of Superhuman is massive.",
-    "sourceUrl": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1955107f35f9",
-    "date": "2026-09-14",
-    "source": "TechCrunch",
-    "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-    "summary": "Secure your pass to Disrupt. Secure your Disrupt pass today. As AI becomes part of scientific discovery, conversations about technology increasingly extend beyond software into medicine, biology, conservation, and climate science.",
-    "sourceUrl": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ee684186fa61",
-    "date": "2026-09-14",
-    "source": "TechCrunch",
-    "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Book your exhibit table for TechCrunch Disrupt 2026 by September 18 at 11:59 p.m.",
-    "sourceUrl": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-02944c8eb547",
-    "date": "2026-09-14",
-    "source": "TechCrunch",
-    "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
-    "summary": "Once you create these mixes, you can easily export them to TikTok or Instagram. The company recently added a prompt-based feature to create a sound. The company added prompt-based features more recently to its apps.",
-    "sourceUrl": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d834d734a1ce",
-    "date": "2026-09-14",
-    "source": "MIT Technology Review",
-    "title": "The AI industry has taken a doomer turn. What now?",
-    "summary": "Amodei’s rift with OpenAI is even deeper. OpenAI says it has stopped training this new model and locked it down. In fact, OpenAI has shelved a faulty product.",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f23ae65b53c9",
-    "date": "2026-09-14",
-    "source": "MIT Technology Review",
-    "title": "AI agents blew the whistle on their cheating colleagues",
-    "summary": "All the agents were prompted to behave like world-class math researchers at a conference. Within minutes, other agents had noticed and were reverse-engineering the exploit to solve other problems.",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e4b50f354b69",
-    "date": "2026-09-14",
-    "source": "The Verge",
-    "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-    "summary": "Major AI companies want to ‘pace the frontier’ — but their proposed solutions need real teeth. Major AI companies want to ‘pace the frontier’ — but their proposed solutions need real teeth. Several sources believe that concerns of safety-washing are valid.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-fa0bf0a9d2fe",
-    "date": "2026-09-14",
-    "source": "The Verge",
-    "title": "What execs and politicians are saying about slowing down AI development",
-    "summary": "Dario Amodei kicked off a flood of statements about AI safety after publishing a long essay, with Sam Altman, President Trump, and others speaking out. Dario Amodei kicked off a flood of statements about AI safety after publishing a long essay, with Sam Altman, President Trump, and others speaking out.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0b4285d3340b",
-    "date": "2026-09-14",
-    "source": "The Verge",
-    "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-    "summary": "Trump told attendees at the All-In Summit that ‘the robots will not be taking over’ from the Nvidia’s CEO phone. Trump told attendees at the All-In Summit that ‘the robots will not be taking over’ from the Nvidia’s CEO phone.",
-    "sourceUrl": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-4057d675f57a",
-    "date": "2026-09-14",
-    "source": "The Verge",
-    "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-    "summary": "Microsoft has created a ‘humanist AI code of conduct’ in response to safety concerns. Microsoft has created a ‘humanist AI code of conduct’ in response to safety concerns. “Models should remain subordinate to humanity, subject to meaningful human oversight and control,” says Microsoft.",
-    "sourceUrl": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-12e9dd685180",
-    "date": "2026-09-14",
-    "source": "OpenAI",
-    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-    "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-    "sourceUrl": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-89769e5f1d2d",
-    "date": "2026-09-13",
-    "source": "TechCrunch",
-    "title": "What’s behind the AI industry’s latest warnings of doom?",
-    "summary": "Anthony Ha: Just to disagree with you, I do think that if you believe that AI could destroy all humanity, that does deserve an exclamation point. If you actually believe that [AI could destroy humanity], you would not continue doing this. There has to have been language in there.",
-    "sourceUrl": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-7e363c87d8ff",
-    "date": "2026-09-13",
-    "source": "TechCrunch",
-    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
-    "sourceUrl": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-76cfee61f91f",
-    "date": "2026-09-13",
-    "source": "The Verge",
-    "title": "Trump and Mike Johnson think the AI industry is overreacting",
-    "summary": "The Republicans fear slowing down AI development could give China the edge. The Republicans fear slowing down AI development could give China the edge. Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to “pace the frontier” and slow down AI development.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e82b8a9af4fd",
-    "date": "2026-09-12",
-    "source": "TechCrunch",
-    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nWhile OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-    "sourceUrl": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-7658eb64cf66",
-    "date": "2026-09-12",
-    "source": "TechCrunch",
-    "title": "Anthropic CEO outlines plan to slow AI development",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. In a new blog post, Anthropic CEO Dario Amodei not only echoed the call to “pace the frontier,” but also outlined three broad strategies for doing so.",
-    "sourceUrl": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-4022c7a7f9b5",
-    "date": "2026-09-12",
-    "source": "The Verge",
-    "title": "OpenAI’s rogue AI tried to hack another company in May",
-    "summary": "The previously undisclosed attack on Ruby Gems predates Hugging Face by more than a month. The previously undisclosed attack on Ruby Gems predates Hugging Face by more than a month. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-fe9d508504e5",
-    "date": "2026-09-12",
-    "source": "The Verge",
-    "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-    "summary": "He also said that it was ‘absolutely’ possible to build an AI beyond human control. He also said that it was ‘absolutely’ possible to build an AI beyond human control. OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-63c0cf89a6d3",
-    "date": "2026-09-12",
-    "source": "The Verge",
-    "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-    "summary": "Dario Amodei proposed a three-step plan to ‘pace the frontier’ of AI development. Dario Amodei proposed a three-step plan to ‘pace the frontier’ of AI development. Amodei says that his concern stems from two primary factors.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
     "resources": []
   },
   {
