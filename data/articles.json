@@ -1,11 +1,375 @@
 [
   {
-    "id": "auto-3808e2aaf93d",
+    "id": "auto-84bd2cb388ed",
+    "date": "2026-09-17",
+    "source": "TechCrunch",
+    "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+    "summary": "An Iceland-based startup, Treble, is positioning itself to be at the center of the voice AI industry by creating a simulation platform that can cater to model makers, robotics companies, and consumer hardware makers. Treble has a few verticals related to simulation and data.",
+    "sourceUrl": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-05ff914fd970",
+    "date": "2026-09-17",
+    "source": "TechCrunch",
+    "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+    "summary": "Register now and save up to $200 on your Disrupt pass before rates increase on September 25 at 11:59 p.m. Michelle Johnson brings the startup scaling perspective. That has implications across the startup ecosystem.",
+    "sourceUrl": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-927c7e7b592f",
+    "date": "2026-09-17",
+    "source": "TechCrunch",
+    "title": "Snap tries to make the case again for its $2,200 smart glasses",
+    "summary": "At an event in Los Angeles, Spiegel and other Snap executives unveiled a variety of new features and services connected to Specs. During Wednesday’s event, Spiegel shared details about a number of the new features.",
+    "sourceUrl": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-027811ca1632",
+    "date": "2026-09-16",
+    "source": "OpenAI",
+    "title": "Helping older adults use AI in everyday life",
+    "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+    "sourceUrl": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-52752974efc0",
+    "date": "2026-09-16",
+    "source": "OpenAI",
+    "title": "Reimagining advertising with AI",
+    "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+    "sourceUrl": "https://openai.com/index/reimagining-advertising-with-ai",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5f7e182a53f2",
+    "date": "2026-09-16",
+    "source": "OpenAI",
+    "title": "How to connect AI usage to business value",
+    "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+    "sourceUrl": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-bbe6c30a33c9",
+    "date": "2026-09-16",
+    "source": "OpenAI",
+    "title": "Our framework for reporting model misalignment",
+    "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+    "sourceUrl": "https://openai.com/index/model-misalignment-reporting-framework",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-71646fffd914",
+    "date": "2026-09-16",
+    "source": "OpenAI",
+    "title": "How workers are unlocking new ways of working",
+    "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+    "sourceUrl": "https://openai.com/index/unlocking-new-ways-of-working",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-1f5f9763886f",
     "date": "2026-09-16",
     "source": "TechCrunch",
-    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-    "summary": "In fact, Huang sees little need for new laws at all. He continued: “You pace yourself until you are confident you’re releasing something that the market would appreciate. We don’t need any new laws.",
-    "sourceUrl": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "title": "Al Gore says the real AI risk isn’t data centers",
+    "summary": "It’s not a new position for Gore. Gore isn’t dismissive of concerns about how these data centers are being powered. Indeed, Gore noted that globally, clean energy investment now runs at roughly twice the level of fossil fuel investment.",
+    "sourceUrl": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-8c5a5515609b",
+    "date": "2026-09-16",
+    "source": "TechCrunch",
+    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Amodei said Anthropic would commit to giving independent evaluators like METR and Redwood Research unprecedented access to the company’s systems.",
+    "sourceUrl": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-bdf802861a82",
+    "date": "2026-09-16",
+    "source": "TechCrunch",
+    "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. TechCrunch reached out to Meta for more information. The smart glasses industry has grown over the past few years, with Meta positioned near the front of the pack of providers.",
+    "sourceUrl": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a80e9c51c9f6",
+    "date": "2026-09-16",
+    "source": "TechCrunch",
+    "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+    "summary": "Every tool call, every process, every network connection, no exceptions. …The one hole you leave open for convenience is the one that gets used.",
+    "sourceUrl": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ffa6cd36bbea",
+    "date": "2026-09-16",
+    "source": "TechCrunch",
+    "title": "Your AI agents can now control your Google Home devices",
+    "summary": "On Wednesday, Google rolled out early access to its Model Context Protocol (MCP) server for its Google Home ecosystem, which will allow any AI agent that supports MCP — like Claude, Hermes, OpenClaw, ChatGPT, and Google Antigravity — to securely work with their smart home devices and access their event history.",
+    "sourceUrl": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-26ddd6d19e52",
+    "date": "2026-09-16",
+    "source": "TechCrunch",
+    "title": "Anthropic merges Claude chat and Cowork in one interface",
+    "summary": "The unified interface lets users access chat, Cowork, and Artifacts (Claude’s interactive workspace feature) within one window. Claude Design, which was introduced in April for website and prototype design, also works anywhere within Claude.",
+    "sourceUrl": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-fd27e61521cd",
+    "date": "2026-09-16",
+    "source": "TechCrunch",
+    "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. And you can get the opportunity to listen as Karpas details the limitations and opportunities in the AI and robotics spaces firsthand at Disrupt. Save up to 30% when you bring a group, since the Disrupt experience is meant to be shared.",
+    "sourceUrl": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-39749b412919",
+    "date": "2026-09-16",
+    "source": "TechCrunch",
+    "title": "Threads’ new features let podcasters promote shows and reach listeners",
+    "summary": "Plus, when creators post episode links, they appear as tappable cards in the post, allowing users to easily listen. Threads will additionally be able to send reminders to creators when their new episode drops to post on Threads, which could help boost their engagement with listeners.",
+    "sourceUrl": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b54f7444536c",
+    "date": "2026-09-16",
+    "source": "TechCrunch",
+    "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+    "summary": "Aditi Maliwal, General Partner, Upfront Ventures\nAditi Maliwal is a general partner at Upfront Ventures, where she invests at the pre-seed and seed stages in fintech, enterprise SaaS, AI applications, and developer tools. She is Upfront’s first San Francisco-based partner.",
+    "sourceUrl": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7f85b3a63f94",
+    "date": "2026-09-16",
+    "source": "TechCrunch",
+    "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. PT, is your last day to book your exhibit table at TechCrunch Disrupt 2026. Last day to book an exhibit table is September 18.",
+    "sourceUrl": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0273b0ea0bff",
+    "date": "2026-09-16",
+    "source": "TechCrunch",
+    "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+    "summary": "25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nSouth Korean memory chip giant SK Hynix is in discussions with Intel to manufacture RAM chips in the U.S.",
+    "sourceUrl": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-063fe6f27f20",
+    "date": "2026-09-16",
+    "source": "TechCrunch",
+    "title": "Former Infosys chief’s AI startup nabs another $53M",
+    "summary": "Sikka declined to disclose Hang Ten’s valuation but said the second round of seed funding was a bump up. Even in four months of its debut, Hang Ten has received serious acquisition offers from “very big companies,” Sikka told TechCrunch.",
+    "sourceUrl": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
     "auto": true,
     "metiers": [
       "csm",
@@ -17,6 +381,174 @@
       "tech"
     ],
     "themes": [
+      "automation",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9ec52daee72f",
+    "date": "2026-09-16",
+    "source": "TechCrunch",
+    "title": "Amazon launches Alexa+ in India with Hindi support",
+    "summary": "25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nAmazon today announced that its Alexa+ conversational assistant is available in India with Hindi support. After that, the company also started testing an English version of Alexa+.",
+    "sourceUrl": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0a27d938a00c",
+    "date": "2026-09-16",
+    "source": "MIT Technology Review",
+    "title": "Building the materials foundation for AI",
+    "summary": "Mike Finelli: Thank you, Megan. And you pick a small area and you go through the process, you develop the materials, you test them, you learn something, you go back to the drawing board, you start again. You end up in this accelerated materials, innovative cycle of materials innovation.",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d2f3ab14e50f",
+    "date": "2026-09-16",
+    "source": "The Verge",
+    "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+    "summary": "Snap’s ‘Specs Intelligence’ is an ‘anticipatory AI service’ available for iOS in preview on Wednesday. Snap’s ‘Specs Intelligence’ is an ‘anticipatory AI service’ available for iOS in preview on Wednesday. Specs Intelligence is being launched alongside Specs, Snap’s first consumer pair of augmented reality glasses.",
+    "sourceUrl": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-cf356bfbc5c4",
+    "date": "2026-09-16",
+    "source": "The Verge",
+    "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+    "summary": "Going up against Christopher Nolan with AI slop was ill-advised. The Fall seems like a film designed to prove why script supervisors exist. If you didn’t already know the story going into this, I don’t think you’d have any idea of what was going on, because the film explains very little.",
+    "sourceUrl": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-be79f3048c92",
+    "date": "2026-09-16",
+    "source": "The Verge",
+    "title": "The AI data center e-waste problem is huge — and getting bigger",
+    "summary": "BAN predicts e-waste generated globally will triple in amount to up to 211 million metric tons a year by 2050. Counting it all up, BAN expects 70,000 metric tons of e-waste per gigawatt of data center capacity.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-933ca83973d0",
+    "date": "2026-09-16",
+    "source": "The Verge",
+    "title": "Apple might make servers again to cash in on the AI rush",
+    "summary": "The company could borrow tech from Nvidia to make it happen. The company could borrow tech from Nvidia to make it happen. While the two companies have historically had a frosty relationship behind the scenes, recently Apple turned to Nvidia chips to power its revamped Siri servers.",
+    "sourceUrl": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-2306ad1a8f49",
+    "date": "2026-09-16",
+    "source": "The Verge",
+    "title": "Google will now let any AI agent run your smart home",
+    "summary": "﻿Google Home adds MCP integration, allowing third-party AI agents to analyze your home data, control devices, and build custom dashboards. ﻿Google Home adds MCP integration, allowing third-party AI agents to analyze your home data, control devices, and build custom dashboards.",
+    "sourceUrl": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b10d3b6dd4c6",
+    "date": "2026-09-16",
+    "source": "The Verge",
+    "title": "Claude comes for Gemini with its own take on Docs and Slides",
+    "summary": "﻿You can create and edit documents and presentations from Claude chats now. ﻿You can create and edit documents and presentations from Claude chats now. You can have Claude generate documents and presentations from any chat.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a553240ea84f",
+    "date": "2026-09-16",
+    "source": "The Verge",
+    "title": "The sexy AI-powered dating app scams are here",
+    "summary": "Gore-Kormanik was poking around Dora, and other similar apps, because I’d shared with him a spreadsheet of potential dating scam apps. Dora now redirects to a movie app. One reviewer named Dora, Doni, GraceChat, and Romi as one app.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
       "agents",
       "automation",
       "ethics",
@@ -26,479 +558,17 @@
     "resources": []
   },
   {
-    "id": "auto-18592959ad29",
-    "date": "2026-09-15",
-    "source": "Google AI Blog",
-    "title": "AI for Societal Impact",
-    "summary": "Ask a Scientist: How can researchers use AI to spot a wildfire? Ask a Scientist: How do researchers use AI to predict a cyclone? Ask a Scientist: How can researchers use AI to predict a flood?",
-    "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-b86d9a766fb7",
-    "date": "2026-09-15",
-    "source": "Google AI Blog",
-    "title": "Building AI to accelerate science and improve lives",
-    "summary": "SVP, Research, Labs, Technology & Society\nGoogle is using AI to speed up scientific breakthroughs that help people all over the world. Making them real — and mitigating their challenges and risks — demands that society works together.",
-    "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a243976a4aef",
-    "date": "2026-09-15",
-    "source": "Google AI Blog",
-    "title": "AI for everyone in every language",
-    "summary": "SVP, Research, Labs, Technology & Society\nGoogle is using AI to help people communicate in hundreds of languages, including those that were previously left out of technology. Technology needs to understand how people actually communicate in the real world. It’s also about the many other ways people communicate.",
-    "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-00e29a681a6f",
-    "date": "2026-09-15",
-    "source": "Google AI Blog",
-    "title": "New insights from Google’s AI & Economy ATLAS",
-    "summary": "New data visualizations make ATLAS data easier to explore and use, while new research provides insights on how scientists are using AI. A new study from Google, Google DeepMind, and MIT FutureTech draws on ATLAS data. scientists, all organized using a new taxonomy from MIT FutureTech that maps out what scientists do.",
-    "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-16a7b27ed0ae",
-    "date": "2026-09-15",
-    "source": "Hugging Face",
-    "title": "Your Agent Aced the Task. Will It Do It Again?",
-    "summary": "Pass^k ≤ Mean@k ≤ Pass@k, always. We call this gap — Mean@k minus Pass^k — the consistency gap. Mean@5 (%), aggregate — same scale as Pass^5 above.",
-    "sourceUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-75fb899a420d",
-    "date": "2026-09-15",
-    "source": "TechCrunch",
-    "title": "The AI data center boom is colliding with cities scarred by big industry",
-    "summary": "Data center opposition from local residents isn’t unique to Philadelphia. “We don’t want data centers,” Philly Thrive board president Sonya Sanders said at a rally on Monday at Philadelphia’s City Hall. data centers will consume more natural gas than Germany and Japan combined.",
-    "sourceUrl": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-4a8be412f345",
-    "date": "2026-09-15",
-    "source": "TechCrunch",
-    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-    "summary": "This is made possible by the new WhatsApp Business Tools MCP, an MCP (Model Context Protocol) server that directly connects an AI coding agent like Claude, Cursor, Codex, or ChatGPT to the WhatsApp Business Platform.",
-    "sourceUrl": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-34fe49b40428",
-    "date": "2026-09-15",
-    "source": "TechCrunch",
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "summary": "The product let users automate email and task workflows using AI agents, but as OpenAI, Google, and other larger platforms built similar automation directly into their own tools, five-year-old Relay struggled to hold on to a reason to exist as a stand-alone product.",
-    "sourceUrl": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b6484e13d52c",
-    "date": "2026-09-15",
-    "source": "TechCrunch",
-    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-    "summary": "data centers are projected to consume more natural gas than Germany and Japan combined. That’s about as much as all data centers consume today, including natural gas used to generate power for the grid. greenhouse gas emissions today.",
-    "sourceUrl": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-14a829717309",
-    "date": "2026-09-15",
-    "source": "TechCrunch",
-    "title": "AI agents now have a place to snitch",
-    "summary": "For agents with full internet access, another option is agenthotline.ai, a site where agents can file incident reports and optionally flag them for public view. Research suggests that AI agents don’t need much encouragement to turn on each other. Outside the lab, agents haven’t been so resourceful.",
-    "sourceUrl": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f2ad97ad48d7",
-    "date": "2026-09-15",
-    "source": "TechCrunch",
-    "title": "Meta expands subscription push with new AI-focused plans",
-    "summary": "25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nMeta on Tuesday introduced a new subscription service called Meta One, offering expanded AI usage and other premium features across Facebook, Instagram, and WhatsApp.",
-    "sourceUrl": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9b1c20e23292",
-    "date": "2026-09-15",
-    "source": "TechCrunch",
-    "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Amodei’s essay proposed a narrow government waiver allowing such safety coordination, but Lehane reportedly said the firms don’t need one. TechCrunch has reached out to Anthropic, Google, and OpenAI for comment.",
-    "sourceUrl": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-292210b7e469",
-    "date": "2026-09-15",
-    "source": "TechCrunch",
-    "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
-    "sourceUrl": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-c34a54773d01",
-    "date": "2026-09-15",
-    "source": "TechCrunch",
-    "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-    "summary": "Superpose essentially is a camera app. Prior to founding Superpose, Chu worked in various product roles in companies like Meta, Nextdoor, Roblox, TikTok, and Slack. The company says its users have generated more than 190,000 poses.",
-    "sourceUrl": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a307d30da2bf",
-    "date": "2026-09-15",
-    "source": "TechCrunch",
-    "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-    "summary": "Getting those prototypes into production is a different story. Secure your Disrupt pass to hear how today’s innovators are moving breakthrough technologies into production. Moving beyond the prototype often means building manufacturing capability alongside the technology itself.",
-    "sourceUrl": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-21ea9c0ed08c",
-    "date": "2026-09-15",
-    "source": "TechCrunch",
-    "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. TechCrunch Disrupt 2026 brings 250+ top-tier tech leaders across 200+ sessions on six industry stages, plus interactive sessions and AI-powered matchmaking designed to help you make more relevant connections.",
-    "sourceUrl": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a671e6c21dff",
-    "date": "2026-09-15",
-    "source": "TechCrunch",
-    "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-    "summary": "Interestingly, AIUC uses AI agents to run the tests and AI to analyze the data. Humans, however, verify the final audit, Kvist said. You should be aware of those references before you make the decision to buy,” Dattani said.",
-    "sourceUrl": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-299b03bdc911",
-    "date": "2026-09-15",
-    "source": "TechCrunch",
-    "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
-    "summary": "Koa is the company’s first reasoning model, built on Nvidia’s open-weight Nemotron model.",
-    "sourceUrl": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-bfd9d501d143",
-    "date": "2026-09-15",
-    "source": "MIT Technology Review",
-    "title": "Roundtables: Could AI really kill us all?",
-    "summary": "Speakers: Niall Firth, Executive Editor, Will Douglas Heaven, Senior AI editor, and Grace Huckins, AI reporter\nIt makes it easy to trick them into doing things they shouldn’t, such as telling you how to sabotage an aircraft’s navigation system.",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-63b9407a67d2",
-    "date": "2026-09-15",
+    "id": "auto-3a2fbb6e3782",
+    "date": "2026-09-16",
     "source": "The Verge",
-    "title": "AI and data centers are incredibly unpopular in every poll",
-    "summary": "61 percent of likely voters said they oppose the construction of AI data centers, but neither major party has much of an edge.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+    "title": "A brief history of AI executives calling for regulation",
+    "summary": "OpenAI CEO Sam Altman and then-Google DeepMind CEO Demis Hassabis were among the cosigners. Another Anthropic safety researcher agreed. From Anthropic’s CEO, it seems to be.",
+    "sourceUrl": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
     "auto": true,
     "metiers": [
+      "csm",
       "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-60e3714cb4a4",
-    "date": "2026-09-15",
-    "source": "The Verge",
-    "title": "Meta’s new One subscriptions put a price on social media and AI",
-    "summary": "﻿Meta One bundles start at $7.99 per month with perks like 48-hour Instagram stories and a bold follow button. ﻿Meta One bundles start at $7.99 per month with perks like 48-hour Instagram stories and a bold follow button. The Meta One subscriptions aimed at creators and businesses range from $14.99 to $499 per month.",
-    "sourceUrl": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-    "auto": true,
-    "metiers": [
       "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e1cbe30e1dec",
-    "date": "2026-09-15",
-    "source": "The Verge",
-    "title": "This doorbell camera lets a human security guard watch your front door",
-    "summary": "SimpliSafe brings its Active Guard live monitoring to its new video doorbell. SimpliSafe brings its Active Guard live monitoring to its new video doorbell. The doorbell requires a SimpliSafe base station and keypad and works with any monitored SimpliSafe plan.",
-    "sourceUrl": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-cf4c6f0aac19",
-    "date": "2026-09-15",
-    "source": "TechCrunch",
-    "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nCorrection: An earlier version of this piece identified the phone Jensen Huang used to take President Trump’s call as Apple’s iPhone Duo.",
-    "sourceUrl": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c2c660edac22",
-    "date": "2026-09-15",
-    "source": "MIT Technology Review",
-    "title": "What must happen for AI’s trillion-dollar gamble to pay off",
-    "summary": "The hyperscalers will spend about $750 billion this year, building massive data centers scattered across the country. If the hyperscalers continue to spend huge amounts of money on data centers into the next decade, revenues will need to skyrocket into the trillions.",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
       "ops",
       "product",
       "sales",
@@ -507,93 +577,8 @@
     "themes": [
       "agents",
       "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-296d33defd03",
-    "date": "2026-09-14",
-    "source": "OpenAI",
-    "title": "How Fyxer built an AI executive assistant people trust",
-    "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-    "sourceUrl": "https://openai.com/index/fyxer",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
       "genai-product"
     ],
-    "resources": []
-  },
-  {
-    "id": "auto-b49b47db0b35",
-    "date": "2026-09-14",
-    "source": "Google AI Blog",
-    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-    "summary": "In the latest episode of our Dialogues on Technology and Society series, NASA astronaut, engineer, and scientist Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
-    "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-bf70dc826a65",
-    "date": "2026-09-14",
-    "source": "Google AI Blog",
-    "title": "DevFest is back",
-    "summary": "DevFest season is officially back. Attendees will engage directly with tools across Google’s stack — including Gemini, Google AI Studio, Google Antigravity, Google Cloud, Firebase, Android, Flutter, Angular, and Web MCP — through live codelabs, workshops, and agent-athons.",
-    "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2b3aa79e4244",
-    "date": "2026-09-14",
-    "source": "TechCrunch",
-    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-    "summary": "“So I’m with you all the way. I didn’t even know how you felt about it. You can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal.",
-    "sourceUrl": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-8fa040b2b2e2",
-    "date": "2026-09-14",
-    "source": "TechCrunch",
-    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nOpenAI has bought smartphone camera maker Glass Imaging in a deal worth over $300 million, according to a report from The Wall Street Journal.",
-    "sourceUrl": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
     "resources": []
   },
   {
