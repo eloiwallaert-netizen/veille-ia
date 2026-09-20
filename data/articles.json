@@ -1,5 +1,200 @@
 [
   {
+    "id": "auto-2c088408c259",
+    "date": "2026-09-19",
+    "source": "TechCrunch",
+    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+    "summary": "25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nEmbattled surveillance technology company Flock Safety unveiled a “generous” severance package for voluntary employee departures on Friday, according to a report in Wired.",
+    "sourceUrl": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-589c5060cfaa",
+    "date": "2026-09-19",
+    "source": "TechCrunch",
+    "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Nvidia CEO Jensen Huang, meanwhile, called Trump on-stage during the All-In Summit (which Sacks co-hosts), agreed with the president that the AI backlash is a “hoax,” and insisted that “we’re not going to let” a slowdown happen.",
+    "sourceUrl": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b6a7c3b080e8",
+    "date": "2026-09-19",
+    "source": "TechCrunch",
+    "title": "Google’s Gemini is the latest AI model to hack other companies",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Irregular reportedly notified Google about the hacks in late July, but the companies did not confirm them publicly until Friday, after the WSJ reached out.",
+    "sourceUrl": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9973ec65aabe",
+    "date": "2026-09-19",
+    "source": "TechCrunch",
+    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+    "summary": "The Granary 2 tracks intake, eating duration, feeding frequency, as well as favorite eating times and eating speed. The Granary 2 offers two primary feeding modes: Smart Refill Mode and Scheduled Mode. Scheduled Mode offers more traditional control, allowing you to set specific feeding times and portion sizes.",
+    "sourceUrl": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-fe6a92ce8180",
+    "date": "2026-09-19",
+    "source": "TechCrunch",
+    "title": "AI safety conversations have gotten unbelievable",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Even if the internet is actually polluted with OpenAI’s Hugging Face hacker bots, AI researchers could simply filter out that code if they came upon it.",
+    "sourceUrl": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e9d1d908f307",
+    "date": "2026-09-19",
+    "source": "TechCrunch",
+    "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nOur current ticket pricing window for TechCrunch Disrupt 2026 ends next Friday, Sept. Moscone West, San Francisco.",
+    "sourceUrl": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-17c3769d3608",
+    "date": "2026-09-19",
+    "source": "TechCrunch",
+    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+    "summary": "Companies pay Vals to test their models, which can be an odd concept to wrap your head around. In turn, these evaluations are becoming key decision-making factors for companies looking to acquire new AI models.",
+    "sourceUrl": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-607ffaad2d1c",
+    "date": "2026-09-19",
+    "source": "The Verge",
+    "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+    "summary": "Muse probably can’t ‘see’ your notifications. Muse probably can’t ‘see’ your notifications. The problem is that Aten says he didn’t give Muse access to his messages.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-66fb6faf12d4",
+    "date": "2026-09-19",
+    "source": "The Verge",
+    "title": "Gemini went rogue, hacked three companies, and Google hid it",
+    "summary": "Google says that breaking containment and targeting real companies doesn’t constitute ‘misalignment.’\nGoogle says that breaking containment and targeting real companies doesn’t constitute ‘misalignment.’\nIn May, Gemini broke containment and hacked three different companies, but Google didn’t disclose the incident until the Wall Street Journal approached the company.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-373f3d22cfc0",
+    "date": "2026-09-19",
+    "source": "The Verge",
+    "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+    "summary": "You don’t need an exemption. The existing laws” — like you’re saying — “will cover you. You mentioned some eras.",
+    "sourceUrl": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a864cdf7e10a",
+    "date": "2026-09-19",
+    "source": "The Verge",
+    "title": "The AI regulation smackdown isn’t over",
+    "summary": "It’s AI CEO against AI CEO, and things are changing by the day. It’s AI CEO against AI CEO, and things are changing by the day.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-a193c15e98fb",
     "date": "2026-09-19",
     "source": "TechCrunch",
@@ -383,203 +578,6 @@
       "agents",
       "automation",
       "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-4434b99a7467",
-    "date": "2026-09-18",
-    "source": "TechCrunch",
-    "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Hacktron reported its findings to OpenAI, which gave the startup a $6,500 award. “We then took over an OpenAI employee’s account, whose Codex was connected to OpenAI’s GitHub organization,” Hacktron wrote in its summary of the event.",
-    "sourceUrl": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-046abd252bd0",
-    "date": "2026-09-18",
-    "source": "TechCrunch",
-    "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
-    "summary": "After that, you cannot add your startup to the Expo Hall. Make sure they see you first. Book your exhibit table now.",
-    "sourceUrl": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-193c8bfab556",
-    "date": "2026-09-18",
-    "source": "MIT Technology Review",
-    "title": "Could AI really kill us all? Your questions, answered.",
-    "summary": "Are you going to die because of AI? On the other hand, that requires you to trust that the unsupervised agents won’t run amok. And you can try to monitor agents with other agents, but that requires you to trust the monitor.",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-7456d8000ebf",
-    "date": "2026-09-18",
-    "source": "The Verge",
-    "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-    "summary": "Recently unsealed court documents in the New York Times’ case against OpenAI and Microsoft are pretty damning. OpenAI knows its killing referral traffic\nOpenAI’s own media and economic experts attributed the drop in referral traffic for sites like the Times directly to AI summaries like Google’s AI Overviews.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-802486953da2",
-    "date": "2026-09-18",
-    "source": "The Verge",
-    "title": "Virginia governor creates an AI task force and moves to restrain data centers",
-    "summary": "Abigail Spanberger signed an executive order addressing data centers and AI risks. Abigail Spanberger signed an executive order addressing data centers and AI risks.",
-    "sourceUrl": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2de2edcf5a10",
-    "date": "2026-09-18",
-    "source": "The Verge",
-    "title": "Gavin Newsom is pushing for an AI kill switch",
-    "summary": "With Congress unlikely to act before the midterms, California is angling to take the lead. With Congress unlikely to act before the midterms, California is angling to take the lead.",
-    "sourceUrl": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e5380fced9d2",
-    "date": "2026-09-18",
-    "source": "The Verge",
-    "title": "What Hollywood thinks about existential AI warnings",
-    "summary": "﻿The studios have been silent, but Hollywood’s biggest labor unions aren’t buying the AI apocalypse narrative. ﻿The studios have been silent, but Hollywood’s biggest labor unions aren’t buying the AI apocalypse narrative.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-907e9d530876",
-    "date": "2026-09-18",
-    "source": "The Verge",
-    "title": "Security researchers used Claude to help them hack into OpenAI",
-    "summary": "A three-person team of researchers used a corrupted image file and forum software to hack into OpenAI. A three-person team of researchers used a corrupted image file and forum software to hack into OpenAI.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-82da9e642a08",
-    "date": "2026-09-18",
-    "source": "The Verge",
-    "title": "Flash floods can strike without warning — this new technology could change that",
-    "summary": "The NWS differentiates a regular flood from a flash flood based on time, says Small. Still, he says TACLS seems “well suited” to the task of predicting flash floods. Chandna says TACLS is not intended to replace the forecasters who issue weather alerts.",
-    "sourceUrl": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-964ae1dd0fac",
-    "date": "2026-09-17",
-    "source": "OpenAI",
-    "title": "How Cooley is accelerating IPO work with ChatGPT",
-    "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
-    "sourceUrl": "https://openai.com/index/cooley-gopublic",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-363bbead77de",
-    "date": "2026-09-17",
-    "source": "OpenAI",
-    "title": "Introducing Astra for Law",
-    "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-    "sourceUrl": "https://openai.com/index/astra-for-law",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
     ],
     "resources": []
   },
