@@ -1,5 +1,201 @@
 [
   {
+    "id": "auto-94d0db2af44a",
+    "date": "2026-09-21",
+    "source": "The Verge",
+    "title": "UN says AI safeguards can’t wait for certainty",
+    "summary": "The report lands as Beijing and Washington prepare to discuss AI and world leaders gather in New York this week. The report lands as Beijing and Washington prepare to discuss AI and world leaders gather in New York this week.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-fbef9683fbad",
+    "date": "2026-09-21",
+    "source": "The Verge",
+    "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+    "summary": "The AI assistant has been blocked from shopping on Amazon’s e-commerce platform.﻿\nThe AI assistant has been blocked from shopping on Amazon’s e-commerce platform.﻿\nMeta’s Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports.",
+    "sourceUrl": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c7ec387f956d",
+    "date": "2026-09-20",
+    "source": "TechCrunch",
+    "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+    "summary": "Save 30% more when you bring four or more with you. Leave with something you can use. The people you need to meet, the ideas you need to hear, and the opportunities you don’t want to miss will all be in San Francisco this October.",
+    "sourceUrl": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-7bd628cf3898",
+    "date": "2026-09-20",
+    "source": "TechCrunch",
+    "title": "World model companies are keeping a lot of secrets",
+    "summary": "But this sort of caginess extends to the whole world-modeling space. Part of the mystery comes from how versatile world models are as an idea. Soon, the lab would face potential competition from the other world model companies, the neolabs, and even OpenAI and Anthropic.",
+    "sourceUrl": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9515eed3cd4b",
+    "date": "2026-09-20",
+    "source": "TechCrunch",
+    "title": "Is the AI industry really ready to slow down?",
+    "summary": "Anthony Ha: Sean, what do you think? Sean O’Kane: That sounds, for some reason, like something from “Point Break.” It’s just a very California statement, like, “We’re gonna pace the frontier, bruh.”\nI don’t know. And surprisingly, some people I didn’t think would push back on this.",
+    "sourceUrl": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-71efe47bc53f",
+    "date": "2026-09-20",
+    "source": "TechCrunch",
+    "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+    "summary": "Vocci’s ring takes a different path, with meeting note-taking as a central function. The ring has a button, which you can double-tap to start recording and double-tap again to stop. The software is the disappointing part of the Vocci ring.",
+    "sourceUrl": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c1355961d618",
+    "date": "2026-09-20",
+    "source": "TechCrunch",
+    "title": "ScrollEd wants to turn textbooks into TikTok",
+    "summary": "Swiping up surfaces a new topic, while swiping sideways lets you go deeper into the one you’re on, with a quiz waiting for you at the end.",
+    "sourceUrl": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-cb03d7f13be9",
+    "date": "2026-09-20",
+    "source": "The Verge",
+    "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
+    "summary": "He claims there is a ‘0% chance’ of AI ending the world. He claims there is a ‘0% chance’ of AI ending the world. He is the CEO of the world’s most valuable company and number seven on Forbes’ list of the richest people in the world.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ba91ca58495d",
+    "date": "2026-09-20",
+    "source": "The Verge",
+    "title": "Trump now says he wants to form an ‘AI Force’",
+    "summary": "He claimed without evidence that data centers are actually good for communities. He claimed without evidence that data centers are actually good for communities.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-d11b689309b4",
+    "date": "2026-09-20",
+    "source": "The Verge",
+    "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+    "summary": "Historically, adversarial nation-states were largely considered the biggest cybersecurity threat to critical infrastructure. “This is a technological scientific development that could cause potential risk to critical infrastructure systems, that can cause potential threat to human life.",
+    "sourceUrl": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-2c088408c259",
     "date": "2026-09-19",
     "source": "TechCrunch",
@@ -356,228 +552,6 @@
       "llm",
       "agents",
       "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6ce3a720aa6e",
-    "date": "2026-09-18",
-    "source": "TechCrunch",
-    "title": "World model companies are keeping a lot of secrets",
-    "summary": "But this sort of caginess extends to the whole world-modeling space. Part of the mystery comes from how versatile world models are as an idea. Soon, the lab would face potential competition from the other world model companies, the neolabs, and even OpenAI and Anthropic.",
-    "sourceUrl": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b311cc820708",
-    "date": "2026-09-18",
-    "source": "TechCrunch",
-    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-    "summary": "This week, the company released a new transformer-based model, Jev, that is not a large language model (LLM). Jev appears most useful for software automation. Using agents to monitor agents can quickly become expensive, but using Jev to do so, Almeida argues, makes sense.",
-    "sourceUrl": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-13515f2f4514",
-    "date": "2026-09-18",
-    "source": "TechCrunch",
-    "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-    "summary": "Disney previously claimed that the company was hosting copyrighted characters from its franchises. Variety reports that Anand was chosen for the role by new Disney CEO Josh D’Amaro, who took over after former company chief Bob Iger stepped down in March.",
-    "sourceUrl": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-96293117e2ed",
-    "date": "2026-09-18",
-    "source": "TechCrunch",
-    "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-    "summary": "Google’s CC, meanwhile, began its life as a productivity agent that connected to Gmail, Google Calendar, Google Drive, and the wider web to understand your day, then deliver a “Your Day Ahead” briefing to your inbox.",
-    "sourceUrl": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9666e4173566",
-    "date": "2026-09-18",
-    "source": "TechCrunch",
-    "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts.",
-    "sourceUrl": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c2813fff578d",
-    "date": "2026-09-18",
-    "source": "TechCrunch",
-    "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
-    "summary": "Anthony Ha is TechCrunch’s weekend editor. You can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com. You can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.",
-    "sourceUrl": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-21ded5da2f91",
-    "date": "2026-09-18",
-    "source": "TechCrunch",
-    "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
-    "sourceUrl": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9fceb0221054",
-    "date": "2026-09-18",
-    "source": "TechCrunch",
-    "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-    "summary": "Build on an open model and gain greater control? Open models have advanced quickly. But choosing an open model doesn’t automatically give you a moat either.",
-    "sourceUrl": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a1c29a3b997b",
-    "date": "2026-09-18",
-    "source": "TechCrunch",
-    "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
-    "summary": "25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nMeta’s new AI assistant app, Muse, is now available on Mac. muse for mac is HERE!! In addition to Muse, all the major players offer consumer-facing agentic AI.",
-    "sourceUrl": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-71be334bb344",
-    "date": "2026-09-18",
-    "source": "TechCrunch",
-    "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-    "summary": "Robinhood, which became synonymous with commission-free stock trading, now spans a much wider financial landscape. And customers are increasingly using products outside Robinhood’s original trading proposition. The financial consumer is changing.",
-    "sourceUrl": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "data"
     ],
     "resources": []
   },
