@@ -1,5 +1,476 @@
 [
   {
+    "id": "auto-fb8ad85c459c",
+    "date": "2026-09-22",
+    "source": "Hugging Face",
+    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+    "summary": "MLX is Apple's framework for local AI, especially optimized for Apple Silicon. We expect oMLX to serve as a testbed for new ideas, while leveraging the foundational work of the dependencies it already relies upon, such as mlx-lm or mlx-vlm.",
+    "sourceUrl": "https://huggingface.co/blog/omlx",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a7ca59844a94",
+    "date": "2026-09-21",
+    "source": "OpenAI",
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+    "sourceUrl": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-d37f5b2c5927",
+    "date": "2026-09-21",
+    "source": "OpenAI",
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+    "sourceUrl": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2c9792fbb14a",
+    "date": "2026-09-21",
+    "source": "OpenAI",
+    "title": "Building standards for the next phase of AI",
+    "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+    "sourceUrl": "https://openai.com/index/building-standards-next-phase-ai",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-530db518a73a",
+    "date": "2026-09-21",
+    "source": "OpenAI",
+    "title": "Expanding OpenAI Academy with new learning paths",
+    "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+    "sourceUrl": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-d1749ba76a98",
+    "date": "2026-09-21",
+    "source": "OpenAI",
+    "title": "How V7 gives AI agents institutional memory",
+    "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+    "sourceUrl": "https://openai.com/index/v7",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c701b57089c5",
+    "date": "2026-09-21",
+    "source": "Hugging Face",
+    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+    "summary": "Whether removing block 20 hurts the model depends on whether you also removed block 19 or block 24, an interaction, or coupling, between the two decisions. Left: which blocks each of the 20 lowest-energy states removes (red = removed). The best model is an excited state, not the ground state.",
+    "sourceUrl": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-eb792e0fc342",
+    "date": "2026-09-21",
+    "source": "Hugging Face",
+    "title": "tokenizers v1: encode, decode and scaling, measured",
+    "summary": "Pre-tokenization splits the text into smaller pieces called pre-tokens. The model turns each pre-token into tokens and maps them to IDs in its vocabulary. A merge never crosses a pre-token boundary.",
+    "sourceUrl": "https://huggingface.co/blog/tokenizers-v1",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6495b18d60ee",
+    "date": "2026-09-21",
+    "source": "TechCrunch",
+    "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+    "summary": "Some of those bets are revisited in Shop Different: How Retail Revealed Apple’s Genius, Johnson’s new book about building Apple’s retail operations alongside Steve Jobs. Apple Store employees are not paid on commission, Johnson said, unlike the sales culture common across much of retail.",
+    "sourceUrl": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5310781f5f6f",
+    "date": "2026-09-21",
+    "source": "TechCrunch",
+    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "summary": "On Monday, OpenAI announced a new independent advisory group hosted at the Institute for Advanced Study in Princeton, New Jersey. Called the Advisory Group on Mathematics and Artificial Intelligence, the group is meant to give mathematicians more input into the company’s math-oriented research.",
+    "sourceUrl": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-66ce002dbe90",
+    "date": "2026-09-21",
+    "source": "TechCrunch",
+    "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+    "summary": "The startup you haven’t heard of yet. At Disrupt, all 200 Startup Battlefield startups exhibit, so you can go beyond the company description. Or you might simply find one startup that changes how you think about what comes next.",
+    "sourceUrl": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-7ea029b83ac3",
+    "date": "2026-09-21",
+    "source": "TechCrunch",
+    "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+    "summary": "and Canada markets only.)\nMuse also has more daily active users than ChatGPT had at the time, the firm found. In this subset of the data, Muse has now seen 1.8 million downloads to ChatGPT’s 1.3 million.",
+    "sourceUrl": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-c476924b2eb2",
+    "date": "2026-09-21",
+    "source": "TechCrunch",
+    "title": "Meta’s AI agent has been blocked from using Amazon.com",
+    "summary": "Sunday night, users of Meta’s AI assistant Muse started getting a strange error message when they tried to buy goods on Amazon. If Muse makes a bad order, Amazon is going to be the one to clean it up — dealing with both the angry customer and the angry vendor.",
+    "sourceUrl": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-af70c43bf114",
+    "date": "2026-09-21",
+    "source": "TechCrunch",
+    "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+    "summary": "“We did bookkeeping, accounting, sales tax, taxes, everything,” Ali says. “I realized that small businesses don’t need better accounting software,” Ali told TechCrunch. “They need less accounting software.",
+    "sourceUrl": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-623ca8b417a9",
+    "date": "2026-09-21",
+    "source": "TechCrunch",
+    "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+    "summary": "Benchmark changed with it. Register now to save up to $200 before prices increase on September 25. Before Altman joined Benchmark, Alt Capital had raised $425 million across its early-stage investing activities.",
+    "sourceUrl": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-26792917d6d7",
+    "date": "2026-09-21",
+    "source": "TechCrunch",
+    "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+    "summary": "After first unveiling its new AI-powered laptop, dubbed Googlebook, in May, Google on Monday said the new device is now available for preorder for $899. However, the real pull for the new devices is that they’ll prominently feature Gemini’s latest capabilities in a new format: the laptop.",
+    "sourceUrl": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e9d235c4c7d8",
+    "date": "2026-09-21",
+    "source": "TechCrunch",
+    "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+    "summary": "Getting people to try your first product is one challenge. How do you keep experimenting when users expect your product to work every time? Your product is evolving.",
+    "sourceUrl": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-536630a0b33c",
+    "date": "2026-09-21",
+    "source": "TechCrunch",
+    "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+    "summary": "Anu Bharadwaj is a partner at ICONIQ Growth, where she focuses on enterprise software and AI companies. Sho Sho Leigha Ho, Partner, General Catalyst\nSho Sho Leigha Ho is a partner on General Catalyst‘s seed team, where she invests in early-stage founders. She joined General Catalyst in 2024 as its youngest partner.",
+    "sourceUrl": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f8c4e8d06db8",
+    "date": "2026-09-21",
+    "source": "MIT Technology Review",
+    "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+    "summary": "We verified each tower’s coordinates by analyzing satellite imagery. We then checked whether, for each match, the tower was actually present when the person died. Many cases involve skeletal remains.",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d3127432d763",
+    "date": "2026-09-21",
+    "source": "MIT Technology Review",
+    "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+    "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border.",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-cd25620efbb8",
+    "date": "2026-09-21",
+    "source": "MIT Technology Review",
+    "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+    "summary": "We found more than 1,050 people who died within range of border surveillance towers between 2015 and early 2026. Border Patrol never provided it. Galvan says the towers would flag people crossing before agents saw them.",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-cddec4e64586",
+    "date": "2026-09-21",
+    "source": "MIT Technology Review",
+    "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+    "summary": "Gómez Hernández was just one mile away. Thousands of migrants have died while crossing the border in the past two decades, many of them near to Border Patrol surveillance installations. “She was a very humble person,” Irma said.",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c4d22e79dcde",
+    "date": "2026-09-21",
+    "source": "The Verge",
+    "title": "California tightens rules on AI data center energy and water use",
+    "summary": "Gavin Newsom signed a package of bills requiring AI data centers to pay for upgrades to the local energy grid. Gavin Newsom signed a package of bills requiring AI data centers to pay for upgrades to the local energy grid.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d201b38a6174",
+    "date": "2026-09-21",
+    "source": "The Verge",
+    "title": "Can John Ternus find Apple’s next big thing?",
+    "summary": "I think Apple’s terrified. What are you going to do about it? What do you think of it?",
+    "sourceUrl": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-335387d8455b",
+    "date": "2026-09-21",
+    "source": "The Verge",
+    "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+    "summary": "The deadline to file a claim is December 21st, 2026. The deadline to file a claim is December 21st, 2026.",
+    "sourceUrl": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-94d0db2af44a",
     "date": "2026-09-21",
     "source": "The Verge",
@@ -92,466 +563,6 @@
       "llm",
       "ethics",
       "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-71efe47bc53f",
-    "date": "2026-09-20",
-    "source": "TechCrunch",
-    "title": "Vocci’s ring adds a new form factor to meeting note-taking",
-    "summary": "Vocci’s ring takes a different path, with meeting note-taking as a central function. The ring has a button, which you can double-tap to start recording and double-tap again to stop. The software is the disappointing part of the Vocci ring.",
-    "sourceUrl": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c1355961d618",
-    "date": "2026-09-20",
-    "source": "TechCrunch",
-    "title": "ScrollEd wants to turn textbooks into TikTok",
-    "summary": "Swiping up surfaces a new topic, while swiping sideways lets you go deeper into the one you’re on, with a quiz waiting for you at the end.",
-    "sourceUrl": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-cb03d7f13be9",
-    "date": "2026-09-20",
-    "source": "The Verge",
-    "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
-    "summary": "He claims there is a ‘0% chance’ of AI ending the world. He claims there is a ‘0% chance’ of AI ending the world. He is the CEO of the world’s most valuable company and number seven on Forbes’ list of the richest people in the world.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ba91ca58495d",
-    "date": "2026-09-20",
-    "source": "The Verge",
-    "title": "Trump now says he wants to form an ‘AI Force’",
-    "summary": "He claimed without evidence that data centers are actually good for communities. He claimed without evidence that data centers are actually good for communities.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-d11b689309b4",
-    "date": "2026-09-20",
-    "source": "The Verge",
-    "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-    "summary": "Historically, adversarial nation-states were largely considered the biggest cybersecurity threat to critical infrastructure. “This is a technological scientific development that could cause potential risk to critical infrastructure systems, that can cause potential threat to human life.",
-    "sourceUrl": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2c088408c259",
-    "date": "2026-09-19",
-    "source": "TechCrunch",
-    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-    "summary": "25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nEmbattled surveillance technology company Flock Safety unveiled a “generous” severance package for voluntary employee departures on Friday, according to a report in Wired.",
-    "sourceUrl": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-589c5060cfaa",
-    "date": "2026-09-19",
-    "source": "TechCrunch",
-    "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Nvidia CEO Jensen Huang, meanwhile, called Trump on-stage during the All-In Summit (which Sacks co-hosts), agreed with the president that the AI backlash is a “hoax,” and insisted that “we’re not going to let” a slowdown happen.",
-    "sourceUrl": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b6a7c3b080e8",
-    "date": "2026-09-19",
-    "source": "TechCrunch",
-    "title": "Google’s Gemini is the latest AI model to hack other companies",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Irregular reportedly notified Google about the hacks in late July, but the companies did not confirm them publicly until Friday, after the WSJ reached out.",
-    "sourceUrl": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9973ec65aabe",
-    "date": "2026-09-19",
-    "source": "TechCrunch",
-    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-    "summary": "The Granary 2 tracks intake, eating duration, feeding frequency, as well as favorite eating times and eating speed. The Granary 2 offers two primary feeding modes: Smart Refill Mode and Scheduled Mode. Scheduled Mode offers more traditional control, allowing you to set specific feeding times and portion sizes.",
-    "sourceUrl": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-fe6a92ce8180",
-    "date": "2026-09-19",
-    "source": "TechCrunch",
-    "title": "AI safety conversations have gotten unbelievable",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Even if the internet is actually polluted with OpenAI’s Hugging Face hacker bots, AI researchers could simply filter out that code if they came upon it.",
-    "sourceUrl": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e9d1d908f307",
-    "date": "2026-09-19",
-    "source": "TechCrunch",
-    "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nOur current ticket pricing window for TechCrunch Disrupt 2026 ends next Friday, Sept. Moscone West, San Francisco.",
-    "sourceUrl": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-17c3769d3608",
-    "date": "2026-09-19",
-    "source": "TechCrunch",
-    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-    "summary": "Companies pay Vals to test their models, which can be an odd concept to wrap your head around. In turn, these evaluations are becoming key decision-making factors for companies looking to acquire new AI models.",
-    "sourceUrl": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-607ffaad2d1c",
-    "date": "2026-09-19",
-    "source": "The Verge",
-    "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-    "summary": "Muse probably can’t ‘see’ your notifications. Muse probably can’t ‘see’ your notifications. The problem is that Aten says he didn’t give Muse access to his messages.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-66fb6faf12d4",
-    "date": "2026-09-19",
-    "source": "The Verge",
-    "title": "Gemini went rogue, hacked three companies, and Google hid it",
-    "summary": "Google says that breaking containment and targeting real companies doesn’t constitute ‘misalignment.’\nGoogle says that breaking containment and targeting real companies doesn’t constitute ‘misalignment.’\nIn May, Gemini broke containment and hacked three different companies, but Google didn’t disclose the incident until the Wall Street Journal approached the company.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-373f3d22cfc0",
-    "date": "2026-09-19",
-    "source": "The Verge",
-    "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
-    "summary": "You don’t need an exemption. The existing laws” — like you’re saying — “will cover you. You mentioned some eras.",
-    "sourceUrl": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a864cdf7e10a",
-    "date": "2026-09-19",
-    "source": "The Verge",
-    "title": "The AI regulation smackdown isn’t over",
-    "summary": "It’s AI CEO against AI CEO, and things are changing by the day. It’s AI CEO against AI CEO, and things are changing by the day.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a193c15e98fb",
-    "date": "2026-09-19",
-    "source": "TechCrunch",
-    "title": "India forces caller-ID apps to feed spam reports to telcos",
-    "summary": "The rules come as India grapples with spam and fraudulent calls at enormous scale. Undeclared A2P calls will be treated as spam, TRAI said. However, calls made using certain designated number ranges will be exempt.",
-    "sourceUrl": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f0cf279d8dbb",
-    "date": "2026-09-19",
-    "source": "TechCrunch",
-    "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-    "summary": "“You didn’t really understand the question,” Conti replies. Do you know?”\n“Ah, right. You’re asking about the other actors in Misaligned,” Norwood starts.",
-    "sourceUrl": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-559b0cf11197",
-    "date": "2026-09-18",
-    "source": "OpenAI",
-    "title": "Introducing the Australian Youth Safety Blueprint",
-    "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-    "sourceUrl": "https://openai.com/index/australian-youth-safety-blueprint",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-079e661c04ce",
-    "date": "2026-09-18",
-    "source": "Google AI Blog",
-    "title": "New experts join Google’s AI & Economy team",
-    "summary": "Head of StratOps and Special Projects, Technology & Society\nAI & Economy Lead, Chief Economist's Office\nGoogle is expanding its AI & Economy Research Program by adding world-class economists and academic advisors to better track how artificial intelligence impacts jobs and productivity.",
-    "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-13d62ca6fcfd",
-    "date": "2026-09-18",
-    "source": "Google AI Blog",
-    "title": "Co-creating the future of fashion with Google",
-    "summary": "Two fashion designers created custom tools in Google Flow to help with set design and styling for New York Fashion Week. Google’s Envisioning Studio partnered with designers Jane Wade and Sergio Hudson to streamline fashion production using Google Flow.",
-    "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-23d6e2a4a2bf",
-    "date": "2026-09-18",
-    "source": "TechCrunch",
-    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-    "summary": "That shift has influenced Vantora’s increased focus on physical AI startups, according to Kuolt. You need to own that intelligence layer. The firm launched in 2022 with Porsche as its first corporate partner.",
-    "sourceUrl": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-7eae20442af3",
-    "date": "2026-09-18",
-    "source": "TechCrunch",
-    "title": "Anthropic is operating a lab that conducts biology experiments",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Anthropic bought Coefficient Bio, a stealth AI biotech, in April. While Anthropic declined to give specifics on what the wet lab is working on, it did say the main focus was fundamental biology, not drug discovery.",
-    "sourceUrl": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-450940319d1d",
-    "date": "2026-09-18",
-    "source": "TechCrunch",
-    "title": "AI hallucination nearly triggers US military operation",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. The false intelligence originated with a Special Operations Command analyst who queried an AI chatbot to synthesize open source data with classified signals intelligence.",
-    "sourceUrl": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-8503b185b661",
-    "date": "2026-09-18",
-    "source": "TechCrunch",
-    "title": "Anthropic’s first embedded evaluator is … Accenture?",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages.",
-    "sourceUrl": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
     ],
     "resources": []
   },
