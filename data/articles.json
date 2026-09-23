@@ -1,5 +1,577 @@
 [
   {
+    "id": "auto-233cf3705a5a",
+    "date": "2026-09-23",
+    "source": "TechCrunch",
+    "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+    "summary": "Mitsotakis was just as eager to talk about how Greece has spent its money. There, he said, the projects are welcomed. Still, he added, Greece would happily host the conversation.",
+    "sourceUrl": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0ab4ac60a8fb",
+    "date": "2026-09-23",
+    "source": "The Verge",
+    "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+    "summary": "﻿‘The group will advise on the review and communication of emerging results.’\n﻿‘The group will advise on the review and communication of emerging results.’\nAfter turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-b6b1e4118cdb",
+    "date": "2026-09-22",
+    "source": "OpenAI",
+    "title": "Better prompt caching for GPT-6",
+    "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+    "sourceUrl": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-3d48e529ad7a",
+    "date": "2026-09-22",
+    "source": "OpenAI",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+    "sourceUrl": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ce45d8dc0f6c",
+    "date": "2026-09-22",
+    "source": "OpenAI",
+    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+    "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+    "sourceUrl": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b4fb82cc1313",
+    "date": "2026-09-22",
+    "source": "OpenAI",
+    "title": "Priorities and principles for effective third party assessments",
+    "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+    "sourceUrl": "https://openai.com/index/priorities-principles-third-party-assessments",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2960c64a019e",
+    "date": "2026-09-22",
+    "source": "Hugging Face",
+    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+    "summary": "In this new phase of the collaboration, AISI is making publicly reported evaluation methods and findings available through Evaluation Cards where appropriate. AISI's Terminal-Bench 2.0 results alongside other reported evaluations for the same models, under different evaluation setups.",
+    "sourceUrl": "https://huggingface.co/blog/evaleval-aisi",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-98acfe91fd30",
+    "date": "2026-09-22",
+    "source": "Hugging Face",
+    "title": "Transformers now runs llama.cpp quants",
+    "summary": "To load a GGUF model, pass its Hub model_id and filename as gguf_file to from_pretrained. Our reference for local inference performance is llama.cpp. Transformers is close to llama.cpp across all three checkpoints.",
+    "sourceUrl": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d93240d4c3f7",
+    "date": "2026-09-22",
+    "source": "TechCrunch",
+    "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+    "summary": "Instead of months of trial and error, you get direct access to the investors and founders who’ve already made the calls you’re now facing. This session explores how founders should evaluate investors, navigate trade-offs, and think beyond valuation when building their cap table.",
+    "sourceUrl": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7e5d39ad04c0",
+    "date": "2026-09-22",
+    "source": "TechCrunch",
+    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+    "summary": "While Snorkel originally provided software for data-labeling automation, it shifted last year to providing customers with completed datasets, an offering it calls data-as-a-service. Snorkel says its current annualized revenue run rate now stands at $375 million, an eighteenfold increase over the last 12 months.",
+    "sourceUrl": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-948ab460c8b3",
+    "date": "2026-09-22",
+    "source": "TechCrunch",
+    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "summary": "Qualcomm today announced two flagship smartphone processors, called Snapdragon 8 Elite Gen 6 and Snapdragon 8 Elite Extreme Gen 6, with a focus on facilitating better AI-focused features. The Snapdragon 8 Elite Gen 6 has a new accelerator element that’s designed to run models in a more efficient way.",
+    "sourceUrl": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-047d6bbad93c",
+    "date": "2026-09-22",
+    "source": "TechCrunch",
+    "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+    "summary": "Meta now says those comparisons aren’t entirely off-base.",
+    "sourceUrl": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-11b524309fbd",
+    "date": "2026-09-22",
+    "source": "TechCrunch",
+    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. The first models in the Sol and Luna series were introduced earlier this year, representing different tiers in OpenAI’s hierarchy of models.",
+    "sourceUrl": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-8fee313a6a87",
+    "date": "2026-09-22",
+    "source": "TechCrunch",
+    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+    "summary": "Anthropic’s newest model, Opus 5.5, was released on Tuesday, setting a new state-of-the-art in coding and knowledge work performance, according to the company. The launch comes just two months after the release of Opus 5 on July 24.",
+    "sourceUrl": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b9dfdf1a71e6",
+    "date": "2026-09-22",
+    "source": "TechCrunch",
+    "title": "AstroForge is putting AI in command of its next spacecraft",
+    "summary": "The company has developed an autonomous control stack for its spacecraft called “Solo,” a transformer-based model made in-house. AstroForge plans to fly its first autonomous spacecraft in 2027 on the first rocket launched by Stoke Space.",
+    "sourceUrl": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0c0fc63e5b35",
+    "date": "2026-09-22",
+    "source": "TechCrunch",
+    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+    "summary": "Register for Disrupt now to save up to $200 before September 25. Secure your pass to Disrupt before September 25 to save up to $200. Register for Disrupt today to save up to $200 before prices increase.",
+    "sourceUrl": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0248dc56dafa",
+    "date": "2026-09-22",
+    "source": "TechCrunch",
+    "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+    "summary": "At TechCrunch Disrupt 2026, Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 to the Real World AI Stage for the session “Come, Meet Stretch. Stretch 4 is Hello Robot’s latest step toward that goal. Secure your pass, hear from Aaron Edsinger, and see Hello Robot’s Stretch 4 in action in San Francisco.",
+    "sourceUrl": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-dbe609760236",
+    "date": "2026-09-22",
+    "source": "TechCrunch",
+    "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+    "summary": "Now that exhibit bookings have reopened, you have another opportunity to get in front of them before the Expo Hall fills up. The earlier you get in, the more opportunity you have to make your presence known. You can still get in the room at TechCrunch Disrupt 2026, taking place October 13-15.",
+    "sourceUrl": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-172ea0168db5",
+    "date": "2026-09-22",
+    "source": "TechCrunch",
+    "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+    "summary": "Disrupt gives you a chance to see more of the picture in one place and use it to inform what you do next. You might arrive at Disrupt thinking about your next fundraise and leave with a different view of your product strategy.",
+    "sourceUrl": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6ee2a82c9bc8",
+    "date": "2026-09-22",
+    "source": "TechCrunch",
+    "title": "Everyone can find a reason to dislike data center construction",
+    "summary": "Data center projects worth $68 billion were disrupted by local opponents in the second quarter of 2026, according to the trackers at Data Center Watch. Today, a new report from the nonprofit Data & Society offers a deeper look at what is activating opposition to data centers.",
+    "sourceUrl": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0f7edaaa76fe",
+    "date": "2026-09-22",
+    "source": "TechCrunch",
+    "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+    "summary": "But there’s a catch: Most of that, about 85%, comes from a deal to supply Microsoft with $43.8 billion worth of compute through 2033, and another supply agreement worth $44.6 billion with Anthropic.",
+    "sourceUrl": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5f3b2680ef21",
+    "date": "2026-09-22",
+    "source": "MIT Technology Review",
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "summary": "Available only for MIT Technology Review subscribers. But a groundbreaking investigation by MIT Technology Review  has documented over a thousand people who moved through areas watched by these towers without being reached or apprehended, and who ultimately died there.",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-51d4ae7b470f",
+    "date": "2026-09-22",
+    "source": "MIT Technology Review",
+    "title": "Don’t be fooled by this summer of AI hype",
+    "summary": "Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models.",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-cc0d123c3bdd",
+    "date": "2026-09-22",
+    "source": "The Verge",
+    "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+    "summary": "The startup’s AI agent can operate locally across Windows, Mac, and Linux devices. The startup’s AI agent can operate locally across Windows, Mac, and Linux devices. The startup says its new OS3 “agentic operating system” runs in the cloud but operates locally across Windows, Mac, and Linux devices.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-97f4d9447dab",
+    "date": "2026-09-22",
+    "source": "The Verge",
+    "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+    "summary": "The Horowitz Andreessen Academy trades degrees and homework for stints at tech companies. The Horowitz Andreessen Academy trades degrees and homework for stints at tech companies. The Horowitz Andreessen Academy will be free for its first one-year program in the fall of 2027.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-04fa56f83f3a",
+    "date": "2026-09-22",
+    "source": "The Verge",
+    "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+    "summary": "Claude Opus 5.5 comes with improvements to certain behaviors, like attempting to escape testing environments. Claude Opus 5.5 comes with improvements to certain behaviors, like attempting to escape testing environments.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5d6a730c1461",
+    "date": "2026-09-22",
+    "source": "The Verge",
+    "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
+    "summary": "The president claims the word ‘artificial’ makes intelligence fake. The president claims the word ‘artificial’ makes intelligence fake. Whoever wins super intelligence wins.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6ab491a44d13",
+    "date": "2026-09-22",
+    "source": "The Verge",
+    "title": "Meta patches Muse exploit that let attackers control the AI agent",
+    "summary": "﻿‘They should be thinking about security from the very start, and they are just not.’\n﻿‘They should be thinking about security from the very start, and they are just not.’\nMeta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent.",
+    "sourceUrl": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-fb8ad85c459c",
     "date": "2026-09-22",
     "source": "Hugging Face",
@@ -27,543 +599,6 @@
     "auto": true,
     "metiers": [],
     "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-d37f5b2c5927",
-    "date": "2026-09-21",
-    "source": "OpenAI",
-    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-    "sourceUrl": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2c9792fbb14a",
-    "date": "2026-09-21",
-    "source": "OpenAI",
-    "title": "Building standards for the next phase of AI",
-    "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-    "sourceUrl": "https://openai.com/index/building-standards-next-phase-ai",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-530db518a73a",
-    "date": "2026-09-21",
-    "source": "OpenAI",
-    "title": "Expanding OpenAI Academy with new learning paths",
-    "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-    "sourceUrl": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-d1749ba76a98",
-    "date": "2026-09-21",
-    "source": "OpenAI",
-    "title": "How V7 gives AI agents institutional memory",
-    "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-    "sourceUrl": "https://openai.com/index/v7",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c701b57089c5",
-    "date": "2026-09-21",
-    "source": "Hugging Face",
-    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-    "summary": "Whether removing block 20 hurts the model depends on whether you also removed block 19 or block 24, an interaction, or coupling, between the two decisions. Left: which blocks each of the 20 lowest-energy states removes (red = removed). The best model is an excited state, not the ground state.",
-    "sourceUrl": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-eb792e0fc342",
-    "date": "2026-09-21",
-    "source": "Hugging Face",
-    "title": "tokenizers v1: encode, decode and scaling, measured",
-    "summary": "Pre-tokenization splits the text into smaller pieces called pre-tokens. The model turns each pre-token into tokens and maps them to IDs in its vocabulary. A merge never crosses a pre-token boundary.",
-    "sourceUrl": "https://huggingface.co/blog/tokenizers-v1",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6495b18d60ee",
-    "date": "2026-09-21",
-    "source": "TechCrunch",
-    "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-    "summary": "Some of those bets are revisited in Shop Different: How Retail Revealed Apple’s Genius, Johnson’s new book about building Apple’s retail operations alongside Steve Jobs. Apple Store employees are not paid on commission, Johnson said, unlike the sales culture common across much of retail.",
-    "sourceUrl": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5310781f5f6f",
-    "date": "2026-09-21",
-    "source": "TechCrunch",
-    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-    "summary": "On Monday, OpenAI announced a new independent advisory group hosted at the Institute for Advanced Study in Princeton, New Jersey. Called the Advisory Group on Mathematics and Artificial Intelligence, the group is meant to give mathematicians more input into the company’s math-oriented research.",
-    "sourceUrl": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-66ce002dbe90",
-    "date": "2026-09-21",
-    "source": "TechCrunch",
-    "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-    "summary": "The startup you haven’t heard of yet. At Disrupt, all 200 Startup Battlefield startups exhibit, so you can go beyond the company description. Or you might simply find one startup that changes how you think about what comes next.",
-    "sourceUrl": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-7ea029b83ac3",
-    "date": "2026-09-21",
-    "source": "TechCrunch",
-    "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-    "summary": "and Canada markets only.)\nMuse also has more daily active users than ChatGPT had at the time, the firm found. In this subset of the data, Muse has now seen 1.8 million downloads to ChatGPT’s 1.3 million.",
-    "sourceUrl": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-c476924b2eb2",
-    "date": "2026-09-21",
-    "source": "TechCrunch",
-    "title": "Meta’s AI agent has been blocked from using Amazon.com",
-    "summary": "Sunday night, users of Meta’s AI assistant Muse started getting a strange error message when they tried to buy goods on Amazon. If Muse makes a bad order, Amazon is going to be the one to clean it up — dealing with both the angry customer and the angry vendor.",
-    "sourceUrl": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-af70c43bf114",
-    "date": "2026-09-21",
-    "source": "TechCrunch",
-    "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-    "summary": "“We did bookkeeping, accounting, sales tax, taxes, everything,” Ali says. “I realized that small businesses don’t need better accounting software,” Ali told TechCrunch. “They need less accounting software.",
-    "sourceUrl": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-623ca8b417a9",
-    "date": "2026-09-21",
-    "source": "TechCrunch",
-    "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-    "summary": "Benchmark changed with it. Register now to save up to $200 before prices increase on September 25. Before Altman joined Benchmark, Alt Capital had raised $425 million across its early-stage investing activities.",
-    "sourceUrl": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-26792917d6d7",
-    "date": "2026-09-21",
-    "source": "TechCrunch",
-    "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-    "summary": "After first unveiling its new AI-powered laptop, dubbed Googlebook, in May, Google on Monday said the new device is now available for preorder for $899. However, the real pull for the new devices is that they’ll prominently feature Gemini’s latest capabilities in a new format: the laptop.",
-    "sourceUrl": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e9d235c4c7d8",
-    "date": "2026-09-21",
-    "source": "TechCrunch",
-    "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
-    "summary": "Getting people to try your first product is one challenge. How do you keep experimenting when users expect your product to work every time? Your product is evolving.",
-    "sourceUrl": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-536630a0b33c",
-    "date": "2026-09-21",
-    "source": "TechCrunch",
-    "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-    "summary": "Anu Bharadwaj is a partner at ICONIQ Growth, where she focuses on enterprise software and AI companies. Sho Sho Leigha Ho, Partner, General Catalyst\nSho Sho Leigha Ho is a partner on General Catalyst‘s seed team, where she invests in early-stage founders. She joined General Catalyst in 2024 as its youngest partner.",
-    "sourceUrl": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f8c4e8d06db8",
-    "date": "2026-09-21",
-    "source": "MIT Technology Review",
-    "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-    "summary": "We verified each tower’s coordinates by analyzing satellite imagery. We then checked whether, for each match, the tower was actually present when the person died. Many cases involve skeletal remains.",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d3127432d763",
-    "date": "2026-09-21",
-    "source": "MIT Technology Review",
-    "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-    "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border.",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-cd25620efbb8",
-    "date": "2026-09-21",
-    "source": "MIT Technology Review",
-    "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-    "summary": "We found more than 1,050 people who died within range of border surveillance towers between 2015 and early 2026. Border Patrol never provided it. Galvan says the towers would flag people crossing before agents saw them.",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-cddec4e64586",
-    "date": "2026-09-21",
-    "source": "MIT Technology Review",
-    "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-    "summary": "Gómez Hernández was just one mile away. Thousands of migrants have died while crossing the border in the past two decades, many of them near to Border Patrol surveillance installations. “She was a very humble person,” Irma said.",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c4d22e79dcde",
-    "date": "2026-09-21",
-    "source": "The Verge",
-    "title": "California tightens rules on AI data center energy and water use",
-    "summary": "Gavin Newsom signed a package of bills requiring AI data centers to pay for upgrades to the local energy grid. Gavin Newsom signed a package of bills requiring AI data centers to pay for upgrades to the local energy grid.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d201b38a6174",
-    "date": "2026-09-21",
-    "source": "The Verge",
-    "title": "Can John Ternus find Apple’s next big thing?",
-    "summary": "I think Apple’s terrified. What are you going to do about it? What do you think of it?",
-    "sourceUrl": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-335387d8455b",
-    "date": "2026-09-21",
-    "source": "The Verge",
-    "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
-    "summary": "The deadline to file a claim is December 21st, 2026. The deadline to file a claim is December 21st, 2026.",
-    "sourceUrl": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-94d0db2af44a",
-    "date": "2026-09-21",
-    "source": "The Verge",
-    "title": "UN says AI safeguards can’t wait for certainty",
-    "summary": "The report lands as Beijing and Washington prepare to discuss AI and world leaders gather in New York this week. The report lands as Beijing and Washington prepare to discuss AI and world leaders gather in New York this week.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-fbef9683fbad",
-    "date": "2026-09-21",
-    "source": "The Verge",
-    "title": "Amazon doesn’t trust Meta’s Muse AI agent",
-    "summary": "The AI assistant has been blocked from shopping on Amazon’s e-commerce platform.﻿\nThe AI assistant has been blocked from shopping on Amazon’s e-commerce platform.﻿\nMeta’s Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports.",
-    "sourceUrl": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c7ec387f956d",
-    "date": "2026-09-20",
-    "source": "TechCrunch",
-    "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-    "summary": "Save 30% more when you bring four or more with you. Leave with something you can use. The people you need to meet, the ideas you need to hear, and the opportunities you don’t want to miss will all be in San Francisco this October.",
-    "sourceUrl": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-7bd628cf3898",
-    "date": "2026-09-20",
-    "source": "TechCrunch",
-    "title": "World model companies are keeping a lot of secrets",
-    "summary": "But this sort of caginess extends to the whole world-modeling space. Part of the mystery comes from how versatile world models are as an idea. Soon, the lab would face potential competition from the other world model companies, the neolabs, and even OpenAI and Anthropic.",
-    "sourceUrl": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9515eed3cd4b",
-    "date": "2026-09-20",
-    "source": "TechCrunch",
-    "title": "Is the AI industry really ready to slow down?",
-    "summary": "Anthony Ha: Sean, what do you think? Sean O’Kane: That sounds, for some reason, like something from “Point Break.” It’s just a very California statement, like, “We’re gonna pace the frontier, bruh.”\nI don’t know. And surprisingly, some people I didn’t think would push back on this.",
-    "sourceUrl": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "data"
-    ],
     "resources": []
   },
   {
