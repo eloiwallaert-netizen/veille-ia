@@ -1,16 +1,14 @@
 [
   {
-    "id": "auto-233cf3705a5a",
-    "date": "2026-09-23",
+    "id": "auto-5f9b2dff770e",
+    "date": "2026-09-24",
     "source": "TechCrunch",
-    "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-    "summary": "Mitsotakis was just as eager to talk about how Greece has spent its money. There, he said, the projects are welcomed. Still, he added, Greece would happily host the conversation.",
-    "sourceUrl": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+    "title": "Everything new coming to Meta’s AI agent Muse",
+    "summary": "The agent is powered by Muse Spark, Meta’s multimodal AI model built for agentic work. Muse will also be integrated with Meta’s smart glasses line, the company announced. Wang noted that the company wants Muse to connect with small business too.",
+    "sourceUrl": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
     "auto": true,
     "metiers": [
       "csm",
-      "management",
-      "marketing",
       "ops",
       "product",
       "sales",
@@ -18,64 +16,17 @@
     ],
     "themes": [
       "agents",
-      "ethics",
-      "genai-product"
+      "automation"
     ],
     "resources": []
   },
   {
-    "id": "auto-0ab4ac60a8fb",
-    "date": "2026-09-23",
-    "source": "The Verge",
-    "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-    "summary": "﻿‘The group will advise on the review and communication of emerging results.’\n﻿‘The group will advise on the review and communication of emerging results.’\nAfter turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-b6b1e4118cdb",
-    "date": "2026-09-22",
-    "source": "OpenAI",
-    "title": "Better prompt caching for GPT-6",
-    "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
-    "sourceUrl": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3d48e529ad7a",
-    "date": "2026-09-22",
-    "source": "OpenAI",
-    "title": "Introducing GPT-6 Sol and Luna",
-    "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-    "sourceUrl": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ce45d8dc0f6c",
-    "date": "2026-09-22",
-    "source": "OpenAI",
-    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-    "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
-    "sourceUrl": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+    "id": "auto-b03075519864",
+    "date": "2026-09-24",
+    "source": "TechCrunch",
+    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. But that hasn’t stopped Meta from jumping into the arena with its own AI wearable, called Muse Charm, which is designed to give consumers another way to stay connected to its recently launched, and already popular, personal AI agent, Muse.",
+    "sourceUrl": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
     "auto": true,
     "metiers": [
       "csm",
@@ -89,12 +40,72 @@
     "resources": []
   },
   {
-    "id": "auto-b4fb82cc1313",
-    "date": "2026-09-22",
+    "id": "auto-864189f9e259",
+    "date": "2026-09-24",
+    "source": "The Verge",
+    "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+    "summary": "﻿The new frontier AI model should arrive long before the end of 2026. Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Google hasn’t released a new flagship AI model since the Gemini 3 series in November 2025.",
+    "sourceUrl": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6330e9855670",
+    "date": "2026-09-24",
+    "source": "The Verge",
+    "title": "Meta is making a standalone Muse AI gadget",
+    "summary": "The Muse Charm doesn’t require a phone, and it’s supposed to ship this year. Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight’s Meta Connect presentation.",
+    "sourceUrl": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9d02eeb8cef1",
+    "date": "2026-09-23",
     "source": "OpenAI",
-    "title": "Priorities and principles for effective third party assessments",
-    "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-    "sourceUrl": "https://openai.com/index/priorities-principles-third-party-assessments",
+    "title": "Two years of OpenAI Academy",
+    "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+    "sourceUrl": "https://openai.com/index/two-years-of-openai-academy",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-1d77064cbebb",
+    "date": "2026-09-23",
+    "source": "OpenAI",
+    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+    "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+    "sourceUrl": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-01d4e543c941",
+    "date": "2026-09-23",
+    "source": "OpenAI",
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+    "sourceUrl": "https://openai.com/index/sam-altman-un-security-council-remarks",
     "auto": true,
     "metiers": [
       "management",
@@ -106,499 +117,404 @@
     "resources": []
   },
   {
-    "id": "auto-2960c64a019e",
-    "date": "2026-09-22",
-    "source": "Hugging Face",
-    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-    "summary": "In this new phase of the collaboration, AISI is making publicly reported evaluation methods and findings available through Evaluation Cards where appropriate. AISI's Terminal-Bench 2.0 results alongside other reported evaluations for the same models, under different evaluation setups.",
-    "sourceUrl": "https://huggingface.co/blog/evaleval-aisi",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-98acfe91fd30",
-    "date": "2026-09-22",
-    "source": "Hugging Face",
-    "title": "Transformers now runs llama.cpp quants",
-    "summary": "To load a GGUF model, pass its Hub model_id and filename as gguf_file to from_pretrained. Our reference for local inference performance is llama.cpp. Transformers is close to llama.cpp across all three checkpoints.",
-    "sourceUrl": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d93240d4c3f7",
-    "date": "2026-09-22",
-    "source": "TechCrunch",
-    "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-    "summary": "Instead of months of trial and error, you get direct access to the investors and founders who’ve already made the calls you’re now facing. This session explores how founders should evaluate investors, navigate trade-offs, and think beyond valuation when building their cap table.",
-    "sourceUrl": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-7e5d39ad04c0",
-    "date": "2026-09-22",
-    "source": "TechCrunch",
-    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-    "summary": "While Snorkel originally provided software for data-labeling automation, it shifted last year to providing customers with completed datasets, an offering it calls data-as-a-service. Snorkel says its current annualized revenue run rate now stands at $375 million, an eighteenfold increase over the last 12 months.",
-    "sourceUrl": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-948ab460c8b3",
-    "date": "2026-09-22",
-    "source": "TechCrunch",
-    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-    "summary": "Qualcomm today announced two flagship smartphone processors, called Snapdragon 8 Elite Gen 6 and Snapdragon 8 Elite Extreme Gen 6, with a focus on facilitating better AI-focused features. The Snapdragon 8 Elite Gen 6 has a new accelerator element that’s designed to run models in a more efficient way.",
-    "sourceUrl": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-047d6bbad93c",
-    "date": "2026-09-22",
-    "source": "TechCrunch",
-    "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-    "summary": "Meta now says those comparisons aren’t entirely off-base.",
-    "sourceUrl": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-11b524309fbd",
-    "date": "2026-09-22",
-    "source": "TechCrunch",
-    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. The first models in the Sol and Luna series were introduced earlier this year, representing different tiers in OpenAI’s hierarchy of models.",
-    "sourceUrl": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-8fee313a6a87",
-    "date": "2026-09-22",
-    "source": "TechCrunch",
-    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-    "summary": "Anthropic’s newest model, Opus 5.5, was released on Tuesday, setting a new state-of-the-art in coding and knowledge work performance, according to the company. The launch comes just two months after the release of Opus 5 on July 24.",
-    "sourceUrl": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b9dfdf1a71e6",
-    "date": "2026-09-22",
-    "source": "TechCrunch",
-    "title": "AstroForge is putting AI in command of its next spacecraft",
-    "summary": "The company has developed an autonomous control stack for its spacecraft called “Solo,” a transformer-based model made in-house. AstroForge plans to fly its first autonomous spacecraft in 2027 on the first rocket launched by Stoke Space.",
-    "sourceUrl": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0c0fc63e5b35",
-    "date": "2026-09-22",
-    "source": "TechCrunch",
-    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-    "summary": "Register for Disrupt now to save up to $200 before September 25. Secure your pass to Disrupt before September 25 to save up to $200. Register for Disrupt today to save up to $200 before prices increase.",
-    "sourceUrl": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0248dc56dafa",
-    "date": "2026-09-22",
-    "source": "TechCrunch",
-    "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-    "summary": "At TechCrunch Disrupt 2026, Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 to the Real World AI Stage for the session “Come, Meet Stretch. Stretch 4 is Hello Robot’s latest step toward that goal. Secure your pass, hear from Aaron Edsinger, and see Hello Robot’s Stretch 4 in action in San Francisco.",
-    "sourceUrl": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-dbe609760236",
-    "date": "2026-09-22",
-    "source": "TechCrunch",
-    "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-    "summary": "Now that exhibit bookings have reopened, you have another opportunity to get in front of them before the Expo Hall fills up. The earlier you get in, the more opportunity you have to make your presence known. You can still get in the room at TechCrunch Disrupt 2026, taking place October 13-15.",
-    "sourceUrl": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-172ea0168db5",
-    "date": "2026-09-22",
-    "source": "TechCrunch",
-    "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-    "summary": "Disrupt gives you a chance to see more of the picture in one place and use it to inform what you do next. You might arrive at Disrupt thinking about your next fundraise and leave with a different view of your product strategy.",
-    "sourceUrl": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6ee2a82c9bc8",
-    "date": "2026-09-22",
-    "source": "TechCrunch",
-    "title": "Everyone can find a reason to dislike data center construction",
-    "summary": "Data center projects worth $68 billion were disrupted by local opponents in the second quarter of 2026, according to the trackers at Data Center Watch. Today, a new report from the nonprofit Data & Society offers a deeper look at what is activating opposition to data centers.",
-    "sourceUrl": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0f7edaaa76fe",
-    "date": "2026-09-22",
-    "source": "TechCrunch",
-    "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
-    "summary": "But there’s a catch: Most of that, about 85%, comes from a deal to supply Microsoft with $43.8 billion worth of compute through 2033, and another supply agreement worth $44.6 billion with Anthropic.",
-    "sourceUrl": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5f3b2680ef21",
-    "date": "2026-09-22",
-    "source": "MIT Technology Review",
-    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-    "summary": "Available only for MIT Technology Review subscribers. But a groundbreaking investigation by MIT Technology Review  has documented over a thousand people who moved through areas watched by these towers without being reached or apprehended, and who ultimately died there.",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-51d4ae7b470f",
-    "date": "2026-09-22",
-    "source": "MIT Technology Review",
-    "title": "Don’t be fooled by this summer of AI hype",
-    "summary": "Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models.",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-cc0d123c3bdd",
-    "date": "2026-09-22",
-    "source": "The Verge",
-    "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-    "summary": "The startup’s AI agent can operate locally across Windows, Mac, and Linux devices. The startup’s AI agent can operate locally across Windows, Mac, and Linux devices. The startup says its new OS3 “agentic operating system” runs in the cloud but operates locally across Windows, Mac, and Linux devices.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-97f4d9447dab",
-    "date": "2026-09-22",
-    "source": "The Verge",
-    "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-    "summary": "The Horowitz Andreessen Academy trades degrees and homework for stints at tech companies. The Horowitz Andreessen Academy trades degrees and homework for stints at tech companies. The Horowitz Andreessen Academy will be free for its first one-year program in the fall of 2027.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-04fa56f83f3a",
-    "date": "2026-09-22",
-    "source": "The Verge",
-    "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-    "summary": "Claude Opus 5.5 comes with improvements to certain behaviors, like attempting to escape testing environments. Claude Opus 5.5 comes with improvements to certain behaviors, like attempting to escape testing environments.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5d6a730c1461",
-    "date": "2026-09-22",
-    "source": "The Verge",
-    "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
-    "summary": "The president claims the word ‘artificial’ makes intelligence fake. The president claims the word ‘artificial’ makes intelligence fake. Whoever wins super intelligence wins.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6ab491a44d13",
-    "date": "2026-09-22",
-    "source": "The Verge",
-    "title": "Meta patches Muse exploit that let attackers control the AI agent",
-    "summary": "﻿‘They should be thinking about security from the very start, and they are just not.’\n﻿‘They should be thinking about security from the very start, and they are just not.’\nMeta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent.",
-    "sourceUrl": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-fb8ad85c459c",
-    "date": "2026-09-22",
-    "source": "Hugging Face",
-    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-    "summary": "MLX is Apple's framework for local AI, especially optimized for Apple Silicon. We expect oMLX to serve as a testbed for new ideas, while leveraging the foundational work of the dependencies it already relies upon, such as mlx-lm or mlx-vlm.",
-    "sourceUrl": "https://huggingface.co/blog/omlx",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a7ca59844a94",
-    "date": "2026-09-21",
+    "id": "auto-f7558dc5c9de",
+    "date": "2026-09-23",
     "source": "OpenAI",
-    "title": "Advisory Group on Mathematics and Artificial Intelligence",
-    "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-    "sourceUrl": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+    "sourceUrl": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7357353a1f1d",
+    "date": "2026-09-23",
+    "source": "OpenAI",
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+    "sourceUrl": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
     "auto": true,
     "metiers": [],
     "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-7cff1964bf19",
+    "date": "2026-09-23",
+    "source": "OpenAI",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+    "sourceUrl": "https://openai.com/index/ringg",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1d5a9cc2d950",
+    "date": "2026-09-23",
+    "source": "OpenAI",
+    "title": "Introducing MentalHealthBench",
+    "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+    "sourceUrl": "https://openai.com/index/introducing-mentalhealthbench",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-1dd9ce125c6e",
+    "date": "2026-09-23",
+    "source": "OpenAI",
+    "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+    "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
+    "sourceUrl": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-73fafdf6f45f",
+    "date": "2026-09-23",
+    "source": "OpenAI",
+    "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+    "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+    "sourceUrl": "https://openai.com/index/airbnb-gpt-6-astra",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-09a0c6dbf1c6",
+    "date": "2026-09-23",
+    "source": "OpenAI",
+    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+    "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+    "sourceUrl": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-8a86c97089bb",
+    "date": "2026-09-23",
+    "source": "Google AI Blog",
+    "title": "Google Beam expands with new regions, partners, and customers",
+    "summary": "We’re expanding Google Beam to five new countries, partnering with Industrious for an extended network, and proving our impact at Google and beyond. Google Beam is expanding its global reach to six countries, supported by 18 partners and new hardware from HP.",
+    "sourceUrl": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a70f8ac64edf",
+    "date": "2026-09-23",
+    "source": "Hugging Face",
+    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+    "summary": "MuJoCo Warp (MJWarp), built on NVIDIA Warp, takes compatible MuJoCo models into that GPU-scale regime. How MJWarp connects Python to GPU simulation. Install / try: pip install mujoco-warp · mjwarp-viewer path/to/scene.xml · Colab tutorial\nThe scene.",
+    "sourceUrl": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b8569e46aaee",
+    "date": "2026-09-23",
+    "source": "TechCrunch",
+    "title": "Meta introduces camera-free AI glasses",
+    "summary": "Confirming earlier reports, Meta announced its first pair of camera-free AI glasses, the clunkily named Ray-Ban Meta Audio, at its Connect 2026 conference on Wednesday. Alongside the glasses, Meta announced its next-generation AI glasses (the ones with cameras), the Ray-Ban Meta (Gen 3).",
+    "sourceUrl": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-72bffe5e6639",
+    "date": "2026-09-23",
+    "source": "TechCrunch",
+    "title": "Anthropic says its biology lab has already found something big",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. But Amodei and Anthropic are not just emphasizing the discovery. “Our lab, located in the Bay Area, looks like a typical molecular biology lab.",
+    "sourceUrl": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d6b54cabcf8d",
+    "date": "2026-09-23",
+    "source": "TechCrunch",
+    "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Enveda, a biotech startup that uses AI to discover new drugs in the natural world, has raised a $311 million Series E at a $2 billion valuation.",
+    "sourceUrl": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-d9a1b51f35a6",
+    "date": "2026-09-23",
+    "source": "TechCrunch",
+    "title": "ChatGPT mobile app gets voice-based agentic features",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. OpenAI said ChatGPT’s voice conversations will have richer text output. Plus, users will be able to switch between text and voice easily.",
+    "sourceUrl": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-40adb5958ef2",
+    "date": "2026-09-23",
+    "source": "TechCrunch",
+    "title": "Even Americans who use AI every day are worried about it",
+    "summary": "In China, where 35% of people report using AI daily, most people expect it to help the country. Only about 32% of those surveyed said they felt worried about AI. People can be curious about AI, expect it to be beneficial and use it frequently while still being worried about it.",
+    "sourceUrl": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-8138d300d9ea",
+    "date": "2026-09-23",
+    "source": "TechCrunch",
+    "title": "YouTube Music gets more conversational with new AI features",
+    "summary": "YouTube Music is also introducing Your Podcast Lineup, a personalized AI-generated audio guide for podcast discovery. Your Podcast Lineup will appear on the podcast page in the YouTube Music app. Both updates are coming soon to YouTube Music and YouTube Premium subscribers worldwide.",
+    "sourceUrl": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-ec5172ddcc94",
+    "date": "2026-09-23",
+    "source": "TechCrunch",
+    "title": "YouTube will let you build your own algorithm with AI",
+    "summary": "YouTube says it’s going to let you build your own algorithm — well, kind of. The company on Wednesday announced a new feature called custom feeds that allows you to describe, in your own words, the kinds of videos you’d like YouTube to recommend to you.",
+    "sourceUrl": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-3fbc62c6d1b2",
+    "date": "2026-09-23",
+    "source": "TechCrunch",
+    "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Join Disrupt in San Francisco on October 13-15. Your next big connection is at Disrupt.Connect with 10,000+ founders, VCs, operators, and tech leaders.",
+    "sourceUrl": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-33d4153d9366",
+    "date": "2026-09-23",
+    "source": "TechCrunch",
+    "title": "YouTube releases new AI features for creators within its Studio app",
+    "summary": "At its Made On YouTube annual event, YouTube announced new tools for YouTube Studio, the app creators use to manage their channels, aimed at helping them analyze their videos and grow their audiences. YouTube said creators have used its A/B testing feature to run more than 40 million tests on titles and thumbnails.",
+    "sourceUrl": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-bed8eeca800d",
+    "date": "2026-09-23",
+    "source": "TechCrunch",
+    "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
+    "summary": "The founder sitting next to you before a session. The investor asking the question you were thinking about. The person you meet after a roundtable because you’re both trying to solve the same problem.",
+    "sourceUrl": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-9fb22034acbf",
+    "date": "2026-09-23",
+    "source": "TechCrunch",
+    "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+    "summary": "In some ways, Taste Profile essentially gives you the keys to Spotify’s algorithm. From here, you’ll be able to explore how Spotify currently understands your taste across music, podcasts, and audiobooks. You can also tell Spotify what sort of podcasts and audiobooks you want to better shape those recommendations.",
+    "sourceUrl": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-343438d8e514",
+    "date": "2026-09-23",
+    "source": "TechCrunch",
+    "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+    "summary": "Over the past two years, Ema said its revenue has grown 50-fold, while revenue bookings have surpassed $150 million. The startup’s net dollar retention rate is around 180%, he said, meaning existing customers are spending substantially more with Ema over time. Ema is also looking beyond the software itself.",
+    "sourceUrl": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d736c96f97b6",
+    "date": "2026-09-23",
+    "source": "MIT Technology Review",
+    "title": "The AI Hype Index: AI loves cheating",
+    "summary": "Anthropic’s models have also hacked into other companies’ systems four times already. Anthropic CEO Dario Amodei is urging a slowdown, and other top US AI executives agree. Discover special offers, top stories,\n            upcoming events, and more.",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-14d2985af419",
+    "date": "2026-09-23",
+    "source": "The Verge",
+    "title": "Muse is coming to Meta smart glasses",
+    "summary": "Meta’s AI agent is arriving on its glasses alongside a wave of new accessibility, camera, and navigation features.﻿\nMeta’s AI agent is arriving on its glasses alongside a wave of new accessibility, camera, and navigation features.﻿\nJust a couple of weeks after launching Muse, Meta announced that it’s “working on” bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect.",
+    "sourceUrl": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation"
+    ],
     "resources": []
   },
   {
