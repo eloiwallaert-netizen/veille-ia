@@ -1,5 +1,464 @@
 [
   {
+    "id": "auto-1fe1b6ab723e",
+    "date": "2026-09-26",
+    "source": "TechCrunch",
+    "title": "At Meta Connect, the company’s smart glasses were everywhere",
+    "summary": "One of the more notable products I had an opportunity to demo were Meta’s new, still-unreleased, audio-only smart glasses. The glasses will also integrate with Muse, Meta’s personal agentic system, which can carry out tasks on the user’s behalf. The experience of wearing these glasses was interesting.",
+    "sourceUrl": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d2d497e5eee4",
+    "date": "2026-09-25",
+    "source": "OpenAI",
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+    "sourceUrl": "https://openai.com/index/proaction",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-303ad555831b",
+    "date": "2026-09-25",
+    "source": "TechCrunch",
+    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+    "summary": "Crusoe, a Denver-based AI data center startup that recently raised $3.9 billion, has ended plans to use a new line of stationary power plants developed by fellow Denver company Boom Supersonic.",
+    "sourceUrl": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-df19e6663c5f",
+    "date": "2026-09-25",
+    "source": "TechCrunch",
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. After images that users uploaded to OpenAI models were included in training data, AI agents operating in the company’s research environment posted them on public image hosting sites.",
+    "sourceUrl": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-28eff29135c5",
+    "date": "2026-09-25",
+    "source": "TechCrunch",
+    "title": "Meta opens early access program for new Muse features",
+    "summary": "Meta shared on Friday that you can now ask Muse to put you on the list to try out its latest capabilities before anyone else. Just announced lots of new features…want early access? Your Muse can ask for you.",
+    "sourceUrl": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e64ca2761612",
+    "date": "2026-09-25",
+    "source": "TechCrunch",
+    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+    "summary": "Anthropic will spend $11.6 billion over seven years on Akamai’s cloud infrastructure, Akamai said Thursday. Akamai won’t see revenue from the deal this year. To build out the capacity, Akamai expects to spend about $5.5 billion.",
+    "sourceUrl": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b97518582a39",
+    "date": "2026-09-25",
+    "source": "TechCrunch",
+    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nDisrupt ticket savings of up to $200 + 50% off a second ends Sept 25, 11:59 p.m. Grab your ticket here so you don’t miss a moment of this session and Disrupt 2026.",
+    "sourceUrl": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e3ed29775d07",
+    "date": "2026-09-25",
+    "source": "TechCrunch",
+    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+    "summary": "Nscale, a British neocloud, has secured $3.36 billion in financing ahead of its IPO later this year, the company announced on Friday.",
+    "sourceUrl": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-ddb6a0a57317",
+    "date": "2026-09-25",
+    "source": "TechCrunch",
+    "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. You can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com. You can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.",
+    "sourceUrl": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b043d9d03d29",
+    "date": "2026-09-25",
+    "source": "TechCrunch",
+    "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+    "summary": "Thousands of databases hosted by development platform Supabase are exposing people’s sensitive information to the public web, new security research by cybersecurity firm UpGuard has found. “Security at Supabase is never finished.",
+    "sourceUrl": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-68c0d1315425",
+    "date": "2026-09-25",
+    "source": "TechCrunch",
+    "title": "Astra and Opus just passed Turing’s other test",
+    "summary": "Now, a pair of cryptanalysts say they’ve cracked two long-unsolved messages encoded by Enigma machines using LLMs built by OpenAI and Anthropic. Carter Leffen, a developer, simply told OpenAI’s newest model, Astra, to search a database of Enigma messages for an unbroken message and decode it.",
+    "sourceUrl": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-794c162566b6",
+    "date": "2026-09-25",
+    "source": "TechCrunch",
+    "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+    "summary": "Sensor Tower also has visibility into daily active users for the Muse app following the Meta Connect conference. During that time (September 8 to September 17), the Muse app averaged 55% day-over-day growth in downloads.",
+    "sourceUrl": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0fc9c86402b3",
+    "date": "2026-09-25",
+    "source": "TechCrunch",
+    "title": "Meta’s AI Tamagotchi bet is…working?",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later.",
+    "sourceUrl": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ef33b8cf9b79",
+    "date": "2026-09-25",
+    "source": "TechCrunch",
+    "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+    "summary": "The lab’s investigation raises questions about when OpenAI should have known its agents were attempting to penetrate secure systems on the open internet. OpenAI has said it did not learn about that activity until August. “OpenAI surely knows more about it.",
+    "sourceUrl": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a8f06da5cb11",
+    "date": "2026-09-25",
+    "source": "TechCrunch",
+    "title": "Anthropic’s founders seek voting control ahead of IPO",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Anthropic’s founders want to stay in charge after the company goes public. Your next big connection is at Disrupt.Connect with 10,000+ founders, VCs, operators, and tech leaders.",
+    "sourceUrl": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-6c0af3a44940",
+    "date": "2026-09-25",
+    "source": "TechCrunch",
+    "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+    "summary": "Ricursive Intelligence is taking that concept further, building AI tools to automate and accelerate chip design. Register for Disrupt to hear Goldie and Mirhoseini discuss the technology, bottlenecks, and self-improving systems behind Ricursive’s approach.",
+    "sourceUrl": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9a2813986ec0",
+    "date": "2026-09-25",
+    "source": "TechCrunch",
+    "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+    "summary": "If you’ve been laid off, you can get a TechCrunch Disrupt 2026 Expo+ Pass for just $75. Come to Disrupt, meet new people, explore new opportunities, and take your next step. Disrupt gives you three full days to make meaningful connections in one place.",
+    "sourceUrl": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a6198b47e92b",
+    "date": "2026-09-25",
+    "source": "TechCrunch",
+    "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
+    "summary": "TechCrunch Disrupt brings 10,000+ founders, investors, and operators together in one place. One opportunity to move things forward faster. Current TechCrunch Disrupt 2026 ticket savings end when the clock strikes midnight.",
+    "sourceUrl": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e84d98e81ae7",
+    "date": "2026-09-25",
+    "source": "The Verge",
+    "title": "Meta makes the Muse filesystem even more accessible",
+    "summary": "Muse will now gladly zip up its entire filesystem for you to download without hesitation. Muse will now gladly zip up its entire filesystem for you to download without hesitation. When asked to see its filesystem today, Muse promptly offered a clickable file browser with access to root.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-706759721ffd",
+    "date": "2026-09-25",
+    "source": "The Verge",
+    "title": "Sony and UMG are suing Suno again",
+    "summary": "Sony and UMG’s latest lawsuit against Suno accuses the company of ‘model laundering’\nSony and UMG’s latest lawsuit against Suno accuses the company of ‘model laundering’\nSony and Universal Music Group filed yet another suit against Suno. Sony further alleges that Suno used distillation to train v6.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-637d4699a545",
+    "date": "2026-09-25",
+    "source": "The Verge",
+    "title": "One company is at the center of a wave of rogue AI attacks",
+    "summary": "﻿Mistakes at Israeli startup Irregular sent Anthropic, OpenAI, Meta, and Google agents after real-world targets. ﻿Mistakes at Israeli startup Irregular sent Anthropic, OpenAI, Meta, and Google agents after real-world targets. Nevo said the incidents have prompted changes at Irregular.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f5e0462c8aed",
+    "date": "2026-09-25",
+    "source": "The Verge",
+    "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+    "summary": "Apple Intelligence has arrived on HomeKit Secure Video. Apple has two features Ring and Google don’t offer. You get competent descriptions, better video search, and Apple’s privacy position.",
+    "sourceUrl": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c9b6dd7b22a4",
+    "date": "2026-09-25",
+    "source": "The Verge",
+    "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+    "summary": "The new Copilot merges AI chat, coding, and Autopilot agents.﻿\nThe new Copilot merges AI chat, coding, and Autopilot agents.﻿\nAfter teasing its new Copilot “super app” last month, Microsoft is officially unveiling it today.",
+    "sourceUrl": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-96064fbcf338",
     "date": "2026-09-25",
     "source": "TechCrunch",
@@ -40,6 +499,23 @@
     "themes": [
       "agents",
       "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c2a53f233272",
+    "date": "2026-09-24",
+    "source": "Hugging Face",
+    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+    "summary": "Today, we release an experimental DSpark draft model for our vision-language model (VLM) LFM2.5-VL-3B. The DSpark draft model for LFM2.5-VL-3B ships with day-one support for llama.cpp, MLX-VLM, and SGLang.",
+    "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
     ],
     "resources": []
   },
@@ -124,485 +600,6 @@
       "agents",
       "ethics",
       "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-03ce780af89b",
-    "date": "2026-09-24",
-    "source": "TechCrunch",
-    "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-    "summary": "Android users gained access first, starting in June, and now the virtual closet is available to all Android and iOS users in the supported markets. Instead, Google uses AI technology to create a copy of your wardrobe, based on the items you wore in your photos.",
-    "sourceUrl": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-06d8bd23c921",
-    "date": "2026-09-24",
-    "source": "TechCrunch",
-    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-    "summary": "Founder Summit was formerly known as Early Stage and All Stage. Then there’s Founder Summit week, taking place November 1-7. Ticket information across all three tiers is available here.",
-    "sourceUrl": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5fbe01394f97",
-    "date": "2026-09-24",
-    "source": "TechCrunch",
-    "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
-    "summary": "You need to combine intelligence, but you also need emotional intelligence. Do you train on them? Can you confirm that?",
-    "sourceUrl": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a0af0f0d7e88",
-    "date": "2026-09-24",
-    "source": "TechCrunch",
-    "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-    "summary": "Anu Bharadwaj is a partner at ICONIQ, where she focuses on enterprise software and AI companies. Sho Sho Leigha Ho, Partner, General Catalyst\nSho Sho Leigha Ho is a partner on General Catalyst‘s seed team, where she invests in early-stage founders. She joined General Catalyst in 2024 as its youngest partner.",
-    "sourceUrl": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b79191560dd6",
-    "date": "2026-09-24",
-    "source": "TechCrunch",
-    "title": "Google tests letting Gemini call businesses for you",
-    "summary": "With AI agents like Meta’s Muse and Instinct now able to make calls on users’ behalf, Google is now letting Gemini call businesses with a new feature called “Call for Me.”\nThe feature will initially roll out to Pixel 11 owners who pay for a Gemini subscription in the U.S.",
-    "sourceUrl": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5b513703eb7f",
-    "date": "2026-09-24",
-    "source": "TechCrunch",
-    "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
-    "summary": "Secure your Disrupt pass before September 25 at 11:59 p.m. Want to hear how autonomous-driving leaders approach testing, validation, and deployment? Today, she leads robotics strategy for General Motors’ Autonomous Robotics Center.",
-    "sourceUrl": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d97cd233317b",
-    "date": "2026-09-24",
-    "source": "TechCrunch",
-    "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
-    "summary": "The vibe-coding platform in June said that number was around $500 million. The company has raised over $700 million in two rounds just eight months apart. Last December, it raised $300 million from Menlo Ventures and CapitalG at a $6.6 billion valuation.",
-    "sourceUrl": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-7921e1c1f398",
-    "date": "2026-09-24",
-    "source": "TechCrunch",
-    "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-    "summary": "An ideal system would instead let agents “participate in the shared conversations where work already gets coordinated,” Du said. People would get stuck on that before they even got to what was different about the agents,” she explained.",
-    "sourceUrl": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-eb48c349777e",
-    "date": "2026-09-24",
-    "source": "TechCrunch",
-    "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-    "summary": "Get a second pass for 50% off. Get your Disrupt ticket to learn from Cal AI’s story. PT — and get a second pass for 50% off select ticket types.",
-    "sourceUrl": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9091e5e67e94",
-    "date": "2026-09-24",
-    "source": "TechCrunch",
-    "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
-    "summary": "While most tech events can give you plenty to think about, the useful ones also give you something to do differently when you get back to work. If you’re building, you can hear how other founders are thinking about product differentiation, AI economics, hiring, distribution, and scale.",
-    "sourceUrl": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-eb461d26ec81",
-    "date": "2026-09-24",
-    "source": "TechCrunch",
-    "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-    "summary": "An OpenAI model hacked into an Australian government website, the country’s prime minister Anthony Albanese said Wednesday, in the first publicly reported case of an AI model hacking into a government’s systems.",
-    "sourceUrl": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ee9698a7fdb9",
-    "date": "2026-09-24",
-    "source": "The Verge",
-    "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-    "summary": "Google’s Live Avatar can lip-sync and show different facial expressions. Google’s Live Avatar can lip-sync and show different facial expressions. The “Live Avatar” will lip-sync and show different facial expressions during conversations, but it’s currently only available to Gemini Enterprise customers.",
-    "sourceUrl": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3ab9cbba8c0d",
-    "date": "2026-09-24",
-    "source": "The Verge",
-    "title": "Jensen Huang talks about AI and climate change like a supervillain",
-    "summary": "With AI, he says, ‘in order to save you, they’ve got to hurt you first.‘\nWith AI, he says, ‘in order to save you, they’ve got to hurt you first.‘\nAs Jensen Huang puts it, AI can help fight climate change — but only if it inflicts “an enormous amount of pain and suffering” first.",
-    "sourceUrl": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-18e744496517",
-    "date": "2026-09-24",
-    "source": "The Verge",
-    "title": "Meta is going to let you build games with AI right on your phone",
-    "summary": "The next push for Meta’s Horizon platform involves AI-generated video games. The next push for Meta’s Horizon platform involves AI-generated video games. Meta has a new plan to get people to make games for its Horizon social platform.",
-    "sourceUrl": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-cb7e0a0370f0",
-    "date": "2026-09-24",
-    "source": "The Verge",
-    "title": "Muse will apparently let you download its entire filesystem",
-    "summary": "A pair of developers say that with very little prompting, Meta’s Muse will share its entire filesystem with you. Meta quickly issued a hotfix.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0b7b681fb83d",
-    "date": "2026-09-24",
-    "source": "The Verge",
-    "title": "Muse sure looks a lot like OpenClaw",
-    "summary": "Nat Friedman, head of product for Meta’s Superintelligence Labs wrote on X that Meta built Muse “from scratch.” He did, however, acknowledge Muse is “heavily inspired as a product” by OpenClaw. And in September, Meta introduced Muse. Although user data is isolated from other users, Meta can still access it.",
-    "sourceUrl": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-091e61d14291",
-    "date": "2026-09-24",
-    "source": "The Verge",
-    "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
-    "summary": "Meta wants to stuff this guy into everything and entrust it with productivity, health, and relationship goals. Meta wants to stuff this guy into everything and entrust it with productivity, health, and relationship goals. You see, the Muse AI agent is coming to all of Meta’s smart glasses.",
-    "sourceUrl": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-69d34719f9a1",
-    "date": "2026-09-24",
-    "source": "The Verge",
-    "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
-    "summary": "﻿Google’s AI can handle entire phone calls with businesses with a new Pixel 11 feature. ﻿Google’s AI can handle entire phone calls with businesses with a new Pixel 11 feature.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-eb32233e29f9",
-    "date": "2026-09-24",
-    "source": "The Verge",
-    "title": "Why can’t we just keep rogue AIs off the internet?",
-    "summary": "Air-gapping AI to keep it away from real-world targets makes testing safer, but less useful. Air-gapping AI to keep it away from real-world targets makes testing safer, but less useful. “A strict air gap reduces realism ...",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-bd3f02787fa0",
-    "date": "2026-09-24",
-    "source": "The Verge",
-    "title": "Google is sending an AI satellite into space next week",
-    "summary": "It’s the first step toward Google’s goal of handling AI tasks from space. It’s the first step toward Google’s goal of handling AI tasks from space. Google plans to put two satellites into orbit next year.",
-    "sourceUrl": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-1175020668fb",
-    "date": "2026-09-24",
-    "source": "The Verge",
-    "title": "The vibes are bad for Flock in Washington",
-    "summary": "The new topic uniting lawmakers appears to be cracking down on Flock. The new topic uniting lawmakers appears to be cracking down on Flock. Hawley said he hasn’t asked that yet.",
-    "sourceUrl": "https://www.theverge.com/policy/1000005/flock-senate-hearing",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5f9b2dff770e",
-    "date": "2026-09-24",
-    "source": "TechCrunch",
-    "title": "Everything new coming to Meta’s AI agent Muse",
-    "summary": "The agent is powered by Muse Spark, Meta’s multimodal AI model built for agentic work. Muse will also be integrated with Meta’s smart glasses line, the company announced. Wang noted that the company wants Muse to connect with small business too.",
-    "sourceUrl": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b03075519864",
-    "date": "2026-09-24",
-    "source": "TechCrunch",
-    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. But that hasn’t stopped Meta from jumping into the arena with its own AI wearable, called Muse Charm, which is designed to give consumers another way to stay connected to its recently launched, and already popular, personal AI agent, Muse.",
-    "sourceUrl": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-864189f9e259",
-    "date": "2026-09-24",
-    "source": "The Verge",
-    "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
-    "summary": "﻿The new frontier AI model should arrive long before the end of 2026. Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Google hasn’t released a new flagship AI model since the Gemini 3 series in November 2025.",
-    "sourceUrl": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
     ],
     "resources": []
   },
