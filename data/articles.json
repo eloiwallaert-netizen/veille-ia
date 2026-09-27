@@ -1,5 +1,115 @@
 [
   {
+    "id": "auto-b09c672e4408",
+    "date": "2026-09-27",
+    "source": "TechCrunch",
+    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+    "summary": "Google said at the time that the technology would allow shoppers to buy eligible products through Gemini and AI Mode using a Google-hosted checkout experience. The Flipkart test seen by TechCrunch appears different from the Google-hosted checkout experience the Gemini maker demonstrated earlier.",
+    "sourceUrl": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d70ce2b78b06",
+    "date": "2026-09-26",
+    "source": "TechCrunch",
+    "title": "Insurers claim AI is already increasing healthcare costs",
+    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Hospitals’ use of artificial intelligence tools as they submit insurance claims led to an additional $942 million in healthcare spending over a two-year period, according to an analysis by the Blue Cross Blue Shield Association.",
+    "sourceUrl": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c6fb97f6187a",
+    "date": "2026-09-26",
+    "source": "TechCrunch",
+    "title": "I created an interactive digital avatar of myself — and you can talk to it",
+    "summary": "It was an interactive virtual avatar of him, trained to answer common press questions about Synthesia, like what it does and how it works.",
+    "sourceUrl": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-819e92326da0",
+    "date": "2026-09-26",
+    "source": "The Verge",
+    "title": "OpenAI pauses training of its ‘most capable models’",
+    "summary": "OpenAI keeps uncovering incidents of its models behaving in ‘unexpected or concerning’ ways. OpenAI keeps uncovering incidents of its models behaving in ‘unexpected or concerning’ ways.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-344d41dcb1d6",
+    "date": "2026-09-26",
+    "source": "The Verge",
+    "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+    "summary": "All you publishers are complaining. You had a lot of power, you were going to use it. You wrote that, and then you said you didn’t do it because Cloudflare is struggling.",
+    "sourceUrl": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-1fe1b6ab723e",
     "date": "2026-09-26",
     "source": "TechCrunch",
@@ -498,107 +608,6 @@
     ],
     "themes": [
       "agents",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c2a53f233272",
-    "date": "2026-09-24",
-    "source": "Hugging Face",
-    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-    "summary": "Today, we release an experimental DSpark draft model for our vision-language model (VLM) LFM2.5-VL-3B. The DSpark draft model for LFM2.5-VL-3B ships with day-one support for llama.cpp, MLX-VLM, and SGLang.",
-    "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b5f88521e80c",
-    "date": "2026-09-24",
-    "source": "TechCrunch",
-    "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-    "summary": "Buy one Founder pass and get a second one for 50% off — a $425 savings. Buy one Expo+ pass and get a second one for 50% off — a $162 savings. Buy one pass and get a second pass for 50% off while you still can.",
-    "sourceUrl": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9ef4a7c3c631",
-    "date": "2026-09-24",
-    "source": "TechCrunch",
-    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-    "summary": "The AI Lab PrismML — founded by Caltech researchers and advised by UC Berkeley’s Ion Stoica — has created a version of its tiny language models for smart glasses running on Qualcomm’s Snapdragon chips.",
-    "sourceUrl": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-57d9461ca601",
-    "date": "2026-09-24",
-    "source": "TechCrunch",
-    "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Oracle has sent a force majeure notice to the developer of Project Jupiter, a Stargate data center campus in New Mexico, Bloomberg first reported Thursday.",
-    "sourceUrl": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6374a69076e5",
-    "date": "2026-09-24",
-    "source": "TechCrunch",
-    "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-    "summary": "One analyst firm estimates the global bag charm market will grow to over $1 billion by 2030.",
-    "sourceUrl": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics",
       "data"
     ],
     "resources": []
