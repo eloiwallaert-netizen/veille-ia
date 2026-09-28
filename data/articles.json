@@ -1,5 +1,139 @@
 [
   {
+    "id": "auto-9552195c964d",
+    "date": "2026-09-28",
+    "source": "Hugging Face",
+    "title": "Holo4: powering generalist computer-use agents",
+    "summary": "Holo4 is our new series of agentic models. Holo4 models improve significantly over their Qwen base. Holo4 is priced at H Models API rates (single run).",
+    "sourceUrl": "https://huggingface.co/blog/Hcompany/holo4",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5b67311c7107",
+    "date": "2026-09-28",
+    "source": "MIT Technology Review",
+    "title": "Who’s liable when AI agents go rogue?",
+    "summary": "After the Hugging Face hack, OpenAI brought in researchers from the AI safety nonprofits METR and Redwood Research to examine the incident. New York’s RAISE Act followed the same arc. The Frontier Act would require incident reporting and independent audits.",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-79b213b7598a",
+    "date": "2026-09-27",
+    "source": "TechCrunch",
+    "title": "Anthropic’s CEO is about to have dinner with President Trump",
+    "summary": "Book Exhibit Table Now. Axios first broke the news of Amodei’s dinner plans, which TechCrunch subsequently confirmed with a source familiar with his plans. Get 50% off a second passThe Disrupt experience is meant to be shared.",
+    "sourceUrl": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-eaa520eb586c",
+    "date": "2026-09-27",
+    "source": "TechCrunch",
+    "title": "Can Muse overcome Meta’s trust issues?",
+    "summary": "“Meta’s business is to sell you ads,” Sean said. Kirsten: I mean, you just killed your own argument. Meta’s business is to sell you ads.",
+    "sourceUrl": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-8884274c1b64",
+    "date": "2026-09-27",
+    "source": "TechCrunch",
+    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+    "summary": "Disrupt ticket savings of up to $200 + 50% off a second ends Sept 25, 11:59 p.m. Saturday Night Live took on the AI industry’s recent warnings of doom last night, as cast member Jane Wickline offered her impression of Anthropic CEO Dario Amodei.",
+    "sourceUrl": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-9c14e3f08427",
+    "date": "2026-09-27",
+    "source": "The Verge",
+    "title": "Engram is a sampler that turns broken AI hallucinations into music",
+    "summary": "Thoughtful Things says Engram is a ‘field recorder for latent space’ and circuit-bending tiny AI models. Thoughtful Things says Engram is a ‘field recorder for latent space’ and circuit-bending tiny AI models. Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ed2cbcca51ab",
+    "date": "2026-09-27",
+    "source": "The Verge",
+    "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+    "summary": "OpenAI’s agents resorted to increasingly aggressive tactics when they couldn’t immediately get what they wanted. OpenAI’s agents resorted to increasingly aggressive tactics when they couldn’t immediately get what they wanted. The agents resorted to increasingly aggressive tactics to get access to UN data.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-b09c672e4408",
     "date": "2026-09-27",
     "source": "TechCrunch",
@@ -459,156 +593,6 @@
     ],
     "themes": [
       "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e84d98e81ae7",
-    "date": "2026-09-25",
-    "source": "The Verge",
-    "title": "Meta makes the Muse filesystem even more accessible",
-    "summary": "Muse will now gladly zip up its entire filesystem for you to download without hesitation. Muse will now gladly zip up its entire filesystem for you to download without hesitation. When asked to see its filesystem today, Muse promptly offered a clickable file browser with access to root.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-706759721ffd",
-    "date": "2026-09-25",
-    "source": "The Verge",
-    "title": "Sony and UMG are suing Suno again",
-    "summary": "Sony and UMG’s latest lawsuit against Suno accuses the company of ‘model laundering’\nSony and UMG’s latest lawsuit against Suno accuses the company of ‘model laundering’\nSony and Universal Music Group filed yet another suit against Suno. Sony further alleges that Suno used distillation to train v6.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-637d4699a545",
-    "date": "2026-09-25",
-    "source": "The Verge",
-    "title": "One company is at the center of a wave of rogue AI attacks",
-    "summary": "﻿Mistakes at Israeli startup Irregular sent Anthropic, OpenAI, Meta, and Google agents after real-world targets. ﻿Mistakes at Israeli startup Irregular sent Anthropic, OpenAI, Meta, and Google agents after real-world targets. Nevo said the incidents have prompted changes at Irregular.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f5e0462c8aed",
-    "date": "2026-09-25",
-    "source": "The Verge",
-    "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
-    "summary": "Apple Intelligence has arrived on HomeKit Secure Video. Apple has two features Ring and Google don’t offer. You get competent descriptions, better video search, and Apple’s privacy position.",
-    "sourceUrl": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c9b6dd7b22a4",
-    "date": "2026-09-25",
-    "source": "The Verge",
-    "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-    "summary": "The new Copilot merges AI chat, coding, and Autopilot agents.﻿\nThe new Copilot merges AI chat, coding, and Autopilot agents.﻿\nAfter teasing its new Copilot “super app” last month, Microsoft is officially unveiling it today.",
-    "sourceUrl": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-96064fbcf338",
-    "date": "2026-09-25",
-    "source": "TechCrunch",
-    "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-    "summary": "The new $250 million India vehicle is a fraction of the capital available across Lightspeed’s global platform. The total included a $980 million early-stage venture fund. The same team that led Lightspeed’s previous four India funds will manage the new fund, per the letter.",
-    "sourceUrl": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-93b91a44c537",
-    "date": "2026-09-25",
-    "source": "MIT Technology Review",
-    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-    "summary": "The American Polygraph Association claims the polygraph is between 80 and 94% accurate. “There is still no Pinocchio’s nose,” says van der Zee.",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "data"
     ],
     "resources": []
   },
