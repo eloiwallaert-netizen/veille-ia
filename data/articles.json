@@ -1,11 +1,390 @@
 [
   {
-    "id": "auto-9552195c964d",
+    "id": "auto-a54b0644eac7",
+    "date": "2026-09-29",
+    "source": "TechCrunch",
+    "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+    "summary": "Reuters was first to report on the financial details within the prospectus on Monday, saying Anthropic recorded an operating loss of more than $8 billion in 2025 as spending on computing power surged, and that its revenue jumped twelvefold to nearly $4.6 billion, though rising infrastructure costs last year pushed total operating expenses to almost $13 billion.",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b9ef252a9e2d",
+    "date": "2026-09-29",
+    "source": "TechCrunch",
+    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+    "summary": "Gandhi says she was Airbnb’s first female engineer and she previously founded Upraised, while Jingade previously co-founded AmbitionBox. The company had already raised roughly $2.3 million in seed funding from growX Ventures and InfoEdge Ventures before joining Surge.",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-09364ac11ad4",
+    "date": "2026-09-29",
+    "source": "MIT Technology Review",
+    "title": "Making AI an asset, not an expense",
+    "summary": "It only makes sense when an enterprise can keep capacity productive. Enterprises need to model their actual workloads, understand expected demand, and size capacity accordingly.",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-cfe8e900401f",
     "date": "2026-09-28",
-    "source": "Hugging Face",
-    "title": "Holo4: powering generalist computer-use agents",
-    "summary": "Holo4 is our new series of agentic models. Holo4 models improve significantly over their Qwen base. Holo4 is priced at H Models API rates (single run).",
-    "sourceUrl": "https://huggingface.co/blog/Hcompany/holo4",
+    "source": "OpenAI",
+    "title": "How we will do better for Australia",
+    "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+    "sourceUrl": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-cf468ec39dd6",
+    "date": "2026-09-28",
+    "source": "OpenAI",
+    "title": "Towards safety cases for frontier AI training",
+    "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+    "sourceUrl": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-216d56bba26c",
+    "date": "2026-09-28",
+    "source": "OpenAI",
+    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+    "sourceUrl": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-914f14710638",
+    "date": "2026-09-28",
+    "source": "OpenAI",
+    "title": "Are you a Codex Original?",
+    "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about…",
+    "sourceUrl": "https://openai.com/form/codex-originals",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-bf0fe8cc388a",
+    "date": "2026-09-28",
+    "source": "OpenAI",
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+    "sourceUrl": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1eadd5627184",
+    "date": "2026-09-28",
+    "source": "Google AI Blog",
+    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "summary": "Earlier this year, we partnered with XPRIZE and Range Media Partners to launch the Future Vision XPRIZE, a global competition calling for films that envision a hopeful, technology-enabled future. Last week in Los Angeles, independent filmmaker Jeff Synthesized was named the grand prize winner for The Gifted.",
+    "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-220dea2c55f4",
+    "date": "2026-09-28",
+    "source": "TechCrunch",
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "summary": "OpenAI had planned to release yet another AI model next month, but has decided to nix the release over safety concerns. Astra was released earlier this month and hailed by OpenAI as its most powerful model yet.",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a84e841eac25",
+    "date": "2026-09-28",
+    "source": "TechCrunch",
+    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "summary": "Modal was founded in 2021 by CEO Erik Bernhardsson and CTO Akshat Bubna. Modal Chief Technology Officer Akshat Bubna said the breach traced back to a flaw in a customer’s own code, not to Modal’s systems. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2f5ef0621565",
+    "date": "2026-09-28",
+    "source": "TechCrunch",
+    "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+    "summary": "AMD is acquiring World Labs, one of the leading developers of deep learning models intended to understand physical reality, in an $8.2 billion deal, the two companies said today. AMD and World Labs formed an inference optimization-and-training partnership last year, and ties have remained close.",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-07c0d45eeffa",
+    "date": "2026-09-28",
+    "source": "TechCrunch",
+    "title": "Shopify opens checkout to browser-based AI agents",
+    "summary": "This update introduces three new tools — get_checkout, update_checkout, and complete_checkout — that allow agents to inspect a checkout, change things like the customer’s address or delivery option, and then place an order after the buyer authorizes it.",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-82272e48cc17",
+    "date": "2026-09-28",
+    "source": "TechCrunch",
+    "title": "The AI boom took over Climate Week and not everyone is happy about it",
+    "summary": "The pivot has helped many climate tech startups land fresh funding from investors. Ultimately, the undercurrent at New York Climate Week was that the data center party won’t last forever, but it might last long enough to help startups build durable businesses. Tim De Chant is a senior climate reporter at TechCrunch.",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-79c5767e260d",
+    "date": "2026-09-28",
+    "source": "TechCrunch",
+    "title": "Nvidia launches new platform for reining in rogue AI agents",
+    "summary": "Huang said Monday during an interview with CNBC that its new Nvidia Open Agent Safety Platform would have prevented these breaches.",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-06e9f36bb849",
+    "date": "2026-09-28",
+    "source": "TechCrunch",
+    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+    "summary": "As the AI model wars continue, Anthropic has released the newest version of Sonnet, the company’s mid-tier model, which it says will work much faster (and for significantly less) than its predecessor. Sonnet 5, 5.5’s predecessor, was announced about three months ago.",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0c80d209a6b8",
+    "date": "2026-09-28",
+    "source": "TechCrunch",
+    "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+    "summary": "However, the work users invested in creating the Gems won’t be destroyed. Users could also make Gems for their own needs, like a running coach, nutritionist, or vacation planner. Gems’ wind-down was first reported over the weekend by 9to5Google.",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-bd9271a6418d",
+    "date": "2026-09-28",
+    "source": "TechCrunch",
+    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+    "summary": "In the example given by OpenAI, an agent asked to read and reply to an email; when the email is opened, it includes instructions for any automated agent reading the message to reply in Spanish, and paste the entire email into its reply.",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-80f86534580d",
+    "date": "2026-09-28",
+    "source": "TechCrunch",
+    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+    "summary": "Meta announced Monday that it’s launching “Meta Enterprise Platform,” a new initiative aimed at expanding the company’s AI offerings to businesses and corporate customers.",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-eb2524f2e415",
+    "date": "2026-09-28",
+    "source": "TechCrunch",
+    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+    "summary": "Anthropic can see patterns across enterprise deployments. At Disrupt, Anthropic brings a view across enterprise deployments, while Gamma and Clay bring the founder perspective on building AI products people actually use.",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
     "auto": true,
     "metiers": [
       "csm",
@@ -22,56 +401,58 @@
     "resources": []
   },
   {
-    "id": "auto-5b67311c7107",
+    "id": "auto-ddea09bd560a",
     "date": "2026-09-28",
-    "source": "MIT Technology Review",
-    "title": "Who’s liable when AI agents go rogue?",
-    "summary": "After the Hugging Face hack, OpenAI brought in researchers from the AI safety nonprofits METR and Redwood Research to examine the incident. New York’s RAISE Act followed the same arc. The Frontier Act would require incident reporting and independent audits.",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+    "source": "TechCrunch",
+    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+    "summary": "Today, she says, DetectifAI, the San Francisco-based company she founded, aims to ensure that others can’t be hoodwinked the same way. Padmanabhuni says a secondary revenue stream will come from licensing the technology to businesses and fraud-prevention firms.",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
     "auto": true,
     "metiers": [
       "csm",
       "management",
       "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1766de63251c",
+    "date": "2026-09-28",
+    "source": "TechCrunch",
+    "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+    "summary": "Register now to save up to $100 before Disrupt doors open, and bring your co-founder, colleague, or peer with a second pass for 50% off. Get 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off.",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
       "product",
       "sales",
       "tech"
     ],
     "themes": [
       "llm",
-      "agents",
-      "ethics"
+      "agents"
     ],
     "resources": []
   },
   {
-    "id": "auto-79b213b7598a",
-    "date": "2026-09-27",
+    "id": "auto-99a28bb41a76",
+    "date": "2026-09-28",
     "source": "TechCrunch",
-    "title": "Anthropic’s CEO is about to have dinner with President Trump",
-    "summary": "Book Exhibit Table Now. Axios first broke the news of Amodei’s dinner plans, which TechCrunch subsequently confirmed with a source familiar with his plans. Get 50% off a second passThe Disrupt experience is meant to be shared.",
-    "sourceUrl": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-eaa520eb586c",
-    "date": "2026-09-27",
-    "source": "TechCrunch",
-    "title": "Can Muse overcome Meta’s trust issues?",
-    "summary": "“Meta’s business is to sell you ads,” Sean said. Kirsten: I mean, you just killed your own argument. Meta’s business is to sell you ads.",
-    "sourceUrl": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "title": "Modulate raises $25M for its voice models and analysis suite",
+    "summary": "Boston-based voice intelligence startup Modulate has raised $25 million in new funding for its platform that uses an array of small models to offer enterprises transcription, emotional analysis, deepfake and AI music detection, and policy enforcement for voice agents in regulated industries.",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
     "auto": true,
     "metiers": [
       "csm",
-      "marketing",
+      "management",
       "ops",
       "product",
       "sales",
@@ -79,48 +460,17 @@
     ],
     "themes": [
       "agents",
-      "genai-product",
-      "data"
+      "ethics"
     ],
     "resources": []
   },
   {
-    "id": "auto-8884274c1b64",
-    "date": "2026-09-27",
+    "id": "auto-c8d62adae181",
+    "date": "2026-09-28",
     "source": "TechCrunch",
-    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-    "summary": "Disrupt ticket savings of up to $200 + 50% off a second ends Sept 25, 11:59 p.m. Saturday Night Live took on the AI industry’s recent warnings of doom last night, as cast member Jane Wickline offered her impression of Anthropic CEO Dario Amodei.",
-    "sourceUrl": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-9c14e3f08427",
-    "date": "2026-09-27",
-    "source": "The Verge",
-    "title": "Engram is a sampler that turns broken AI hallucinations into music",
-    "summary": "Thoughtful Things says Engram is a ‘field recorder for latent space’ and circuit-bending tiny AI models. Thoughtful Things says Engram is a ‘field recorder for latent space’ and circuit-bending tiny AI models. Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ed2cbcca51ab",
-    "date": "2026-09-27",
-    "source": "The Verge",
-    "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-    "summary": "OpenAI’s agents resorted to increasingly aggressive tactics when they couldn’t immediately get what they wanted. OpenAI’s agents resorted to increasingly aggressive tactics when they couldn’t immediately get what they wanted. The agents resorted to increasingly aggressive tactics to get access to UN data.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+    "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
+    "summary": "Book Exhibit Table Now. Book your exhibit table now. You can still get in the room at TechCrunch Disrupt 2026 on October 13-15.",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
     "auto": true,
     "metiers": [
       "csm",
@@ -134,95 +484,79 @@
     "resources": []
   },
   {
-    "id": "auto-b09c672e4408",
-    "date": "2026-09-27",
+    "id": "auto-6639960050d0",
+    "date": "2026-09-28",
     "source": "TechCrunch",
-    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-    "summary": "Google said at the time that the technology would allow shoppers to buy eligible products through Gemini and AI Mode using a Google-hosted checkout experience. The Flipkart test seen by TechCrunch appears different from the Google-hosted checkout experience the Gemini maker demonstrated earlier.",
-    "sourceUrl": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+    "summary": "Vishal Sankhla led product at digital life insurance distributor Ethos before it went public earlier this year. That value has attracted over 300 insurance agencies, including 25% among the top 100, as Outmarket’s customers since launching a new product 14 months ago.",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
     "auto": true,
     "metiers": [
       "csm",
-      "management",
       "ops",
       "product",
       "sales",
       "tech"
     ],
     "themes": [
-      "llm",
       "agents",
-      "ethics"
+      "automation",
+      "data"
     ],
     "resources": []
   },
   {
-    "id": "auto-d70ce2b78b06",
-    "date": "2026-09-26",
+    "id": "auto-4fc7509a6662",
+    "date": "2026-09-28",
     "source": "TechCrunch",
-    "title": "Insurers claim AI is already increasing healthcare costs",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Hospitals’ use of artificial intelligence tools as they submit insurance claims led to an additional $942 million in healthcare spending over a two-year period, according to an analysis by the Blue Cross Blue Shield Association.",
-    "sourceUrl": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+    "summary": "It’s only been a month since AI assistant startup Instinct announced a fundraise that valued it at $2.5 billion, and now the company has already raised another $1 billion from investors, including Sequoia Capital, Benchmark Capital, and Coatue, valuing the company at $10 billion.",
+    "sourceUrl": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
     "auto": true,
     "metiers": [
       "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c6fb97f6187a",
-    "date": "2026-09-26",
-    "source": "TechCrunch",
-    "title": "I created an interactive digital avatar of myself — and you can talk to it",
-    "summary": "It was an interactive virtual avatar of him, trained to answer common press questions about Synthesia, like what it does and how it works.",
-    "sourceUrl": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-    "auto": true,
-    "metiers": [
-      "csm",
+      "management",
       "marketing",
+      "ops",
       "product",
       "sales",
       "tech"
     ],
     "themes": [
-      "llm",
       "agents",
+      "ethics",
       "genai-product"
     ],
     "resources": []
   },
   {
-    "id": "auto-819e92326da0",
-    "date": "2026-09-26",
-    "source": "The Verge",
-    "title": "OpenAI pauses training of its ‘most capable models’",
-    "summary": "OpenAI keeps uncovering incidents of its models behaving in ‘unexpected or concerning’ ways. OpenAI keeps uncovering incidents of its models behaving in ‘unexpected or concerning’ ways.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+    "id": "auto-43cfd2e61fc0",
+    "date": "2026-09-28",
+    "source": "MIT Technology Review",
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "summary": "Available only for MIT Technology Review subscribers. Some were even under the watch of newly installed AI-powered towers designed to spot people automatically. Watch a conversation examining the failures of border surveillance technology and uncovering the stories of the people who die in the borderlands.",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
     "auto": true,
     "metiers": [
       "csm",
+      "ops",
       "product",
       "sales",
       "tech"
     ],
     "themes": [
-      "agents"
+      "agents",
+      "automation"
     ],
     "resources": []
   },
   {
-    "id": "auto-344d41dcb1d6",
-    "date": "2026-09-26",
-    "source": "The Verge",
-    "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-    "summary": "All you publishers are complaining. You had a lot of power, you were going to use it. You wrote that, and then you said you didn’t do it because Cloudflare is struggling.",
-    "sourceUrl": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+    "id": "auto-d19a7dc33090",
+    "date": "2026-09-28",
+    "source": "MIT Technology Review",
+    "title": "When can we say AI made a scientific discovery?",
+    "summary": "What Anthropic says its system of 950 agents found after 21 hours was not a brand-new sequence. The agents instead flagged a repeating pattern surrounding a known enzyme, a particular pattern Anthropic said hadn’t been catalogued before. Anthropic denies this, but Mestre says he’s stopping all use of Claude anyway.",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
     "auto": true,
     "metiers": [
       "csm",
@@ -236,39 +570,18 @@
     "themes": [
       "llm",
       "agents",
-      "automation",
       "ethics",
-      "genai-product",
-      "data"
+      "genai-product"
     ],
     "resources": []
   },
   {
-    "id": "auto-1fe1b6ab723e",
-    "date": "2026-09-26",
-    "source": "TechCrunch",
-    "title": "At Meta Connect, the company’s smart glasses were everywhere",
-    "summary": "One of the more notable products I had an opportunity to demo were Meta’s new, still-unreleased, audio-only smart glasses. The glasses will also integrate with Muse, Meta’s personal agentic system, which can carry out tasks on the user’s behalf. The experience of wearing these glasses was interesting.",
-    "sourceUrl": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d2d497e5eee4",
-    "date": "2026-09-25",
-    "source": "OpenAI",
-    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-    "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-    "sourceUrl": "https://openai.com/index/proaction",
+    "id": "auto-227c6ab55934",
+    "date": "2026-09-28",
+    "source": "The Verge",
+    "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+    "summary": "World Labs’ co-founder and CEO will become AMD’s chief scientist. World Labs’ co-founder and CEO will become AMD’s chief scientist. “Fei-Fei and the World Labs team bring exceptional research leadership and model expertise.",
+    "sourceUrl": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
     "auto": true,
     "metiers": [
       "product",
@@ -280,319 +593,24 @@
     "resources": []
   },
   {
-    "id": "auto-303ad555831b",
-    "date": "2026-09-25",
-    "source": "TechCrunch",
-    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-    "summary": "Crusoe, a Denver-based AI data center startup that recently raised $3.9 billion, has ended plans to use a new line of stationary power plants developed by fellow Denver company Boom Supersonic.",
-    "sourceUrl": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-df19e6663c5f",
-    "date": "2026-09-25",
-    "source": "TechCrunch",
-    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. After images that users uploaded to OpenAI models were included in training data, AI agents operating in the company’s research environment posted them on public image hosting sites.",
-    "sourceUrl": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-28eff29135c5",
-    "date": "2026-09-25",
-    "source": "TechCrunch",
-    "title": "Meta opens early access program for new Muse features",
-    "summary": "Meta shared on Friday that you can now ask Muse to put you on the list to try out its latest capabilities before anyone else. Just announced lots of new features…want early access? Your Muse can ask for you.",
-    "sourceUrl": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e64ca2761612",
-    "date": "2026-09-25",
-    "source": "TechCrunch",
-    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-    "summary": "Anthropic will spend $11.6 billion over seven years on Akamai’s cloud infrastructure, Akamai said Thursday. Akamai won’t see revenue from the deal this year. To build out the capacity, Akamai expects to spend about $5.5 billion.",
-    "sourceUrl": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b97518582a39",
-    "date": "2026-09-25",
-    "source": "TechCrunch",
-    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nDisrupt ticket savings of up to $200 + 50% off a second ends Sept 25, 11:59 p.m. Grab your ticket here so you don’t miss a moment of this session and Disrupt 2026.",
-    "sourceUrl": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e3ed29775d07",
-    "date": "2026-09-25",
-    "source": "TechCrunch",
-    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-    "summary": "Nscale, a British neocloud, has secured $3.36 billion in financing ahead of its IPO later this year, the company announced on Friday.",
-    "sourceUrl": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-ddb6a0a57317",
-    "date": "2026-09-25",
-    "source": "TechCrunch",
-    "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. You can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com. You can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.",
-    "sourceUrl": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b043d9d03d29",
-    "date": "2026-09-25",
-    "source": "TechCrunch",
-    "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-    "summary": "Thousands of databases hosted by development platform Supabase are exposing people’s sensitive information to the public web, new security research by cybersecurity firm UpGuard has found. “Security at Supabase is never finished.",
-    "sourceUrl": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-68c0d1315425",
-    "date": "2026-09-25",
-    "source": "TechCrunch",
-    "title": "Astra and Opus just passed Turing’s other test",
-    "summary": "Now, a pair of cryptanalysts say they’ve cracked two long-unsolved messages encoded by Enigma machines using LLMs built by OpenAI and Anthropic. Carter Leffen, a developer, simply told OpenAI’s newest model, Astra, to search a database of Enigma messages for an unbroken message and decode it.",
-    "sourceUrl": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-794c162566b6",
-    "date": "2026-09-25",
-    "source": "TechCrunch",
-    "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-    "summary": "Sensor Tower also has visibility into daily active users for the Muse app following the Meta Connect conference. During that time (September 8 to September 17), the Muse app averaged 55% day-over-day growth in downloads.",
-    "sourceUrl": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0fc9c86402b3",
-    "date": "2026-09-25",
-    "source": "TechCrunch",
-    "title": "Meta’s AI Tamagotchi bet is…working?",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later.",
-    "sourceUrl": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ef33b8cf9b79",
-    "date": "2026-09-25",
-    "source": "TechCrunch",
-    "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-    "summary": "The lab’s investigation raises questions about when OpenAI should have known its agents were attempting to penetrate secure systems on the open internet. OpenAI has said it did not learn about that activity until August. “OpenAI surely knows more about it.",
-    "sourceUrl": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a8f06da5cb11",
-    "date": "2026-09-25",
-    "source": "TechCrunch",
-    "title": "Anthropic’s founders seek voting control ahead of IPO",
-    "summary": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. Anthropic’s founders want to stay in charge after the company goes public. Your next big connection is at Disrupt.Connect with 10,000+ founders, VCs, operators, and tech leaders.",
-    "sourceUrl": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-6c0af3a44940",
-    "date": "2026-09-25",
-    "source": "TechCrunch",
-    "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-    "summary": "Ricursive Intelligence is taking that concept further, building AI tools to automate and accelerate chip design. Register for Disrupt to hear Goldie and Mirhoseini discuss the technology, bottlenecks, and self-improving systems behind Ricursive’s approach.",
-    "sourceUrl": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+    "id": "auto-7627b64443e1",
+    "date": "2026-09-28",
+    "source": "The Verge",
+    "title": "OpenAI’s AI agents need to catch up",
+    "summary": "Since then, the race has only accelerated, while OpenAI’s visible progress around agents has lagged. OpenAI has set expectations high for its DevDay announcements. Aeon could be simply one of several things announced at OpenAI’s event.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
     "auto": true,
     "metiers": [
       "csm",
       "marketing",
-      "ops",
       "product",
       "sales",
       "tech"
     ],
     "themes": [
+      "llm",
       "agents",
-      "automation",
       "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9a2813986ec0",
-    "date": "2026-09-25",
-    "source": "TechCrunch",
-    "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-    "summary": "If you’ve been laid off, you can get a TechCrunch Disrupt 2026 Expo+ Pass for just $75. Come to Disrupt, meet new people, explore new opportunities, and take your next step. Disrupt gives you three full days to make meaningful connections in one place.",
-    "sourceUrl": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a6198b47e92b",
-    "date": "2026-09-25",
-    "source": "TechCrunch",
-    "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
-    "summary": "TechCrunch Disrupt brings 10,000+ founders, investors, and operators together in one place. One opportunity to move things forward faster. Current TechCrunch Disrupt 2026 ticket savings end when the clock strikes midnight.",
-    "sourceUrl": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
     ],
     "resources": []
   },
