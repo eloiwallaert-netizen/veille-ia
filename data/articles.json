@@ -1,93 +1,34 @@
 [
   {
-    "id": "auto-a54b0644eac7",
-    "date": "2026-09-29",
-    "source": "TechCrunch",
-    "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-    "summary": "Reuters was first to report on the financial details within the prospectus on Monday, saying Anthropic recorded an operating loss of more than $8 billion in 2025 as spending on computing power surged, and that its revenue jumped twelvefold to nearly $4.6 billion, though rising infrastructure costs last year pushed total operating expenses to almost $13 billion.",
-    "sourceUrl": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b9ef252a9e2d",
-    "date": "2026-09-29",
-    "source": "TechCrunch",
-    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-    "summary": "Gandhi says she was Airbnb’s first female engineer and she previously founded Upraised, while Jingade previously co-founded AmbitionBox. The company had already raised roughly $2.3 million in seed funding from growX Ventures and InfoEdge Ventures before joining Surge.",
-    "sourceUrl": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-09364ac11ad4",
-    "date": "2026-09-29",
+    "id": "auto-8ce994a17c5b",
+    "date": "2026-09-30",
     "source": "MIT Technology Review",
-    "title": "Making AI an asset, not an expense",
-    "summary": "It only makes sense when an enterprise can keep capacity productive. Enterprises need to model their actual workloads, understand expected demand, and size capacity accordingly.",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+    "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+    "summary": "Chen oversees OpenAI’s research teams. In short, you can blame the same few models running under the same flawed testing procedures—models and procedures that OpenAI has since dropped, Chen says. Chen says that OpenAI has now started monitoring all its training runs as well.",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
     "auto": true,
     "metiers": [
       "csm",
-      "marketing",
+      "management",
       "ops",
       "product",
       "sales",
       "tech"
     ],
     "themes": [
+      "llm",
       "agents",
-      "automation",
-      "genai-product"
+      "ethics"
     ],
     "resources": []
   },
   {
-    "id": "auto-cfe8e900401f",
-    "date": "2026-09-28",
-    "source": "OpenAI",
-    "title": "How we will do better for Australia",
-    "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-    "sourceUrl": "https://openai.com/index/how-we-will-do-better-for-australia",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-cf468ec39dd6",
-    "date": "2026-09-28",
-    "source": "OpenAI",
-    "title": "Towards safety cases for frontier AI training",
-    "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-    "sourceUrl": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "id": "auto-1eb6183d721b",
+    "date": "2026-09-30",
+    "source": "The Verge",
+    "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+    "summary": "﻿The OpenAI CEO said he didn’t want ‘additional pressure’ from Wall Street. ﻿The OpenAI CEO said he didn’t want ‘additional pressure’ from Wall Street. For months, people have wondered when OpenAI will go public.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
     "auto": true,
     "metiers": [
       "management",
@@ -99,36 +40,12 @@
     "resources": []
   },
   {
-    "id": "auto-216d56bba26c",
-    "date": "2026-09-28",
+    "id": "auto-dd66acaed2a0",
+    "date": "2026-09-29",
     "source": "OpenAI",
-    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-    "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-    "sourceUrl": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-914f14710638",
-    "date": "2026-09-28",
-    "source": "OpenAI",
-    "title": "Are you a Codex Original?",
-    "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about…",
-    "sourceUrl": "https://openai.com/form/codex-originals",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-bf0fe8cc388a",
-    "date": "2026-09-28",
-    "source": "OpenAI",
-    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-    "sourceUrl": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "title": "Introducing GPT-6.1 Sol",
+    "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+    "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-sol",
     "auto": true,
     "metiers": [
       "product",
@@ -140,448 +57,12 @@
     "resources": []
   },
   {
-    "id": "auto-1eadd5627184",
-    "date": "2026-09-28",
-    "source": "Google AI Blog",
-    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "summary": "Earlier this year, we partnered with XPRIZE and Range Media Partners to launch the Future Vision XPRIZE, a global competition calling for films that envision a hopeful, technology-enabled future. Last week in Los Angeles, independent filmmaker Jeff Synthesized was named the grand prize winner for The Gifted.",
-    "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-220dea2c55f4",
-    "date": "2026-09-28",
-    "source": "TechCrunch",
-    "title": "OpenAI reportedly ditches model over safety concerns",
-    "summary": "OpenAI had planned to release yet another AI model next month, but has decided to nix the release over safety concerns. Astra was released earlier this month and hailed by OpenAI as its most powerful model yet.",
-    "sourceUrl": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a84e841eac25",
-    "date": "2026-09-28",
-    "source": "TechCrunch",
-    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-    "summary": "Modal was founded in 2021 by CEO Erik Bernhardsson and CTO Akshat Bubna. Modal Chief Technology Officer Akshat Bubna said the breach traced back to a flaw in a customer’s own code, not to Modal’s systems. Marina Temkin is a venture capital and startups reporter at TechCrunch.",
-    "sourceUrl": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2f5ef0621565",
-    "date": "2026-09-28",
-    "source": "TechCrunch",
-    "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-    "summary": "AMD is acquiring World Labs, one of the leading developers of deep learning models intended to understand physical reality, in an $8.2 billion deal, the two companies said today. AMD and World Labs formed an inference optimization-and-training partnership last year, and ties have remained close.",
-    "sourceUrl": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-07c0d45eeffa",
-    "date": "2026-09-28",
-    "source": "TechCrunch",
-    "title": "Shopify opens checkout to browser-based AI agents",
-    "summary": "This update introduces three new tools — get_checkout, update_checkout, and complete_checkout — that allow agents to inspect a checkout, change things like the customer’s address or delivery option, and then place an order after the buyer authorizes it.",
-    "sourceUrl": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-82272e48cc17",
-    "date": "2026-09-28",
-    "source": "TechCrunch",
-    "title": "The AI boom took over Climate Week and not everyone is happy about it",
-    "summary": "The pivot has helped many climate tech startups land fresh funding from investors. Ultimately, the undercurrent at New York Climate Week was that the data center party won’t last forever, but it might last long enough to help startups build durable businesses. Tim De Chant is a senior climate reporter at TechCrunch.",
-    "sourceUrl": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-79c5767e260d",
-    "date": "2026-09-28",
-    "source": "TechCrunch",
-    "title": "Nvidia launches new platform for reining in rogue AI agents",
-    "summary": "Huang said Monday during an interview with CNBC that its new Nvidia Open Agent Safety Platform would have prevented these breaches.",
-    "sourceUrl": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-06e9f36bb849",
-    "date": "2026-09-28",
-    "source": "TechCrunch",
-    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-    "summary": "As the AI model wars continue, Anthropic has released the newest version of Sonnet, the company’s mid-tier model, which it says will work much faster (and for significantly less) than its predecessor. Sonnet 5, 5.5’s predecessor, was announced about three months ago.",
-    "sourceUrl": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0c80d209a6b8",
-    "date": "2026-09-28",
-    "source": "TechCrunch",
-    "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-    "summary": "However, the work users invested in creating the Gems won’t be destroyed. Users could also make Gems for their own needs, like a running coach, nutritionist, or vacation planner. Gems’ wind-down was first reported over the weekend by 9to5Google.",
-    "sourceUrl": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-bd9271a6418d",
-    "date": "2026-09-28",
-    "source": "TechCrunch",
-    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-    "summary": "In the example given by OpenAI, an agent asked to read and reply to an email; when the email is opened, it includes instructions for any automated agent reading the message to reply in Spanish, and paste the entire email into its reply.",
-    "sourceUrl": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-80f86534580d",
-    "date": "2026-09-28",
-    "source": "TechCrunch",
-    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-    "summary": "Meta announced Monday that it’s launching “Meta Enterprise Platform,” a new initiative aimed at expanding the company’s AI offerings to businesses and corporate customers.",
-    "sourceUrl": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-eb2524f2e415",
-    "date": "2026-09-28",
-    "source": "TechCrunch",
-    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-    "summary": "Anthropic can see patterns across enterprise deployments. At Disrupt, Anthropic brings a view across enterprise deployments, while Gamma and Clay bring the founder perspective on building AI products people actually use.",
-    "sourceUrl": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ddea09bd560a",
-    "date": "2026-09-28",
-    "source": "TechCrunch",
-    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-    "summary": "Today, she says, DetectifAI, the San Francisco-based company she founded, aims to ensure that others can’t be hoodwinked the same way. Padmanabhuni says a secondary revenue stream will come from licensing the technology to businesses and fraud-prevention firms.",
-    "sourceUrl": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1766de63251c",
-    "date": "2026-09-28",
-    "source": "TechCrunch",
-    "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-    "summary": "Register now to save up to $100 before Disrupt doors open, and bring your co-founder, colleague, or peer with a second pass for 50% off. Get 50% off a second passThe Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off.",
-    "sourceUrl": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-99a28bb41a76",
-    "date": "2026-09-28",
-    "source": "TechCrunch",
-    "title": "Modulate raises $25M for its voice models and analysis suite",
-    "summary": "Boston-based voice intelligence startup Modulate has raised $25 million in new funding for its platform that uses an array of small models to offer enterprises transcription, emotional analysis, deepfake and AI music detection, and policy enforcement for voice agents in regulated industries.",
-    "sourceUrl": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c8d62adae181",
-    "date": "2026-09-28",
-    "source": "TechCrunch",
-    "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
-    "summary": "Book Exhibit Table Now. Book your exhibit table now. You can still get in the room at TechCrunch Disrupt 2026 on October 13-15.",
-    "sourceUrl": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6639960050d0",
-    "date": "2026-09-28",
-    "source": "TechCrunch",
-    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-    "summary": "Vishal Sankhla led product at digital life insurance distributor Ethos before it went public earlier this year. That value has attracted over 300 insurance agencies, including 25% among the top 100, as Outmarket’s customers since launching a new product 14 months ago.",
-    "sourceUrl": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-4fc7509a6662",
-    "date": "2026-09-28",
-    "source": "TechCrunch",
-    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-    "summary": "It’s only been a month since AI assistant startup Instinct announced a fundraise that valued it at $2.5 billion, and now the company has already raised another $1 billion from investors, including Sequoia Capital, Benchmark Capital, and Coatue, valuing the company at $10 billion.",
-    "sourceUrl": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-43cfd2e61fc0",
-    "date": "2026-09-28",
-    "source": "MIT Technology Review",
-    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-    "summary": "Available only for MIT Technology Review subscribers. Some were even under the watch of newly installed AI-powered towers designed to spot people automatically. Watch a conversation examining the failures of border surveillance technology and uncovering the stories of the people who die in the borderlands.",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d19a7dc33090",
-    "date": "2026-09-28",
-    "source": "MIT Technology Review",
-    "title": "When can we say AI made a scientific discovery?",
-    "summary": "What Anthropic says its system of 950 agents found after 21 hours was not a brand-new sequence. The agents instead flagged a repeating pattern surrounding a known enzyme, a particular pattern Anthropic said hadn’t been catalogued before. Anthropic denies this, but Mestre says he’s stopping all use of Claude anyway.",
-    "sourceUrl": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-227c6ab55934",
-    "date": "2026-09-28",
-    "source": "The Verge",
-    "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-    "summary": "World Labs’ co-founder and CEO will become AMD’s chief scientist. World Labs’ co-founder and CEO will become AMD’s chief scientist. “Fei-Fei and the World Labs team bring exceptional research leadership and model expertise.",
-    "sourceUrl": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+    "id": "auto-19db7cc5ca5c",
+    "date": "2026-09-29",
+    "source": "OpenAI",
+    "title": "DevDay 2026 Recap",
+    "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+    "sourceUrl": "https://openai.com/index/devday-2026-recap",
     "auto": true,
     "metiers": [
       "product",
@@ -593,12 +74,223 @@
     "resources": []
   },
   {
-    "id": "auto-7627b64443e1",
-    "date": "2026-09-28",
-    "source": "The Verge",
-    "title": "OpenAI’s AI agents need to catch up",
-    "summary": "Since then, the race has only accelerated, while OpenAI’s visible progress around agents has lagged. OpenAI has set expectations high for its DevDay announcements. Aeon could be simply one of several things announced at OpenAI’s event.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+    "id": "auto-884977ecb800",
+    "date": "2026-09-29",
+    "source": "OpenAI",
+    "title": "Introducing dots",
+    "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+    "sourceUrl": "https://openai.com/index/introducing-dots",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-493cf3fce1b8",
+    "date": "2026-09-29",
+    "source": "Hugging Face",
+    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+    "summary": "NVIDIA Kumo Tabular, part of the NVIDIA Kumo Structured model collection, is an open foundation model for tabular data now available on Hugging Face. Context rows attend to each other, while query rows attend to context rows only. Kumo Tabular is pretrained entirely on artificial tables.",
+    "sourceUrl": "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-984223f109f3",
+    "date": "2026-09-29",
+    "source": "Hugging Face",
+    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "summary": "Source: paper Figure 1. Source: paper Figure 2. ProvenanceGuard makes that source connection visible claim by claim.",
+    "sourceUrl": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-309d870a65d8",
+    "date": "2026-09-29",
+    "source": "TechCrunch",
+    "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+    "summary": "You have to admit this kinda slaps, though!",
+    "sourceUrl": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1b1d0d455584",
+    "date": "2026-09-29",
+    "source": "TechCrunch",
+    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+    "summary": "That’s because the domain “dot.com” belongs to Musk’s xAI, and it currently redirects to the download page for xAI’s Grok chatbot app. According to the Whois domain owner registry, that domain name was just transferred in July. It is entirely possible that xAI bought the domain for normal domain-buying reasons.",
+    "sourceUrl": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6421ca855574",
+    "date": "2026-09-29",
+    "source": "TechCrunch",
+    "title": "OpenAI’s latest features take direct aim at the app store model",
+    "summary": "From there, the user will be able to connect the app and begin using it directly within ChatGPT. This allows app developers to build interactive panels where users can work with their tools while they’re chatting with ChatGPT.",
+    "sourceUrl": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-4a7426e1fdc4",
+    "date": "2026-09-29",
+    "source": "TechCrunch",
+    "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+    "summary": "OpenAI is in talks with investors to raise at least $30 billion in a pre-IPO funding round at a valuation of roughly $1.4 trillion, Bloomberg reported on Tuesday. The company previously raised $122 billion in March at an $852 billion valuation. Get 50% off a second passThe Disrupt experience is meant to be shared.",
+    "sourceUrl": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-447bf1aab007",
+    "date": "2026-09-29",
+    "source": "TechCrunch",
+    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+    "summary": "The new effort, dubbed Nvidia’s Open Agent Safety Platform, is Nvidia’s attempt to spread its homegrown, and largely open source, AI agent-security tech throughout the AI ecosystem as a direct response to the types of ongoing rogue AI agent incidents frontier labs like Anthropic and OpenAI have disclosed.",
+    "sourceUrl": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b6f078daefc5",
+    "date": "2026-09-29",
+    "source": "TechCrunch",
+    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+    "summary": "At its DevDay developer conference in San Francisco on Tuesday, OpenAI announced several new ChatGPT features designed for office workers. OpenAI has also announced its answer to PowerPoint with what it calls collaborative slides.",
+    "sourceUrl": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7880523c2dd7",
+    "date": "2026-09-29",
+    "source": "TechCrunch",
+    "title": "AI-powered app maker Wabi pivots to a messaging experience",
+    "summary": "“The more you use a chat-only agent, the worse the experience gets. People don’t just want to type-type-type; they want to tap-tap-tap, scroll, and look. “So far, personal agents have been one person, one chat, a stream of one-off tasks.",
+    "sourceUrl": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-572dce99347e",
+    "date": "2026-09-29",
+    "source": "TechCrunch",
+    "title": "OpenAI launches Dots, its bubbly agentic avatar",
+    "summary": "Users can launch Dots from Codex or ChatGPT. OpenAI also envisions “specialist Dots” that take on specific responsibilities. The Dots look like … well, dots.",
+    "sourceUrl": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
     "auto": true,
     "metiers": [
       "csm",
@@ -611,6 +303,329 @@
       "llm",
       "agents",
       "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e2bf069c3bf0",
+    "date": "2026-09-29",
+    "source": "TechCrunch",
+    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+    "summary": "OpenAI also announced a refreshed Codex CLI, a new code review experience, tools to harden infrastructure, and other API enhancements. On the security side, OpenAI is rolling out a new set of tools called Codex Security Cloud, designed to help developers secure their infrastructure.",
+    "sourceUrl": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e277d681e197",
+    "date": "2026-09-29",
+    "source": "TechCrunch",
+    "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+    "summary": "At the company’s DevDay presentation on Tuesday, the AI company said it is now allowing developers to build their own app-like experiences within ChatGPT using plug-in extensions.",
+    "sourceUrl": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-914354df0074",
+    "date": "2026-09-29",
+    "source": "TechCrunch",
+    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "summary": "At OpenAI’s DevDay event on Tuesday, the company showed off GPT-6.1 Sol, a mere week after it launched GPT-6 Sol.",
+    "sourceUrl": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d012ac1e215c",
+    "date": "2026-09-29",
+    "source": "TechCrunch",
+    "title": "Can a chatbot fix the government maze? The White House is about to find out",
+    "summary": "President Donald Trump announced on Tuesday that the White House is launching America.gov, an AI chatbot intended to help people find government services and other information. Chief Design Officer Joe Gebbia added that the government also used Grok.",
+    "sourceUrl": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-8be5080985a2",
+    "date": "2026-09-29",
+    "source": "TechCrunch",
+    "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+    "summary": "Book Exhibit Table Now. And on the restaurant end, they just want interesting people. They want special occasions.",
+    "sourceUrl": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-08e650677bc1",
+    "date": "2026-09-29",
+    "source": "TechCrunch",
+    "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+    "summary": "Instead of building context about you from text-heavy apps like email, calendars, and shopping histories, Dazzle’s AI assistant gets all its context from a single source: your camera roll. Dazzle splits its functionality into two core experiences. For instance, Mayer uses Dazzle to brainstorm family outings.",
+    "sourceUrl": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-16c4b876e19d",
+    "date": "2026-09-29",
+    "source": "TechCrunch",
+    "title": "Meta is expanding its AI agent Muse to small businesses",
+    "summary": "Muse for Small Business is available for free with usage limits. The launch of Muse for Small Business comes a day after Meta introduced “Meta Enterprise Platform,” a new initiative aimed at expanding the company’s AI offerings to businesses and corporate customers.",
+    "sourceUrl": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-617867c64b2e",
+    "date": "2026-09-29",
+    "source": "TechCrunch",
+    "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+    "summary": "The apology comes roughly a week after the Australian government launched an investigation into how OpenAI’s models accessed a Services Australia system containing Medicare spending information and other health statistics. OpenAI also detailed the breach.",
+    "sourceUrl": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7c2570d9f8b6",
+    "date": "2026-09-29",
+    "source": "TechCrunch",
+    "title": "Reco raises $55M as AI agent security startups crowd the market",
+    "summary": "Some vendors vet the tools that agents use, while others try to help companies control what data their agents can reach. At one of the startup’s Fortune 100 customers, he said, Reco’s platform found 21,000 agents the company didn’t know about.",
+    "sourceUrl": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-719d3195b24b",
+    "date": "2026-09-29",
+    "source": "The Verge",
+    "title": "Trump orders US government to call AI ‘Super Intelligence’",
+    "summary": "‘The word super is the best word of all,’ Trump says. ‘The word super is the best word of all,’ Trump says.",
+    "sourceUrl": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c01a20c9c38e",
+    "date": "2026-09-29",
+    "source": "The Verge",
+    "title": "Elon Musk’s AI-powered Grokipedia is updating again",
+    "summary": "After a months-long pause, Grokipedia is showing some activity once more. After a months-long pause, Grokipedia is showing some activity once more. Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause.",
+    "sourceUrl": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5726e15c5cb8",
+    "date": "2026-09-29",
+    "source": "The Verge",
+    "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+    "summary": "﻿A series of videos from people inside the industry building AI technology echoed some of the ‘doomer’ warnings others have sounded recently. ﻿A series of videos from people inside the industry building AI technology echoed some of the ‘doomer’ warnings others have sounded recently.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7562a8743449",
+    "date": "2026-09-29",
+    "source": "The Verge",
+    "title": "OpenAI launches Dots, its Muse competitor",
+    "summary": "Dots are always-on AI assistants that OpenAI says can ‘do nearly anything’ using a cloud computer and connected apps. Dots are always-on AI assistants that OpenAI says can ‘do nearly anything’ using a cloud computer and connected apps.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-13cfd55ec784",
+    "date": "2026-09-29",
+    "source": "The Verge",
+    "title": "Protesters gather at OpenAI’s DevDay",
+    "summary": "Data centers, ICE contracts, and more were under fire at a rally around the event. Data centers, ICE contracts, and more were under fire at a rally around the event. Power!”\nOne flyer that protesters gave out called for people to “sign the democracy pledge & end ICE + military contracts,” with a link to QuitGPT.org.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0d5fc586f591",
+    "date": "2026-09-29",
+    "source": "The Verge",
+    "title": "OpenAI DevDay 2026: The biggest news and announcements",
+    "summary": "DevDay is happening at a tumultuous moment for OpenAI. OpenAI is responding to Meta’s buzzy Muse AI with agentic helpers of its own: Dots. On Tuesday, OpenAI’s annual DevDay event began with protests, flyers, and chants.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
     ],
     "resources": []
   },
