@@ -1,5 +1,154 @@
 [
   {
+    "id": "auto-89764eae0099",
+    "date": "2026-10-03",
+    "source": "Hugging Face",
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "summary": "We measure that as cost per successful task attempt. Example: GPT-5.4 costs $43.49 for 507 attempts (one attempt per task) and has 65.36% pass@1, so $43.49 ÷ (507 × 0.6536) = $0.131 per successful task attempt. Figure 4: Cost per successful task attempt against pass@1.",
+    "sourceUrl": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f8ba7ef56487",
+    "date": "2026-10-03",
+    "source": "TechCrunch",
+    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "summary": "NDAs are a significant piece of the broader data center backlash. Scientists have also said they need to study data centers’ water and energy usage independently, since there are no federal or state requirements around how tech companies report this data.",
+    "sourceUrl": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a17db24aed38",
+    "date": "2026-10-03",
+    "source": "TechCrunch",
+    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "summary": "In an essay published in The Atlantic, Robinson said he led the writing of safety reports that accompanied OpenAI’s major product launches.",
+    "sourceUrl": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-41a7e440548d",
+    "date": "2026-10-03",
+    "source": "TechCrunch",
+    "title": "All the AI agents that can live in your text messages",
+    "summary": "Powered by Hermes agent, Iris is designed to let users delegate tasks to an AI assistant directly through iMessage. It can help manage calendars, email, reminders, tasks, notes, and communications.",
+    "sourceUrl": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f1c80105d2f2",
+    "date": "2026-10-03",
+    "source": "The Verge",
+    "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+    "summary": "During a presentation on the future of RE Engine, Capcom laid out its plans to embrace AI in ‘development workflows.’\nDuring a presentation on the future of RE Engine, Capcom laid out its plans to embrace AI in ‘development workflows.’\nCapcom’s Pragmata might be all about the horrors of AI, but in practice the studio doesn’t seem so down on the tech.",
+    "sourceUrl": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2b2053e0bc6b",
+    "date": "2026-10-03",
+    "source": "The Verge",
+    "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+    "summary": "Once you can’t tell whether there’s a person behind the words, the conversation you have about it becomes a different conversation, and a worse one. What game do you have the fondest memories of? They’re listening for whether you sound like you believe it.",
+    "sourceUrl": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-91c2390ce603",
+    "date": "2026-10-03",
+    "source": "The Verge",
+    "title": "An OpenAI safety employee has quit and is sounding the alarm",
+    "summary": "David Robinson used to write safety reports at OpenAI and now says its culture is ‘broken’\nDavid Robinson used to write safety reports at OpenAI and now says its culture is ‘broken’\nDavid Robinson used to write the safety reports that accompanied every major model release at OpenAI.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-83485a4ee257",
     "date": "2026-10-03",
     "source": "TechCrunch",
@@ -485,132 +634,6 @@
     ],
     "themes": [
       "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a885ed61f54a",
-    "date": "2026-10-02",
-    "source": "Hugging Face",
-    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-    "summary": "Given an environment and a target model, AutoSynthData generates training tasks consisting of a system specification, user prompt, and verifier. AutoSynthData turns the resulting capability gaps into new executable tasks, checks each task in the environment, and uses accepted samples for post-training.",
-    "sourceUrl": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1c435808300f",
-    "date": "2026-10-02",
-    "source": "MIT Technology Review",
-    "title": "Don’t be fooled—LLMs don’t reason",
-    "summary": "AlphaGo is made up of two systems. I believe we need a fresh approach to machine reasoning—one that draws on AlphaGo’s architecture. As its reasoning progresses, AlphaGo updates the game tree and eventually synthesizes the information in it to decide which move to make.",
-    "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b7dd82503263",
-    "date": "2026-10-02",
-    "source": "The Verge",
-    "title": "AI music maker Suno now generates spoken words",
-    "summary": "﻿The new Speech feature provides synthetic voiceovers embellished with AI background music. ﻿The new Speech feature provides synthetic voiceovers embellished with AI background music. Pairing AI music with generated voices is Suno’s spin on text-to-speech tools.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-7e67b43cf9d0",
-    "date": "2026-10-01",
-    "source": "OpenAI",
-    "title": "The eternal complement",
-    "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-    "sourceUrl": "https://openai.com/index/the-eternal-complement",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-a80484c2d584",
-    "date": "2026-10-01",
-    "source": "OpenAI",
-    "title": "How Albertsons Companies is reimagining retail from the inside out",
-    "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-    "sourceUrl": "https://openai.com/index/albertsons-reimagining-retail",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-3bba52758573",
-    "date": "2026-10-01",
-    "source": "OpenAI",
-    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-    "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-    "sourceUrl": "https://openai.com/index/the-den-family-social",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-0bf00b70dbd7",
-    "date": "2026-10-01",
-    "source": "Hugging Face",
-    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-    "summary": "Olmo-core 3 is designed to scale MoE training into the trillion-parameter range while preserving computational efficiency. Olmo-core has evolved with each generation of Olmo. Olmo-core 3 extends the framework with a training system designed for much larger MoE models.",
-    "sourceUrl": "https://huggingface.co/blog/allenai/olmocore3",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "data"
     ],
     "resources": []
   },
