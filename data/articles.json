@@ -1,5 +1,201 @@
 [
   {
+    "id": "auto-3cbec84de8bf",
+    "date": "2026-10-05",
+    "source": "OpenAI",
+    "title": "Building advertising for the way people use AI",
+    "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+    "sourceUrl": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-8219cfaf573d",
+    "date": "2026-10-05",
+    "source": "TechCrunch",
+    "title": "Can Safeworld convince people that gen AI robots won’t hurt them?",
+    "summary": "Book Exhibit Table Now. Get your pass and bring someone with you at 50% off. “By the time you have robots in households colliding with kids and causing safety incidents, that’s way too late.”\nSafeworld’s speciality is evaluating a robotic control system in simulations that are populated with realistic human models.",
+    "sourceUrl": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7a474ffcdd2c",
+    "date": "2026-10-05",
+    "source": "MIT Technology Review",
+    "title": "People really hate AI, so why can’t they get enough?",
+    "summary": "Yet the number of people using AI is still skyrocketing. One in four people say they do so every day. All these surveys paint a picture of two contradictory truths: A lot of people really do not like AI and a lot of people cannot get enough of it.",
+    "sourceUrl": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a5a880c6829c",
+    "date": "2026-10-05",
+    "source": "The Verge",
+    "title": "Our minds aren’t equipped to handle AI",
+    "summary": "Thus far, our story of human development has largely centered on feedback from the physical world. Human diets are perhaps the most obvious example. It’s a cognitive hot dog.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-00aaae6618c7",
+    "date": "2026-10-04",
+    "source": "TechCrunch",
+    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+    "summary": "Disrupt doors open Oct. Blaming a “significant rise” in AI submissions, Google has paused its open source bug bounty program until next year.",
+    "sourceUrl": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-bbc50510cd13",
+    "date": "2026-10-04",
+    "source": "TechCrunch",
+    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+    "summary": "Now it’s super intelligence. representative, you are supposed to say super intelligence, not artificial intelligence. So Mark Zuckerberg was there, Jeff Bezos was there, Elon Musk was there, Dario of course was there, they were all there.",
+    "sourceUrl": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-8aaa4b741173",
+    "date": "2026-10-04",
+    "source": "TechCrunch",
+    "title": "Trump unveils his new Super Intelligence Force",
+    "summary": "Disrupt doors open Oct. Get your pass and bring someone with you at 50% off. As promised, President Donald Trump has announced the formation of a new Super Intelligence Force, which he said will be led by national intelligence director Jay Clayton and other members of his administration.",
+    "sourceUrl": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-cb4cee0e9eb9",
+    "date": "2026-10-04",
+    "source": "The Verge",
+    "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+    "summary": "Dale Caldwell resigned over a sexual harassment investigation, but insists AI says he’s innocent. Dale Caldwell resigned over a sexual harassment investigation, but insists AI says he’s innocent. And it seems highly unlikely that Caldwell would want to hear an AI confirm findings that he engaged in sexual harassment.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d5a8ffd2dd50",
+    "date": "2026-10-04",
+    "source": "The Verge",
+    "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+    "summary": "When GPT-6 Astra’s own bot failed, it simply downloaded the best human-made bot instead. When GPT-6 Astra’s own bot failed, it simply downloaded the best human-made bot instead. StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-89764eae0099",
     "date": "2026-10-03",
     "source": "Hugging Face",
@@ -447,193 +643,6 @@
       "llm",
       "agents",
       "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e527bfa9070e",
-    "date": "2026-10-02",
-    "source": "TechCrunch",
-    "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-    "summary": "Disrupt doors open Oct. You’ve built something you want people to discover. You can still get in the room at TechCrunch Disrupt 2026 on October 13-15.",
-    "sourceUrl": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-063821072894",
-    "date": "2026-10-02",
-    "source": "MIT Technology Review",
-    "title": "Redefining enterprise intelligence with autonomous AI",
-    "summary": "First, rebuilding data infrastructure for accessibility rather than volume. Data readiness, not data abundance, is what makes AI compoundable. Most enterprises discover too late that having data and having AI-ready data are very different things.",
-    "sourceUrl": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c0a74765cc53",
-    "date": "2026-10-02",
-    "source": "The Verge",
-    "title": "Meta open sources code to let you make Muse AI gadgets",
-    "summary": "﻿Meta now lets you connect Muse to your own hardware to put on your displays or a Raspberry Pi. ﻿Meta now lets you connect Muse to your own hardware to put on your displays or a Raspberry Pi. “Muse gadgets are open source devices you build yourself,” Meta says.",
-    "sourceUrl": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e148a12b4219",
-    "date": "2026-10-02",
-    "source": "The Verge",
-    "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-    "summary": "Mac apps will soon need ‘very explicit user action’ to gain full disk access, according to Apple. Mac apps will soon need ‘very explicit user action’ to gain full disk access, according to Apple. Full disk access is a permission on macOS that gives an app access to a user’s entire system.",
-    "sourceUrl": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5028b5fce374",
-    "date": "2026-10-02",
-    "source": "The Verge",
-    "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-    "summary": "In the future, OpenAI says you’ll be able to have multiple Dots, but right now you get one. You can also give it access to your own computer through the desktop ChatGPT app, and you can call your Dot if you need to work through things out loud.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-69164ce789ec",
-    "date": "2026-10-02",
-    "source": "The Verge",
-    "title": "Breaking up (with Elon Musk) is hard to do",
-    "summary": "Clair, has said that she rejected a $40 million NDA from Musk. Musk’s fixer, Jared Birchall, orchestrates privacy deals for Musk with the baby mamas. Musk has 14 known children.",
-    "sourceUrl": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b3a9a516e91b",
-    "date": "2026-10-02",
-    "source": "The Verge",
-    "title": "AI hallucinations are making entitled customers even worse",
-    "summary": "“They just want to talk to ChatGPT,” Madison explains. For Madison, these AI hallucinations exacerbate some people’s preexisting anxieties about wine. You’re allergic to shellfish, and ChatGPT says there’s no shellfish in this, and we are telling you, yes there is!",
-    "sourceUrl": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f829ccaecea0",
-    "date": "2026-10-02",
-    "source": "The Verge",
-    "title": "If a data center is camouflaged in the woods, will anyone hate it?",
-    "summary": "“Not all data center companies are the same. Data centers often use water in cooling systems needed to keep servers from overheating. Big picture, she says, AI is enabling far more pollution than the company is addressing with even well-planned sustainability projects from data center to data center.",
-    "sourceUrl": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-78ffcfd0a288",
-    "date": "2026-10-02",
-    "source": "The Verge",
-    "title": "Amazon writes scary blog warning communities not to block data centers",
-    "summary": "﻿‘The race our nation can’t afford to lose.’\n﻿‘The race our nation can’t afford to lose.’\nAmazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security.",
-    "sourceUrl": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
     ],
     "resources": []
   },
