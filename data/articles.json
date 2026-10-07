@@ -1,5 +1,387 @@
 [
   {
+    "id": "auto-22643d6fcb19",
+    "date": "2026-10-07",
+    "source": "Google AI Blog",
+    "title": "Introducing Playground: Create and play custom games",
+    "summary": "You can now build, play, and share custom games without any coding experience using the new Playground platform. Playground is a new platform that lets you build your own games just by typing what you want.",
+    "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f81ac359aaf4",
+    "date": "2026-10-07",
+    "source": "The Verge",
+    "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+    "summary": "ChatGPT’s teen-focused experience ‘doesn’t send alerts to parents when it should,’ according to an assessment.﻿\nChatGPT’s teen-focused experience ‘doesn’t send alerts to parents when it should,’ according to an assessment.﻿\nCommon Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI’s ChatGPT for Teens is an “unacceptable risk.”\nChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help students learn, but Common Sense Media says that the teen protections offered by the feature “fall short of what the company promised.” Common Sense Media’s assessment found that ChatGPT “doesn’t send alerts to parents when it should,” doesn’t offer “the right help in crisis situations,” and “still does kids’ homework,” according to a press release.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-342677ae7ead",
+    "date": "2026-10-06",
+    "source": "OpenAI",
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+    "sourceUrl": "https://openai.com/index/jump-trading",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-47b9255d8fa0",
+    "date": "2026-10-06",
+    "source": "OpenAI",
+    "title": "Sharing AI progress in mathematics",
+    "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+    "sourceUrl": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-9964af802e9c",
+    "date": "2026-10-06",
+    "source": "OpenAI",
+    "title": "Advancing computer use with Ironclad",
+    "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+    "sourceUrl": "https://openai.com/index/advancing-computer-use-with-ironclad",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-60ef2af305e7",
+    "date": "2026-10-06",
+    "source": "OpenAI",
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+    "sourceUrl": "https://openai.com/index/atlassian-partnership",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-049bf6f5219d",
+    "date": "2026-10-06",
+    "source": "TechCrunch",
+    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "summary": "Get your pass and bring someone with you at 50% off. More than six months after building the product, the co-founders decided their original idea didn’t “have legs,” Joowon Kim told TechCrunch. Kim isn’t concerned about the competition.",
+    "sourceUrl": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c3d8360c1095",
+    "date": "2026-10-06",
+    "source": "TechCrunch",
+    "title": "How AI decision models could change content moderation",
+    "summary": "As decision models spread across the industry, a company called Musubi has a new idea for how to put them to work: moderating content. On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+    "sourceUrl": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-4e425615ccb8",
+    "date": "2026-10-06",
+    "source": "TechCrunch",
+    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "summary": "Book Exhibit Table Now. Cloud provider Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation, marking what could be its last private round before a planned 2027 IPO, according to The Wall Street Journal.",
+    "sourceUrl": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-a9ee6e883253",
+    "date": "2026-10-06",
+    "source": "TechCrunch",
+    "title": "The next hurdle for AI agents: getting websites to let them in",
+    "summary": "User complaints across social media indicate their agents are often running into similar blocks. Instead, its policies restrict unauthorized agents and actions, like automated scraping and model training.",
+    "sourceUrl": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e5d1b19822b0",
+    "date": "2026-10-06",
+    "source": "TechCrunch",
+    "title": "Hark releases an AI personal assistant with a focus on privacy",
+    "summary": "Get your pass and bring someone with you at 50% off. The foundation is a model trained specifically for computer use, and that’s what Hark Pro does — it uses your computer for you. “It’s so hilarious to me that you have AI now, you have a chatbot, and you type stuff in with a keyboard,” Chowdhury says.",
+    "sourceUrl": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c0a0a7f4f301",
+    "date": "2026-10-06",
+    "source": "TechCrunch",
+    "title": "Mirror Particle is building a ‘world model’ of human behavior",
+    "summary": "But two-year-old, San Francisco-based Mirror Particle thinks that approach is fundamentally broken. Mirror Particle is taking another approach: building a foundation model, or as Ahuja describes it, a world model built from scratch that simulates why humans do what they do and how human behavior changes over time.",
+    "sourceUrl": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-3417141909f4",
+    "date": "2026-10-06",
+    "source": "TechCrunch",
+    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+    "summary": "Book Exhibit Table Now. Disrupt doors open Oct. Interested companies can apply through the Claude for Startups program page.",
+    "sourceUrl": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f37dd1b56e96",
+    "date": "2026-10-06",
+    "source": "TechCrunch",
+    "title": "LibreOffice says ‘no AI’ is now a software feature",
+    "summary": "Disrupt doors open Oct. If you’re looking for a document editor that doesn’t use artificial intelligence, LibreOffice may be just the software for you. LibreOffice says users can still choose to use AI tools by installing software extensions that connect the document editor to local AI models.",
+    "sourceUrl": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-dfb231c34b69",
+    "date": "2026-10-06",
+    "source": "TechCrunch",
+    "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+    "summary": "Disrupt doors open Oct. At the same time, an open-weight model is easier to audit, Stock said. With benchmark results still pending, Mistral hopes ML4 will be best in class among open-weight models, especially outside of China, but not only, Stock said.",
+    "sourceUrl": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-fcad74cef190",
+    "date": "2026-10-06",
+    "source": "TechCrunch",
+    "title": "Pinterest’s AI now turns beauty Pins into action plans",
+    "summary": "Disrupt doors open Oct. Get your pass and bring someone with you at 50% off. Pinterest on Tuesday showed off a new feature that will leverage AI to take action on your saved inspiration from beauty-related Pins, like hair and nail ideas, and turn them into actionable plans you can take with you to the salon.",
+    "sourceUrl": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6f089348aa29",
+    "date": "2026-10-06",
+    "source": "TechCrunch",
+    "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+    "summary": "Get your pass and bring someone with you at 50% off. Register now, save up to $100 off your pass, and get a second at 50% off. If you’ve recently been laid off, get a $75 Expo+ Pass before they run out.",
+    "sourceUrl": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e4feb1bf5e69",
+    "date": "2026-10-06",
+    "source": "The Verge",
+    "title": "OpenAI drops another batch of mathematical breakthroughs",
+    "summary": "Solutions to ‘hundreds’ of open questions are said to be included in a batch of manuscripts released by OpenAI. Solutions to ‘hundreds’ of open questions are said to be included in a batch of manuscripts released by OpenAI.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-688a40cc7a92",
+    "date": "2026-10-06",
+    "source": "The Verge",
+    "title": "We can’t just change the definition of ‘recording’",
+    "summary": "This rumored Apple approach would mean cameras can see you, microphones can hear you — but neither is “saving” anything. Apple says these features don’t save any audio. Even if you “record” everything you see in your mind, human memories can’t be shared objectively.",
+    "sourceUrl": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c481fc93e0dd",
+    "date": "2026-10-06",
+    "source": "The Verge",
+    "title": "Google is about to remove free access to Gemini Flash and Pro",
+    "summary": "﻿Users on Google’s $4.99 AI Plus subscription are also losing access to Gemini Pro. ﻿Users on Google’s $4.99 AI Plus subscription are also losing access to Gemini Pro.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-085f7195b66f",
     "date": "2026-10-06",
     "source": "Hugging Face",
@@ -201,410 +583,6 @@
       "llm",
       "agents",
       "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-bc11900335c3",
-    "date": "2026-10-05",
-    "source": "TechCrunch",
-    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-    "summary": "Disrupt doors open Oct. Open models are improving. Save up to $100 now and get 50% off a second pass.",
-    "sourceUrl": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-622d42420ad4",
-    "date": "2026-10-05",
-    "source": "TechCrunch",
-    "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-    "summary": "Disrupt doors open Oct. A new fleet of AI agents is making its presence felt on the internet.",
-    "sourceUrl": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d3ec75561d9b",
-    "date": "2026-10-05",
-    "source": "TechCrunch",
-    "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-    "summary": "Get your pass and bring someone with you at 50% off. Just 200 made Startup Battlefield. Get your pass and bring a colleague, partner, or peer at 50% off.",
-    "sourceUrl": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c853576929bc",
-    "date": "2026-10-05",
-    "source": "TechCrunch",
-    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-    "summary": "Disrupt doors open Oct. Get your pass and bring someone with you at 50% off. Register now and get a second pass at 50% off.",
-    "sourceUrl": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1ba99535ff8c",
-    "date": "2026-10-05",
-    "source": "MIT Technology Review",
-    "title": "Connecting AI agents to enterprise knowledge",
-    "summary": "Data and knowledge weaknesses consistently stall AI agent progress. Fragmented data hugely complicates knowledge access. Investment priorities to boost knowledge range from pipelines to knowledge graphs.",
-    "sourceUrl": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a166b7265245",
-    "date": "2026-10-05",
-    "source": "MIT Technology Review",
-    "title": "Bringing predictive analytics to the agentic AI era",
-    "summary": "Intelligent analytics, powered by technologies like deep learning and generative AI, are making this possible. AI takes predictive analytics—a broad discipline that includes predictive modeling, data prep, analysis workflows, interpretation of results, and decision-making applications—to new heights.",
-    "sourceUrl": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9ccd829ecd1f",
-    "date": "2026-10-05",
-    "source": "MIT Technology Review",
-    "title": "EmTech Future 2026: When AI Meets Everything",
-    "summary": "Only available to MIT Technology Review subscribers. These are just two sessions from EmTech Future 2026. Hear the ideas, insights, and perspectives you missed at EmTech Future 2026.",
-    "sourceUrl": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-fb1f3dca95af",
-    "date": "2026-10-05",
-    "source": "The Verge",
-    "title": "Gemini Call for Me might tell your mom you’re running late",
-    "summary": "﻿A rumored Android update would automate personal phone calls with Gemini AI. ﻿A rumored Android update would automate personal phone calls with Gemini AI. Android Authority also says it found “granular permissions” for Gemini actions in individual apps, including what appear to be settings for phone call permissions.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5bc9d1f47350",
-    "date": "2026-10-05",
-    "source": "The Verge",
-    "title": "This startup is issuing AI-generated acne prescriptions",
-    "summary": "Utah has signed off on letting Nolla Health’s AI system scan a user’s face and issue a prescription directly. Utah has signed off on letting Nolla Health’s AI system scan a user’s face and issue a prescription directly.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-ba6c5da9a880",
-    "date": "2026-10-05",
-    "source": "The Verge",
-    "title": "All the drama around AI’s takeover of mathematics",
-    "summary": "OpenAI is now trying to do better. OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. Instead, many mathematicians have watched OpenAI’s relentless advance with growing unease.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e3d6a6e5d9a3",
-    "date": "2026-10-05",
-    "source": "The Verge",
-    "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
-    "summary": "The Wikimedia Foundation believes OpenAI agents edited wikis, tried to ‘exploit’ a notetaking tool, and made ‘millions’ of automated API requests. The Wikimedia Foundation believes OpenAI agents edited wikis, tried to ‘exploit’ a notetaking tool, and made ‘millions’ of automated API requests.",
-    "sourceUrl": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-773083672101",
-    "date": "2026-10-05",
-    "source": "The Verge",
-    "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
-    "summary": "Rolling out text watermarking in the EU. We are not making text watermarking a global default at launch. Enabling opt-in watermarking for API customers.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-cf94a559a112",
-    "date": "2026-10-05",
-    "source": "The Verge",
-    "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
-    "summary": "When Guiducci confronted Altman about the incident, the publicist warned Guiducci about running out of time, saying she’d like to “move on” to another topic. “Her daughter committed suicide after speaking to ChatGPT.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-4d92ee383d00",
-    "date": "2026-10-05",
-    "source": "The Verge",
-    "title": "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
-    "summary": "Because ‘people will do tremendously orders of magnitude more good stuff…’\nBecause ‘people will do tremendously orders of magnitude more good stuff…’\nSam Altman thinks that the benefits of AI will be so great that “the world should accept some bad things happening” along the way.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b48158e5ab87",
-    "date": "2026-10-05",
-    "source": "The Verge",
-    "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-    "summary": "You’ve got big streamers involved; you’ve got big technology companies involved. What do you think about that? Do you think the companies need an antitrust exemption?",
-    "sourceUrl": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0d7653e5ccb1",
-    "date": "2026-10-05",
-    "source": "The Verge",
-    "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-    "summary": "﻿‘RemoveMacAI’ switches off Apple’s AI features, deletes its AI models, and blocks them from being downloaded again. ﻿‘RemoveMacAI’ switches off Apple’s AI features, deletes its AI models, and blocks them from being downloaded again.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3cbec84de8bf",
-    "date": "2026-10-05",
-    "source": "OpenAI",
-    "title": "Building advertising for the way people use AI",
-    "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-    "sourceUrl": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-8219cfaf573d",
-    "date": "2026-10-05",
-    "source": "TechCrunch",
-    "title": "Can Safeworld convince people that gen AI robots won’t hurt them?",
-    "summary": "Book Exhibit Table Now. Get your pass and bring someone with you at 50% off. “By the time you have robots in households colliding with kids and causing safety incidents, that’s way too late.”\nSafeworld’s speciality is evaluating a robotic control system in simulations that are populated with realistic human models.",
-    "sourceUrl": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-7a474ffcdd2c",
-    "date": "2026-10-05",
-    "source": "MIT Technology Review",
-    "title": "People really hate AI, so why can’t they get enough?",
-    "summary": "Yet the number of people using AI is still skyrocketing. One in four people say they do so every day. All these surveys paint a picture of two contradictory truths: A lot of people really do not like AI and a lot of people cannot get enough of it.",
-    "sourceUrl": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a5a880c6829c",
-    "date": "2026-10-05",
-    "source": "The Verge",
-    "title": "Our minds aren’t equipped to handle AI",
-    "summary": "Thus far, our story of human development has largely centered on feedback from the physical world. Human diets are perhaps the most obvious example. It’s a cognitive hot dog.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
     ],
     "resources": []
   },
