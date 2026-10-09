@@ -1,169 +1,30 @@
 [
   {
-    "id": "auto-7e0548f31e36",
-    "date": "2026-10-08",
-    "source": "MIT Technology Review",
-    "title": "AI breakthroughs in robotics won’t change your life any time soon",
-    "summary": "”It’s very easy to make a robot that looks like a person,” explains Jonathan Hurst, cofounder and chief robot officer of Agility Robotics and professor of robotics at Oregon State University. These animations are based on human teleoperation of the robot arms, data that is used to train Google DeepMind’s models.",
-    "sourceUrl": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-48f3042078ba",
-    "date": "2026-10-08",
-    "source": "MIT Technology Review",
-    "title": "Building a safer path to autonomous industrial AI",
-    "summary": "And what we're really thinking about now at AVEVA is, how do we think about this? Arti: I think there's a couple different ways to think about this. I think that's really exciting.",
-    "sourceUrl": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ad4e14640e35",
-    "date": "2026-10-07",
+    "id": "auto-edd58468d564",
+    "date": "2026-10-09",
     "source": "OpenAI",
-    "title": "Helping teens learn, plan, and shape the future of AI",
-    "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-    "sourceUrl": "https://openai.com/index/teens-learn-and-plan",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-04e9dc3828b5",
-    "date": "2026-10-07",
-    "source": "OpenAI",
-    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-    "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-    "sourceUrl": "https://openai.com/index/radisson",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-0ca1450969b5",
-    "date": "2026-10-07",
-    "source": "OpenAI",
-    "title": "GPT-6 and Intelligent UI for everyone",
-    "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-    "sourceUrl": "https://openai.com/index/gpt-6-for-everyone",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0825a4897dea",
-    "date": "2026-10-07",
-    "source": "Hugging Face",
-    "title": "Multimodal open d1 decision models for the edge",
-    "summary": "Today, we release two open decision models in our d1 decision model family: d1-3B and d1-omni-600M (experimental). These open d1 decision models are built on our Liquid Foundation Models (LFMs). Unlike our generative models, decision models don’t produce tokens but answer in a single forward pass.",
-    "sourceUrl": "https://huggingface.co/blog/LiquidAI/open-d1",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "sourceUrl": "https://openai.com/index/sophos",
     "auto": true,
     "metiers": [
       "csm",
       "ops",
-      "product",
       "sales",
       "tech"
     ],
     "themes": [
-      "llm",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5bdd694c6290",
-    "date": "2026-10-07",
-    "source": "Hugging Face",
-    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-    "summary": "The IMO system’s submitted proofs were graded by official IMO graders. Nemotron-3-Ultra-CC, with 550 billion total parameters and 55 billion active parameters, received SFT.",
-    "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9b80120014fd",
-    "date": "2026-10-07",
-    "source": "TechCrunch",
-    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-    "summary": "Book Exhibit Table Now. Disrupt doors open Oct. Nous Research, the startup developing the open source Hermes Agent, has raised a $90 million Series B at a $1.5 billion valuation, confirming TechCrunch’s earlier reporting.",
-    "sourceUrl": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
       "automation"
     ],
     "resources": []
   },
   {
-    "id": "auto-09299f670c92",
-    "date": "2026-10-07",
-    "source": "TechCrunch",
-    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-    "summary": "Get your pass and bring someone with you at 50% off.",
-    "sourceUrl": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "id": "auto-12c2c27c0af6",
+    "date": "2026-10-09",
+    "source": "MIT Technology Review",
+    "title": "We’re putting too much faith in AI’s ability to say no",
+    "summary": "Folks call it the Swiss cheese model. Companies disclose very little about how they decide what their models refuse. Emergent refusal has been observed in Western models, too.",
+    "sourceUrl": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
     "auto": true,
     "metiers": [
       "csm",
@@ -184,247 +45,69 @@
     "resources": []
   },
   {
-    "id": "auto-769d4c9aeb15",
-    "date": "2026-10-07",
-    "source": "TechCrunch",
-    "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-    "summary": "Book Exhibit Table Now. Disrupt doors open Oct. In addition, Meta recently announced more retail partners, like Best Buy, Gap, Sephora, Walmart, and Wayfair.",
-    "sourceUrl": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+    "id": "auto-577a3234004b",
+    "date": "2026-10-09",
+    "source": "MIT Technology Review",
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "summary": "Can AI design new life forms? Join senior AI reporter James O'Donnell as he interviews King about his work, being named one of MIT Technology Review's Innovators Under 35 and new ways of seeing biology. Breathless claims about AGI and new capabilities fall apart pretty quickly under scrutiny.",
+    "sourceUrl": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
     "auto": true,
     "metiers": [
       "csm",
-      "management",
       "marketing",
-      "ops",
       "product",
       "sales",
       "tech"
     ],
     "themes": [
-      "llm",
       "agents",
-      "ethics",
       "genai-product"
     ],
     "resources": []
   },
   {
-    "id": "auto-69c1beaf0367",
-    "date": "2026-10-07",
-    "source": "TechCrunch",
-    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-    "summary": "A new study from Common Sense Media has found that despite those assurances, ChatGPT for Teens’ design still encourages engagement, even when it may pose a risk to user safety. ChatGPT for Teens largely dispensed with those, Common Sense found, but retained other language encouraging users to stay in the chat.",
-    "sourceUrl": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a5478fc42d69",
-    "date": "2026-10-07",
-    "source": "TechCrunch",
-    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-    "summary": "Get your pass and bring someone with you at 50% off. ChatGPT is about to get a lot more visual, thanks to a new feature that OpenAI calls Intelligent UI. OpenAI says many of those visuals will be interactive.",
-    "sourceUrl": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+    "id": "auto-15717a6b7c9a",
+    "date": "2026-10-09",
+    "source": "The Verge",
+    "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+    "summary": "The AI lab insisted the decision was about a ‘breach of trust,’ not raising safety issues. The AI lab insisted the decision was about a ‘breach of trust,’ not raising safety issues.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
     "auto": true,
     "metiers": [
       "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
+      "ops"
     ],
     "themes": [
-      "llm",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b5ad26925301",
-    "date": "2026-10-07",
-    "source": "TechCrunch",
-    "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-    "summary": "More than 97% of the content Meta acted on was found by its systems before users reported it, the company said. Meta said its latest AI tools are aimed at people using ads that look harmless to send users to illegal content outside Meta’s platforms.",
-    "sourceUrl": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
       "ethics"
     ],
     "resources": []
   },
   {
-    "id": "auto-5d700d9f9aca",
-    "date": "2026-10-07",
-    "source": "TechCrunch",
-    "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-    "summary": "Healthleap, a startup building an AI platform that reads patient records to identify patients at risk of undiagnosed illnesses, has raised $38 million in seed and Series A funding, TechCrunch has exclusively learned.",
-    "sourceUrl": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+    "id": "auto-112b5f00879d",
+    "date": "2026-10-08",
+    "source": "OpenAI",
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+    "sourceUrl": "https://openai.com/index/oracle",
     "auto": true,
     "metiers": [
       "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c1d0cf6b00ca",
-    "date": "2026-10-07",
-    "source": "TechCrunch",
-    "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-    "summary": "“You have to really understand what you’re trying to do, what pain you’re trying to solve,” he said. When you hire a human assistant, you’re not giving them your bank account login on day one. “Because it’s a startup, you get one shot,” he quipped.",
-    "sourceUrl": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3dcafb3a31cf",
-    "date": "2026-10-07",
-    "source": "TechCrunch",
-    "title": "Google experiments with an AI-powered gaming platform",
-    "summary": "Playground also allows users to upload visuals that its AI can transform into game assets tailored to the game’s overall art style.",
-    "sourceUrl": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-814772bc922c",
-    "date": "2026-10-07",
-    "source": "TechCrunch",
-    "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-    "summary": "Disrupt doors open Oct. Disrupt is just seven days away. Get 50% off a second passThe Disrupt experience is meant to be shared.",
-    "sourceUrl": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d5ce11bd19f2",
-    "date": "2026-10-07",
-    "source": "TechCrunch",
-    "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-    "summary": "Disrupt doors open Oct. Get your pass and bring someone with you at 50% off. Get your pass and bring a colleague, partner, or peer at 50% off.",
-    "sourceUrl": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9d9fcd082b29",
-    "date": "2026-10-07",
-    "source": "TechCrunch",
-    "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-    "summary": "Disrupt doors open Oct. Get your pass and bring someone with you at 50% off. Get an Expo+ Pass for just $75.",
-    "sourceUrl": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
       "ops",
       "sales",
       "tech"
     ],
     "themes": [
-      "automation",
-      "ethics"
+      "automation"
     ],
     "resources": []
   },
   {
-    "id": "auto-e4ccf311f643",
-    "date": "2026-10-07",
-    "source": "TechCrunch",
-    "title": "Google’s new SynthID website can identify AI-generated media",
-    "summary": "Book Exhibit Table Now. Disrupt doors open Oct. Google has baked SynthID verification into the Gemini app and Google Chrome.",
-    "sourceUrl": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+    "id": "auto-ca1ec6c6a1a1",
+    "date": "2026-10-08",
+    "source": "OpenAI",
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+    "sourceUrl": "https://openai.com/index/pollo-ai",
     "auto": true,
     "metiers": [
       "product",
@@ -436,158 +119,248 @@
     "resources": []
   },
   {
-    "id": "auto-876648c3358f",
-    "date": "2026-10-07",
-    "source": "The Verge",
-    "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
-    "summary": "With GPT-6, the chatbot’s responses can include interactive responses directly inside your conversation. With GPT-6, the chatbot’s responses can include interactive responses directly inside your conversation.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+    "id": "auto-f6d3626eb7c8",
+    "date": "2026-10-08",
+    "source": "OpenAI",
+    "title": "LegalOn halves Codex costs while maintaining development speed",
+    "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+    "sourceUrl": "https://openai.com/index/legalon-halves-codex-costs",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-077dea1e8a7a",
+    "date": "2026-10-08",
+    "source": "OpenAI",
+    "title": "Disrupting AI-enabled “false front” operations",
+    "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+    "sourceUrl": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-0f05fd4155a4",
+    "date": "2026-10-08",
+    "source": "Hugging Face",
+    "title": "The model that didn't exist, so you made it yourself",
+    "summary": "Compute cost, about USD 1.90. Compute cost, about USD 7.60. Total compute cost, about USD 16.",
+    "sourceUrl": "https://huggingface.co/blog/building-with-ml-intern",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-4f0829ed301a",
+    "date": "2026-10-08",
+    "source": "TechCrunch",
+    "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+    "summary": "Get your pass and bring someone with you at 50% off. You can click around the environment, which lets you look through the documents made public from the court case on Holmes’ iPhone and laptop screens.",
+    "sourceUrl": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
     "auto": true,
     "metiers": [
       "management",
-      "marketing",
       "ops",
       "product",
       "tech"
     ],
     "themes": [
       "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c9efa01bf043",
+    "date": "2026-10-08",
+    "source": "TechCrunch",
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "summary": "The researchers were dismissed last week after allegedly sharing confidential company information with a third-party AI safety organization.",
+    "sourceUrl": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
       "ethics",
-      "genai-product"
+      "data"
     ],
     "resources": []
   },
   {
-    "id": "auto-a5b44d5e4c84",
-    "date": "2026-10-07",
-    "source": "The Verge",
-    "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
-    "summary": "Tough typo spotted in today’s Surface Laptop Ultra event. Months after revealing its Surface Laptop Ultra, Microsoft has announced that the Nvidia RTX Spark-equipped device will launch on October 16th. Microsoft has created a magnetic charging solution for its Surface Laptop Ultra that uses USB-C.",
-    "sourceUrl": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+    "id": "auto-7dcbf8a5afe0",
+    "date": "2026-10-08",
+    "source": "TechCrunch",
+    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+    "summary": "“When I worry about AI, I worry about my kids in school. I worry about learned helplessness. I worry about responsible use.",
+    "sourceUrl": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
     "auto": true,
     "metiers": [
       "csm",
-      "marketing",
+      "management",
       "ops",
       "product",
       "sales",
       "tech"
     ],
     "themes": [
-      "agents",
-      "genai-product",
+      "llm",
+      "automation",
+      "ethics",
       "data"
     ],
     "resources": []
   },
   {
-    "id": "auto-9c7dd462aa5a",
-    "date": "2026-10-07",
-    "source": "The Verge",
-    "title": "Microsoft is giving Copilot more control over Windows and your files",
-    "summary": "With features powered by ‘Hybrid Intelligence,’ Copilot can use files on your Windows PC to take actions. With features powered by ‘Hybrid Intelligence,’ Copilot can use files on your Windows PC to take actions.",
-    "sourceUrl": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+    "id": "auto-66a844307a25",
+    "date": "2026-10-08",
+    "source": "TechCrunch",
+    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+    "summary": "Disrupt doors open Oct. This comes after the company said it reached $100 million in annualized run-rate revenue in June. Arena previously announced a $150 million Series A in January at a $1.7 billion post-money valuation.",
+    "sourceUrl": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
     "auto": true,
     "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2c81a4fbc76b",
-    "date": "2026-10-07",
-    "source": "The Verge",
-    "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
-    "summary": "Microsoft’s high-end AI mini PC for developers starts shipping in November.﻿\nMicrosoft’s high-end AI mini PC for developers starts shipping in November.﻿\nMicrosoft’s Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000.",
-    "sourceUrl": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ee6859a51c49",
-    "date": "2026-10-07",
-    "source": "The Verge",
-    "title": "ChatGPT is getting college planning tools",
-    "summary": "ChatGPT’s new College Planner tool will help users keep track of application and financial aid deadlines. ChatGPT’s new College Planner tool will help users keep track of application and financial aid deadlines. OpenAI is also updating ChatGPT with new features to help with studying.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
-    "auto": true,
-    "metiers": [
-      "csm",
+      "management",
       "ops",
+      "product",
       "tech"
     ],
     "themes": [
-      "data"
+      "llm",
+      "ethics"
     ],
     "resources": []
   },
   {
-    "id": "auto-b8b3b1c51400",
-    "date": "2026-10-07",
-    "source": "The Verge",
-    "title": "Muse launches on the iPad",
-    "summary": "Meta’s AI agent now properly supports the iPad’s larger screen and recent improvements to multitasking. Meta’s AI agent now properly supports the iPad’s larger screen and recent improvements to multitasking.",
-    "sourceUrl": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+    "id": "auto-8dce6b889a93",
+    "date": "2026-10-08",
+    "source": "TechCrunch",
+    "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+    "summary": "The Financial Times reports that the company has told investors that its annualized revenue is “approaching $50 billion.” The $70 billion figure was previously reported by news outlets and based on information that had been shared with OpenAI investors, the outlet writes.",
+    "sourceUrl": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-47672f48bba9",
+    "date": "2026-10-08",
+    "source": "TechCrunch",
+    "title": "Google brings agentic AI to Gemini, starting with businesses",
+    "summary": "He also noted that nearly 90% of Fortune 100 businesses now use Gemini Enterprise at work. Given Gemini’s adoption in the corporate world, Google will initially focus on bringing the agent to businesses before later rolling it out to consumers.",
+    "sourceUrl": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
     "auto": true,
     "metiers": [
       "csm",
+      "management",
+      "ops",
       "product",
       "sales",
       "tech"
     ],
     "themes": [
-      "agents"
+      "llm",
+      "agents",
+      "ethics"
     ],
     "resources": []
   },
   {
-    "id": "auto-4c9b009d21f8",
-    "date": "2026-10-07",
-    "source": "The Verge",
-    "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
-    "summary": "The Zuckerberg-backed Biohub will use the investment to create AI datasets that help researchers ‘ask, predict, and answer biological questions digitally.’\nThe Zuckerberg-backed Biohub will use the investment to create AI datasets that help researchers ‘ask, predict, and answer biological questions digitally.’\nGoogle DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a “virtual cell” that researchers can use to combat disease, as reported earlier by Reuters.",
-    "sourceUrl": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+    "id": "auto-0542b0f0c0fe",
+    "date": "2026-10-08",
+    "source": "TechCrunch",
+    "title": "Anthropic changes usage policy to ban model abuse and election interference",
+    "summary": "Book Exhibit Table Now. Disrupt doors open Oct. Anthropic updated its usage policy on Thursday, codifying new prohibitions on election interference, weapons software, and surveillance.",
+    "sourceUrl": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
     "auto": true,
     "metiers": [
-      "csm",
+      "management",
       "ops",
+      "product",
       "tech"
     ],
     "themes": [
-      "data"
+      "llm",
+      "ethics"
     ],
     "resources": []
   },
   {
-    "id": "auto-8b63f191edc0",
-    "date": "2026-10-07",
-    "source": "The Verge",
-    "title": "AI could upend food delivery",
-    "summary": "Delivery apps like DoorDash and Uber Eats have changed how diners eat and how restaurants operate. But this summer, Bites caught DoorDash’s attention. Jayaraman says his margins are higher with Bites orders than with DoorDash orders.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+    "id": "auto-6e4822f67023",
+    "date": "2026-10-08",
+    "source": "TechCrunch",
+    "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+    "summary": "But OpenAI fell short of those standards, particularly where the mathematicians emphasized the need for human understanding of a mathematical result.",
+    "sourceUrl": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-759eafaf4632",
+    "date": "2026-10-08",
+    "source": "TechCrunch",
+    "title": "Natura’s $99 smart ring puts AI agents on your finger",
+    "summary": "You can go shower with it; you can sleep with it. If you’re out for a run, you could ask the ring to start tracking your workout. If you’re in the shower and realize you’re out of shampoo, you could ask the ring to reorder it.",
+    "sourceUrl": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
     "auto": true,
     "metiers": [
       "csm",
-      "marketing",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e9412c80c28c",
+    "date": "2026-10-08",
+    "source": "TechCrunch",
+    "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+    "summary": "Disrupt doors open Oct. Goodfire says its approach is also cheaper to run. Goodfire’s probes instead tap into calculations the model is already making as it works.",
+    "sourceUrl": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
       "ops",
       "product",
       "sales",
@@ -597,18 +370,167 @@
       "llm",
       "agents",
       "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f8d16a9366ba",
+    "date": "2026-10-08",
+    "source": "TechCrunch",
+    "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+    "summary": "Disrupt doors open Oct. Grab a second pass at 50% off. Join Ben Longmier and Bill Thayer at the Smart Systems Stage at TechCrunch Disrupt 2026 and explore where the AI infrastructure boom is creating its next opportunities.",
+    "sourceUrl": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b1e841d565eb",
+    "date": "2026-10-08",
+    "source": "TechCrunch",
+    "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+    "summary": "Disrupt doors open Oct. Get your pass and bring someone with you at 50% off. Get 50% off a second pass of the same type.",
+    "sourceUrl": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-33a4496777d2",
+    "date": "2026-10-08",
+    "source": "TechCrunch",
+    "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+    "summary": "Yadegari also says that Persona is designed with user privacy in mind. Users can also delete their data, the company says. Yadegari says the company will show advertised wares during shopping research.",
+    "sourceUrl": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ac9ca90001ec",
+    "date": "2026-10-08",
+    "source": "TechCrunch",
+    "title": "Google releases a new local-first Granola competitor",
+    "summary": "Like Granola, it also lets you take manual notes while transcribing the meeting. However, Google could very well release a consumer version of meeting note-taker that works across video calling apps through its Gemini apps while relying on its cloud models. The meeting note-taker space is competitive and crowded.",
+    "sourceUrl": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
       "genai-product",
       "data"
     ],
     "resources": []
   },
   {
-    "id": "auto-22643d6fcb19",
-    "date": "2026-10-07",
-    "source": "Google AI Blog",
-    "title": "Introducing Playground: Create and play custom games",
-    "summary": "You can now build, play, and share custom games without any coding experience using the new Playground platform. Playground is a new platform that lets you build your own games just by typing what you want.",
-    "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "id": "auto-80b90aa345ba",
+    "date": "2026-10-08",
+    "source": "TechCrunch",
+    "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+    "summary": "Disrupt doors open Oct. Chinese AI lab Manus’ parent company, Butterfly Effect, said on Thursday in a WeChat post that it has raised more than $500 million, the company’s first funding round since Meta was forced to call off its $2 billion acquisition of the startup.",
+    "sourceUrl": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-df7e5433800b",
+    "date": "2026-10-08",
+    "source": "The Verge",
+    "title": "Anthropic launches free AI security scans for open-source projects",
+    "summary": "The new OSS Scanner service offers vulnerability reports from Anthropic’s “strongest models,” including Mythos. The new OSS Scanner service offers vulnerability reports from Anthropic’s “strongest models,” including Mythos.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-4079389ad67f",
+    "date": "2026-10-08",
+    "source": "The Verge",
+    "title": "California is trying to shut down robot vs. human cage matches",
+    "summary": "The state says Rek, the ‘humanoid robot fighting league,’ can’t host fights involving ‘any human’ in California without permission. The state says Rek, the ‘humanoid robot fighting league,’ can’t host fights involving ‘any human’ in California without permission.",
+    "sourceUrl": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-a08ca06c8554",
+    "date": "2026-10-08",
+    "source": "The Verge",
+    "title": "USA Today becomes the latest publisher to sue OpenAI",
+    "summary": "The publisher is seeking damages of more than $250 million. This is just the latest in a string of copyright lawsuits filed against OpenAI. “OpenAI’s commercial success rests on large-scale copyright infringement,” USA Today Co.’s lawsuit claims.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
     "auto": true,
     "metiers": [
       "management",
@@ -620,19 +542,55 @@
     "resources": []
   },
   {
-    "id": "auto-f81ac359aaf4",
-    "date": "2026-10-07",
+    "id": "auto-0de6ad968814",
+    "date": "2026-10-08",
     "source": "The Verge",
-    "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-    "summary": "ChatGPT’s teen-focused experience ‘doesn’t send alerts to parents when it should,’ according to an assessment.﻿\nChatGPT’s teen-focused experience ‘doesn’t send alerts to parents when it should,’ according to an assessment.﻿\nCommon Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI’s ChatGPT for Teens is an “unacceptable risk.”\nChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help students learn, but Common Sense Media says that the teen protections offered by the feature “fall short of what the company promised.” Common Sense Media’s assessment found that ChatGPT “doesn’t send alerts to parents when it should,” doesn’t offer “the right help in crisis situations,” and “still does kids’ homework,” according to a press release.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+    "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+    "summary": "The marriage of Grok and Omarchy aligns two controversial tech leaders. The marriage of Grok and Omarchy aligns two controversial tech leaders. If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they’d back Omarchy.",
+    "sourceUrl": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-ba390530e9c6",
+    "date": "2026-10-08",
+    "source": "The Verge",
+    "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+    "summary": "The usage policy update also adds new rules addressing propaganda campaigns, surveillance, and weapon development. The usage policy update also adds new rules addressing propaganda campaigns, surveillance, and weapon development.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
     "auto": true,
     "metiers": [
       "management",
-      "ops"
+      "ops",
+      "product",
+      "tech"
     ],
     "themes": [
+      "llm",
       "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-472b20c3e805",
+    "date": "2026-10-08",
+    "source": "The Verge",
+    "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+    "summary": "Google AI Edge Foresight uses an on-device model to process your audio and notes without connecting to the cloud. Google AI Edge Foresight uses an on-device model to process your audio and notes without connecting to the cloud.",
+    "sourceUrl": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "genai-product",
+      "data"
     ],
     "resources": []
   },
