@@ -1,5 +1,163 @@
 [
   {
+    "id": "auto-3ea17d5e3961",
+    "date": "2026-10-12",
+    "source": "TechCrunch",
+    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+    "summary": "Get your pass and bring someone with you at 50% off. There’s obviously privacy and data security concerns with anything that’s collecting data about you continuously. Mo said that users can turn off ambient data capture on Ambi’s apps and devices at any time, and the feature is off by default.",
+    "sourceUrl": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f35a07389044",
+    "date": "2026-10-12",
+    "source": "The Verge",
+    "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+    "summary": "The new Maia 300 chip will start rolling out to production AI workloads in 2027. The new Maia 300 chip will start rolling out to production AI workloads in 2027.",
+    "sourceUrl": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2a599db62b35",
+    "date": "2026-10-11",
+    "source": "TechCrunch",
+    "title": "Will the HomeView be Apple’s first smart home success?",
+    "summary": "Disrupt doors open Oct. Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Gurman reports that on Tuesday, Apple will also be unveiling updated versions of two other home devices, namely the Apple TV set-top box and the HomePod mini.",
+    "sourceUrl": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-e380f02bc291",
+    "date": "2026-10-11",
+    "source": "TechCrunch",
+    "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+    "summary": "Disrupt doors open Oct. Get your pass and bring someone with you at 50% off. Don’t forget to get a second pass at 50% off.",
+    "sourceUrl": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-70688ea0e7a5",
+    "date": "2026-10-11",
+    "source": "TechCrunch",
+    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+    "summary": "But these data centers aren’t coming online for the next two, three, four, five years. We love it.”\nBut you can tell that the people trying to build these data centers are worried, which is why you have these unhinged tweets from people like Trump or David Sacks.",
+    "sourceUrl": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ba5db8106c64",
+    "date": "2026-10-11",
+    "source": "TechCrunch",
+    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+    "summary": "Get your pass and bring someone with you at 50% off. “If you think about the meetings that you’re in right now, the best conversations that you have are where you can have debate, and strategic discussions, and when you feel like there’s a relationship that underpins it. You lose trust in the platform.",
+    "sourceUrl": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7ec8afeed353",
+    "date": "2026-10-11",
+    "source": "The Verge",
+    "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+    "summary": "Musk, Benioff, Huang, and now Nadella have all capitulated to Trump’s ‘super intelligence’ rebrand. Musk, Benioff, Huang, and now Nadella have all capitulated to Trump’s ‘super intelligence’ rebrand.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-ea95eacbd85b",
+    "date": "2026-10-11",
+    "source": "The Verge",
+    "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+    "summary": "Local AI and agents are just, like, so hot right now. (Care to share what local models and hardware you use? I asked, “Can you reorganize my Steam library?” Hermes could see most of my games by just viewing the already installed Steam client.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-d05facb80f7a",
     "date": "2026-10-10",
     "source": "TechCrunch",
@@ -443,168 +601,6 @@
     ],
     "themes": [
       "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e0e388931715",
-    "date": "2026-10-09",
-    "source": "The Verge",
-    "title": "Trump’s attempt to rename AI is looking awfully artificial",
-    "summary": "A longtime AI booster, Trump has gone into pro-robot overdrive since an industry conversation over “pacing” frontier development last month.",
-    "sourceUrl": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3e04105beca7",
-    "date": "2026-10-09",
-    "source": "The Verge",
-    "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
-    "summary": "Before there were cute little guys, there was Instinct. “Just like you would text or email your personal assistant, you can do the same with Instinct.”\nInstinct didn’t impress me at first. When asked if Instinct would remain free, Shinn responded that “Instinct is free for invite-only users.",
-    "sourceUrl": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-edd58468d564",
-    "date": "2026-10-09",
-    "source": "OpenAI",
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-    "sourceUrl": "https://openai.com/index/sophos",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-12c2c27c0af6",
-    "date": "2026-10-09",
-    "source": "MIT Technology Review",
-    "title": "We’re putting too much faith in AI’s ability to say no",
-    "summary": "Folks call it the Swiss cheese model. Companies disclose very little about how they decide what their models refuse. Emergent refusal has been observed in Western models, too.",
-    "sourceUrl": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-577a3234004b",
-    "date": "2026-10-09",
-    "source": "MIT Technology Review",
-    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "summary": "Can AI design new life forms? Join senior AI reporter James O'Donnell as he interviews King about his work, being named one of MIT Technology Review's Innovators Under 35 and new ways of seeing biology. Breathless claims about AGI and new capabilities fall apart pretty quickly under scrutiny.",
-    "sourceUrl": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-15717a6b7c9a",
-    "date": "2026-10-09",
-    "source": "The Verge",
-    "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-    "summary": "The AI lab insisted the decision was about a ‘breach of trust,’ not raising safety issues. The AI lab insisted the decision was about a ‘breach of trust,’ not raising safety issues.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-112b5f00879d",
-    "date": "2026-10-08",
-    "source": "OpenAI",
-    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-    "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-    "sourceUrl": "https://openai.com/index/oracle",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ca1ec6c6a1a1",
-    "date": "2026-10-08",
-    "source": "OpenAI",
-    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-    "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-    "sourceUrl": "https://openai.com/index/pollo-ai",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
     ],
     "resources": []
   },
