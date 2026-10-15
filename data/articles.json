@@ -1,5 +1,535 @@
 [
   {
+    "id": "auto-134069d44702",
+    "date": "2026-10-15",
+    "source": "TechCrunch",
+    "title": "Figma announces new features to define how agents work on its platform",
+    "summary": "Design platform Figma announced a new Markdown-based editor to help define a company’s design, bring in design and code libraries, and integrate with the Payload headless content management system during the company’s first Config event in India.",
+    "sourceUrl": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f86858c1d849",
+    "date": "2026-10-15",
+    "source": "TechCrunch",
+    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+    "summary": "Get your pass and bring someone with you at 50% off. Ricursive Intelligence founders Anna Goldie and Azalia Mirhoseini believe more efficient AI chip design could help solve the compute crisis.",
+    "sourceUrl": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5abc04e05146",
+    "date": "2026-10-15",
+    "source": "TechCrunch",
+    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+    "summary": "REGISTER NOW\nDisrupt doors open Oct. Presley called the company’s path to becoming a startup unusual. Three years after its founding, Gudea has nearly 40 clients.",
+    "sourceUrl": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a0e0fec2c2b5",
+    "date": "2026-10-14",
+    "source": "OpenAI",
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+    "sourceUrl": "https://openai.com/index/amp-beyond-coding",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-24cc989c02db",
+    "date": "2026-10-14",
+    "source": "OpenAI",
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+    "sourceUrl": "https://openai.com/index/sentinelone",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-e181547094b0",
+    "date": "2026-10-14",
+    "source": "OpenAI",
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+    "sourceUrl": "https://openai.com/index/third-moment-research",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7d10f0ddfecf",
+    "date": "2026-10-14",
+    "source": "OpenAI",
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+    "sourceUrl": "https://openai.com/index/block-ai-powered-security",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-672ebf75c430",
+    "date": "2026-10-14",
+    "source": "Hugging Face",
+    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "summary": "🤗 Models | 📄 Paper | 📓 Tutorial notebooks | 🌎 Demo\nWe introduce HiRO-ACEv2, the newest update to our High Resolution Output Ai2 Climate Emulator (HiRO-ACE) system.",
+    "sourceUrl": "https://huggingface.co/blog/allenai/hiro-acev2",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-bd61b92171ac",
+    "date": "2026-10-14",
+    "source": "TechCrunch",
+    "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+    "summary": "Flock CEO Garrett Langley said the company’s gunshot-detection microphones detect “just gunshots,” but Flock’s website paints a far broader picture of what other ambient audio also gets picked up.",
+    "sourceUrl": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-55222f29942f",
+    "date": "2026-10-14",
+    "source": "TechCrunch",
+    "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+    "summary": "YouTube said it collaborated with various music partners and deployed its own detection tools to identify AI-generated music. The move comes as AI-generated music rapidly expands across streaming services, and many platforms are adopting their own approaches.",
+    "sourceUrl": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-619d87b09b01",
+    "date": "2026-10-14",
+    "source": "TechCrunch",
+    "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+    "summary": "Apate.ai sends them undercover to get scammed. The company says its fleet of agents has so far wasted 17 years of scammers’ time across 2.5 million conversations. Telcos block numbers, but scammers just get new ones.",
+    "sourceUrl": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9c18b5e1b4bf",
+    "date": "2026-10-14",
+    "source": "TechCrunch",
+    "title": "Deezer will soon let you filter out AI-generated music",
+    "summary": "Streaming platform Deezer remains steadfast in its intent to help users avoid listening to AI-generated music: The company on Tuesday said it is working on a new toggle that lets users filter out AI-generated music uploaded to its platform.",
+    "sourceUrl": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c16911033b31",
+    "date": "2026-10-14",
+    "source": "TechCrunch",
+    "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+    "summary": "Last two days at Disrupt are half off. REGISTER NOW\nDisrupt doors open Oct. Get 50% off a second passThe Disrupt experience is meant to be shared.",
+    "sourceUrl": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ecdf723c0581",
+    "date": "2026-10-14",
+    "source": "TechCrunch",
+    "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+    "summary": "Get your pass and bring someone with you at 50% off. Weiss said he initially bootstrapped the app and worked out of Bessemer’s office. Weiss said Fisher convinced him that Zenzap should be a venture-backed business, as the company would need capital to scale.",
+    "sourceUrl": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-40dbf46b6384",
+    "date": "2026-10-14",
+    "source": "TechCrunch",
+    "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+    "summary": "REGISTER NOW\nDisrupt doors open Oct. Floqer is pitching Wednesday on the Startup Battlefield stage at TechCrunch Disrupt 2026. Before releasing the database publicly, Floqer is conducting security reviews because the database can contain sensitive customer information and large companies already use it.",
+    "sourceUrl": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-62cbe095b516",
+    "date": "2026-10-14",
+    "source": "TechCrunch",
+    "title": "TechCrunch Disrupt 2026: Day 2",
+    "summary": "Get your pass and bring someone with you at 50% off. With an eligible conference pass, explore the ideas, business strategies, and technologies shaping the startup ecosystem. Explore pass access here.",
+    "sourceUrl": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ca567069ecbf",
+    "date": "2026-10-14",
+    "source": "TechCrunch",
+    "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+    "summary": "About 90% of Scimplify’s manufacturing currently takes place in India. The startup is targeting a $400 million annualized revenue run rate over the next year. The startup employs about 340 people, including roughly 70 scientists.",
+    "sourceUrl": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d1f8876dacf9",
+    "date": "2026-10-14",
+    "source": "The Verge",
+    "title": "McKinsey is making job applicants spar with a fake AI client",
+    "summary": "Some entry-level McKinsey candidates will have a 10-minute conversation with a simulated client as part of the interview process. Some entry-level McKinsey candidates will have a 10-minute conversation with a simulated client as part of the interview process.",
+    "sourceUrl": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-88ac6d1c3f06",
+    "date": "2026-10-14",
+    "source": "The Verge",
+    "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+    "summary": "OpenAI is accused of misleading the public about its chatbot’s safety and putting everyone at risk. OpenAI is accused of misleading the public about its chatbot’s safety and putting everyone at risk.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2fac9b600466",
+    "date": "2026-10-14",
+    "source": "The Verge",
+    "title": "The AI race is back on",
+    "summary": "Google and Meta are challenging Anthropic and OpenAI at the AI frontier.﻿\nGoogle and Meta are challenging Anthropic and OpenAI at the AI frontier.﻿\nLast week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-738aed8dcc6e",
+    "date": "2026-10-14",
+    "source": "The Verge",
+    "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
+    "summary": "State AGs are now trying to make sure its users’ private chats aren’t exposed to the highest bidder.﻿\nState AGs are now trying to make sure its users’ private chats aren’t exposed to the highest bidder.﻿\nNew York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding.",
+    "sourceUrl": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-939ecdfa5040",
+    "date": "2026-10-14",
+    "source": "The Verge",
+    "title": "YouTube sticks new labels on AI-generated songs",
+    "summary": "New AI labels are marking tracks created ‘primarily’ with generative AI tools, starting first on YouTube Music. New AI labels are marking tracks created ‘primarily’ with generative AI tools, starting first on YouTube Music.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-bba11107a8fb",
+    "date": "2026-10-14",
+    "source": "The Verge",
+    "title": "My AI doppelganger tells me what to eat",
+    "summary": "I consult my digital twin. Twin Health provides everything you need to build a digital twin. Could a digital twin help me do that?",
+    "sourceUrl": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-524e699ebac3",
+    "date": "2026-10-14",
+    "source": "The Verge",
+    "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+    "summary": "The former employee took more than 100 confidential files before leaving to join Apple, OpenAI alleges. The former employee took more than 100 confidential files before leaving to join Apple, OpenAI alleges.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-0784a13f079d",
+    "date": "2026-10-14",
+    "source": "The Verge",
+    "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+    "summary": "New open-source software could make AI-enhanced weather forecasting more affordable.﻿\nNew open-source software could make AI-enhanced weather forecasting more affordable.﻿\nOld-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning.",
+    "sourceUrl": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d4118e30020d",
+    "date": "2026-10-14",
+    "source": "The Verge",
+    "title": "Square’s new kiosk lets you talk to AI for help with your order",
+    "summary": "Square’s latest hardware is a big touchscreen with a conversational AI. Square’s latest hardware is a big touchscreen with a conversational AI. It’s called the Square Kiosk.",
+    "sourceUrl": "https://www.theverge.com/tech/1009086/square-kiosk",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c034144452ef",
+    "date": "2026-10-14",
+    "source": "The Verge",
+    "title": "Android is using AI to suss out scammers in Google Messages",
+    "summary": "A new opt-in enhanced protection mode uses Gemini to assess the intentions of unrecognized senders.﻿\nA new opt-in enhanced protection mode uses Gemini to assess the intentions of unrecognized senders.﻿\nAndroid is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools.",
+    "sourceUrl": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-2f3282e48314",
     "date": "2026-10-14",
     "source": "OpenAI",
@@ -56,540 +586,6 @@
       "agents",
       "automation",
       "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-550c4c02e9ff",
-    "date": "2026-10-13",
-    "source": "Hugging Face",
-    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-    "summary": "LFM2.5-24B-A2B is a 24B-parameter reasoning model with just 2B active parameters, built for fast, private agents on-device.",
-    "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a2d00ff109e7",
-    "date": "2026-10-13",
-    "source": "TechCrunch",
-    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-    "summary": "Science Corporation CEO Max Hodak announced that the company has implanted its vision-restoring chip, PRIMA, into its first patient with Stargardt disease, an inherited eye disease that gradually destroys central vision.",
-    "sourceUrl": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-314375845b17",
-    "date": "2026-10-13",
-    "source": "TechCrunch",
-    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-    "summary": "REGISTER NOW\nDisrupt doors open Oct. Get your pass and bring someone with you at 50% off. This AI startup says it can generate permit-ready blueprints in minutes\n\t\t\t\n\n\nKirsten Korosec\nElon Musk intensifies attack on Ambani over Starlink India launch delay\n\t\t\t\n\n\nJagmeet Singh\nRemember Orkut?",
-    "sourceUrl": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3e50c6708787",
-    "date": "2026-10-13",
-    "source": "TechCrunch",
-    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-    "summary": "San Francisco-based Industrial Next says it’s changing that. We still keep complaining about industrial technology. Like, this is three years later, we should start the company.”\nPankau notes that traditional industrial robots are typically programmed to perform highly specific, repeatable tasks.",
-    "sourceUrl": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-8ffa5222f5cf",
-    "date": "2026-10-13",
-    "source": "TechCrunch",
-    "title": "Cerebras CEO pushes back on AI doomsday warnings",
-    "summary": "REGISTER NOW\nDisrupt doors open Oct. Get your pass and bring someone with you at 50% off. Cerebras Systems CEO and co-founder Andrew Feldman thinks the AI doomer narrative isn’t doing the industry any favors.",
-    "sourceUrl": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-41d15466fa73",
-    "date": "2026-10-13",
-    "source": "TechCrunch",
-    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-    "summary": "Apple also said that former Apple employees at OpenAI coached others considering leaving Apple for OpenAI on what information to bring to their interviews, among other allegations. All three are former Apple employees.",
-    "sourceUrl": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ec248a8be840",
-    "date": "2026-10-13",
-    "source": "TechCrunch",
-    "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-    "summary": "civil aviation about $272 million a year on average between 1990 and 2025. Nozkova says the system learns from experience, too, and varies its responses so animals don’t get habituated to repeated signals. The company expects to end 2026 with revenue of about $1.5 million, Nozkova said.",
-    "sourceUrl": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5349b4bff5ef",
-    "date": "2026-10-13",
-    "source": "TechCrunch",
-    "title": "Facebook is giving users more control over their algorithm",
-    "summary": "The new tool allows Facebook users to influence the content they see in Feed and Reels by describing their preferences in their own words using natural language. According to Meta, the feature is designed to make content recommendations more relevant.",
-    "sourceUrl": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0b284eb98b45",
-    "date": "2026-10-13",
-    "source": "TechCrunch",
-    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-    "summary": "“We are essentially using simulation to predict the real world’s future,” Sun said. Sun says Laplace pulls real-time traffic and congestion information from navigation providers like TomTom. “It’s truly an interactive simulation environment,” Sun said.",
-    "sourceUrl": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-992e14a3e4b6",
-    "date": "2026-10-13",
-    "source": "TechCrunch",
-    "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-    "summary": "Developers rank fourth, she said. “We’re moving from user behavior to agent behavior,” Bahat said. What stood out is that Pluto’s system can intervene while an agent is working, Bahat said.",
-    "sourceUrl": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-303c8b8be26f",
-    "date": "2026-10-13",
-    "source": "TechCrunch",
-    "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-    "summary": "A new feature will allow users to launch their own personal apps on their device via Google Play using their standard Google account, but they will remain completely private. Now, Google says Android device owners can vibe-code an app using Google AI Studio, then launch it for their own use.",
-    "sourceUrl": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-80618fcba7c6",
-    "date": "2026-10-13",
-    "source": "TechCrunch",
-    "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-    "summary": "Unlike SpaceX, Google, or startups like Starcloud and Cowboy Space Company, Satlyt isn’t planning to build its own spacecraft. In other words, Satlyt wants to offer software that works across many companies’ satellites.",
-    "sourceUrl": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-083eb6d9e76f",
-    "date": "2026-10-13",
-    "source": "TechCrunch",
-    "title": "TechCrunch Disrupt 2026: Day 1",
-    "summary": "Disrupt 2026 has officially begun. REGISTER NOW\nDisrupt doors open Oct. Day 1 of TechCrunch Disrupt 2026 is officially underway, bringing together 10,000+ startup founders, investors, and tech leaders under one roof at San Francisco’s Moscone West.",
-    "sourceUrl": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ca06a4e7439a",
-    "date": "2026-10-13",
-    "source": "TechCrunch",
-    "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-    "summary": "REGISTER NOW\nDisrupt doors open Oct. There are five plans available on the new subscription: free, Plus ($8/month), Premium ($30/month), Super ($100/month), and Ultra ($200/month), with AI usage caps increasing as you move up through the tiers.",
-    "sourceUrl": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-16952cab26aa",
-    "date": "2026-10-13",
-    "source": "TechCrunch",
-    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-    "summary": "REGISTER NOW\nDisrupt doors open Oct. Get your pass and bring someone with you at 50% off. Register now and get a second pass at 50% off.",
-    "sourceUrl": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-aba4e20057c7",
-    "date": "2026-10-13",
-    "source": "TechCrunch",
-    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-    "summary": "To get ahead of this problem, American Express is introducing a new framework designed to capture and authenticate a customer’s purchase intent before an AI agent completes the transaction. The customer then authenticates their identity and signs off on the intent captured by the agent.",
-    "sourceUrl": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-082a179fcd58",
-    "date": "2026-10-13",
-    "source": "The Verge",
-    "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-    "summary": "The recording device was apparently discovered plugged into a TV’s USB port in an executive meeting room. The recording device was apparently discovered plugged into a TV’s USB port in an executive meeting room. We discovered a sophisticated recording device that was hidden inside one of our offices.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c839b9474fae",
-    "date": "2026-10-13",
-    "source": "The Verge",
-    "title": "Shopify opens its catalog up to more AI agents",
-    "summary": "Shopify previously announced a partnership with Meta’s Muse for AI-powered shopping and checkout.﻿\nShopify previously announced a partnership with Meta’s Muse for AI-powered shopping and checkout.﻿\nMore AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company’s agentic commerce ambitions.",
-    "sourceUrl": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ffb4af635c9e",
-    "date": "2026-10-13",
-    "source": "The Verge",
-    "title": "Xbox is officially embracing the chaos of AI-powered game ports",
-    "summary": "Microsoft has created a new Xbox Labs group to experiment with decompiling and recompiling games. Microsoft has created a new Xbox Labs group to experiment with decompiling and recompiling games.",
-    "sourceUrl": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-64be3d764257",
-    "date": "2026-10-13",
-    "source": "The Verge",
-    "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
-    "summary": "Probably because these audio-only versions look just like normal glasses. To use the Ray-Ban Meta Audio smart glasses, you’ll need a Meta account and the Meta AI app downloaded onto your phone. If you are concerned about privacy, you can access the Glasses Privacy menu in the glasses’ settings.",
-    "sourceUrl": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c9abe9b08cd3",
-    "date": "2026-10-13",
-    "source": "The Verge",
-    "title": "Facebook will let you customize your feed algorithm using AI",
-    "summary": "Meta’s bringing Instagram’s “Your Algorithm” feature to Facebook, and using LLMs more to rank content.﻿\nMeta’s bringing Instagram’s “Your Algorithm” feature to Facebook, and using LLMs more to rank content.﻿\nFacebook’s new “Your Algorithm” feature will let you directly add and manage topics you want to see in your feed and Facebook Reels.",
-    "sourceUrl": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a3312401eb55",
-    "date": "2026-10-13",
-    "source": "The Verge",
-    "title": "Google makes it easier to launch your vibe-coded apps",
-    "summary": "You can now launch your vibe-coded app directly from the Google Play Store. You can now launch your vibe-coded app directly from the Google Play Store. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store.",
-    "sourceUrl": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e8881f4e9b5e",
-    "date": "2026-10-13",
-    "source": "The Verge",
-    "title": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
-    "summary": "A viral photo purporting to show Mia Goth in a T-shirt seemingly referencing her divorce spread from Instagram across the web. An Instagram post from the account miagoth_ — marked with a blue verified checkmark — quickly spread.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-24ef7cf40bd2",
-    "date": "2026-10-13",
-    "source": "The Verge",
-    "title": "Google finally releases Gemini 4 Argon",
-    "summary": "After months of trailing its rivals, Google says Argon competes with the industry’s best. Google is pricing Argon very competitively. Argon is Google’s first major frontier release since Gemini 3 in late 2025.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d8f2c178c0c6",
-    "date": "2026-10-13",
-    "source": "The Verge",
-    "title": "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
-    "summary": "Developers working on the unannounced shooter game were told to use AI tools like Anthropic’s Claude.﻿\nDevelopers working on the unannounced shooter game were told to use AI tools like Anthropic’s Claude.﻿\nEpic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg.",
-    "sourceUrl": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-579aa4e27ad5",
-    "date": "2026-10-13",
-    "source": "The Verge",
-    "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
-    "summary": "DLSS 5 debuts in Hogwarts Legacy and Where Winds Meet next month. DLSS 5 debuts in Hogwarts Legacy and Where Winds Meet next month.",
-    "sourceUrl": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-54d9c64a7bcd",
-    "date": "2026-10-13",
-    "source": "TechCrunch",
-    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-    "summary": "In a court document, the company said it had assets and liabilities between $50 million and $100 million. The company said Disney will provide transition services via former Character.AI employees who joined the entertainment giant last month alongside its former CEO Karandeep Singh Anand.",
-    "sourceUrl": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product",
       "data"
     ],
     "resources": []
