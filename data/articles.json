@@ -1,5 +1,541 @@
 [
   {
+    "id": "auto-ba4e7337aba2",
+    "date": "2026-10-16",
+    "source": "Hugging Face",
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "summary": "It includes native-script data for all 22 languages and romanized text for twelve, spanning 34 language-script configurations. Romanized means Indic-language text written in Latin script, not an English translation. Indic task performance and language quality across Nemotron Super generations.",
+    "sourceUrl": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a72d1e4da6b0",
+    "date": "2026-10-15",
+    "source": "OpenAI",
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "sourceUrl": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-fa14b8f7db46",
+    "date": "2026-10-15",
+    "source": "OpenAI",
+    "title": "Teaching students to think and learn through questions",
+    "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+    "sourceUrl": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-dd00c04c9b95",
+    "date": "2026-10-15",
+    "source": "OpenAI",
+    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+    "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+    "sourceUrl": "https://openai.com/index/sullivan-cromwell",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-a01e02239da0",
+    "date": "2026-10-15",
+    "source": "Hugging Face",
+    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "summary": "Our previous release of Granite Libraries features a repository of specialized “decision model” adapters and other specialized task adapters that can be composed into custom Granite Switch models.",
+    "sourceUrl": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9d251ac6836a",
+    "date": "2026-10-15",
+    "source": "Hugging Face",
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "summary": "Muse Spark Open is an open-weight model from Meta. Muse Spark Open is a coding and agentic model. Muse Spark Open is a full-size open-weight model from the Muse series.",
+    "sourceUrl": "https://huggingface.co/blog/meta-muse-spark-open",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-3733c75a28bf",
+    "date": "2026-10-15",
+    "source": "Hugging Face",
+    "title": "Welcome FLUX.3 Image Klein in Diffusers",
+    "summary": "One model does text-to-image and multi-reference image-to-image, and it adds something new, the layout control. Pass a reference image (or more) with the image argument. FLUX.3 works for both text-to-image and image-to-image, which makes it a great base for custom LoRAs.",
+    "sourceUrl": "https://huggingface.co/blog/flux-3",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c9c43f1e32a5",
+    "date": "2026-10-15",
+    "source": "TechCrunch",
+    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+    "summary": "Get your pass and bring someone with you at 50% off. A lot of influencers are “broke college kids” who “just want cash,” Yadegari added. Save 50% off a second pass.",
+    "sourceUrl": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-21e3505542d9",
+    "date": "2026-10-15",
+    "source": "TechCrunch",
+    "title": "Meta launches an open-weight AI model that runs on Macs",
+    "summary": "Disrupt doors open Oct. Meta has launched what it calls the “most capable” open-weight model in the United States. Meta is making the new model available now through a number of different API platforms.",
+    "sourceUrl": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-69334bf7d586",
+    "date": "2026-10-15",
+    "source": "TechCrunch",
+    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+    "summary": "Get your pass and bring someone with you at 50% off. You’re able to get more done. You’re about to spend more time with people … you’re not afraid if you miss something.",
+    "sourceUrl": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-031cee9ab4e6",
+    "date": "2026-10-15",
+    "source": "TechCrunch",
+    "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+    "summary": "Anthropic is giving employee-level access to six researchers from METR, a nonprofit that tests frontier AI models, to independently assess Anthropic’s models, safety practices, and risk management, the company said in a blog post on Thursday.",
+    "sourceUrl": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-00b9e4087573",
+    "date": "2026-10-15",
+    "source": "TechCrunch",
+    "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+    "summary": "Open social network Bluesky is once again expanding beyond its flagship app. Bluesky CEO Toni Schneider shared the news of Attie’s new capabilities during an interview at Disrupt, saying, “We’re adding a feature to our Attie product that allows you to build sites and social experiences again for a group of people.",
+    "sourceUrl": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-788e1a78996f",
+    "date": "2026-10-15",
+    "source": "TechCrunch",
+    "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+    "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Where should you focus before raising capital? How do you know you’re ready to scale?",
+    "sourceUrl": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a040032c1900",
+    "date": "2026-10-15",
+    "source": "TechCrunch",
+    "title": "AI agents are coming to Rivian’s cars",
+    "summary": "For example, Scaringe said, a driver could ask the Rivian assistant to turn on the ventilated seats before going deeper. Can you help me think through what we’re going to make?’,” he said. Of course, Rivian wouldn’t be the first American car company to add AI agents to a car’s software.",
+    "sourceUrl": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b4faeb1cc12a",
+    "date": "2026-10-15",
+    "source": "TechCrunch",
+    "title": "Google’s Universal Cart shopping tool launches in the US",
+    "summary": "Find something you like, save it to your cart, and move on. Google isn’t the only company bringing AI into e-commerce. Save 50% off a second pass.",
+    "sourceUrl": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-35dbf45b5abf",
+    "date": "2026-10-15",
+    "source": "TechCrunch",
+    "title": "TechCrunch Disrupt 2026: Last day",
+    "summary": "Startup Battlefield 200 Fast Pitches – Health\nStartup Battlefield 200 Fast Pitches – Consumer\nCheck out the full Disrupt agenda for all of today’s sessions.",
+    "sourceUrl": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a3fa54bbd593",
+    "date": "2026-10-15",
+    "source": "TechCrunch",
+    "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+    "summary": "All Bee devices can create conversation summaries and recaps for free, and offer 14 days of memory.",
+    "sourceUrl": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-924ca13842a3",
+    "date": "2026-10-15",
+    "source": "The Verge",
+    "title": "ChatGPT can peek at your Chrome tabs now",
+    "summary": "With the ChatGPT extension installed, it can pull information from your open tabs or bring the AI bot into the sidebar.﻿\nWith the ChatGPT extension installed, it can pull information from your open tabs or bring the AI bot into the sidebar.﻿\nOpenAI’s ChatGPT Atlas browser is gone, but now ChatGPT’s Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b78fa0f3af3a",
+    "date": "2026-10-15",
+    "source": "The Verge",
+    "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+    "summary": "Total War: Shogun 2 — Complete Edition is being removed after users discovered bugs and upscaling that appears to have been done by AI. Total War: Shogun 2 — Complete Edition is being removed after users discovered bugs and upscaling that appears to have been done by AI.",
+    "sourceUrl": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-66efd2f87608",
+    "date": "2026-10-15",
+    "source": "The Verge",
+    "title": "The tech backlash is now in theaters",
+    "summary": "Between The Social Reckoning, You Can See Everything, Musk, and Artificial, filmmakers are taking Big Tech to task. Between The Social Reckoning, You Can See Everything, Musk, and Artificial, filmmakers are taking Big Tech to task.",
+    "sourceUrl": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-54d7a618ecd3",
+    "date": "2026-10-15",
+    "source": "The Verge",
+    "title": "Trump posts AI-edited photo to brag about White House restoration work",
+    "summary": "A ‘before and after’ photo of a freshly painted White House column was modified with AI. A ‘before and after’ photo of a freshly painted White House column was modified with AI. The SynthID watermark wasn’t detected on other pictures Trump posted, which show the White House facade and heliport.",
+    "sourceUrl": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2c7772f8550a",
+    "date": "2026-10-15",
+    "source": "The Verge",
+    "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
+    "summary": "Attie launched earlier this year as a way to build your own feeds with AI, but Bluesky is expanding what it can do.﻿\nAttie launched earlier this year as a way to build your own feeds with AI, but Bluesky is expanding what it can do.﻿\nBluesky’s Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make “small” social apps like games, polls, and dashboards that you can then share with others as their own websites.",
+    "sourceUrl": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-c7cea461bd6d",
+    "date": "2026-10-15",
+    "source": "The Verge",
+    "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+    "summary": "Meta and Apple’s CEOs are publicly supporting each company’s work on Muse Spark Open. Meta and Apple’s CEOs are publicly supporting each company’s work on Muse Spark Open.",
+    "sourceUrl": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-1b6257d35772",
+    "date": "2026-10-15",
+    "source": "The Verge",
+    "title": "Friends don’t let friends feed their data to AI agents",
+    "summary": "You may have consented to sharing with Muse, but all your friends sure didn’t. “For any agent to be useful and actually help you achieve your goals, it needs to have context about you and those you interact with,” Meta spokesperson Daniel Roberts told The Verge regarding other people’s data shared with Muse.",
+    "sourceUrl": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-97f8573c584b",
+    "date": "2026-10-15",
+    "source": "The Verge",
+    "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+    "summary": "One of the first parts of making sure RTX Spark supports gaming was getting anti-cheat vendors on board with Windows on Arm. Microsoft is also bringing its advanced shader delivery system to RTX Spark. The last part of Microsoft’s work on RTX Spark involves Windows features.",
+    "sourceUrl": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f616628c1389",
+    "date": "2026-10-15",
+    "source": "The Verge",
+    "title": "Nobody is safe from celebrity AI deepfakes",
+    "summary": "Instagram eventually removed the account for impersonating a public figure. Ariana Grande is said to have blocked an account posting AI-generated content of her last year. The content off-platform used Johansson’s name and (AI) image to advertise adult content.",
+    "sourceUrl": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e86ff66c4910",
+    "date": "2026-10-15",
+    "source": "The Verge",
+    "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
+    "summary": "Although maybe you should. Tesla listens to you. You’re talking about solutions.",
+    "sourceUrl": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-134069d44702",
     "date": "2026-10-15",
     "source": "TechCrunch",
@@ -58,534 +594,6 @@
     "themes": [
       "agents",
       "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a0e0fec2c2b5",
-    "date": "2026-10-14",
-    "source": "OpenAI",
-    "title": "Amp puts AI agents to work beyond code with OpenAI models",
-    "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-    "sourceUrl": "https://openai.com/index/amp-beyond-coding",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-24cc989c02db",
-    "date": "2026-10-14",
-    "source": "OpenAI",
-    "title": "SentinelOne cuts malware analysis from weeks to hours",
-    "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-    "sourceUrl": "https://openai.com/index/sentinelone",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-e181547094b0",
-    "date": "2026-10-14",
-    "source": "OpenAI",
-    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-    "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-    "sourceUrl": "https://openai.com/index/third-moment-research",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-7d10f0ddfecf",
-    "date": "2026-10-14",
-    "source": "OpenAI",
-    "title": "How Block is building AI-powered security with OpenAI technology",
-    "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-    "sourceUrl": "https://openai.com/index/block-ai-powered-security",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-672ebf75c430",
-    "date": "2026-10-14",
-    "source": "Hugging Face",
-    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-    "summary": "🤗 Models | 📄 Paper | 📓 Tutorial notebooks | 🌎 Demo\nWe introduce HiRO-ACEv2, the newest update to our High Resolution Output Ai2 Climate Emulator (HiRO-ACE) system.",
-    "sourceUrl": "https://huggingface.co/blog/allenai/hiro-acev2",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-bd61b92171ac",
-    "date": "2026-10-14",
-    "source": "TechCrunch",
-    "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-    "summary": "Flock CEO Garrett Langley said the company’s gunshot-detection microphones detect “just gunshots,” but Flock’s website paints a far broader picture of what other ambient audio also gets picked up.",
-    "sourceUrl": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-55222f29942f",
-    "date": "2026-10-14",
-    "source": "TechCrunch",
-    "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-    "summary": "YouTube said it collaborated with various music partners and deployed its own detection tools to identify AI-generated music. The move comes as AI-generated music rapidly expands across streaming services, and many platforms are adopting their own approaches.",
-    "sourceUrl": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-619d87b09b01",
-    "date": "2026-10-14",
-    "source": "TechCrunch",
-    "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-    "summary": "Apate.ai sends them undercover to get scammed. The company says its fleet of agents has so far wasted 17 years of scammers’ time across 2.5 million conversations. Telcos block numbers, but scammers just get new ones.",
-    "sourceUrl": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9c18b5e1b4bf",
-    "date": "2026-10-14",
-    "source": "TechCrunch",
-    "title": "Deezer will soon let you filter out AI-generated music",
-    "summary": "Streaming platform Deezer remains steadfast in its intent to help users avoid listening to AI-generated music: The company on Tuesday said it is working on a new toggle that lets users filter out AI-generated music uploaded to its platform.",
-    "sourceUrl": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c16911033b31",
-    "date": "2026-10-14",
-    "source": "TechCrunch",
-    "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-    "summary": "Last two days at Disrupt are half off. REGISTER NOW\nDisrupt doors open Oct. Get 50% off a second passThe Disrupt experience is meant to be shared.",
-    "sourceUrl": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ecdf723c0581",
-    "date": "2026-10-14",
-    "source": "TechCrunch",
-    "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-    "summary": "Get your pass and bring someone with you at 50% off. Weiss said he initially bootstrapped the app and worked out of Bessemer’s office. Weiss said Fisher convinced him that Zenzap should be a venture-backed business, as the company would need capital to scale.",
-    "sourceUrl": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-40dbf46b6384",
-    "date": "2026-10-14",
-    "source": "TechCrunch",
-    "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-    "summary": "REGISTER NOW\nDisrupt doors open Oct. Floqer is pitching Wednesday on the Startup Battlefield stage at TechCrunch Disrupt 2026. Before releasing the database publicly, Floqer is conducting security reviews because the database can contain sensitive customer information and large companies already use it.",
-    "sourceUrl": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-62cbe095b516",
-    "date": "2026-10-14",
-    "source": "TechCrunch",
-    "title": "TechCrunch Disrupt 2026: Day 2",
-    "summary": "Get your pass and bring someone with you at 50% off. With an eligible conference pass, explore the ideas, business strategies, and technologies shaping the startup ecosystem. Explore pass access here.",
-    "sourceUrl": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ca567069ecbf",
-    "date": "2026-10-14",
-    "source": "TechCrunch",
-    "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-    "summary": "About 90% of Scimplify’s manufacturing currently takes place in India. The startup is targeting a $400 million annualized revenue run rate over the next year. The startup employs about 340 people, including roughly 70 scientists.",
-    "sourceUrl": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d1f8876dacf9",
-    "date": "2026-10-14",
-    "source": "The Verge",
-    "title": "McKinsey is making job applicants spar with a fake AI client",
-    "summary": "Some entry-level McKinsey candidates will have a 10-minute conversation with a simulated client as part of the interview process. Some entry-level McKinsey candidates will have a 10-minute conversation with a simulated client as part of the interview process.",
-    "sourceUrl": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-88ac6d1c3f06",
-    "date": "2026-10-14",
-    "source": "The Verge",
-    "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-    "summary": "OpenAI is accused of misleading the public about its chatbot’s safety and putting everyone at risk. OpenAI is accused of misleading the public about its chatbot’s safety and putting everyone at risk.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2fac9b600466",
-    "date": "2026-10-14",
-    "source": "The Verge",
-    "title": "The AI race is back on",
-    "summary": "Google and Meta are challenging Anthropic and OpenAI at the AI frontier.﻿\nGoogle and Meta are challenging Anthropic and OpenAI at the AI frontier.﻿\nLast week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-738aed8dcc6e",
-    "date": "2026-10-14",
-    "source": "The Verge",
-    "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
-    "summary": "State AGs are now trying to make sure its users’ private chats aren’t exposed to the highest bidder.﻿\nState AGs are now trying to make sure its users’ private chats aren’t exposed to the highest bidder.﻿\nNew York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding.",
-    "sourceUrl": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-939ecdfa5040",
-    "date": "2026-10-14",
-    "source": "The Verge",
-    "title": "YouTube sticks new labels on AI-generated songs",
-    "summary": "New AI labels are marking tracks created ‘primarily’ with generative AI tools, starting first on YouTube Music. New AI labels are marking tracks created ‘primarily’ with generative AI tools, starting first on YouTube Music.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-bba11107a8fb",
-    "date": "2026-10-14",
-    "source": "The Verge",
-    "title": "My AI doppelganger tells me what to eat",
-    "summary": "I consult my digital twin. Twin Health provides everything you need to build a digital twin. Could a digital twin help me do that?",
-    "sourceUrl": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-524e699ebac3",
-    "date": "2026-10-14",
-    "source": "The Verge",
-    "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
-    "summary": "The former employee took more than 100 confidential files before leaving to join Apple, OpenAI alleges. The former employee took more than 100 confidential files before leaving to join Apple, OpenAI alleges.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-0784a13f079d",
-    "date": "2026-10-14",
-    "source": "The Verge",
-    "title": "Microsoft has a new machine learning tool to improve weather forecasts",
-    "summary": "New open-source software could make AI-enhanced weather forecasting more affordable.﻿\nNew open-source software could make AI-enhanced weather forecasting more affordable.﻿\nOld-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning.",
-    "sourceUrl": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d4118e30020d",
-    "date": "2026-10-14",
-    "source": "The Verge",
-    "title": "Square’s new kiosk lets you talk to AI for help with your order",
-    "summary": "Square’s latest hardware is a big touchscreen with a conversational AI. Square’s latest hardware is a big touchscreen with a conversational AI. It’s called the Square Kiosk.",
-    "sourceUrl": "https://www.theverge.com/tech/1009086/square-kiosk",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c034144452ef",
-    "date": "2026-10-14",
-    "source": "The Verge",
-    "title": "Android is using AI to suss out scammers in Google Messages",
-    "summary": "A new opt-in enhanced protection mode uses Gemini to assess the intentions of unrecognized senders.﻿\nA new opt-in enhanced protection mode uses Gemini to assess the intentions of unrecognized senders.﻿\nAndroid is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools.",
-    "sourceUrl": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2f3282e48314",
-    "date": "2026-10-14",
-    "source": "OpenAI",
-    "title": "The EU’s next chapter in AI is agentic",
-    "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-    "sourceUrl": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ffc748cb8d88",
-    "date": "2026-10-13",
-    "source": "OpenAI",
-    "title": "Higgsfield takes AI video from 1 minute to over 10",
-    "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-    "sourceUrl": "https://openai.com/index/higgsfield-longer-videos-voice",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c1e94fc83136",
-    "date": "2026-10-13",
-    "source": "Google AI Blog",
-    "title": "Gemini 4 Argon: Built to solve your hardest problems",
-    "summary": "Gemini 4 Argon represents our most comprehensive safety and security stack yet:\nFor more information, see the Gemini 4 Argon Model Card. Argon is rolling out today globally:\nGemini 4 Argon is just the beginning. Applies to the Argon model intended for public access only.",
-    "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
       "data"
     ],
     "resources": []
