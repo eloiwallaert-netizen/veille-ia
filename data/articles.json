@@ -1,5 +1,356 @@
 [
   {
+    "id": "auto-65442e708214",
+    "date": "2026-10-16",
+    "source": "OpenAI",
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "sourceUrl": "https://openai.com/index/itau-generative-ai",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9db4940a53f8",
+    "date": "2026-10-16",
+    "source": "OpenAI",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "sourceUrl": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-4a2f3ca18eb9",
+    "date": "2026-10-16",
+    "source": "OpenAI",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "sourceUrl": "https://openai.com/index/benefit-street-partners",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-849b423196d1",
+    "date": "2026-10-16",
+    "source": "Hugging Face",
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "summary": "Beam by Reflection is out on Hugging Face! Beam has day-0 support in vLLM. You can fine tune Beam for your own use cases.",
+    "sourceUrl": "https://huggingface.co/blog/reflection-beam",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d0f11237d1f3",
+    "date": "2026-10-16",
+    "source": "TechCrunch",
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "summary": "Under its partnership with Anthropic, Replit used the AI lab’s Claude models to run its platform. Masad’s comments were rejected by insiders familiar with the partnership between the Anthropic and Replit, however.",
+    "sourceUrl": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-bfa998e6f2ba",
+    "date": "2026-10-16",
+    "source": "TechCrunch",
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "summary": "AI agents from multiple providers accessed personal data and confidential material at Indian organizations during research and testing, India’s cybersecurity agency said Thursday. Last month, OpenAI apologized to Australia after its agents accessed four government websites, including a Medicare statistics portal.",
+    "sourceUrl": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1f9b468e8642",
+    "date": "2026-10-16",
+    "source": "TechCrunch",
+    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Disrupt doors open Oct. Save 50% off a second pass.",
+    "sourceUrl": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-3ee888866ef9",
+    "date": "2026-10-16",
+    "source": "TechCrunch",
+    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Dominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. Save 50% off a second pass.",
+    "sourceUrl": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6f0ec75f9d13",
+    "date": "2026-10-16",
+    "source": "TechCrunch",
+    "title": "Elorian’s first AI model wants to reason with images, not just about them",
+    "summary": "Glimpse costs $0.60 per million tokens in and $3 per million tokens out — cheaper than mid-level models like Sonnet and Sol but more expensive than lightweight models like Haiku and Luna.",
+    "sourceUrl": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7524c167f0c4",
+    "date": "2026-10-16",
+    "source": "TechCrunch",
+    "title": "Jev is Vercel’s fastest-adopted AI model ever",
+    "summary": "Disrupt doors open Oct. Vercel data published on Thursday shows that, within two weeks of its launch, the buzzy decision model was being used by 35% of paid teams, with nearly double the reach of the second most popular model, Sonnet 5.5. Save 50% off a second pass.",
+    "sourceUrl": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9d337093f9bf",
+    "date": "2026-10-16",
+    "source": "TechCrunch",
+    "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+    "summary": "Disrupt doors open Oct. “I don’t think you should just, you know, put an idea into ChatGPT and it puts out a script, and then you should go make that and not use real actors. “I’ve done big, effects-driven movies,” Wahlberg said.",
+    "sourceUrl": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-03e02abc3531",
+    "date": "2026-10-16",
+    "source": "TechCrunch",
+    "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+    "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Veritas competed in this year’s TechCrunch Disrupt Startup Battlefield, which ran Tuesday through Thursday. Save 50% off a second pass.",
+    "sourceUrl": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-fa1478d9672f",
+    "date": "2026-10-16",
+    "source": "TechCrunch",
+    "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+    "summary": "“Our company entirely changed how we operate, and I would say the closest analogy is a ‘self-driving company’,” Masad said. You need human judgment; you need taste,” Masad explained. “We’re spending a lot more time figuring out what to work on,” Masad continued.",
+    "sourceUrl": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-85ddbdc7a76d",
+    "date": "2026-10-16",
+    "source": "MIT Technology Review",
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "summary": "Can AI design new life forms? Watch as senior AI reporter James O'Donnell interviews King about his work, being named one of MIT Technology Review's Innovators Under 35 and new ways of seeing biology. Breathless claims about AGI and new capabilities fall apart pretty quickly under scrutiny.",
+    "sourceUrl": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-3d6f16cf09a8",
+    "date": "2026-10-16",
+    "source": "The Verge",
+    "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+    "summary": "Is Nvidia’s “superchip” really all that super? While there still aren’t many native Arm games, Nvidia’s GPU helps bruteforce through the emulation layer. AD: I love that there is now even more competition in the laptop space, but the super high prices makes RTX Spark laptops mostly unattainable.",
+    "sourceUrl": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ad3a47861a30",
+    "date": "2026-10-16",
+    "source": "The Verge",
+    "title": "Meta’s new terms may allow it to train AI on news sites for free",
+    "summary": "The new policy allows Meta to crawl all websites ‘associated’ with a business account. The new policy allows Meta to crawl all websites ‘associated’ with a business account.",
+    "sourceUrl": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-ba4e7337aba2",
     "date": "2026-10-16",
     "source": "Hugging Face",
@@ -283,318 +634,6 @@
       "agents",
       "ethics",
       "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b4faeb1cc12a",
-    "date": "2026-10-15",
-    "source": "TechCrunch",
-    "title": "Google’s Universal Cart shopping tool launches in the US",
-    "summary": "Find something you like, save it to your cart, and move on. Google isn’t the only company bringing AI into e-commerce. Save 50% off a second pass.",
-    "sourceUrl": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-35dbf45b5abf",
-    "date": "2026-10-15",
-    "source": "TechCrunch",
-    "title": "TechCrunch Disrupt 2026: Last day",
-    "summary": "Startup Battlefield 200 Fast Pitches – Health\nStartup Battlefield 200 Fast Pitches – Consumer\nCheck out the full Disrupt agenda for all of today’s sessions.",
-    "sourceUrl": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a3fa54bbd593",
-    "date": "2026-10-15",
-    "source": "TechCrunch",
-    "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-    "summary": "All Bee devices can create conversation summaries and recaps for free, and offer 14 days of memory.",
-    "sourceUrl": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-924ca13842a3",
-    "date": "2026-10-15",
-    "source": "The Verge",
-    "title": "ChatGPT can peek at your Chrome tabs now",
-    "summary": "With the ChatGPT extension installed, it can pull information from your open tabs or bring the AI bot into the sidebar.﻿\nWith the ChatGPT extension installed, it can pull information from your open tabs or bring the AI bot into the sidebar.﻿\nOpenAI’s ChatGPT Atlas browser is gone, but now ChatGPT’s Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b78fa0f3af3a",
-    "date": "2026-10-15",
-    "source": "The Verge",
-    "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-    "summary": "Total War: Shogun 2 — Complete Edition is being removed after users discovered bugs and upscaling that appears to have been done by AI. Total War: Shogun 2 — Complete Edition is being removed after users discovered bugs and upscaling that appears to have been done by AI.",
-    "sourceUrl": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-66efd2f87608",
-    "date": "2026-10-15",
-    "source": "The Verge",
-    "title": "The tech backlash is now in theaters",
-    "summary": "Between The Social Reckoning, You Can See Everything, Musk, and Artificial, filmmakers are taking Big Tech to task. Between The Social Reckoning, You Can See Everything, Musk, and Artificial, filmmakers are taking Big Tech to task.",
-    "sourceUrl": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-54d7a618ecd3",
-    "date": "2026-10-15",
-    "source": "The Verge",
-    "title": "Trump posts AI-edited photo to brag about White House restoration work",
-    "summary": "A ‘before and after’ photo of a freshly painted White House column was modified with AI. A ‘before and after’ photo of a freshly painted White House column was modified with AI. The SynthID watermark wasn’t detected on other pictures Trump posted, which show the White House facade and heliport.",
-    "sourceUrl": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2c7772f8550a",
-    "date": "2026-10-15",
-    "source": "The Verge",
-    "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
-    "summary": "Attie launched earlier this year as a way to build your own feeds with AI, but Bluesky is expanding what it can do.﻿\nAttie launched earlier this year as a way to build your own feeds with AI, but Bluesky is expanding what it can do.﻿\nBluesky’s Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make “small” social apps like games, polls, and dashboards that you can then share with others as their own websites.",
-    "sourceUrl": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-c7cea461bd6d",
-    "date": "2026-10-15",
-    "source": "The Verge",
-    "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-    "summary": "Meta and Apple’s CEOs are publicly supporting each company’s work on Muse Spark Open. Meta and Apple’s CEOs are publicly supporting each company’s work on Muse Spark Open.",
-    "sourceUrl": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-1b6257d35772",
-    "date": "2026-10-15",
-    "source": "The Verge",
-    "title": "Friends don’t let friends feed their data to AI agents",
-    "summary": "You may have consented to sharing with Muse, but all your friends sure didn’t. “For any agent to be useful and actually help you achieve your goals, it needs to have context about you and those you interact with,” Meta spokesperson Daniel Roberts told The Verge regarding other people’s data shared with Muse.",
-    "sourceUrl": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-97f8573c584b",
-    "date": "2026-10-15",
-    "source": "The Verge",
-    "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-    "summary": "One of the first parts of making sure RTX Spark supports gaming was getting anti-cheat vendors on board with Windows on Arm. Microsoft is also bringing its advanced shader delivery system to RTX Spark. The last part of Microsoft’s work on RTX Spark involves Windows features.",
-    "sourceUrl": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f616628c1389",
-    "date": "2026-10-15",
-    "source": "The Verge",
-    "title": "Nobody is safe from celebrity AI deepfakes",
-    "summary": "Instagram eventually removed the account for impersonating a public figure. Ariana Grande is said to have blocked an account posting AI-generated content of her last year. The content off-platform used Johansson’s name and (AI) image to advertise adult content.",
-    "sourceUrl": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e86ff66c4910",
-    "date": "2026-10-15",
-    "source": "The Verge",
-    "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
-    "summary": "Although maybe you should. Tesla listens to you. You’re talking about solutions.",
-    "sourceUrl": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-134069d44702",
-    "date": "2026-10-15",
-    "source": "TechCrunch",
-    "title": "Figma announces new features to define how agents work on its platform",
-    "summary": "Design platform Figma announced a new Markdown-based editor to help define a company’s design, bring in design and code libraries, and integrate with the Payload headless content management system during the company’s first Config event in India.",
-    "sourceUrl": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f86858c1d849",
-    "date": "2026-10-15",
-    "source": "TechCrunch",
-    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-    "summary": "Get your pass and bring someone with you at 50% off. Ricursive Intelligence founders Anna Goldie and Azalia Mirhoseini believe more efficient AI chip design could help solve the compute crisis.",
-    "sourceUrl": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5abc04e05146",
-    "date": "2026-10-15",
-    "source": "TechCrunch",
-    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-    "summary": "REGISTER NOW\nDisrupt doors open Oct. Presley called the company’s path to becoming a startup unusual. Three years after its founding, Gudea has nearly 40 clients.",
-    "sourceUrl": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product",
-      "data"
     ],
     "resources": []
   },
