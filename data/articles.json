@@ -1,5 +1,106 @@
 [
   {
+    "id": "auto-568162b981af",
+    "date": "2026-10-17",
+    "source": "TechCrunch",
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "summary": "Meta recently updated its commercial terms of use, declaring that the company can “use any content from [a business account’s] domains, web pages, or URLs to provide, develop, improve, research, train, and maintain the integrity of” Meta products and services.",
+    "sourceUrl": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b769f5e984a3",
+    "date": "2026-10-17",
+    "source": "TechCrunch",
+    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Notably, Anthropic is making fewer junior hires, with the proportion of junior-level employees in technical departments falling from 21% to 14% since early 2025, and the proportion of junior technical hires falling even more sharply, from 27% to 9%.",
+    "sourceUrl": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-51c1c9a5e48b",
+    "date": "2026-10-17",
+    "source": "TechCrunch",
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "summary": "After Disrupt, Masad clarified that customers can still access Anthropic models on the platform, but that OpenAI’s ChatGPT is now the default. Prior to striking a deal with OpenAI, Replit relied on Anthropic’s Claude models to run its platform. “Replit remains model agnostic,” Masad told TechCrunch over the weekend.",
+    "sourceUrl": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ac0eba5f3991",
+    "date": "2026-10-17",
+    "source": "The Verge",
+    "title": "Meta removes language that may have allowed it to scrape news sites",
+    "summary": "Language that experts say allowed the scraping of news sites to train its AI has been removed from Meta’s terms. Language that experts say allowed the scraping of news sites to train its AI has been removed from Meta’s terms.",
+    "sourceUrl": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-79619743255e",
+    "date": "2026-10-17",
+    "source": "The Verge",
+    "title": "Websites are closing their doors to AI agents",
+    "summary": "OpenAI, Meta, and Google want AI agents to do everything for you. OpenAI, Meta, and Google want AI agents to do everything for you.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-65442e708214",
     "date": "2026-10-16",
     "source": "OpenAI",
@@ -528,112 +629,6 @@
       "automation",
       "genai-product",
       "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-69334bf7d586",
-    "date": "2026-10-15",
-    "source": "TechCrunch",
-    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-    "summary": "Get your pass and bring someone with you at 50% off. You’re able to get more done. You’re about to spend more time with people … you’re not afraid if you miss something.",
-    "sourceUrl": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-031cee9ab4e6",
-    "date": "2026-10-15",
-    "source": "TechCrunch",
-    "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-    "summary": "Anthropic is giving employee-level access to six researchers from METR, a nonprofit that tests frontier AI models, to independently assess Anthropic’s models, safety practices, and risk management, the company said in a blog post on Thursday.",
-    "sourceUrl": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-00b9e4087573",
-    "date": "2026-10-15",
-    "source": "TechCrunch",
-    "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-    "summary": "Open social network Bluesky is once again expanding beyond its flagship app. Bluesky CEO Toni Schneider shared the news of Attie’s new capabilities during an interview at Disrupt, saying, “We’re adding a feature to our Attie product that allows you to build sites and social experiences again for a group of people.",
-    "sourceUrl": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-788e1a78996f",
-    "date": "2026-10-15",
-    "source": "TechCrunch",
-    "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-    "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Where should you focus before raising capital? How do you know you’re ready to scale?",
-    "sourceUrl": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a040032c1900",
-    "date": "2026-10-15",
-    "source": "TechCrunch",
-    "title": "AI agents are coming to Rivian’s cars",
-    "summary": "For example, Scaringe said, a driver could ask the Rivian assistant to turn on the ventilated seats before going deeper. Can you help me think through what we’re going to make?’,” he said. Of course, Rivian wouldn’t be the first American car company to add AI agents to a car’s software.",
-    "sourceUrl": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "genai-product"
     ],
     "resources": []
   },
