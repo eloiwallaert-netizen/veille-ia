@@ -1,5 +1,81 @@
 [
   {
+    "id": "auto-b32798372587",
+    "date": "2026-10-19",
+    "source": "MIT Technology Review",
+    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+    "summary": "The answer looks a lot like play. “This is playing,” says Norelli. Just continue doing whatever you want to do.”\n“It’s not like this is a system that just suddenly magically decided to play,” says Phillip Isola, an MIT professor and a coauthor of the paper.",
+    "sourceUrl": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-cef1d05c7525",
+    "date": "2026-10-18",
+    "source": "TechCrunch",
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Disrupt doors open Oct. Save 50% off a second pass.",
+    "sourceUrl": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6a083a36de89",
+    "date": "2026-10-18",
+    "source": "TechCrunch",
+    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+    "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. Save 50% off a second pass.",
+    "sourceUrl": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-de6b0c59a9e6",
+    "date": "2026-10-18",
+    "source": "The Verge",
+    "title": "A woman was arrested in Philly for blocking a delivery robot",
+    "summary": "Carolyn Marvin was charged with ‘disorderly conduct’ for protesting delivery robots taking jobs. Carolyn Marvin was charged with ‘disorderly conduct’ for protesting delivery robots taking jobs.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-568162b981af",
     "date": "2026-10-17",
     "source": "TechCrunch",
@@ -536,98 +612,6 @@
     "themes": [
       "llm",
       "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9d251ac6836a",
-    "date": "2026-10-15",
-    "source": "Hugging Face",
-    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-    "summary": "Muse Spark Open is an open-weight model from Meta. Muse Spark Open is a coding and agentic model. Muse Spark Open is a full-size open-weight model from the Muse series.",
-    "sourceUrl": "https://huggingface.co/blog/meta-muse-spark-open",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3733c75a28bf",
-    "date": "2026-10-15",
-    "source": "Hugging Face",
-    "title": "Welcome FLUX.3 Image Klein in Diffusers",
-    "summary": "One model does text-to-image and multi-reference image-to-image, and it adds something new, the layout control. Pass a reference image (or more) with the image argument. FLUX.3 works for both text-to-image and image-to-image, which makes it a great base for custom LoRAs.",
-    "sourceUrl": "https://huggingface.co/blog/flux-3",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c9c43f1e32a5",
-    "date": "2026-10-15",
-    "source": "TechCrunch",
-    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-    "summary": "Get your pass and bring someone with you at 50% off. A lot of influencers are “broke college kids” who “just want cash,” Yadegari added. Save 50% off a second pass.",
-    "sourceUrl": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-21e3505542d9",
-    "date": "2026-10-15",
-    "source": "TechCrunch",
-    "title": "Meta launches an open-weight AI model that runs on Macs",
-    "summary": "Disrupt doors open Oct. Meta has launched what it calls the “most capable” open-weight model in the United States. Meta is making the new model available now through a number of different API platforms.",
-    "sourceUrl": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "genai-product",
       "data"
     ],
     "resources": []
