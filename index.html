@@ -160,6 +160,11 @@
             </sc-for>
           </select>
         </div>
+        <div style="display:flex;align-items:center;gap:8px;flex:1.4;min-width:200px">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" style="color:{{ muted }};flex-shrink:0"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.35-4.35"/></svg>
+          <input type="text" value="{{ searchQuery }}" onInput="{{ setSearchQuery }}" placeholder="Rechercher un titre, une source…" style="{{ inlineSelectStyle }};flex:1" />
+        </div>
+        <button onClick="{{ toggleSavedOnly }}" style="{{ savedOnlyStyle }}">{{ savedOnlyLabel }}</button>
         <sc-if value="{{ hasActiveFilters }}" hint-placeholder-val="{{ false }}">
           <button onClick="{{ resetFilters }}" style="font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.08em;color:{{ muted }};padding:6px 10px;border-radius:8px;border:1px solid rgba(140,160,255,.14);transition:all .2s" class="om-cta">✕ RESET</button>
         </sc-if>
@@ -174,13 +179,15 @@
 
       <section style="display:grid;grid-template-columns:1fr;gap:0;border-top:1px solid {{ line }}">
         <sc-for list="{{ filteredArticles }}" as="a" hint-placeholder-count="6">
-          <article class="om-row" style="border-bottom:1px solid rgba(140,160,255,.1)">
-            <a href="{{ a.href }}" target="{{ a.target }}" onClick="{{ a.open }}" style="display:grid;grid-template-columns:100px 1fr 320px;gap:32px;padding:28px 0;align-items:start">
+          <article class="om-row" style="border-bottom:1px solid rgba(140,160,255,.1);position:relative">
+            <button onClick="{{ a.toggleSaved }}" title="Sauvegarder" style="{{ a.starStyle }};position:absolute;top:24px;right:0;z-index:2">{{ a.starLabel }}</button>
+            <a href="{{ a.href }}" target="{{ a.target }}" onClick="{{ a.open }}" style="display:grid;grid-template-columns:100px 1fr 320px;gap:32px;padding:28px 36px 28px 0;align-items:start">
               <div style="font-family:'JetBrains Mono',monospace;font-size:11px;color:{{ muted }};letter-spacing:.06em">
                 <div style="color:{{ ink }};font-weight:500">{{ a.dateShort }}</div>
                 <div style="margin-top:4px">{{ a.source }}</div>
-                <sc-if value="{{ a.isPriority }}" hint-placeholder-val="{{ false }}">
-                  <div style="margin-top:10px" class="om-ai-badge">Prioritaire</div>
+                <div style="margin-top:2px;opacity:.7">{{ a.sourceTypeLabel }}</div>
+                <sc-if value="{{ a.hasTier }}" hint-placeholder-val="{{ false }}">
+                  <div style="margin-top:10px;{{ a.tierStyle }}">{{ a.tierLabel }}</div>
                 </sc-if>
               </div>
               <div>
@@ -203,7 +210,7 @@
                   </sc-for>
                 </sc-if>
                 <sc-if value="{{ a.auto }}" hint-placeholder-val="{{ false }}">
-                  <div style="font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:{{ muted }}">Source externe ↗</div>
+                  <div style="font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:{{ muted }}">Résumé + source →</div>
                 </sc-if>
               </div>
             </a>
@@ -305,7 +312,10 @@
               <div style="font-family:'JetBrains Mono',monospace;font-size:11px;color:{{ muted }}">{{ t.articleCount }} actus</div>
             </div>
             <h3 style="font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:22px;line-height:1.1;margin:0 0 8px;letter-spacing:-.01em;color:{{ ink }}">{{ t.label }}</h3>
-            <p style="font-size:13.5px;color:{{ muted }};line-height:1.5;margin:0">{{ t.desc }}</p>
+            <p style="font-size:13.5px;color:{{ muted }};line-height:1.5;margin:0 0 10px">{{ t.desc }}</p>
+            <sc-if value="{{ t.hasTrend }}" hint-placeholder-val="{{ false }}">
+              <div style="font-family:'JetBrains Mono',monospace;font-size:11px;color:#7fe8ff;margin-top:auto;padding-top:6px">{{ t.trendLabel }}</div>
+            </sc-if>
           </a>
         </sc-for>
       </div>
@@ -333,44 +343,57 @@
     <sc-if value="{{ isArticle }}" hint-placeholder-val="{{ false }}">
       <div style="max-width:820px;margin:0 auto">
         <button onClick="{{ navHome }}" style="font-size:12px;color:{{ muted }};font-family:'JetBrains Mono',monospace;letter-spacing:.08em;margin-bottom:24px">← FIL D'ACTUALITÉS</button>
-        <div style="display:flex;gap:6px;margin-bottom:16px;flex-wrap:wrap">
-          <sc-for list="{{ currentArticleTags }}" as="tag" hint-placeholder-count="3">
-            <span style="{{ tag.style }}">{{ tag.label }}</span>
-          </sc-for>
+        <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:16px;margin-bottom:16px;flex-wrap:wrap">
+          <div style="display:flex;gap:6px;flex-wrap:wrap">
+            <sc-for list="{{ currentArticleTags }}" as="tag" hint-placeholder-count="3">
+              <span style="{{ tag.style }}">{{ tag.label }}</span>
+            </sc-for>
+          </div>
+          <button onClick="{{ currentArticle.toggleSaved }}" style="{{ currentArticle.starStyle }}">{{ currentArticle.starLabel }}</button>
         </div>
         <h1 class="om-neon" style="font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:clamp(36px,5vw,56px);line-height:1.02;letter-spacing:-.03em;margin:0 0 20px">{{ currentArticle.title }}</h1>
         <div style="display:flex;gap:20px;font-family:'JetBrains Mono',monospace;font-size:12px;color:{{ muted }};margin-bottom:32px;padding-bottom:24px;border-bottom:1px solid {{ line }};flex-wrap:wrap">
           <span>{{ currentArticle.dateLong }}</span>
-          <span>Source · {{ currentArticle.source }}</span>
+          <span>Source · {{ currentArticle.source }} ({{ currentArticle.sourceTypeLabel }})</span>
         </div>
         <p style="font-family:'Space Grotesk',sans-serif;font-size:24px;line-height:1.4;margin:0 0 24px;color:{{ ink }};font-weight:500;letter-spacing:-.01em">{{ currentArticle.summary }}</p>
-        <p style="font-size:16px;line-height:1.65;color:{{ ink }};margin:0 0 20px">{{ currentArticle.body1 }}</p>
-        <div style="{{ pullStyle }}">
-          <div style="font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.12em;color:{{ muted }};margin-bottom:8px">POURQUOI ÇA COMPTE</div>
-          <div style="font-size:16px;line-height:1.5">{{ currentArticle.why }}</div>
-        </div>
-        <p style="font-size:16px;line-height:1.65;color:{{ ink }};margin:0 0 40px">{{ currentArticle.body2 }}</p>
 
-        <div style="border-top:1px solid {{ line }};padding-top:32px;margin-top:40px">
-          <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:20px;gap:20px;flex-wrap:wrap">
-            <h2 style="font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:30px;margin:0;letter-spacing:-.02em;color:{{ ink }}">Ressources associées</h2>
+        <sc-if value="{{ currentArticle.isAuto }}" hint-placeholder-val="{{ false }}">
+          <a href="{{ currentArticle.sourceUrl }}" target="_blank" rel="noopener" class="om-cta" style="display:inline-flex;align-items:center;gap:8px;font-family:'JetBrains Mono',monospace;font-size:13px;letter-spacing:.06em;color:#eaeeff;border:1px solid rgba(0,229,255,.3);padding:12px 18px;border-radius:12px;background:rgba(0,229,255,.06);margin:0 0 40px">Lire l'article complet sur {{ currentArticle.source }} ↗</a>
+          <p style="font-size:13px;color:{{ muted }};margin:-28px 0 40px;line-height:1.5">Résumé généré par extraction automatique depuis le flux RSS de la source — pas d'analyse éditoriale sur cet article.</p>
+        </sc-if>
+
+        <sc-if value="{{ currentArticle.hasWhy }}" hint-placeholder-val="{{ true }}">
+          <p style="font-size:16px;line-height:1.65;color:{{ ink }};margin:0 0 20px">{{ currentArticle.body1 }}</p>
+          <div style="{{ pullStyle }}">
+            <div style="font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.12em;color:{{ muted }};margin-bottom:8px">POURQUOI ÇA COMPTE</div>
+            <div style="font-size:16px;line-height:1.5">{{ currentArticle.why }}</div>
           </div>
-          <sc-for list="{{ currentArticleResources }}" as="r" hint-placeholder-count="3">
-            <a href="{{ r.url }}" target="_blank" rel="noopener" class="om-row" style="display:block;padding:20px 0;border-top:1px solid {{ line }}">
-              <div style="display:grid;grid-template-columns:40px 1fr auto;gap:20px;align-items:center">
-                <div style="font-family:'JetBrains Mono',monospace;font-size:11px;color:{{ muted }}">{{ r.num }}</div>
-                <div>
-                  <div style="display:flex;gap:8px;align-items:center;margin-bottom:4px;flex-wrap:wrap">
-                    <span style="{{ r.platformStyle }}">{{ r.platform }}</span>
+          <p style="font-size:16px;line-height:1.65;color:{{ ink }};margin:0 0 40px">{{ currentArticle.body2 }}</p>
+        </sc-if>
+
+        <sc-if value="{{ currentArticle.hasResources }}" hint-placeholder-val="{{ true }}">
+          <div style="border-top:1px solid {{ line }};padding-top:32px;margin-top:40px">
+            <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:20px;gap:20px;flex-wrap:wrap">
+              <h2 style="font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:30px;margin:0;letter-spacing:-.02em;color:{{ ink }}">Ressources associées</h2>
+            </div>
+            <sc-for list="{{ currentArticleResources }}" as="r" hint-placeholder-count="3">
+              <a href="{{ r.url }}" target="_blank" rel="noopener" class="om-row" style="display:block;padding:20px 0;border-top:1px solid {{ line }}">
+                <div style="display:grid;grid-template-columns:40px 1fr auto;gap:20px;align-items:center">
+                  <div style="font-family:'JetBrains Mono',monospace;font-size:11px;color:{{ muted }}">{{ r.num }}</div>
+                  <div>
+                    <div style="display:flex;gap:8px;align-items:center;margin-bottom:4px;flex-wrap:wrap">
+                      <span style="{{ r.platformStyle }}">{{ r.platform }}</span>
+                    </div>
+                    <div style="font-size:17px;font-weight:500;line-height:1.3">{{ r.title }}</div>
+                    <div style="font-size:13px;color:{{ muted }};margin-top:4px">{{ r.author }} · {{ r.duration }}</div>
                   </div>
-                  <div style="font-size:17px;font-weight:500;line-height:1.3">{{ r.title }}</div>
-                  <div style="font-size:13px;color:{{ muted }};margin-top:4px">{{ r.author }} · {{ r.duration }}</div>
+                  <div style="font-family:'Space Grotesk',sans-serif;font-size:22px;color:#7fe8ff">↗</div>
                 </div>
-                <div style="font-family:'Space Grotesk',sans-serif;font-size:22px;color:#7fe8ff">↗</div>
-              </div>
-            </a>
-          </sc-for>
-        </div>
+              </a>
+            </sc-for>
+          </div>
+        </sc-if>
       </div>
     </sc-if>
 
@@ -533,20 +556,59 @@ const PATH_WHY = {
   'growth-ai':"Cas concrets de growth teams qui ont intégré la génération dans leurs process.",
 };
 
+const SAVED_KEY = 'veilleai_saved_v1';
+const SOURCE_TYPES = {
+  'TechCrunch':'Presse tech', 'The Verge':'Presse tech', 'Sifted':'Presse tech',
+  'MIT Technology Review':'Presse tech', 'The Information':'Presse tech',
+  'OpenAI':'Labo / éditeur', 'Hugging Face':'Labo / éditeur',
+  'Andrej Karpathy':'Chercheur indépendant', 'LlamaIndex Blog':'Blog technique',
+  'Every.to':'Newsletter indépendante', 'a16z':'VC / investisseur', 'Reforge':'Newsletter indépendante',
+  'Commission Européenne':'Source institutionnelle',
+};
+
 const Component = class extends DCLogic {
-  state = { route:'/', metier:'all', theme_f:'all', articles:[] };
+  state = { route:'/', metier:'all', theme_f:'all', articles:[], saved:[], savedOnly:false, query:'' };
 
   componentDidMount(){
     const applyHash=()=>{ const h=location.hash.replace(/^#/,'')||'/'; this.setState({route:h}); };
     window.addEventListener('hashchange',applyHash);
     applyHash();
+    this.setState({saved:this.loadSaved()});
     fetch('./data/articles.json').then(r=>r.json()).then(articles=>{
       this.setState({articles});
     }).catch(()=>{ console.error('[veille.ai] impossible de charger data/articles.json'); });
   }
 
   go=(r)=>(e)=>{ if(e)e.preventDefault(); location.hash='#'+r; this.setState({route:r}); window.scrollTo(0,0); };
-  resetFilters=()=>this.setState({metier:'all',theme_f:'all'});
+  resetFilters=()=>this.setState({metier:'all',theme_f:'all',query:'',savedOnly:false});
+
+  loadSaved=()=>{ try{ return JSON.parse(localStorage.getItem(SAVED_KEY))||[]; }catch(e){ return []; } };
+  persistSaved=(list)=>{ try{ localStorage.setItem(SAVED_KEY, JSON.stringify(list)); }catch(e){} };
+  isSaved=(id)=>this.state.saved.includes(id);
+  toggleSaved=(id)=>(e)=>{
+    if(e){ e.preventDefault(); e.stopPropagation(); }
+    const cur = this.state.saved;
+    const next = cur.includes(id) ? cur.filter(x=>x!==id) : [...cur, id];
+    this.persistSaved(next);
+    this.setState({saved:next});
+  };
+  toggleSavedOnly=()=>this.setState({savedOnly:!this.state.savedOnly});
+  setQuery=(e)=>this.setState({query:e.target.value});
+
+  sourceType=(source)=>SOURCE_TYPES[source] || 'Source externe';
+
+  impactTier=(article, metier)=>{
+    if(metier==='all') return null;
+    const score = this.relevanceScore(article, metier);
+    if(score===0) return {label:'🔴 Prioritaire', style:'font-size:10.5px;font-weight:600;color:#ff8a8a;background:rgba(255,100,100,.12);border:1px solid rgba(255,100,100,.3);padding:3px 9px;border-radius:10px;font-family:\'JetBrains Mono\',monospace;letter-spacing:.04em;display:inline-block'};
+    if(score===1) return {label:'🟡 Pertinent', style:'font-size:10.5px;font-weight:600;color:#ffd27f;background:rgba(255,200,100,.1);border:1px solid rgba(255,200,100,.28);padding:3px 9px;border-radius:10px;font-family:\'JetBrains Mono\',monospace;letter-spacing:.04em;display:inline-block'};
+    return null;
+  };
+
+  weekTrendCount=(themeId)=>{
+    const since = Date.now() - 7*24*3600*1000;
+    return this.state.articles.filter(a=>a.themes.includes(themeId) && new Date(a.date).getTime()>=since).length;
+  };
 
   articleTagList=(a,t)=>{
     const out=[];
@@ -580,10 +642,13 @@ const Component = class extends DCLogic {
   }
 
   filteredArticlesRaw(){
-    const {metier,theme_f,articles}=this.state;
+    const {metier,theme_f,articles,savedOnly,saved,query}=this.state;
+    const q = query.trim().toLowerCase();
     let list = articles.filter(a=>
       (metier==='all'||a.metiers.includes(metier)) &&
-      (theme_f==='all'||a.themes.includes(theme_f))
+      (theme_f==='all'||a.themes.includes(theme_f)) &&
+      (!savedOnly || saved.includes(a.id)) &&
+      (!q || (a.title+' '+a.summary+' '+a.source).toLowerCase().includes(q))
     );
     if(metier!=='all'){
       list.sort((x,y)=>{
@@ -620,7 +685,7 @@ const Component = class extends DCLogic {
 
   renderVals(){
     const t=this.tokens();
-    const {route,metier,theme_f,articles:ARTICLES}=this.state;
+    const {route,metier,theme_f,articles:ARTICLES,saved,savedOnly,query}=this.state;
 
     const isHome = route==='/' || route==='';
     const metierMatch = route.match(/^\/metier\/([\w-]+)$/);
@@ -640,22 +705,25 @@ const Component = class extends DCLogic {
     const filtered = this.filteredArticlesRaw();
 
     const filteredArticles = filtered.map(a=>{
-      const isPriority = metier!=='all' && this.relevanceScore(a,metier)===0;
+      const tier = this.impactTier(a,metier);
       return {
         id:a.id, dateShort:this.fmtShort(a.date), source:a.source, title:a.title, summary:a.summary,
+        sourceTypeLabel:this.sourceType(a.source),
         tagList:this.articleTagList(a,t),
         resourcesPreview:(a.resources||[]).slice(0,2).map(rid=>R[rid]).filter(Boolean),
-        isPriority, auto:!!a.auto,
-        href:a.auto ? a.sourceUrl : ('#/actu/'+a.id),
-        target:a.auto ? '_blank' : '_self',
-        open:a.auto ? (()=>{}) : this.go('/actu/'+a.id),
+        hasTier:!!tier, tierLabel:tier?tier.label:'', tierStyle:tier?tier.style:'',
+        auto:!!a.auto,
+        href:'#/actu/'+a.id, target:'_self', open:this.go('/actu/'+a.id),
+        isSaved:saved.includes(a.id), toggleSaved:this.toggleSaved(a.id),
+        starLabel:saved.includes(a.id)?'★':'☆',
+        starStyle:`font-size:17px;line-height:1;cursor:pointer;color:${saved.includes(a.id)?'#7fe8ff':t.muted};background:none;border:none;padding:4px`,
       };
     });
 
     const lastUpdateDate = ARTICLES.reduce((max,a)=> (!max||a.date>max) ? a.date : max, null);
     const lastUpdateLabel = lastUpdateDate ? this.fmtLong(lastUpdateDate) : '';
 
-    const hasActiveFilters = metier!=='all'||theme_f!=='all';
+    const hasActiveFilters = metier!=='all'||theme_f!=='all'||!!query||savedOnly;
     const currentMetierPriority = metier!=='all' ? METIERS.find(x=>x.id===metier) : null;
 
     const shell = {
@@ -667,6 +735,10 @@ const Component = class extends DCLogic {
         const active = (k==='home'&&isHome)||(k==='metiers'&&(isMetiersIndex||isMetierDetail))||(k==='themes'&&(isThemesIndex||isThemeDetail))||(k==='parcours'&&isParcours);
         return `color:${active?t.ink:t.muted};font-weight:${active?'600':'500'};border-bottom:1px solid ${active?'#7fe8ff':'transparent'};padding-bottom:6px;text-shadow:${active?'0 0 12px rgba(0,229,255,.4)':'none'}`;
       },
+      searchQuery:query, setSearchQuery:this.setQuery,
+      toggleSavedOnly:this.toggleSavedOnly,
+      savedOnlyLabel: savedOnly ? `★ Sauvegardes (${saved.length})` : `☆ Sauvegardes (${saved.length})`,
+      savedOnlyStyle: `font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.06em;padding:6px 12px;border-radius:8px;border:1px solid ${savedOnly?'rgba(0,229,255,.4)':t.line};color:${savedOnly?'#7fe8ff':t.muted};background:${savedOnly?'rgba(0,229,255,.08)':'transparent'};transition:all .2s`,
     };
 
     const metierOptions = METIERS.map(m=>({value:m.id,label:m.label,selected:metier===m.id}));
@@ -700,9 +772,7 @@ const Component = class extends DCLogic {
       .map(a=>({
         id:a.id, dateShort:this.fmtShort(a.date), source:a.source, title:a.title, summary:a.summary,
         isPriority:this.relevanceScore(a,currentMetier.id)===0, auto:!!a.auto,
-        href:a.auto ? a.sourceUrl : ('#/actu/'+a.id),
-        target:a.auto ? '_blank' : '_self',
-        open:a.auto ? (()=>{}) : this.go('/actu/'+a.id),
+        href:'#/actu/'+a.id, target:'_self', open:this.go('/actu/'+a.id),
       })) : [];
     const currentMetierPath = currentMetier ? (METIER_PATHS[currentMetier.id]||[]).map((rid,i)=>{
       const r=R[rid]; return r?{num:String(i+1).padStart(2,'0'),title:r.title,platform:r.platform,duration:r.duration,url:r.url}:null;
@@ -712,17 +782,20 @@ const Component = class extends DCLogic {
       .map(([tid])=>({label:'★ '+this.themeLabelShort(tid), style:`font-size:10.5px;padding:4px 10px;border-radius:12px;background:linear-gradient(135deg,rgba(0,229,255,.15),rgba(124,60,224,.18));border:1px solid rgba(0,229,255,.3);color:#a8ecff;font-family:'JetBrains Mono',monospace;letter-spacing:.04em`})) : [];
 
     // Theme index
-    const themeCards = THEMES.map(x=>({
-      id:x.id,slug:x.slug,label:x.label,desc:x.desc,
-      articleCount:ARTICLES.filter(a=>a.themes.includes(x.id)).length,
-      open:this.go('/theme/'+x.id),
-    }));
+    const themeCards = THEMES.map(x=>{
+      const weekCount = this.weekTrendCount(x.id);
+      return {
+        id:x.id,slug:x.slug,label:x.label,desc:x.desc,
+        articleCount:ARTICLES.filter(a=>a.themes.includes(x.id)).length,
+        hasTrend: weekCount>0,
+        trendLabel: `📈 ${weekCount} cette semaine`,
+        open:this.go('/theme/'+x.id),
+      };
+    });
 
     const currentThemeArticles = currentTheme ? ARTICLES.filter(a=>a.themes.includes(currentTheme.id)).sort((x,y)=>y.date.localeCompare(x.date)).map(a=>({
       id:a.id, dateShort:this.fmtShort(a.date), source:a.source, title:a.title, summary:a.summary, auto:!!a.auto,
-      href:a.auto ? a.sourceUrl : ('#/actu/'+a.id),
-      target:a.auto ? '_blank' : '_self',
-      open:a.auto ? (()=>{}) : this.go('/actu/'+a.id),
+      href:'#/actu/'+a.id, target:'_self', open:this.go('/actu/'+a.id),
     })) : [];
 
     // Article
@@ -793,8 +866,15 @@ const Component = class extends DCLogic {
       isArticle,
       currentArticle: currentArticle ? {
         title:currentArticle.title, summary:currentArticle.summary,
-        source:currentArticle.source, dateLong:this.fmtLong(currentArticle.date),
+        source:currentArticle.source, sourceTypeLabel:this.sourceType(currentArticle.source), dateLong:this.fmtLong(currentArticle.date),
         body1:currentArticle.body1, body2:currentArticle.body2, why:currentArticle.why,
+        isAuto:!!currentArticle.auto, hasWhy: !currentArticle.auto,
+        sourceUrl: currentArticle.sourceUrl || '',
+        isSaved: saved.includes(currentArticle.id),
+        toggleSaved: this.toggleSaved(currentArticle.id),
+        starLabel: saved.includes(currentArticle.id) ? '★ Sauvegardé' : '☆ Sauvegarder',
+        starStyle: `font-family:'JetBrains Mono',monospace;font-size:12px;letter-spacing:.06em;padding:7px 14px;border-radius:20px;border:1px solid ${saved.includes(currentArticle.id)?'rgba(0,229,255,.4)':t.line};color:${saved.includes(currentArticle.id)?'#7fe8ff':t.muted};background:${saved.includes(currentArticle.id)?'rgba(0,229,255,.08)':'transparent'};cursor:pointer;transition:all .2s`,
+        hasResources: currentArticleResources.length>0,
       } : {},
       currentArticleTags, currentArticleResources,
       pullStyle:`border-left:2px solid transparent;border-image:linear-gradient(180deg,#00e5ff,#7c3ce0) 1;padding:16px 22px;margin:28px 0;background:${t.surface};backdrop-filter:blur(12px);border-radius:0 12px 12px 0;box-shadow:0 0 30px -8px rgba(0,229,255,.25)`,
