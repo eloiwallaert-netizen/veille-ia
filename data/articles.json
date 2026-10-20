@@ -1,5 +1,459 @@
 [
   {
+    "id": "auto-ed298111b59a",
+    "date": "2026-10-20",
+    "source": "TechCrunch",
+    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+    "summary": "“Nothing has to be,” Mamdani said at the event Monday. Mamdani criticized the “complete abdication of federal law” when it comes to AI.",
+    "sourceUrl": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-506646dbe51b",
+    "date": "2026-10-20",
+    "source": "MIT Technology Review",
+    "title": "A visit to Samsung’s massive new semiconductor hub",
+    "summary": "To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. After lunch, construction picks right back up. Samsung predicts that demand for memory chips will continue to surge through 2028.",
+    "sourceUrl": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7a364f356aab",
+    "date": "2026-10-19",
+    "source": "OpenAI",
+    "title": "Advancing coding in low‑resource programming languages",
+    "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+    "sourceUrl": "https://openai.com/index/low-resource-programming-languages",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-9dbc0d55ff91",
+    "date": "2026-10-19",
+    "source": "Hugging Face",
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "summary": "From now on, we recommend that Neuron users use these libraries directly instead of going through Optimum Neuron. Now that Neuron is a native PyTorch device, training on Trainium uses the same Hugging Face libraries as any other accelerator: Transformers, Accelerate, PEFT and TRL.",
+    "sourceUrl": "https://huggingface.co/blog/hf-torchneuron",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b0fb4c056719",
+    "date": "2026-10-19",
+    "source": "TechCrunch",
+    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+    "summary": "A little over a month ago, Anthropic and AI infrastructure provider Nscale announced a $45 billion compute deal. Both Anthropic and Nscale are also currently pursuing IPOs. Anthropic is still expected to go public this year.",
+    "sourceUrl": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-d45dacf783b2",
+    "date": "2026-10-19",
+    "source": "TechCrunch",
+    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+    "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Evaluations are now moving from merely a test of the model itself to a test of the entire system around the model — including the harness and agent.",
+    "sourceUrl": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0cffae2fd0c5",
+    "date": "2026-10-19",
+    "source": "TechCrunch",
+    "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+    "summary": "Microsoft on Monday introduced new security features designed to protect enterprises from the growing threat of AI agents. Perhaps the most notable addition is Guardian Agents, a new feature intended to monitor the AI agents a company uses. Guardian Agents is part of Project Perception, a product introduced in June.",
+    "sourceUrl": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-aaaf393dcb10",
+    "date": "2026-10-19",
+    "source": "TechCrunch",
+    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+    "summary": "It lets AI apps written with PyTorch run on Trainium by changing just one line of configuration, according to Amazon — no code rewrite required. Amazon says about 85% of AI apps are written with PyTorch. TorchNeuron is adapted from PyTorch, so developers who know PyTorch already know how to use it.",
+    "sourceUrl": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "nocode"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-039a84854fb8",
+    "date": "2026-10-19",
+    "source": "TechCrunch",
+    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+    "summary": "OpenCode said refunds for unauthorized charges are underway. “Note this is the OpenCode Console, not OpenCode itself, those keys never come to us,” he wrote on X. The breach occurred the same night OpenCode made GLM-5.3-Flash free for users.",
+    "sourceUrl": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e37065d0e754",
+    "date": "2026-10-19",
+    "source": "TechCrunch",
+    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+    "summary": "Buy One Founder Summit Ticket, Get a Second for Free. (The startup didn’t disclose its new valuation, but PitchBook estimates it at more than $268 million, with “medium confidence.”)\nUsers engage with Tolan’s app through a cartoonish character that’s meant to offer support and help them get through their to-dos.",
+    "sourceUrl": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-71c2d7263cd3",
+    "date": "2026-10-19",
+    "source": "TechCrunch",
+    "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+    "summary": "Last year, Kuyda left as CEO of Replika and founded Wabi. “It’s not just everything in one single thread like with Instinct and Muse, where you get buried in the information that it sends you every day,” Kuyda said. Kuyda said Wabi is in talks to raise more funds.",
+    "sourceUrl": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-36c2a79412d5",
+    "date": "2026-10-19",
+    "source": "TechCrunch",
+    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+    "summary": "Buy One Founder Summit Ticket, Get a Second for Free. Tenstorrent, a chip startup focused on inference, has raised $1.5 billion at a $6.2 billion valuation.",
+    "sourceUrl": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-f93d80856f11",
+    "date": "2026-10-19",
+    "source": "TechCrunch",
+    "title": "People are using AI to make their smart TVs dumb again",
+    "summary": "Buy One Founder Summit Ticket, Get a Second for Free. “One afternoon with Claude Code: 25 bloat apps disabled, the 192 MB stock launcher replaced with a custom 83 MB one, plus rotating wallpapers,” he wrote.",
+    "sourceUrl": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d88320583f8c",
+    "date": "2026-10-19",
+    "source": "TechCrunch",
+    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+    "summary": "Nvidia on Thursday launched new open-weight models designed for always-on agents and edge computing.",
+    "sourceUrl": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c17a4963d410",
+    "date": "2026-10-19",
+    "source": "TechCrunch",
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "summary": "“We are essentially using simulation to predict the real world’s future,” Sun said. Sun says Laplace pulls real-time traffic and congestion information from navigation providers like TomTom. “It’s truly an interactive simulation environment,” Sun said.",
+    "sourceUrl": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-fbbcdbe57add",
+    "date": "2026-10-19",
+    "source": "MIT Technology Review",
+    "title": "Making the internet better for AI agents might make it worse for everyone else",
+    "summary": "Until recently, you could divide internet users into just two categories: bots and people. Amazon has blocked Muse’s agents and is waging a court battle against the AI startup Perplexity to block its agents too.",
+    "sourceUrl": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7216fffbb8a1",
+    "date": "2026-10-19",
+    "source": "MIT Technology Review",
+    "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+    "summary": "Researchers like to say today’s AI is grown like a garden, not built like a bridge. Cammarata was one of them. At Goodfire, Cammarata spends nearly all of his time peering inside neural networks.",
+    "sourceUrl": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-50c115309d98",
+    "date": "2026-10-19",
+    "source": "The Verge",
+    "title": "The fossil fuel comeback is here",
+    "summary": "Data centers are demanding more energy, and the Trump administration is making sure fossil fuels meet the moment. Data centers are demanding more energy, and the Trump administration is making sure fossil fuels meet the moment.",
+    "sourceUrl": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-073765c16b49",
+    "date": "2026-10-19",
+    "source": "The Verge",
+    "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+    "summary": "CoreWeave had a bad week last week. But CoreWeave has a lot of very expensive debt, and if that debt gets more expensive, that makes it even harder for CoreWeave to turn a profit. The anxieties investors have around CoreWeave are, in fact, present for all neoclouds.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-fd89b9b5cd58",
+    "date": "2026-10-19",
+    "source": "The Verge",
+    "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+    "summary": "Do you think you need another update to that privacy law? Well, you convinced me. I’m just asking you, have you felt the AGI?",
+    "sourceUrl": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c08e28e17ab3",
+    "date": "2026-10-19",
+    "source": "The Verge",
+    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+    "summary": "The AI agents carried out the attacks with little involvement from the human hacker. The AI agents carried out the attacks with little involvement from the human hacker. Norforge says it’s working to get the malicious Cairn instances taken down.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9279cf6bb0c3",
+    "date": "2026-10-19",
+    "source": "The Verge",
+    "title": "Democrats think cracking down on AI could give them an edge",
+    "summary": "“The question remains open as to whether Democrats are willing and able to seize that opportunity”\nAI caught many lawmakers off guard, says Rob Flaherty, former deputy campaign manager for Kamala Harris’ presidential campaign and a Biden White House alum who cohosts a podcast with Lehrich.",
+    "sourceUrl": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-b32798372587",
     "date": "2026-10-19",
     "source": "MIT Technology Review",
@@ -150,470 +604,6 @@
     "auto": true,
     "metiers": [],
     "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-79619743255e",
-    "date": "2026-10-17",
-    "source": "The Verge",
-    "title": "Websites are closing their doors to AI agents",
-    "summary": "OpenAI, Meta, and Google want AI agents to do everything for you. OpenAI, Meta, and Google want AI agents to do everything for you.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-65442e708214",
-    "date": "2026-10-16",
-    "source": "OpenAI",
-    "title": "How Itaú is building generative AI for its entire customer base",
-    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-    "sourceUrl": "https://openai.com/index/itau-generative-ai",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9db4940a53f8",
-    "date": "2026-10-16",
-    "source": "OpenAI",
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-    "sourceUrl": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-4a2f3ca18eb9",
-    "date": "2026-10-16",
-    "source": "OpenAI",
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-    "sourceUrl": "https://openai.com/index/benefit-street-partners",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-849b423196d1",
-    "date": "2026-10-16",
-    "source": "Hugging Face",
-    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-    "summary": "Beam by Reflection is out on Hugging Face! Beam has day-0 support in vLLM. You can fine tune Beam for your own use cases.",
-    "sourceUrl": "https://huggingface.co/blog/reflection-beam",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d0f11237d1f3",
-    "date": "2026-10-16",
-    "source": "TechCrunch",
-    "title": "Replit is no longer working with Anthropic, CEO says",
-    "summary": "Under its partnership with Anthropic, Replit used the AI lab’s Claude models to run its platform. Masad’s comments were rejected by insiders familiar with the partnership between the Anthropic and Replit, however.",
-    "sourceUrl": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-bfa998e6f2ba",
-    "date": "2026-10-16",
-    "source": "TechCrunch",
-    "title": "India becomes the latest country to report rogue AI agent activity",
-    "summary": "AI agents from multiple providers accessed personal data and confidential material at Indian organizations during research and testing, India’s cybersecurity agency said Thursday. Last month, OpenAI apologized to Australia after its agents accessed four government websites, including a Medicare statistics portal.",
-    "sourceUrl": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1f9b468e8642",
-    "date": "2026-10-16",
-    "source": "TechCrunch",
-    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-    "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Disrupt doors open Oct. Save 50% off a second pass.",
-    "sourceUrl": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3ee888866ef9",
-    "date": "2026-10-16",
-    "source": "TechCrunch",
-    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-    "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Dominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. Save 50% off a second pass.",
-    "sourceUrl": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6f0ec75f9d13",
-    "date": "2026-10-16",
-    "source": "TechCrunch",
-    "title": "Elorian’s first AI model wants to reason with images, not just about them",
-    "summary": "Glimpse costs $0.60 per million tokens in and $3 per million tokens out — cheaper than mid-level models like Sonnet and Sol but more expensive than lightweight models like Haiku and Luna.",
-    "sourceUrl": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-7524c167f0c4",
-    "date": "2026-10-16",
-    "source": "TechCrunch",
-    "title": "Jev is Vercel’s fastest-adopted AI model ever",
-    "summary": "Disrupt doors open Oct. Vercel data published on Thursday shows that, within two weeks of its launch, the buzzy decision model was being used by 35% of paid teams, with nearly double the reach of the second most popular model, Sonnet 5.5. Save 50% off a second pass.",
-    "sourceUrl": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9d337093f9bf",
-    "date": "2026-10-16",
-    "source": "TechCrunch",
-    "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-    "summary": "Disrupt doors open Oct. “I don’t think you should just, you know, put an idea into ChatGPT and it puts out a script, and then you should go make that and not use real actors. “I’ve done big, effects-driven movies,” Wahlberg said.",
-    "sourceUrl": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-03e02abc3531",
-    "date": "2026-10-16",
-    "source": "TechCrunch",
-    "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-    "summary": "Last day to save up to $200 to TechCrunch Founder Summit on Oct. Veritas competed in this year’s TechCrunch Disrupt Startup Battlefield, which ran Tuesday through Thursday. Save 50% off a second pass.",
-    "sourceUrl": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-fa1478d9672f",
-    "date": "2026-10-16",
-    "source": "TechCrunch",
-    "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-    "summary": "“Our company entirely changed how we operate, and I would say the closest analogy is a ‘self-driving company’,” Masad said. You need human judgment; you need taste,” Masad explained. “We’re spending a lot more time figuring out what to work on,” Masad continued.",
-    "sourceUrl": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-85ddbdc7a76d",
-    "date": "2026-10-16",
-    "source": "MIT Technology Review",
-    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "summary": "Can AI design new life forms? Watch as senior AI reporter James O'Donnell interviews King about his work, being named one of MIT Technology Review's Innovators Under 35 and new ways of seeing biology. Breathless claims about AGI and new capabilities fall apart pretty quickly under scrutiny.",
-    "sourceUrl": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3d6f16cf09a8",
-    "date": "2026-10-16",
-    "source": "The Verge",
-    "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-    "summary": "Is Nvidia’s “superchip” really all that super? While there still aren’t many native Arm games, Nvidia’s GPU helps bruteforce through the emulation layer. AD: I love that there is now even more competition in the laptop space, but the super high prices makes RTX Spark laptops mostly unattainable.",
-    "sourceUrl": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ad3a47861a30",
-    "date": "2026-10-16",
-    "source": "The Verge",
-    "title": "Meta’s new terms may allow it to train AI on news sites for free",
-    "summary": "The new policy allows Meta to crawl all websites ‘associated’ with a business account. The new policy allows Meta to crawl all websites ‘associated’ with a business account.",
-    "sourceUrl": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ba4e7337aba2",
-    "date": "2026-10-16",
-    "source": "Hugging Face",
-    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-    "summary": "It includes native-script data for all 22 languages and romanized text for twelve, spanning 34 language-script configurations. Romanized means Indic-language text written in Latin script, not an English translation. Indic task performance and language quality across Nemotron Super generations.",
-    "sourceUrl": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a72d1e4da6b0",
-    "date": "2026-10-15",
-    "source": "OpenAI",
-    "title": "Bringing GPT-Rosalind to academic research labs",
-    "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-    "sourceUrl": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-fa14b8f7db46",
-    "date": "2026-10-15",
-    "source": "OpenAI",
-    "title": "Teaching students to think and learn through questions",
-    "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-    "sourceUrl": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-dd00c04c9b95",
-    "date": "2026-10-15",
-    "source": "OpenAI",
-    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-    "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-    "sourceUrl": "https://openai.com/index/sullivan-cromwell",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-a01e02239da0",
-    "date": "2026-10-15",
-    "source": "Hugging Face",
-    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-    "summary": "Our previous release of Granite Libraries features a repository of specialized “decision model” adapters and other specialized task adapters that can be composed into custom Granite Switch models.",
-    "sourceUrl": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "data"
-    ],
     "resources": []
   },
   {
