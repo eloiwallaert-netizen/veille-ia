@@ -44,7 +44,7 @@ FEEDS = [
 
 MAX_AGE_HOURS = 48
 MAX_AUTO_ARTICLES = 30
-USER_AGENT = "Mozilla/5.0 (compatible; veille-ia-bot/1.0; +https://modjo-veille-ia.netlify.app/)"
+USER_AGENT = "Mozilla/5.0 (compatible; veille-ia-bot/1.0; +https://veille-ia.eloi-wallaert.workers.dev/)"
 
 # Mots-clés par thématique (recherche insensible à la casse dans titre + résumé)
 THEME_KEYWORDS = {
