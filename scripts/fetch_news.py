@@ -184,13 +184,36 @@ class _ParagraphExtractor(HTMLParser):
             self._current.append(data)
 
 
+# Paragraphes qui ne sont pas du skip par balise (nav/aside/footer...) mais qui sont
+# quand même du bruit promotionnel/UI (bannières d'évènement, newsletter, cookies...)
+# repéré dans des <p> "normaux" au milieu du contenu. On les exclut avant le scoring
+# pour ne jamais les laisser remonter dans le résumé extractif.
+BOILERPLATE_PATTERNS = [
+    r"\bticket\b", r"\bdisrupt\b", r"founder summit", r"\bpromo code\b",
+    r"subscribe to", r"sign up for", r"newsletter", r"save up to \$",
+    r"\bsave \d+% off\b", r"\d+% off\b", r"buy one.*get (a |one )?second",
+    r"accept cookies", r"\bcookie(s)? (policy|notice|consent)\b",
+    r"advertisement", r"sponsored by", r"this article is (brought to you|sponsored)",
+    r"download the app", r"follow us on", r"share this (article|story)",
+    r"related (article|stor(y|ies))", r"read more:", r"\blast day to\b",
+]
+_BOILERPLATE_RE = re.compile("|".join(BOILERPLATE_PATTERNS), re.IGNORECASE)
+
+
+def _looks_like_boilerplate(paragraph):
+    return bool(_BOILERPLATE_RE.search(paragraph))
+
+
 def extract_main_text(html_doc):
     parser = _ParagraphExtractor()
     try:
         parser.feed(html_doc)
     except Exception:
         pass
-    paragraphs = [p for p in parser.paragraphs if len(p) > 40]
+    paragraphs = [
+        p for p in parser.paragraphs
+        if len(p) > 40 and not _looks_like_boilerplate(p)
+    ]
     return "\n".join(paragraphs)
 
 
@@ -211,7 +234,7 @@ def split_sentences(text):
 
 
 def summarize(text, max_sentences=3, max_chars=320):
-    sentences = split_sentences(text)
+    sentences = [s for s in split_sentences(text) if not _looks_like_boilerplate(s)]
     if not sentences:
         return ""
     if len(sentences) <= max_sentences:
