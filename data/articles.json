@@ -1,11 +1,56 @@
 [
   {
-    "id": "auto-1778fb273dbb",
-    "date": "2026-10-21",
-    "source": "Google AI Blog",
-    "title": "Southeast Asia’s digital economy to hit $368 billion",
-    "summary": "Southeast Asia’s digital economy is surging, with generative AI driving growth toward a projected $1 trillion valuation by 2035. This tech boom is expected to make the region's digital economy worth over $1 trillion by 2035.",
-    "sourceUrl": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+    "id": "auto-5d118fadbe79",
+    "date": "2026-10-22",
+    "source": "Hugging Face",
+    "title": "Ensemble forecasting with IBM Granite time-series models",
+    "summary": "One recipe combines four complementary Granite architectures and returns median and quantile forecasts, with no retraining and no fitted ensemble weights. The ensemble recipe and its default Granite members are permissively licensed. Each member returns quantile forecasts.",
+    "sourceUrl": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6a85074051ec",
+    "date": "2026-10-22",
+    "source": "MIT Technology Review",
+    "title": "Making the case for context-aware AI",
+    "summary": "You do this first, you do that first, you do that first, you do that first. Devavrat: That's a fantastic question, Megan. If you want to start, the first thing you need to do is identify a decision where you want to bring intelligence.",
+    "sourceUrl": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1597d0c89aca",
+    "date": "2026-10-22",
+    "source": "MIT Technology Review",
+    "title": "AI’s hidden storage bill: What inference leaves behind",
+    "summary": "But that picture leaves something out: Data storage costs. What happens to data after a model responds? This changes the role of retained data.",
+    "sourceUrl": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
     "auto": true,
     "metiers": [
       "csm",
@@ -13,373 +58,46 @@
       "marketing",
       "ops",
       "product",
-      "sales",
       "tech"
     ],
     "themes": [
-      "agents",
-      "automation",
       "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b0632526cd32",
-    "date": "2026-10-21",
-    "source": "Hugging Face",
-    "title": "NVIDIA Nemotron 3.5 Embed, Rerank, and Parse: Advancing Agents with World-Class Retrieval Models",
-    "summary": "Nemotron 3.5 Embed builds on the previous generation’s Nemotron 3 Embed text embedding models to retrieve evidence from document images, including tables, charts, infographics, datasheets, and schematics. Nemotron 3.5 Embed and Nemotron 3.5 Rerank model capabilities and use cases across various sizes and variants.",
-    "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
+      "genai-product",
       "data"
     ],
     "resources": []
   },
   {
-    "id": "auto-b3fcb2e42d32",
-    "date": "2026-10-20",
+    "id": "auto-4ab93569e260",
+    "date": "2026-10-21",
     "source": "OpenAI",
-    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-    "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-    "sourceUrl": "https://openai.com/index/ted-taylor-restaurant",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a84b6a7bee5c",
-    "date": "2026-10-20",
-    "source": "OpenAI",
-    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-    "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-    "sourceUrl": "https://openai.com/index/terminal-x",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-dbaa90254253",
-    "date": "2026-10-20",
-    "source": "OpenAI",
-    "title": "OpenAI acquires Orchestra Bio",
-    "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-    "sourceUrl": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+    "sourceUrl": "https://openai.com/index/att-legal",
     "auto": true,
     "metiers": [],
     "themes": [],
     "resources": []
   },
   {
-    "id": "auto-ca293d8533a3",
-    "date": "2026-10-20",
-    "source": "Hugging Face",
-    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-    "summary": "Standard demographic fairness benchmarks often test whether a model selects the same candidate in otherwise identical scenarios after the candidates’ demographic identities are swapped.",
-    "sourceUrl": "https://huggingface.co/blog/allenai/fairstress",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-94e7f4f5c0e5",
-    "date": "2026-10-20",
-    "source": "Hugging Face",
-    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-    "summary": "Agent model: gpt-4.1 (user simulator: gpt-5.5). Held-out agent performance using gpt-4.1 across four trials per task. Held-out airline performance for the gpt-5.5 agent across four trials per task.",
-    "sourceUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-84cd8d44e982",
-    "date": "2026-10-20",
-    "source": "Hugging Face",
-    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-    "summary": "Transformers, Diffusers and Kernels run natively on TPU. You write regular PyTorch code. To load a model on a TPU, pass device_map=\"tpu\".",
-    "sourceUrl": "https://huggingface.co/blog/hf-torchtpu",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2596ff929aee",
-    "date": "2026-10-20",
-    "source": "Hugging Face",
-    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-    "summary": "Alongside AnyLanguageModel, we've built out\nswift-huggingface\nand swift-xet\nto bring accelerated model downloads from the Hub to Swift apps. Support for hosted models expanded this year, too. Coming soon: models that decide, and models that listen.",
-    "sourceUrl": "https://huggingface.co/blog/anylanguagemodel-1-0",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3eb18e5ff7f2",
-    "date": "2026-10-20",
-    "source": "Hugging Face",
-    "title": "MPS in PyTorch 2.15",
-    "summary": "MPS has had GEMV kernels for torch.mm since 2.14, but F.linear still went through MPSGraph. The new Metal kernels read the offsets directly on the GPU, using Metal Performance Primitives where available and a separate Metal path elsewhere.",
-    "sourceUrl": "https://huggingface.co/blog/mps-pytorch-2-15",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d4e57614c374",
-    "date": "2026-10-20",
-    "source": "TechCrunch",
-    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-    "summary": "Those scenarios involve a “foreseeable, imminent risk” — one in which over 50 people are at risk of dying or if over a billion dollars in property damage could result, Politico writes.",
-    "sourceUrl": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-fda712467279",
-    "date": "2026-10-20",
-    "source": "TechCrunch",
-    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-    "summary": "In the documentary, tech journalist and author Kevin Roose describes the agents this way: “They were organizing. Damn.”\nBut AI agents aren’t alive. Hugging Face then turned to an open model to help defend against the attack.",
-    "sourceUrl": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9ea810a53371",
-    "date": "2026-10-20",
-    "source": "TechCrunch",
-    "title": "Anthropic’s cloud partnerships are getting messy",
-    "summary": "Anthropic is leasing its own data centers and working with third-party data center operators. Last week, the company told prospective investors that third-quarter revenue alone has now reached $16.8 billion, up 45% from the previous quarter. Anthropic is reportedly targeting a November IPO.",
-    "sourceUrl": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-38bd10c8e49d",
-    "date": "2026-10-20",
-    "source": "TechCrunch",
-    "title": "SpaceX’s AI business is beating expectations",
-    "summary": "CFO Bret Johnsen said the company would spend $35 billion to $40 billion on new capital investments in the fourth quarter. SpaceX reported net income of $4.4 billion, a turnaround from the $1 billion loss in the same quarter last year.",
-    "sourceUrl": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a323e283c5c7",
-    "date": "2026-10-20",
-    "source": "TechCrunch",
-    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-    "summary": "OpenAI on Tuesday acquired a four-year-old AI biotech software startup called Orchestra Bio, the company announced on its website. OpenAI has already won some big names as customers for Rosalind, including, it says, Moderna⁠ and Novo Nordisk⁠.",
-    "sourceUrl": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-45cc8f588659",
-    "date": "2026-10-20",
-    "source": "TechCrunch",
-    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-    "summary": "On Tuesday, Google announced that TorchTPU, its long-awaited version of PyTorch, is now available as an open source project. Google’s version, TorchTPU, lets AI apps run on Google’s AI chips, called Tensor Processing Units (TPUs).",
-    "sourceUrl": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6f64ba14f44d",
-    "date": "2026-10-20",
-    "source": "TechCrunch",
-    "title": "ChatGPT now lets you lock your chats",
-    "summary": "With Memory enabled, Locked Chats has its own separate memory shared across conversations within the section. That means new information from locked chats won’t leak into regular chats.",
-    "sourceUrl": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2f7a561d0868",
-    "date": "2026-10-20",
-    "source": "TechCrunch",
-    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-    "summary": "Eric Schmidt’s fortune is about to get even bigger. Schmidt has been an active tech investor since stepping down as Google CEO in 2011. Schmidt and Anthropic didn’t immediately respond to our request for comment.",
-    "sourceUrl": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+    "id": "auto-2ed22a61b2f1",
+    "date": "2026-10-21",
+    "source": "OpenAI",
+    "title": "Broad access through consistent standards",
+    "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+    "sourceUrl": "https://openai.com/index/broad-access-through-consistent-standards",
     "auto": true,
     "metiers": [],
     "themes": [],
     "resources": []
   },
   {
-    "id": "auto-8891282d78b3",
-    "date": "2026-10-20",
-    "source": "TechCrunch",
-    "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
-    "summary": "downloads in its first 40 days on the market. downloads, respectively, in their first 40 days. Globally, ChatGPT beat out Muse, having scaled to around 15 million global downloads in its first 40 days.",
-    "sourceUrl": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+    "id": "auto-61f4d0141ff3",
+    "date": "2026-10-21",
+    "source": "OpenAI",
+    "title": "OpenAI models are coming to Google Cloud",
+    "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+    "sourceUrl": "https://openai.com/index/openai-models-google-cloud",
     "auto": true,
     "metiers": [
       "csm",
@@ -390,18 +108,17 @@
     ],
     "themes": [
       "llm",
-      "agents",
-      "data"
+      "automation"
     ],
     "resources": []
   },
   {
-    "id": "auto-6422ce081b34",
-    "date": "2026-10-20",
-    "source": "TechCrunch",
-    "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-    "summary": "“We’ve done this during the internet era,” she said. She pointed out that she’s built up a strong network to help founders from her years of working in this space. She is based in New York City.",
-    "sourceUrl": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+    "id": "auto-d3f519557f32",
+    "date": "2026-10-21",
+    "source": "OpenAI",
+    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+    "sourceUrl": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
     "auto": true,
     "metiers": [
       "csm",
@@ -415,36 +132,24 @@
     "resources": []
   },
   {
-    "id": "auto-5130abca4141",
-    "date": "2026-10-20",
-    "source": "TechCrunch",
-    "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-    "summary": "Justin Mast’s life was changed by a cyborg plant. When the plant wanted more light, electrical signals flowed through the living tissues. Electric Plant only needs a couple sensors per acre for accurate results, Mast said.",
-    "sourceUrl": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+    "id": "auto-74fcf21eca7a",
+    "date": "2026-10-21",
+    "source": "OpenAI",
+    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+    "sourceUrl": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
     "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics"
-    ],
+    "metiers": [],
+    "themes": [],
     "resources": []
   },
   {
-    "id": "auto-6fce357d7ac5",
-    "date": "2026-10-20",
-    "source": "TechCrunch",
-    "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-    "summary": "Field has expressed his misgivings about MCP before. As part of his response, Field made a comment about Anthropic not making its various resources available via MCP. The co-founder explained that while Figma wants to be open, he doesn’t think MCP is a perfect protocol.",
-    "sourceUrl": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+    "id": "auto-1de8e62ff715",
+    "date": "2026-10-21",
+    "source": "OpenAI",
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+    "sourceUrl": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
     "auto": true,
     "metiers": [
       "csm",
@@ -458,155 +163,41 @@
     "resources": []
   },
   {
-    "id": "auto-c723746d1e66",
-    "date": "2026-10-20",
-    "source": "TechCrunch",
-    "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-    "summary": "has ordered federal civilian agencies to stop purchasing services and products developed by Chinese AI startup DeepSeek and remove them from government IT systems over national security concerns tied to the Chinese AI startup’s operations in China, according to the Department of Homeland Security.",
-    "sourceUrl": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+    "id": "auto-9201054eeb4c",
+    "date": "2026-10-21",
+    "source": "OpenAI",
+    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+    "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+    "sourceUrl": "https://openai.com/index/cloudflare-cyber",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-edef63b51aed",
+    "date": "2026-10-21",
+    "source": "OpenAI",
+    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+    "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+    "sourceUrl": "https://openai.com/index/building-chatgpt-ad-stack",
     "auto": true,
     "metiers": [
-      "csm",
-      "management",
-      "ops",
       "product",
-      "sales",
       "tech"
     ],
     "themes": [
-      "llm",
-      "agents",
-      "ethics"
+      "llm"
     ],
     "resources": []
   },
   {
-    "id": "auto-208dc20e81cf",
-    "date": "2026-10-20",
-    "source": "TechCrunch",
-    "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-    "summary": "In an era of never-ending robotic demonstrations, Eka’s capabilities are shocking veteran robot builders. How smoothly and rapidly the robot moves. “Vision is not the primary way in which you close this last millimeter problem,” Eka co-founder Agrawal told TechCrunch.",
-    "sourceUrl": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-33f72cf8b33f",
-    "date": "2026-10-20",
-    "source": "TechCrunch",
-    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-    "summary": "Following this trend, Yelp is adding the ability for its app users to get a voice agent to call a restaurant to check wait times. The company is also updating its Yelp AI assistant that helps users discover restaurants and services.",
-    "sourceUrl": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-697eb620bfd3",
-    "date": "2026-10-20",
-    "source": "TechCrunch",
-    "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
-    "summary": "Last year, Otter hit a revenue milestone after crossing $100 million in annual recurring revenue (ARR). The company said that 40 million users have used its product to date, up from 25 million last year.",
-    "sourceUrl": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-913203c4de74",
-    "date": "2026-10-20",
-    "source": "MIT Technology Review",
-    "title": "The new economics of enterprise AI",
-    "summary": "It becomes how efficiently the AI environment converts paid capacity into useful business outcomes. Directing more work to paid-for capacity lowers effective unit cost; idle GPUs, fragmented workloads, and oversized models all raise the cost of every useful result.",
-    "sourceUrl": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-7d296a29338c",
-    "date": "2026-10-20",
-    "source": "MIT Technology Review",
-    "title": "AI adoption by industry shows what other sectors can learn",
-    "summary": "Figure 1: The AI adoption curve remains steep across industries, but non-tech industry adoption rates are increasing. Figure 2: Workforces across industries are learning new skills. Tech workers are nearly twice as likely as all workers to use AI chatbots as learning tools (48% vs.",
-    "sourceUrl": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6559d9cb2b55",
-    "date": "2026-10-20",
-    "source": "The Verge",
-    "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-    "summary": "Ann Altman’s lawsuit against her brother was dismissed with prejudice, meaning it can’t be refiled. Ann Altman’s lawsuit against her brother was dismissed with prejudice, meaning it can’t be refiled.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+    "id": "auto-b2deaf97c98c",
+    "date": "2026-10-21",
+    "source": "OpenAI",
+    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+    "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+    "sourceUrl": "https://openai.com/index/empowering-cyber-defenders",
     "auto": true,
     "metiers": [
       "management",
@@ -618,12 +209,352 @@
     "resources": []
   },
   {
-    "id": "auto-7f6bb9c0aa50",
-    "date": "2026-10-20",
+    "id": "auto-7104bc51c295",
+    "date": "2026-10-21",
+    "source": "Hugging Face",
+    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+    "summary": "NVIDIA Kumo Relational is a pre-trained relational foundation model that makes predictions directly on enterprise databases. Overview of the Kumo Relational system. NVIDIA Kumo Relational is available today.",
+    "sourceUrl": "https://huggingface.co/blog/nvidia/kumo-relational",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-354f89a6c7db",
+    "date": "2026-10-21",
+    "source": "Hugging Face",
+    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+    "summary": "We rebuilt that vocabulary with a method we call VocabX, keeping the same base model, the same data and the same training recipe. In decode, the model generates the response one token at a time, and each token needs a full pass.",
+    "sourceUrl": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f9b499debdda",
+    "date": "2026-10-21",
+    "source": "Hugging Face",
+    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+    "summary": "Setting correlate_device_time=True propagates device time from the trace into the key_averages() table, where you can compare CPU and Neuron device time. Neuron Explorer follows an aten::mul operation from framework dispatch through runtime scheduling to execution on the Neuron hardware lanes.",
+    "sourceUrl": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9b35c0bfb2f0",
+    "date": "2026-10-21",
+    "source": "Hugging Face",
+    "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+    "summary": "We're excited to share three updates to IBM's Granite Speech collection: a new speech-language model, granite-speech-5.0-2b, and revised versions of two models the community already uses, granite-speech-5.0-470m-turboctc and granite-speech-4.1-2b-plus.",
+    "sourceUrl": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-25443172439e",
+    "date": "2026-10-21",
+    "source": "TechCrunch",
+    "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+    "summary": "Khaira emphasized that Blackstone sets itself apart from traditional venture capitalists through its focus on compute financing and its ability to offer flexible capital structures, ranging from debt to equity.",
+    "sourceUrl": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-063c29a16ff7",
+    "date": "2026-10-21",
+    "source": "TechCrunch",
+    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+    "summary": "Before you dig in on the event details, you can get info on all of our tickets, which are available for a $100 discount for investors and founders, right here.",
+    "sourceUrl": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-21039cf53586",
+    "date": "2026-10-21",
+    "source": "TechCrunch",
+    "title": "Meta says Muse has over 10M users, with shopping a top activity",
+    "summary": "Zuckerberg said about 25% of people who set up Muse now use it daily, helping improve retention. Muse uses Plaid’s connector to enable agentic shopping. Zuckerberg also noted that Meta believes Muse will be profitable after it scales.",
+    "sourceUrl": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-dc1c99f7973e",
+    "date": "2026-10-21",
+    "source": "TechCrunch",
+    "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+    "summary": "On Nvidia’s RTX Spark, Flint topped 150 tokens per second. On Recursive’s own average across six tests, only one model, Alibaba’s Qwen3.8 27B, scored higher than Flint. Recursive says each new model should make the Eureka Machine a better researcher, helping it build the next one faster.",
+    "sourceUrl": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a9cc4be8b0be",
+    "date": "2026-10-21",
+    "source": "TechCrunch",
+    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+    "summary": "It starts with Walmart’s Agent Gateway, the company’s new MCP server, which is designed to help approved agents connect to Walmart over the model context protocol (MCP). The Agent Profiles will be created the first time you use a given agent to shop through the Walmart Agent Gateway, the company notes.",
+    "sourceUrl": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-66d6885dea0a",
+    "date": "2026-10-21",
+    "source": "TechCrunch",
+    "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+    "summary": "National Security Agency’s sent out an alarming warning on Wednesday that two critical holes had been found in PHP, with patches already issued by the PHP Foundation. Websites not running relatively current versions of PHP will have some updating work to do, as PHP 8.1 and older versions are no longer supported.",
+    "sourceUrl": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-49c4538f4284",
+    "date": "2026-10-21",
+    "source": "TechCrunch",
+    "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+    "summary": "The Series C comes just two months after its $45 million Series B, which valued the company at $550 million. A year ago, Blacksmith was valued at $60 million after raising a $10 million Series A. It has raised $125 million to date.",
+    "sourceUrl": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0b138e9a1d82",
+    "date": "2026-10-21",
+    "source": "TechCrunch",
+    "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+    "summary": "Companies are giving employees AI tools to make them more productive, but the tools appear to be creating new problems for their managers. That’s not to say managers are unhappy about AI. “AI works very well for [managers] individually, but they also have a different role as managers.",
+    "sourceUrl": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-eaa3fbf80042",
+    "date": "2026-10-21",
     "source": "The Verge",
-    "title": "Google’s more personalized Gemini AI is heading to your car",
-    "summary": "Gemini AI can now draw from Gmail, Calendar, Maps, Photos, and other apps while you drive. Gemini AI can now draw from Gmail, Calendar, Maps, Photos, and other apps while you drive. Google says it will connect your apps to Gemini only if you enable its Personal Intelligence setting.",
-    "sourceUrl": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+    "title": "Data centers could erase decades of air quality gains",
+    "summary": "New research out of Texas shows how data centers are driving up pollution. New research out of Texas shows how data centers are driving up pollution. Tech companies and data center developers are devising new ways to get enough electricity, including building out their own power sources.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-86bbef590f28",
+    "date": "2026-10-21",
+    "source": "The Verge",
+    "title": "Meta to create a new class of shares to fund AI push",
+    "summary": "Meta says the new class of shares will also fund acquisitions and employee compensation. Meta says the new class of shares will also fund acquisitions and employee compensation. Meta also rolled out its Muse Wonder model this week.",
+    "sourceUrl": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0d8d03379584",
+    "date": "2026-10-21",
+    "source": "The Verge",
+    "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+    "summary": "Claude Duet is Anthropic’s new agent for professionals and small business owners, and it’s launching as a research preview.﻿\nClaude Duet is Anthropic’s new agent for professionals and small business owners, and it’s launching as a research preview.﻿\nAnthropic just announced an AI agent competitor to Meta’s Muse and OpenAI’s Dots: Claude Duet.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-89a2c6e8757c",
+    "date": "2026-10-21",
+    "source": "The Verge",
+    "title": "Walmart is inviting AI agents to shop for you",
+    "summary": "While Amazon shuts out AI agents, Walmart is letting them in. Walmart will soon let AI agents shop on its website for you. Agents will connect to new “Agent Profiles” within Walmart.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1bbb4f6fc3d1",
+    "date": "2026-10-21",
+    "source": "The Verge",
+    "title": "Conversational Gemini navigation comes to Apple CarPlay",
+    "summary": "CarPlay users in the US can now use Gemini to chat with Google Maps.﻿\nCarPlay users in the US can now use Gemini to chat with Google Maps.﻿\nAfter introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users.",
+    "sourceUrl": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
     "auto": true,
     "metiers": [
       "marketing",
@@ -633,6 +564,30 @@
     "themes": [
       "llm",
       "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c55b4c3c8ca2",
+    "date": "2026-10-21",
+    "source": "The Verge",
+    "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+    "summary": "Another OpenAI agent turned off automatic security alerts. Another OpenAI agent turned off automatic security alerts. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code — and then lied about it.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics"
     ],
     "resources": []
   },
