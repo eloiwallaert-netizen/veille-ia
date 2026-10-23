@@ -1,203 +1,11 @@
 [
   {
-    "id": "auto-5d118fadbe79",
-    "date": "2026-10-22",
-    "source": "Hugging Face",
-    "title": "Ensemble forecasting with IBM Granite time-series models",
-    "summary": "One recipe combines four complementary Granite architectures and returns median and quantile forecasts, with no retraining and no fitted ensemble weights. The ensemble recipe and its default Granite members are permissively licensed. Each member returns quantile forecasts.",
-    "sourceUrl": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6a85074051ec",
-    "date": "2026-10-22",
-    "source": "MIT Technology Review",
-    "title": "Making the case for context-aware AI",
-    "summary": "You do this first, you do that first, you do that first, you do that first. Devavrat: That's a fantastic question, Megan. If you want to start, the first thing you need to do is identify a decision where you want to bring intelligence.",
-    "sourceUrl": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1597d0c89aca",
-    "date": "2026-10-22",
-    "source": "MIT Technology Review",
-    "title": "AI’s hidden storage bill: What inference leaves behind",
-    "summary": "But that picture leaves something out: Data storage costs. What happens to data after a model responds? This changes the role of retained data.",
-    "sourceUrl": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-4ab93569e260",
-    "date": "2026-10-21",
+    "id": "auto-15c1f8ef7a58",
+    "date": "2026-10-23",
     "source": "OpenAI",
-    "title": "How AT&T is rethinking in-house legal work with OpenAI",
-    "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-    "sourceUrl": "https://openai.com/index/att-legal",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-2ed22a61b2f1",
-    "date": "2026-10-21",
-    "source": "OpenAI",
-    "title": "Broad access through consistent standards",
-    "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-    "sourceUrl": "https://openai.com/index/broad-access-through-consistent-standards",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-61f4d0141ff3",
-    "date": "2026-10-21",
-    "source": "OpenAI",
-    "title": "OpenAI models are coming to Google Cloud",
-    "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-    "sourceUrl": "https://openai.com/index/openai-models-google-cloud",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d3f519557f32",
-    "date": "2026-10-21",
-    "source": "OpenAI",
-    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-    "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-    "sourceUrl": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-74fcf21eca7a",
-    "date": "2026-10-21",
-    "source": "OpenAI",
-    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-    "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-    "sourceUrl": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-1de8e62ff715",
-    "date": "2026-10-21",
-    "source": "OpenAI",
-    "title": "Using thousands of AI agents to uncover new leads in biological data",
-    "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-    "sourceUrl": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9201054eeb4c",
-    "date": "2026-10-21",
-    "source": "OpenAI",
-    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-    "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
-    "sourceUrl": "https://openai.com/index/cloudflare-cyber",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-edef63b51aed",
-    "date": "2026-10-21",
-    "source": "OpenAI",
-    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-    "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-    "sourceUrl": "https://openai.com/index/building-chatgpt-ad-stack",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b2deaf97c98c",
-    "date": "2026-10-21",
-    "source": "OpenAI",
-    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-    "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-    "sourceUrl": "https://openai.com/index/empowering-cyber-defenders",
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+    "sourceUrl": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
     "auto": true,
     "metiers": [
       "management",
@@ -209,12 +17,119 @@
     "resources": []
   },
   {
-    "id": "auto-7104bc51c295",
-    "date": "2026-10-21",
+    "id": "auto-94cd4ca5fb66",
+    "date": "2026-10-23",
+    "source": "TechCrunch",
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "summary": "Ride-hailing company inDrive, known for letting passengers and drivers negotiate fares, is working with Chinese autonomous driving firm Pony.ai and Nvidia to begin testing robotaxis in Kazakhstan in 2027. The move comes as ride-hailing companies expand their push into robotaxis.",
+    "sourceUrl": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-085ba153da3b",
+    "date": "2026-10-23",
+    "source": "TechCrunch",
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "summary": "The researchers put 13 AI agents called Eko, each running on Claude Opus 4.7, alone on a simulated desert island for 30 hours. The Eko agents that had spent those 30 hours playing generally beat identical agents that had never set foot on the island. The researchers frame it as a different way to build agents.",
+    "sourceUrl": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-27825e300358",
+    "date": "2026-10-22",
+    "source": "OpenAI",
+    "title": "Build more responsive apps with the Decisions API",
+    "summary": "Fast, focused, low-cost decisions for any application.",
+    "sourceUrl": "https://openai.com/index/decisions-api",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-63c31ca523f9",
+    "date": "2026-10-22",
+    "source": "OpenAI",
+    "title": "What FDE means at OpenAI",
+    "summary": "What forward deployed engineering means at OpenAI",
+    "sourceUrl": "https://openai.com/index/forward-deployed-engineering-means",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-ba6fa07d677a",
+    "date": "2026-10-22",
+    "source": "OpenAI",
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+    "sourceUrl": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-95eb6975ad24",
+    "date": "2026-10-22",
     "source": "Hugging Face",
-    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-    "summary": "NVIDIA Kumo Relational is a pre-trained relational foundation model that makes predictions directly on enterprise databases. Overview of the Kumo Relational system. NVIDIA Kumo Relational is available today.",
-    "sourceUrl": "https://huggingface.co/blog/nvidia/kumo-relational",
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "summary": "ThinkingBox turns executable checks of terminal database state into rewards for post-training agents on tasks outside ThinkingBox-Bench. Each candidate task is run repeatedly against the base policy model. The final Qwen3.8-27B curated training pool contained 187 tasks.",
+    "sourceUrl": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-eaa0ebff7daf",
+    "date": "2026-10-22",
+    "source": "Hugging Face",
+    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "summary": "Explore it yourself in the OlmoEarth Embeddings Explorer. The embeddings help answer that. This release includes the OlmoEarth v1.3 Base model, the precomputed global embeddings, the OlmoEarth Embeddings Explorer, and the technical report.",
+    "sourceUrl": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
     "auto": true,
     "metiers": [
       "csm",
@@ -226,21 +141,57 @@
     "themes": [
       "llm",
       "agents",
-      "automation",
       "data"
     ],
     "resources": []
   },
   {
-    "id": "auto-354f89a6c7db",
-    "date": "2026-10-21",
-    "source": "Hugging Face",
-    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-    "summary": "We rebuilt that vocabulary with a method we call VocabX, keeping the same base model, the same data and the same training recipe. In decode, the model generates the response one token at a time, and each token needs a full pass.",
-    "sourceUrl": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+    "id": "auto-d73c3fbf5a8b",
+    "date": "2026-10-22",
+    "source": "TechCrunch",
+    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "summary": "OpenAI declined comment. That valuation would also raise the bar even higher for OpenAI’s forthcoming IPO. OpenAI filed confidential paperwork for an IPO in June, after its last raise in March valued the ChatGPT maker at $852 billion post-money.",
+    "sourceUrl": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-ee7ecab28959",
+    "date": "2026-10-22",
+    "source": "TechCrunch",
+    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+    "summary": "Password manager 1Password on Thursday launched a new tool by which users can allow agents to log into their personal accounts on their behalf, without the agent ever having access to a user’s credentials.",
+    "sourceUrl": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
     "auto": true,
     "metiers": [
       "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1d8d266cc065",
+    "date": "2026-10-22",
+    "source": "TechCrunch",
+    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "summary": "Public benchmarks like the AIM System One Index and the Artificial Analysis Decision Index tend to favor D1 Ultra, a new decision model that Liquid released last week, and Base Lab’s Elephant-1.",
+    "sourceUrl": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
       "ops",
       "product",
       "sales",
@@ -249,37 +200,267 @@
     "themes": [
       "llm",
       "automation",
-      "data"
+      "genai-product"
     ],
     "resources": []
   },
   {
-    "id": "auto-f9b499debdda",
-    "date": "2026-10-21",
-    "source": "Hugging Face",
-    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-    "summary": "Setting correlate_device_time=True propagates device time from the trace into the key_averages() table, where you can compare CPU and Neuron device time. Neuron Explorer follows an aten::mul operation from framework dispatch through runtime scheduling to execution on the Neuron hardware lanes.",
-    "sourceUrl": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+    "id": "auto-afbb328c263f",
+    "date": "2026-10-22",
+    "source": "TechCrunch",
+    "title": "Canva releases its first image generation model",
+    "summary": "The company said its model works in two stages. The model will also be available through the Canva API. In 2024, Canva acquired media generation platform Leonardo.ai.",
+    "sourceUrl": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-4baf690dfb57",
+    "date": "2026-10-22",
+    "source": "TechCrunch",
+    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+    "summary": "On complex cases, DxO increased GPT-5.5’s accuracy score from 72% to nearly 87% at a slightly cheaper cost. DxO helps most on complex cases and with less capable AI models. Microsoft and its partners will compare DxO’s recommendations against the human doctors’.",
+    "sourceUrl": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
     "auto": true,
     "metiers": [
       "csm",
+      "management",
+      "marketing",
       "ops",
+      "product",
       "sales",
       "tech"
     ],
     "themes": [
+      "llm",
+      "agents",
       "automation",
-      "data"
+      "ethics",
+      "genai-product"
     ],
     "resources": []
   },
   {
-    "id": "auto-9b35c0bfb2f0",
-    "date": "2026-10-21",
-    "source": "Hugging Face",
-    "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-    "summary": "We're excited to share three updates to IBM's Granite Speech collection: a new speech-language model, granite-speech-5.0-2b, and revised versions of two models the community already uses, granite-speech-5.0-470m-turboctc and granite-speech-4.1-2b-plus.",
-    "sourceUrl": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+    "id": "auto-93c844a35d41",
+    "date": "2026-10-22",
+    "source": "TechCrunch",
+    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+    "summary": "Security researchers at Microsoft say the China state-aligned hackers broke into ConnectWise’s cloud backup service and stole application credentials that are used to establish data links between ConnectWise and its corporate customers, who rely on the cloud service to back up their company’s data.",
+    "sourceUrl": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9d72639f5e00",
+    "date": "2026-10-22",
+    "source": "TechCrunch",
+    "title": "Uber puts all 30,000 employees on ChatGPT Work",
+    "summary": "Uber originally piloted ChatGPT Work with 1,000 employees earlier this year but has now scaled up its usage to the entire company. “Our approach is to make powerful AI tools available across Uber while giving teams room to experiment,” Sukumar said.",
+    "sourceUrl": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0bffbef0359b",
+    "date": "2026-10-22",
+    "source": "TechCrunch",
+    "title": "Spotify’s current AI bet is about being the music service that agents choose",
+    "summary": "Spotify wants to be the service those agents turn to, letting people discover music and interact with Spotify through conversations rather than just its own app. We are seeing really good adoption of Spotify inside these agents.",
+    "sourceUrl": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6aa970c38b49",
+    "date": "2026-10-22",
+    "source": "TechCrunch",
+    "title": "Claude Duet app is Anthropic’s bet on agents",
+    "summary": "Like other agents, Duet can complete tasks in the background through its own virtual machine while you handle other things, then come back to you if it needs your approval. Anthropic says Duet proactively delivers its recommendations as it monitors ongoing tasks.",
+    "sourceUrl": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a4344d39d17a",
+    "date": "2026-10-22",
+    "source": "TechCrunch",
+    "title": "Nirva raises $33M for a pendant that only listens to you",
+    "summary": "During use, the device filters out conversations or data captured from the other people around the device. Lyu emphasized that the app shows users insights around their emotions, communication style, and ways they can improve.",
+    "sourceUrl": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-779cc50e4b9b",
+    "date": "2026-10-22",
+    "source": "TechCrunch",
+    "title": "DeepSeek reportedly raises $15B days after US restrictions",
+    "summary": "ordered federal civilian agencies to remove DeepSeek’s AI technology from their systems over security concerns, the Chinese AI lab has raised about $15 billion, about 100 billion yuan, one of the biggest funding rounds in the country, Bloomberg reported.",
+    "sourceUrl": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-2aedd54f3eb3",
+    "date": "2026-10-22",
+    "source": "MIT Technology Review",
+    "title": "Designing an AI serving harness built to last",
+    "summary": "Serving architecture influences memory utilization. Memory management affects concurrency. The model provides the intelligence.",
+    "sourceUrl": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d8c2939ee8cf",
+    "date": "2026-10-22",
+    "source": "MIT Technology Review",
+    "title": "The Foundations of Scalable AI",
+    "summary": "Her team drives enterprise-wide innovation, research, and delivery, enabling Vanguard to translate emerging technologies into trusted solutions that enhance client experiences, improve investor outcomes, and create measurable business value.",
+    "sourceUrl": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1437b0ebe886",
+    "date": "2026-10-22",
+    "source": "The Verge",
+    "title": "Canva’s first AI image model plans designs before generating them",
+    "summary": "Canva Craft can generate images at up to 2K resolution and in more than 30 aspect ratios. It sits behind OpenAI’s GPT-Image-2.5 Sunburst, GPT-Image-2.5 Flare, and GPT-Image-2. Canva Craft is available now to all users globally.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-29a87826b845",
+    "date": "2026-10-22",
+    "source": "The Verge",
+    "title": "Meta’s AI could still scrape news sites, legal experts say",
+    "summary": "Meta’s new business terms could still help it justify training AI on scraped sites. Meta’s new business terms could still help it justify training AI on scraped sites. Initially, Meta’s new terms for business accounts appeared to give the company permission to train its AI on news sites.",
+    "sourceUrl": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-afeec198fbf5",
+    "date": "2026-10-22",
+    "source": "The Verge",
+    "title": "Meta turns Muse sharing back on",
+    "summary": "Meta has given new URLs to shared Muse ‘artifacts’ after security researchers reported that public links could be easy to find. Meta has given new URLs to shared Muse ‘artifacts’ after security researchers reported that public links could be easy to find.",
+    "sourceUrl": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-3992fc4ed3eb",
+    "date": "2026-10-22",
+    "source": "The Verge",
+    "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+    "summary": "Musk said on the recent SpaceX earnings call that “there’s a lot of merit to combining” SpaceX and Tesla. If SpaceX pays $2 trillion or more, Musk gets a payout. At $2 trillion, Musk gets $6 billion of shares.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
     "auto": true,
     "metiers": [
       "csm",
@@ -296,12 +477,12 @@
     "resources": []
   },
   {
-    "id": "auto-25443172439e",
-    "date": "2026-10-21",
-    "source": "TechCrunch",
-    "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-    "summary": "Khaira emphasized that Blackstone sets itself apart from traditional venture capitalists through its focus on compute financing and its ability to offer flexible capital structures, ranging from debt to equity.",
-    "sourceUrl": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+    "id": "auto-6dc97b2e6ae2",
+    "date": "2026-10-22",
+    "source": "The Verge",
+    "title": "Discord now formats Markdown previews right",
+    "summary": "Markdown files in Discord now render ‘all nice and neat’ thanks to a new update. Markdown files in Discord now render ‘all nice and neat’ thanks to a new update. “When you upload a Markdown (.md) file, you’ll now see the file rendered all nice and neat and pretty instead of with a bunch of symbols,” Discord says.",
+    "sourceUrl": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
     "auto": true,
     "metiers": [
       "csm",
@@ -316,31 +497,12 @@
     "resources": []
   },
   {
-    "id": "auto-063c29a16ff7",
-    "date": "2026-10-21",
-    "source": "TechCrunch",
-    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-    "summary": "Before you dig in on the event details, you can get info on all of our tickets, which are available for a $100 discount for investors and founders, right here.",
-    "sourceUrl": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-21039cf53586",
-    "date": "2026-10-21",
-    "source": "TechCrunch",
-    "title": "Meta says Muse has over 10M users, with shopping a top activity",
-    "summary": "Zuckerberg said about 25% of people who set up Muse now use it daily, helping improve retention. Muse uses Plaid’s connector to enable agentic shopping. Zuckerberg also noted that Meta believes Muse will be profitable after it scales.",
-    "sourceUrl": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+    "id": "auto-2c1b17b37189",
+    "date": "2026-10-22",
+    "source": "The Verge",
+    "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+    "summary": "To be fair to Muse, Zuckerberg shared a few promising data points. Meta really does need Muse to work. Zuckerberg said it himself.",
+    "sourceUrl": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
     "auto": true,
     "metiers": [
       "csm",
@@ -356,15 +518,16 @@
     "resources": []
   },
   {
-    "id": "auto-dc1c99f7973e",
-    "date": "2026-10-21",
-    "source": "TechCrunch",
-    "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-    "summary": "On Nvidia’s RTX Spark, Flint topped 150 tokens per second. On Recursive’s own average across six tests, only one model, Alibaba’s Qwen3.8 27B, scored higher than Flint. Recursive says each new model should make the Eureka Machine a better researcher, helping it build the next one faster.",
-    "sourceUrl": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+    "id": "auto-98a7f3683d8f",
+    "date": "2026-10-22",
+    "source": "The Verge",
+    "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+    "summary": "‘We’re going to build something that is indistinguishable from human performance … in the next couple of years,’ Microsoft AI CEO Mustafa Suleyman tells The Verge.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
     "auto": true,
     "metiers": [
       "csm",
+      "management",
       "marketing",
       "ops",
       "product",
@@ -375,219 +538,42 @@
       "llm",
       "agents",
       "automation",
+      "ethics",
       "genai-product",
       "data"
     ],
     "resources": []
   },
   {
-    "id": "auto-a9cc4be8b0be",
-    "date": "2026-10-21",
-    "source": "TechCrunch",
-    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-    "summary": "It starts with Walmart’s Agent Gateway, the company’s new MCP server, which is designed to help approved agents connect to Walmart over the model context protocol (MCP). The Agent Profiles will be created the first time you use a given agent to shop through the Walmart Agent Gateway, the company notes.",
-    "sourceUrl": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-66d6885dea0a",
-    "date": "2026-10-21",
-    "source": "TechCrunch",
-    "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-    "summary": "National Security Agency’s sent out an alarming warning on Wednesday that two critical holes had been found in PHP, with patches already issued by the PHP Foundation. Websites not running relatively current versions of PHP will have some updating work to do, as PHP 8.1 and older versions are no longer supported.",
-    "sourceUrl": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-49c4538f4284",
-    "date": "2026-10-21",
-    "source": "TechCrunch",
-    "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-    "summary": "The Series C comes just two months after its $45 million Series B, which valued the company at $550 million. A year ago, Blacksmith was valued at $60 million after raising a $10 million Series A. It has raised $125 million to date.",
-    "sourceUrl": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0b138e9a1d82",
-    "date": "2026-10-21",
-    "source": "TechCrunch",
-    "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-    "summary": "Companies are giving employees AI tools to make them more productive, but the tools appear to be creating new problems for their managers. That’s not to say managers are unhappy about AI. “AI works very well for [managers] individually, but they also have a different role as managers.",
-    "sourceUrl": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-eaa3fbf80042",
-    "date": "2026-10-21",
+    "id": "auto-7b213ad205a3",
+    "date": "2026-10-22",
     "source": "The Verge",
-    "title": "Data centers could erase decades of air quality gains",
-    "summary": "New research out of Texas shows how data centers are driving up pollution. New research out of Texas shows how data centers are driving up pollution. Tech companies and data center developers are devising new ways to get enough electricity, including building out their own power sources.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+    "title": "Someone hacked the Switch 2 by using an old game and AI",
+    "summary": "Thanks to a new jailbreak, a modder showed off a custom Mario Kart World featuring Peter Griffin and the red Angry Bird. Thanks to a new jailbreak, a modder showed off a custom Mario Kart World featuring Peter Griffin and the red Angry Bird.",
+    "sourceUrl": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
     "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
+    "metiers": [],
+    "themes": [],
     "resources": []
   },
   {
-    "id": "auto-86bbef590f28",
-    "date": "2026-10-21",
+    "id": "auto-2a8e11324f4e",
+    "date": "2026-10-22",
     "source": "The Verge",
-    "title": "Meta to create a new class of shares to fund AI push",
-    "summary": "Meta says the new class of shares will also fund acquisitions and employee compensation. Meta says the new class of shares will also fund acquisitions and employee compensation. Meta also rolled out its Muse Wonder model this week.",
-    "sourceUrl": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0d8d03379584",
-    "date": "2026-10-21",
-    "source": "The Verge",
-    "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-    "summary": "Claude Duet is Anthropic’s new agent for professionals and small business owners, and it’s launching as a research preview.﻿\nClaude Duet is Anthropic’s new agent for professionals and small business owners, and it’s launching as a research preview.﻿\nAnthropic just announced an AI agent competitor to Meta’s Muse and OpenAI’s Dots: Claude Duet.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-89a2c6e8757c",
-    "date": "2026-10-21",
-    "source": "The Verge",
-    "title": "Walmart is inviting AI agents to shop for you",
-    "summary": "While Amazon shuts out AI agents, Walmart is letting them in. Walmart will soon let AI agents shop on its website for you. Agents will connect to new “Agent Profiles” within Walmart.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+    "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
+    "summary": "We use technology, we use computers. A pencil is technology, a paintbrush is technology, a 3D printer is technology, a computer workstation is technology. “I think AI is extraordinary technology,” he says.",
+    "sourceUrl": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
     "auto": true,
     "metiers": [
       "csm",
       "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1bbb4f6fc3d1",
-    "date": "2026-10-21",
-    "source": "The Verge",
-    "title": "Conversational Gemini navigation comes to Apple CarPlay",
-    "summary": "CarPlay users in the US can now use Gemini to chat with Google Maps.﻿\nCarPlay users in the US can now use Gemini to chat with Google Maps.﻿\nAfter introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users.",
-    "sourceUrl": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c55b4c3c8ca2",
-    "date": "2026-10-21",
-    "source": "The Verge",
-    "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-    "summary": "Another OpenAI agent turned off automatic security alerts. Another OpenAI agent turned off automatic security alerts. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code — and then lied about it.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
       "ops",
       "product",
-      "sales",
       "tech"
     ],
     "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics"
+      "genai-product",
+      "data"
     ],
     "resources": []
   },
