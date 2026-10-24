@@ -1,5 +1,256 @@
 [
   {
+    "id": "auto-298c8de07d18",
+    "date": "2026-10-23",
+    "source": "OpenAI",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+    "sourceUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-48e2274fdf2b",
+    "date": "2026-10-23",
+    "source": "OpenAI",
+    "title": "Securing our frontier model training environment",
+    "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+    "sourceUrl": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-d5dfb55b0129",
+    "date": "2026-10-23",
+    "source": "Hugging Face",
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "summary": "Research ideas evolve through engaging with the literature. In particular, LitPivot separates a research idea into its problem, proposed contribution, and evaluation plan.",
+    "sourceUrl": "https://huggingface.co/blog/allenai/litpivot",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6430909168b5",
+    "date": "2026-10-23",
+    "source": "Hugging Face",
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "summary": "It tells you whether a model runs unmodified on Trainium, and gives you the script to run it yourself. When the model is sharded, a small judge model checks that the text is fluent English. Next time you wonder whether a model runs on Trainium, look it up.",
+    "sourceUrl": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b15a6fb9671b",
+    "date": "2026-10-23",
+    "source": "TechCrunch",
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "summary": "On Friday, OpenAI said that it will train its models using cached copies and simulated versions of the internet instead of the live web because the models are too unpredictable to be trusted with live internet access.",
+    "sourceUrl": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f782f2bc9618",
+    "date": "2026-10-23",
+    "source": "TechCrunch",
+    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+    "summary": "Microducks are open source devices produced by Pollen Robotics, a company acquired by Hugging Face in 2025, which means they are now an Nvidia company. The GPU giant bought Hugging Face in September. This is actually Hugging Face’s second robot, after the also-cute Reachy Mini.",
+    "sourceUrl": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0931d3afc7b7",
+    "date": "2026-10-23",
+    "source": "TechCrunch",
+    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+    "summary": "Building a startup means making decisions before you have all the answers. When should you scale? How do you know you really have product-market fit?",
+    "sourceUrl": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f9113fa394af",
+    "date": "2026-10-23",
+    "source": "The Verge",
+    "title": "OpenAI now trains its frontier AI models with no internet access",
+    "summary": "AI agents can still communicate without a network connection, OpenAI found. AI agents can still communicate without a network connection, OpenAI found.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f490e9c8ed30",
+    "date": "2026-10-23",
+    "source": "The Verge",
+    "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+    "summary": "You have got to listen to these conversations with Block’s new Dessa AI model. You have got to listen to these conversations with Block’s new Dessa AI model. Dessa is a step toward fixing it.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9ecaeb5e8630",
+    "date": "2026-10-23",
+    "source": "The Verge",
+    "title": "The iPhone Duo should have been an iPad",
+    "summary": "On The Vergecast: Notes on an iPhone Duo review, a PHP scandal, Brendan Carr, and more. On The Vergecast: Notes on an iPhone Duo review, a PHP scandal, Brendan Carr, and more. We gave the iPhone Duo a 7 /10.",
+    "sourceUrl": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-55f38e2b0de9",
+    "date": "2026-10-23",
+    "source": "The Verge",
+    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+    "summary": "“You may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use, such as Google Photos and Workspace apps like Gmail and Drive, in order to provide you with a more personalized experience, subject to the policies and settings of the accessing service.",
+    "sourceUrl": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d34a3f37bdd3",
+    "date": "2026-10-23",
+    "source": "The Verge",
+    "title": "Meta delays new business terms after publisher pushback on AI scraping",
+    "summary": "Following backlash from publishers across the globe, Meta is pushing the enforcement of its new terms to November 20th. Following backlash from publishers across the globe, Meta is pushing the enforcement of its new terms to November 20th. In response to this backlash, Meta is now delaying its new terms entirely.",
+    "sourceUrl": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-fa80f1a6b4b7",
+    "date": "2026-10-23",
+    "source": "The Verge",
+    "title": "Retro gaming is being overrun with AI",
+    "summary": "A rise in AI-powered decomps, recomps, and ports has thrust the community into chaos. The tools allow you to move much faster if you know what you want.”\nThat speed has drawn many people to try out these AI tools, either for fun, the technical challenge, or for preservation reasons.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-15c1f8ef7a58",
     "date": "2026-10-23",
     "source": "OpenAI",
@@ -50,6 +301,29 @@
     "themes": [
       "llm",
       "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6a85074051ec",
+    "date": "2026-10-22",
+    "source": "MIT Technology Review",
+    "title": "Making the case for context-aware AI",
+    "summary": "You do this first, you do that first, you do that first, you do that first. Devavrat: That's a fantastic question, Megan. If you want to start, the first thing you need to do is identify a decision where you want to bring intelligence.",
+    "sourceUrl": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics"
     ],
     "resources": []
   },
@@ -310,270 +584,6 @@
       "llm",
       "agents",
       "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6aa970c38b49",
-    "date": "2026-10-22",
-    "source": "TechCrunch",
-    "title": "Claude Duet app is Anthropic’s bet on agents",
-    "summary": "Like other agents, Duet can complete tasks in the background through its own virtual machine while you handle other things, then come back to you if it needs your approval. Anthropic says Duet proactively delivers its recommendations as it monitors ongoing tasks.",
-    "sourceUrl": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a4344d39d17a",
-    "date": "2026-10-22",
-    "source": "TechCrunch",
-    "title": "Nirva raises $33M for a pendant that only listens to you",
-    "summary": "During use, the device filters out conversations or data captured from the other people around the device. Lyu emphasized that the app shows users insights around their emotions, communication style, and ways they can improve.",
-    "sourceUrl": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-779cc50e4b9b",
-    "date": "2026-10-22",
-    "source": "TechCrunch",
-    "title": "DeepSeek reportedly raises $15B days after US restrictions",
-    "summary": "ordered federal civilian agencies to remove DeepSeek’s AI technology from their systems over security concerns, the Chinese AI lab has raised about $15 billion, about 100 billion yuan, one of the biggest funding rounds in the country, Bloomberg reported.",
-    "sourceUrl": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-2aedd54f3eb3",
-    "date": "2026-10-22",
-    "source": "MIT Technology Review",
-    "title": "Designing an AI serving harness built to last",
-    "summary": "Serving architecture influences memory utilization. Memory management affects concurrency. The model provides the intelligence.",
-    "sourceUrl": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d8c2939ee8cf",
-    "date": "2026-10-22",
-    "source": "MIT Technology Review",
-    "title": "The Foundations of Scalable AI",
-    "summary": "Her team drives enterprise-wide innovation, research, and delivery, enabling Vanguard to translate emerging technologies into trusted solutions that enhance client experiences, improve investor outcomes, and create measurable business value.",
-    "sourceUrl": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1437b0ebe886",
-    "date": "2026-10-22",
-    "source": "The Verge",
-    "title": "Canva’s first AI image model plans designs before generating them",
-    "summary": "Canva Craft can generate images at up to 2K resolution and in more than 30 aspect ratios. It sits behind OpenAI’s GPT-Image-2.5 Sunburst, GPT-Image-2.5 Flare, and GPT-Image-2. Canva Craft is available now to all users globally.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-29a87826b845",
-    "date": "2026-10-22",
-    "source": "The Verge",
-    "title": "Meta’s AI could still scrape news sites, legal experts say",
-    "summary": "Meta’s new business terms could still help it justify training AI on scraped sites. Meta’s new business terms could still help it justify training AI on scraped sites. Initially, Meta’s new terms for business accounts appeared to give the company permission to train its AI on news sites.",
-    "sourceUrl": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-afeec198fbf5",
-    "date": "2026-10-22",
-    "source": "The Verge",
-    "title": "Meta turns Muse sharing back on",
-    "summary": "Meta has given new URLs to shared Muse ‘artifacts’ after security researchers reported that public links could be easy to find. Meta has given new URLs to shared Muse ‘artifacts’ after security researchers reported that public links could be easy to find.",
-    "sourceUrl": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-3992fc4ed3eb",
-    "date": "2026-10-22",
-    "source": "The Verge",
-    "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-    "summary": "Musk said on the recent SpaceX earnings call that “there’s a lot of merit to combining” SpaceX and Tesla. If SpaceX pays $2 trillion or more, Musk gets a payout. At $2 trillion, Musk gets $6 billion of shares.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6dc97b2e6ae2",
-    "date": "2026-10-22",
-    "source": "The Verge",
-    "title": "Discord now formats Markdown previews right",
-    "summary": "Markdown files in Discord now render ‘all nice and neat’ thanks to a new update. Markdown files in Discord now render ‘all nice and neat’ thanks to a new update. “When you upload a Markdown (.md) file, you’ll now see the file rendered all nice and neat and pretty instead of with a bunch of symbols,” Discord says.",
-    "sourceUrl": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2c1b17b37189",
-    "date": "2026-10-22",
-    "source": "The Verge",
-    "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-    "summary": "To be fair to Muse, Zuckerberg shared a few promising data points. Meta really does need Muse to work. Zuckerberg said it himself.",
-    "sourceUrl": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-98a7f3683d8f",
-    "date": "2026-10-22",
-    "source": "The Verge",
-    "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
-    "summary": "‘We’re going to build something that is indistinguishable from human performance … in the next couple of years,’ Microsoft AI CEO Mustafa Suleyman tells The Verge.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-7b213ad205a3",
-    "date": "2026-10-22",
-    "source": "The Verge",
-    "title": "Someone hacked the Switch 2 by using an old game and AI",
-    "summary": "Thanks to a new jailbreak, a modder showed off a custom Mario Kart World featuring Peter Griffin and the red Angry Bird. Thanks to a new jailbreak, a modder showed off a custom Mario Kart World featuring Peter Griffin and the red Angry Bird.",
-    "sourceUrl": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-2a8e11324f4e",
-    "date": "2026-10-22",
-    "source": "The Verge",
-    "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
-    "summary": "We use technology, we use computers. A pencil is technology, a paintbrush is technology, a 3D printer is technology, a computer workstation is technology. “I think AI is extraordinary technology,” he says.",
-    "sourceUrl": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "genai-product",
-      "data"
     ],
     "resources": []
   },
