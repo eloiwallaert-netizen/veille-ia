@@ -1,5 +1,128 @@
 [
   {
+    "id": "auto-b0af889ad05f",
+    "date": "2026-10-24",
+    "source": "TechCrunch",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "summary": "The product let users automate email and task workflows using AI agents, but as OpenAI, Google, and other larger platforms built similar automation directly into their own tools, five-year-old Relay struggled to hold on to a reason to exist as a stand-alone product.",
+    "sourceUrl": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-35d668020c86",
+    "date": "2026-10-24",
+    "source": "TechCrunch",
+    "title": "Block’s new voice model sounds eerily human",
+    "summary": "The company said the model, called Dessa, is trained fully on human speech and a single NVIDIA GPU rack. Dorsey’s company claims that emotion is built into its model.",
+    "sourceUrl": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-110fd09f65f2",
+    "date": "2026-10-24",
+    "source": "TechCrunch",
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "summary": "Grok was more likely to search for both candidates. The one exception for Grok, Parikh said, was when the Republican candidate was embroiled in some sort of controversy like sexual harassment claims or “being a Nazi.” Then Grok was more likely to suggest a Democratic vote.",
+    "sourceUrl": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0d4ae8a7dd39",
+    "date": "2026-10-24",
+    "source": "TechCrunch",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "summary": "Powered by Hermes Agent, Iris is designed to let users delegate tasks to an AI assistant directly through iMessage. It can keep track of calendars, emails, reminders, tasks, and other household details, then deliver relevant information to users through text.",
+    "sourceUrl": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0509c80e85fb",
+    "date": "2026-10-24",
+    "source": "The Verge",
+    "title": "Blue Planet III is keeping the rough edges in the age of AI",
+    "summary": "BBC’s Blue Planet III is keeping in shots that would normally end up on the cutting room floor to prove it’s real. BBC’s Blue Planet III is keeping in shots that would normally end up on the cutting room floor to prove it’s real. To counter that, Blue Planet III goes warts and all.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-09a5dda45158",
+    "date": "2026-10-24",
+    "source": "The Verge",
+    "title": "Pennsylvania will require labels on AI-generated ads",
+    "summary": "Pennsylvania’s AI Deceptive Advertising Act leaves a lot of loopholes. Pennsylvania’s AI Deceptive Advertising Act leaves a lot of loopholes. The law leaves many loopholes, though.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
     "id": "auto-298c8de07d18",
     "date": "2026-10-23",
     "source": "OpenAI",
@@ -451,138 +574,6 @@
       "llm",
       "agents",
       "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1d8d266cc065",
-    "date": "2026-10-22",
-    "source": "TechCrunch",
-    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "summary": "Public benchmarks like the AIM System One Index and the Artificial Analysis Decision Index tend to favor D1 Ultra, a new decision model that Liquid released last week, and Base Lab’s Elephant-1.",
-    "sourceUrl": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-afbb328c263f",
-    "date": "2026-10-22",
-    "source": "TechCrunch",
-    "title": "Canva releases its first image generation model",
-    "summary": "The company said its model works in two stages. The model will also be available through the Canva API. In 2024, Canva acquired media generation platform Leonardo.ai.",
-    "sourceUrl": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-4baf690dfb57",
-    "date": "2026-10-22",
-    "source": "TechCrunch",
-    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-    "summary": "On complex cases, DxO increased GPT-5.5’s accuracy score from 72% to nearly 87% at a slightly cheaper cost. DxO helps most on complex cases and with less capable AI models. Microsoft and its partners will compare DxO’s recommendations against the human doctors’.",
-    "sourceUrl": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-93c844a35d41",
-    "date": "2026-10-22",
-    "source": "TechCrunch",
-    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-    "summary": "Security researchers at Microsoft say the China state-aligned hackers broke into ConnectWise’s cloud backup service and stole application credentials that are used to establish data links between ConnectWise and its corporate customers, who rely on the cloud service to back up their company’s data.",
-    "sourceUrl": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9d72639f5e00",
-    "date": "2026-10-22",
-    "source": "TechCrunch",
-    "title": "Uber puts all 30,000 employees on ChatGPT Work",
-    "summary": "Uber originally piloted ChatGPT Work with 1,000 employees earlier this year but has now scaled up its usage to the entire company. “Our approach is to make powerful AI tools available across Uber while giving teams room to experiment,” Sukumar said.",
-    "sourceUrl": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0bffbef0359b",
-    "date": "2026-10-22",
-    "source": "TechCrunch",
-    "title": "Spotify’s current AI bet is about being the music service that agents choose",
-    "summary": "Spotify wants to be the service those agents turn to, letting people discover music and interact with Spotify through conversations rather than just its own app. We are seeing really good adoption of Spotify inside these agents.",
-    "sourceUrl": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
       "genai-product"
     ],
     "resources": []
