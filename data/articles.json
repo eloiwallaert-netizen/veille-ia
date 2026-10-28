@@ -1,5 +1,508 @@
 [
   {
+    "id": "auto-2fc8e689e413",
+    "date": "2026-10-28",
+    "source": "OpenAI",
+    "title": "Legora is building the agentic operating system for legal work",
+    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "sourceUrl": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0a7119608b55",
+    "date": "2026-10-28",
+    "source": "TechCrunch",
+    "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+    "summary": "Since then, Amazon has poured billions more into Anthropic. Amazon’s notes could convert into as many as 1.84 billion shares, according to the S-1. Amazon did this by investing $5 billion in each of Anthropic’s last two funding rounds.",
+    "sourceUrl": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-d42fb1eb3362",
+    "date": "2026-10-27",
+    "source": "OpenAI",
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+    "sourceUrl": "https://openai.com/index/retell-ai",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a3a879144b29",
+    "date": "2026-10-27",
+    "source": "OpenAI",
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+    "sourceUrl": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-8cb333260a17",
+    "date": "2026-10-27",
+    "source": "OpenAI",
+    "title": "How Check Point accelerates vulnerability research with Daybreak",
+    "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+    "sourceUrl": "https://openai.com/index/check-point-daybreak",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-db98bf59a6c7",
+    "date": "2026-10-27",
+    "source": "Hugging Face",
+    "title": "Build specialized multimodal models with LFM3",
+    "summary": "Every LFM3 model branches from LFM3-1.7B-Base. You can find more details in the LFM3-Audio-2B model card. You can find more details in the LFM3-Omni-2B model card.",
+    "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-34370e88c88d",
+    "date": "2026-10-27",
+    "source": "Hugging Face",
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "summary": "But in practice, novelty judges are increasingly being used to evaluate AI-generated ideas. That said, human-authored ideas weren’t immune. We paired ideas from Claude Opus 4.5 with Claude Sonnet 4.5, and GPT-5.4 with GPT-5.1.",
+    "sourceUrl": "https://huggingface.co/blog/allenai/novelty-bench",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6210b5315dda",
+    "date": "2026-10-27",
+    "source": "TechCrunch",
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "summary": "When Poolos questioned why she wanted such a small dose, Wan showed his response to ChatGPT. In November 2025, Amazon told Wan she would be laid off. The Times counted at least 158 times she voiced worry about the taper.",
+    "sourceUrl": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1f592db8b086",
+    "date": "2026-10-27",
+    "source": "TechCrunch",
+    "title": "The data center boom has an upside: innovation for the US grid",
+    "summary": "“It’s a very different electric grid, right?” said Bhargava. “We’re dealing with a ton of new variables, including renewable energy. WeaveGrid’s software can help organizations efficiently deploy energy while also optimizing connections to reduce utility payers’ bills, the founder said.",
+    "sourceUrl": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-f45c20f72906",
+    "date": "2026-10-27",
+    "source": "TechCrunch",
+    "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+    "summary": "Financial giant Bank of America is reminding customers to bank safely by kindly not sharing your banking credentials with your AI agent. A spokesperson for Bank of America confirmed the authenticity of the bank’s email that was posted to social media.",
+    "sourceUrl": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a9a2cf8c96fe",
+    "date": "2026-10-27",
+    "source": "TechCrunch",
+    "title": "Who’s really in charge at Anthropic after the IPO?",
+    "summary": "There is one vacancy on the board. Second, Anthropic has allocated significant control of its board to a Long-Term Benefit Trust (LTBT), an independent panel meant to keep the company focused on mission to benefit humanity. Finally, the board can put a check on the LTBT.",
+    "sourceUrl": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-44543de8094b",
+    "date": "2026-10-27",
+    "source": "TechCrunch",
+    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+    "summary": "The Dallas-based investment firm Disruptive, whose past bets include Palantir, Airbnb, and Spotify, announced a $10 billion fund to back at least 10 late-stage companies, with checks of up to $1 billion, it said Tuesday.",
+    "sourceUrl": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-9ffebaf1b25a",
+    "date": "2026-10-27",
+    "source": "TechCrunch",
+    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+    "summary": "OpenAI released solutions to three blockbuster math problems that have long vexed researchers. However, OpenAI’s process is evolving. “P = NP is asserting that this is true for every single problem you can verify quickly — if you can verify it quickly, you can solve it quickly.",
+    "sourceUrl": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-dddf43d553b6",
+    "date": "2026-10-27",
+    "source": "TechCrunch",
+    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+    "summary": "Google DeepMind released its newest world model, Genie 4, in research preview on Tuesday. The model also generates real-time audio that matches the simulated world, including music, ambient noises, and interactive dialogue.",
+    "sourceUrl": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-122f4e228239",
+    "date": "2026-10-27",
+    "source": "TechCrunch",
+    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+    "summary": "The design reflects Patel’s background. Which line has my formula?’ And you can verify that formula,” Patel said. Patel also says Ndoc is built and fine-tuned using a mixture of open source models.",
+    "sourceUrl": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6c930674e3dc",
+    "date": "2026-10-27",
+    "source": "TechCrunch",
+    "title": "Japan internet giant GMO says hackers posted stolen customer data",
+    "summary": "Japanese internet company GMO Internet is investigating a data leak after suspected unauthorized access to its Onamae cloud desktop service, which provides virtualized desktops to financial traders.",
+    "sourceUrl": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c3f55709f5e3",
+    "date": "2026-10-27",
+    "source": "TechCrunch",
+    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+    "summary": "Browser maker Opera has introduced a new web standard that lets users run AI models directly in its browser, without relying on the cloud. WebAI grew out of previous work by Opera to bring locally run models into its browsers. Open-weight models offer a number of benefits to users.",
+    "sourceUrl": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a878112837ec",
+    "date": "2026-10-27",
+    "source": "TechCrunch",
+    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+    "summary": "General Compute co-founder and CEO Finn Puklowski is unfazed. Valued at $60 million after a May seed round, General Compute is now worth $800 million post-money to its investors. When General Compute has chips, it will have someplace to plug them in.",
+    "sourceUrl": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-b007bafd9ff1",
+    "date": "2026-10-27",
+    "source": "TechCrunch",
+    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+    "summary": "Simplismart’s software sits between AI models and the computing infrastructure they run on and adjusts how models are deployed and managed to meet customers’ requirements. Additionally, Simplismart allows cloud providers to build and operate their own AI inference services on GPU infrastructure using its software.",
+    "sourceUrl": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9dbb9e5222c0",
+    "date": "2026-10-27",
+    "source": "MIT Technology Review",
+    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+    "summary": "Every manufacturer has its own industrial intelligence. Physical AI brings business intelligence into the physical process, allowing machines and systems to respond to changing conditions.",
+    "sourceUrl": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ba3cece69efb",
+    "date": "2026-10-27",
+    "source": "The Verge",
+    "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+    "summary": "All three results concern some of the most consequential unsolved problems in mathematics, computer science, and physics. Following advice from OpenAI’s “shepherds,” each has a different release strategy. OpenAI have said they delayed release until the Lean formalization was complete.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d8c87d0b4457",
+    "date": "2026-10-27",
+    "source": "The Verge",
+    "title": "VisionQuest is what happens when AI really goes rogue",
+    "summary": "VisionQuest picks up some time after Agatha All Along and follows synthezoid Vision (Paul Bettany) on a journey of self-discovery. Though Vision would prefer living in solitude, each of the other AIs living in his mind encourages him to experience the real world.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5d9174dd4f1a",
+    "date": "2026-10-27",
+    "source": "The Verge",
+    "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+    "summary": "Anthropic wants to have it both ways. Foremost, Anthropic is a public benefit corporation. Another potential vulnerability emerges if Anthropic’s founders start leaving.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-abb96e9fdd6f",
+    "date": "2026-10-27",
+    "source": "The Verge",
+    "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+    "summary": "An update to Firefox’s AI browsing experience can draw from your open tabs to help you fill out forms. An update to Firefox’s AI browsing experience can draw from your open tabs to help you fill out forms.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-3513fbe8e952",
+    "date": "2026-10-27",
+    "source": "The Verge",
+    "title": "Google’s next Genie AI model generates more realistic experiences",
+    "summary": "The Genie 4 world model offers more realism and can create audio to accompany its interactive worlds. The Genie 4 world model offers more realism and can create audio to accompany its interactive worlds. Google announced today its Genie 4 world model for generating interactive experiences using AI.",
+    "sourceUrl": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0d516a24ee36",
+    "date": "2026-10-27",
+    "source": "The Verge",
+    "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+    "summary": "The new AI assistant can draft and restructure content in Pages, while organizing data in Numbers. The new AI assistant can draft and restructure content in Pages, while organizing data in Numbers. In Pages, Apple says the AI assistant can draft, restructure, and tweak written content.",
+    "sourceUrl": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-858bf7d244f3",
     "date": "2026-10-27",
     "source": "TechCrunch",
@@ -85,485 +588,6 @@
     "themes": [
       "llm",
       "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f16aefe89a6e",
-    "date": "2026-10-26",
-    "source": "OpenAI",
-    "title": "Working with academic communities to build scientific understanding",
-    "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-    "sourceUrl": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-1a1d4bf2fc11",
-    "date": "2026-10-26",
-    "source": "OpenAI",
-    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-    "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-    "sourceUrl": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-64d59b55a8fb",
-    "date": "2026-10-26",
-    "source": "OpenAI",
-    "title": "ChatGPT’s expanding world of work",
-    "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-    "sourceUrl": "https://openai.com/index/chatgpt-expanding-world-of-work",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-eb7708c5f537",
-    "date": "2026-10-26",
-    "source": "OpenAI",
-    "title": "How Fanatics and OpenAI streamline the fan experience",
-    "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-    "sourceUrl": "https://openai.com/index/fanatics-streamline-fan-experience",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-8f2f08b6e197",
-    "date": "2026-10-26",
-    "source": "OpenAI",
-    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-    "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-    "sourceUrl": "https://openai.com/index/openai-cut-incident-investigation",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1758535ac6be",
-    "date": "2026-10-26",
-    "source": "OpenAI",
-    "title": "Introducing GPT-6.1 Terra",
-    "summary": "Bringing fast and capable computer use to everyone",
-    "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-terra",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-be77c96c39b4",
-    "date": "2026-10-26",
-    "source": "Google AI Blog",
-    "title": "Our newest AI Quest: Mapping the human brain",
-    "summary": "Our third lesson in our AI Quests series, “Polar Peaks,” teaches students key AI literacy skills while delving into neuroscience.",
-    "sourceUrl": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0c7a0e584035",
-    "date": "2026-10-26",
-    "source": "TechCrunch",
-    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-    "summary": "More than half of customers spending at least $100,000 annually now use both the Claude platform and a first-party app like Claude Code or Cowork, up from about 30% at the end of last year.",
-    "sourceUrl": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-4a24365e960e",
-    "date": "2026-10-26",
-    "source": "TechCrunch",
-    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-    "summary": "In a statement, SpaceX called the deal the “largest committed GPU financing”. The financing follows a blockbuster third quarter for SpaceX’s AI business. Capital expenditures also surged to nearly $20 billion, up from $6.9 billion a year earlier, as SpaceX races to expand its compute footprint.",
-    "sourceUrl": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2c43c284058f",
-    "date": "2026-10-26",
-    "source": "TechCrunch",
-    "title": "Anthropic officially files for its public debut",
-    "summary": "Anthropic’s net loss, however, hit $80.7 billion, which was largely driven by noncash accounting adjustments tied to convertible debt. As previously reported, Anthropic’s governance structure will enable Anthropic’s seven co-founders to maintain control once the company goes public.",
-    "sourceUrl": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c6549f35a055",
-    "date": "2026-10-26",
-    "source": "MIT Technology Review",
-    "title": "Will the real Anthropic please stand up",
-    "summary": "Anthropic wants to be seen as the good guy, Calvin said. “What is Anthropic?” he asked. In fact, Anthropic is all of these things.",
-    "sourceUrl": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-69d5a0023539",
-    "date": "2026-10-26",
-    "source": "MIT Technology Review",
-    "title": "The focus on AI safety disasters ignores everyday harms",
-    "summary": "Consider what passes for success in technology policy. A narrow definition of success defined around safety is politically convenient for the technology industry, and companies actively promote such definitions.",
-    "sourceUrl": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-bba291662c45",
-    "date": "2026-10-26",
-    "source": "The Verge",
-    "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-    "summary": "This time OpenAI says it’s taking new advice from scientists on how to release the results. This time OpenAI says it’s taking new advice from scientists on how to release the results. The Exponential Time Hypothesis is False.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-96b9f45bb2e6",
-    "date": "2026-10-26",
-    "source": "The Verge",
-    "title": "Anthropic is burning gas to feed the AI boom",
-    "summary": "Anthropic is clear that data centers will run on gas, to the company’s own detriment. Anthropic is clear that data centers will run on gas, to the company’s own detriment.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2500a6aad874",
-    "date": "2026-10-26",
-    "source": "The Verge",
-    "title": "The RealReal won’t let AI agents hog designer clothing",
-    "summary": "Previous reporting by The Verge found that Meta’s Muse could be used to effectively block other shoppers from purchasing items for hours.﻿\nPrevious reporting by The Verge found that Meta’s Muse could be used to effectively block other shoppers from purchasing items for hours.﻿\nThe RealReal, a secondhand luxury fashion consignment retailer, said it’s updating its bot defense system, effectively making it harder for AI agents to shop on its site.",
-    "sourceUrl": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-4a8f41d180d7",
-    "date": "2026-10-26",
-    "source": "The Verge",
-    "title": "Five weird details from Anthropic’s IPO filing",
-    "summary": "President Daniela, meanwhile, received $16.4 million. Anthropic also spent $2.75 million on “personal security services” for Dario and $1.29 million for “personal protection, home security, and transportation services” for Daniela. Anthropic’s is no exception.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b8f740314eab",
-    "date": "2026-10-26",
-    "source": "The Verge",
-    "title": "Microsoft offers buyouts to 60,000 employees",
-    "summary": "Microsoft’s buyout offer is reaching more of its 223,000 or so employees. Microsoft’s buyout offer is reaching more of its 223,000 or so employees. The voluntary exit offers come just months after Microsoft laid off 4,800 employees, a move that primarily impacted its Xbox and commercial sales teams.",
-    "sourceUrl": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-df88ce95d957",
-    "date": "2026-10-26",
-    "source": "The Verge",
-    "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
-    "summary": "Do you think they can get there? You know these folks. There’s some dynamic there.",
-    "sourceUrl": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a0064ee100f0",
-    "date": "2026-10-26",
-    "source": "The Verge",
-    "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
-    "summary": "The company said it plans to list on the Nasdaq exchange under the ticker ‘ANT.’\nThe company said it plans to list on the Nasdaq exchange under the ticker ‘ANT.’\nAnthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9c0a98fa46a8",
-    "date": "2026-10-26",
-    "source": "The Verge",
-    "title": "Can AI help solve the COBOL code crisis?",
-    "summary": "Anthropic also sees an opportunity in legacy systems. In February, it published a step-by-step “code modernization playbook” and pitched its coding agent, Claude Code, as a way to migrate COBOL code into modern languages like Java or Python.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a6feae291b1a",
-    "date": "2026-10-25",
-    "source": "TechCrunch",
-    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-    "summary": "Three months after Elon Musk declared that Grok would release a full-length, “historically accurate” movie version of “The Odyssey,” Grok has published a whole seven minutes, which the company is now calling “Episode 1 of our Odyssey series.”\nMusk had previously lashed out at Christopher Nolan’s version of “The Odyssey”  because Nolan cast nonwhite and transgender actors.",
-    "sourceUrl": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-71334093a413",
-    "date": "2026-10-25",
-    "source": "TechCrunch",
-    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-    "summary": "“Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech,” Slok said. Is this simply a matter of non-tech companies lagging behind the tech giants? Subscribe for the industry’s biggest tech news",
-    "sourceUrl": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-4262d71f08be",
-    "date": "2026-10-25",
-    "source": "TechCrunch",
-    "title": "The hottest AI wearables and gadgets you should know about",
-    "summary": "The app allows you to interact with Bee directly and ask it questions. The device will cost $249. The device includes 300 free monthly transcription minutes, but with the $8.33 per month Pro plan, you upgrade your transcription time to 1,200 minutes.",
-    "sourceUrl": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b366ba776fde",
-    "date": "2026-10-25",
-    "source": "The Verge",
-    "title": "r/opensource just banned AI, non-English speakers, and more",
-    "summary": "The opensource subreddit’s new rules against AI have sparked a revolt. The opensource subreddit’s new rules against AI have sparked a revolt. The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-99c99157c7fa",
-    "date": "2026-10-25",
-    "source": "The Verge",
-    "title": "Google’s AI search changes upended online publishing",
-    "summary": "Publishers spent years figuring out how to get clicks on Google. Publishers spent years figuring out how to get clicks on Google.",
-    "sourceUrl": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b0af889ad05f",
-    "date": "2026-10-24",
-    "source": "TechCrunch",
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "summary": "The product let users automate email and task workflows using AI agents, but as OpenAI, Google, and other larger platforms built similar automation directly into their own tools, five-year-old Relay struggled to hold on to a reason to exist as a stand-alone product.",
-    "sourceUrl": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product"
     ],
     "resources": []
   },
