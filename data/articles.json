@@ -1,5 +1,409 @@
 [
   {
+    "id": "auto-6336aff37e57",
+    "date": "2026-10-31",
+    "source": "TechCrunch",
+    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "summary": "Nvidia is in talks to guarantee billions in debt financing for AI cloud provider Nscale’s planned Anthropic data center in West Virginia, The Information reported Thursday. Anthropic has signed a $44.6 billion contract for the project’s first building alone, according to Nscale’s IPO filing.",
+    "sourceUrl": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-25cc4c9bb2e3",
+    "date": "2026-10-30",
+    "source": "OpenAI",
+    "title": "Making it easier for websites to express AI training preferences",
+    "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+    "sourceUrl": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-c7606af40dbb",
+    "date": "2026-10-30",
+    "source": "OpenAI",
+    "title": "Community safety report and new protections for teens",
+    "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+    "sourceUrl": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d2282bcce162",
+    "date": "2026-10-30",
+    "source": "OpenAI",
+    "title": "Fair use benefits everyone",
+    "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+    "sourceUrl": "https://openai.com/index/fair-use-benefits-everyone",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-b2263e9f8412",
+    "date": "2026-10-30",
+    "source": "Hugging Face",
+    "title": "nemotron-halloween",
+    "summary": "He is built on the NVIDIA Nemotron Voice Agent with NVIDIA Nemotron ASR, Nemotron 3.5 Bolt E4B 4GB, Magpie TTS Zeroshot and Audio2Face-3D, and he runs on a single workstation. While all the nonsense of building the character was going on, NVIDIA built the Nemotron Voice Agent. The house already had a mouth.",
+    "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-43523836c604",
+    "date": "2026-10-30",
+    "source": "TechCrunch",
+    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+    "summary": "Ollie, a startup whose mission was to deliver an AI assistant that respected its users’ privacy, says that it will be shutting down in a week. If anything, many new digital assistants present unique privacy challenges for their users — as companies like Instinct have shown.",
+    "sourceUrl": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6198118eee13",
+    "date": "2026-10-30",
+    "source": "TechCrunch",
+    "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+    "summary": "The Trump administration had the government buy 10% stake over a year ago. The scare-off was caused when Intel warned to expect revenue of $15 billion to $16 billion in the fourth quarter when analysts were looking for around $17 billion.",
+    "sourceUrl": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-60ba719a0574",
+    "date": "2026-10-30",
+    "source": "TechCrunch",
+    "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+    "summary": "Anthropic is expected to receive a high “junk” rating from credit rating agencies following its initial public offering, according to a report from the Financial Times. Now Blackstone expects double B range rating, the top tier of speculative “junk” grade, according to the reporting.",
+    "sourceUrl": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0806533d8a71",
+    "date": "2026-10-30",
+    "source": "TechCrunch",
+    "title": "Last-minute Halloween costumes for tech nerds",
+    "summary": "Dress as the version of yourself you imagine becoming every year when you make New Year’s resolutions. You are recursive self-improvement.",
+    "sourceUrl": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f1f6194d2036",
+    "date": "2026-10-30",
+    "source": "TechCrunch",
+    "title": "Cracks are emerging in the AI spending boom",
+    "summary": "Amazon is in a similar boat after reporting negative free cash flow of $42.4 billion over the past 12 months, compared with $14.8 billion in positive free cash flow the year before. Meta is also burning cash, reporting negative free cash flow of $2.1 billion in the third quarter as capex outpaced its operating cash.",
+    "sourceUrl": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d52c9778a55e",
+    "date": "2026-10-30",
+    "source": "TechCrunch",
+    "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+    "summary": "With this data on hand, Zest can make tailored suggestions of what places you might like to try next, whether that’s in your own city or suggestions of places to try when you’re traveling. To work, users will text the Zest concierge at (212) 470-6067.",
+    "sourceUrl": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-135f70cd39eb",
+    "date": "2026-10-30",
+    "source": "TechCrunch",
+    "title": "Google’s first data center satellite is online and writing poetry",
+    "summary": "Google Suncatcher’s prototype space data center is online and communicating with the ground after launching earlier this month alongside more than 100 other spacecraft on a SpaceX Falcon 9 rocket. Google and SpaceX’s visions are closely linked.",
+    "sourceUrl": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-8cb2db80dc5c",
+    "date": "2026-10-30",
+    "source": "TechCrunch",
+    "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+    "summary": "“You Can See Everything,” the documentary capturing disgraced Theranos founder Elizabeth Holmes’ final weeks before prison, is sparking national conversation as it becomes one of the highest-grossing documentaries of all time. Tyler Shultz didn’t need to see “You Can See Everything” to make up his mind about Holmes.",
+    "sourceUrl": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-40aed769d1c2",
+    "date": "2026-10-30",
+    "source": "TechCrunch",
+    "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+    "summary": "Share something you have learned. Braindate gives you another way to continue them. You need a question worth asking.",
+    "sourceUrl": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-f986a412ee0e",
+    "date": "2026-10-30",
+    "source": "TechCrunch",
+    "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+    "summary": "Delivery company DoorDash revealed during its third-quarter earnings call that it has only seen “several hundred” orders from third-party agents like Muse, Instinct, Fo, and others.",
+    "sourceUrl": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5135d63cacdd",
+    "date": "2026-10-30",
+    "source": "TechCrunch",
+    "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+    "summary": "Get tactical about building your company. They’re practical lessons you can take straight back to your company. Get tactical about building the company.",
+    "sourceUrl": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-cea73ec16e82",
+    "date": "2026-10-30",
+    "source": "TechCrunch",
+    "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+    "summary": "Runware will manufacture the modular data centers on an assembly line. Radulescu said Runware aims to bring the pods online within 48 hours. Runware will provide spare parts if components fail.",
+    "sourceUrl": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-011fdc062b2b",
+    "date": "2026-10-30",
+    "source": "The Verge",
+    "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+    "summary": "Apple is launching an iOS 27.3 beta next week that will bring some of the initial Apple Intelligence features to the Chinese market. Apple is launching an iOS 27.3 beta next week that will bring some of the initial Apple Intelligence features to the Chinese market.",
+    "sourceUrl": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e6a83342c0c5",
+    "date": "2026-10-30",
+    "source": "The Verge",
+    "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+    "summary": "As OpenAI’s buying spree squeezes the world’s supply of RAM, its CEO explains why he needs so much.﻿\nAs OpenAI’s buying spree squeezes the world’s supply of RAM, its CEO explains why he needs so much.﻿\nAsked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it’s “terrible” to have RAM in personal PCs instead of data centers.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-25a528e218b1",
+    "date": "2026-10-30",
+    "source": "The Verge",
+    "title": "The biggest names in AI are backing a new way to opt out of scraping",
+    "summary": "The new control will allow publishers to apply their AI training preferences across multiple crawlers. The new control will allow publishers to apply their AI training preferences across multiple crawlers.",
+    "sourceUrl": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c4dbacf8aa2b",
+    "date": "2026-10-30",
+    "source": "The Verge",
+    "title": "Google’s satellite AI server transmits its first response to Earth",
+    "summary": "The Project Suncatcher satellite generated a haiku about being in space. The Project Suncatcher satellite generated a haiku about being in space. Google’s AI chip-equipped satellite has generated its first response from space.",
+    "sourceUrl": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-0de3f9697e49",
+    "date": "2026-10-30",
+    "source": "The Verge",
+    "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+    "summary": "The coffee chain aims to ‘recognize’ customers as they arrive. The coffee chain aims to ‘recognize’ customers as they arrive. Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-974d9b85c8fb",
+    "date": "2026-10-30",
+    "source": "The Verge",
+    "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+    "summary": "UN member states should take steps to ban ‘lethal autonomous weapons,’ Pope Leo says. UN member states should take steps to ban ‘lethal autonomous weapons,’ Pope Leo says.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5ec9437afb13",
+    "date": "2026-10-30",
+    "source": "The Verge",
+    "title": "Silicon Valley wants you to invest in miracles",
+    "summary": "Out-of-this-world promises are integral to Anthropic’s survival as a company. The company now known as Meta filed a 200-page prospectus with 22 pages of risk factors. Some of the statements in Anthropic’s S-1 read as surprising admissions.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5cfbd02556ec",
+    "date": "2026-10-30",
+    "source": "The Verge",
+    "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+    "summary": "Altman says OpenAI has spent hundreds of millions on math — and has more discoveries up its sleeve. Altman says OpenAI has spent hundreds of millions on math — and has more discoveries up its sleeve. On the podcast, Altman hints that OpenAI is sitting on many more mathematical discoveries than it has made public, too.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
     "id": "auto-3e1cebb1f9f3",
     "date": "2026-10-30",
     "source": "TechCrunch",
@@ -86,489 +490,6 @@
     ],
     "themes": [
       "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2d9928289658",
-    "date": "2026-10-29",
-    "source": "OpenAI",
-    "title": "How Ropes & Gray is developing AI for transactional diligence",
-    "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-    "sourceUrl": "https://openai.com/index/ropes-gray-ai-diligence",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-f3538b6fb36f",
-    "date": "2026-10-29",
-    "source": "Hugging Face",
-    "title": "Granite Switch 4.1.1 — Update models like you update software",
-    "summary": "Just over a week ago, we released Granite Switch 4.1, showing that our modular Switch architecture lets you configure a language model with specialized, cache-efficient adapters — adding new expertise on a single endpoint. Granite Switch 4.1.1 is a patch release. You compose the latest adapters you want and deploy.",
-    "sourceUrl": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e1c742c1d925",
-    "date": "2026-10-29",
-    "source": "Hugging Face",
-    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-    "summary": "An initiative bringing together universities, research organizations, industry, and the open science community to make publicly funded research easier to discover, reuse, and build upon.",
-    "sourceUrl": "https://huggingface.co/blog/announcing-project-protostar",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a1765f446c5b",
-    "date": "2026-10-29",
-    "source": "Hugging Face",
-    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-    "summary": "Mistral Large 4 (aka Le Chonk) is a multimodal, multilingual, Mixture-of-Experts (MoE) model from Mistral. Mistral Large 4 employs a 1.6B Pixtral encoder. Llama.cpp and Llama App already support Mistral Large 4.",
-    "sourceUrl": "https://huggingface.co/blog/mistral-large4",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-85d975255b4f",
-    "date": "2026-10-29",
-    "source": "Hugging Face",
-    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-    "summary": "Parakeet Unified is NVIDIA's\nEnglish-only Parakeet. For each question, the MLX backend builds a prompt\nwith a one-token label for each allowed answer,\nthen reads the probability of each label from one forward pass.",
-    "sourceUrl": "https://huggingface.co/blog/anydecisionmodel",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-05367ef1f34c",
-    "date": "2026-10-29",
-    "source": "TechCrunch",
-    "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-    "summary": "Andy Jassy has made it known that he believes AWS can be a trillion-dollar revenue business. “AWS is a $184 billion annualized revenue run-rate business, and yet the opportunity remains extraordinary,” Jassy enthused. Like Amazon, other cloud providers are spending big but also earning big.",
-    "sourceUrl": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-6224c596d37f",
-    "date": "2026-10-29",
-    "source": "TechCrunch",
-    "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-    "summary": "daily active users dropped from 53.2 million in Q2 to 50.7 million in Q3 and were down 2% year-over-year. daily users, Reddit’s average revenue per daily active user in the U.S. Globally, average revenue per daily active user increased 36% year-over-year to $6.87.",
-    "sourceUrl": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-24f3c9778b1e",
-    "date": "2026-10-29",
-    "source": "TechCrunch",
-    "title": "Rivian expands joint venture with VW to include AI assistant",
-    "summary": "The $5.8 billion joint venture between Rivian and Volkswagen Group is expanding to include AI assistants. Rivian didn’t disclose the licensing fees, payment terms, or which Volkswagen vehicles will use the technology. The joint venture between Rivian and VW Group has already expanded once before, at least financially.",
-    "sourceUrl": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-56fa7327f2b2",
-    "date": "2026-10-29",
-    "source": "TechCrunch",
-    "title": "OpenAI-backed Thrive Holdings acquires ADT",
-    "summary": "Currently, Thrive Holdings holds over 75 companies, it says. “ADT will form the foundation of Thrive Holdings’ smart home security business,” the press release said. Amazon updated its smart home line, including new AI-powered home cameras.",
-    "sourceUrl": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-31a141606e86",
-    "date": "2026-10-29",
-    "source": "TechCrunch",
-    "title": "Meta quietly launches an AI fashion app called Style Sketch",
-    "summary": "Meta has quietly launched Style Sketch, an AI fashion app that helps users put together outfit ideas using clothes they already own. 🚨 Meta quietly launched an AI fashion app! The app can also help users plan outfits for trips.",
-    "sourceUrl": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-a39d2cb266f9",
-    "date": "2026-10-29",
-    "source": "TechCrunch",
-    "title": "Granola crunches up a dictation feature to compete with Wispr",
-    "summary": "Granola’s dictation currently works on Mac just like any other such tool. Granola now does voice typing. Granola is focused on meeting-related automation and notetaking.",
-    "sourceUrl": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-bcae5e5bffd4",
-    "date": "2026-10-29",
-    "source": "TechCrunch",
-    "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-    "summary": "French AI company Mistral has released the weights for its trillion-parameter open source AI model Mistral Large 4 (ML4), allowing businesses and governments to download and deploy the system themselves.",
-    "sourceUrl": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-7610575f9544",
-    "date": "2026-10-29",
-    "source": "TechCrunch",
-    "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-    "summary": "The executive, Alice Huang (or Huang Le), worked for Megaspeed and was photographed as one of multiple people hanging out with Nvidia CEO Jensen Huang during various business dinners in the Singapore region. Huang are not unusual or unexpected. Alice Huang was said to be a top executive for the firm at the time.",
-    "sourceUrl": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-88294416a4cb",
-    "date": "2026-10-29",
-    "source": "TechCrunch",
-    "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-    "summary": "Believing AI can boost productivity across the architecture, engineering, and construction (AEC) industry, they set out to build Dream, a startup developing built world models that automate building design and engineering.",
-    "sourceUrl": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-60c269dfa54e",
-    "date": "2026-10-29",
-    "source": "TechCrunch",
-    "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-    "summary": "On Thursday, another AI app, Wabi, now describing itself as a “personal agent,” said it has raised $55 million at a $1.25 billion valuation. Founded by Eugenia Kuyda, who previously founded the AI companion startup Replika, Wabi originally focused on allowing anyone to build apps using prompts.",
-    "sourceUrl": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c546a70dbf99",
-    "date": "2026-10-29",
-    "source": "TechCrunch",
-    "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-    "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure. “We never thought about Pipecat as a voice toolkit. Deepgram is also launching Real-Time Context Standard (RCS), an open protocol for voice agents that it co-developed with the Pipecat team.",
-    "sourceUrl": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-fd92a529665f",
-    "date": "2026-10-29",
-    "source": "TechCrunch",
-    "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
-    "summary": "Ahead of the holiday season, Amazon has added more than 100 new shopping-related capabilities to Alexa, including managing subscriptions and lists, updating delivery instructions, solving payment issues, and answering questions about Prime subscriptions.",
-    "sourceUrl": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2a1a8a7c88a0",
-    "date": "2026-10-29",
-    "source": "The Verge",
-    "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-    "summary": "Editing files you generate with Gemini no longer requires leaving the app.﻿\nEditing files you generate with Gemini no longer requires leaving the app.﻿\nNow you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-45b4ef0b726f",
-    "date": "2026-10-29",
-    "source": "The Verge",
-    "title": "Microsoft’s AI future has fewer jobs",
-    "summary": "It’s also time to name the next Elder Scrolls game, and Xbox’s architect of Forza Motorsport is leaving. “Microsoft needs fewer people,” says Merill Fernando, a former Microsoft Entra product manager. Both Playground Games and Turn 10 Studios have merged into just Playground Games.",
-    "sourceUrl": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9d92d4ec6e5e",
-    "date": "2026-10-29",
-    "source": "The Verge",
-    "title": "The NYT Cooking app is testing AI recipe modifications",
-    "summary": "Some users aren’t exactly thrilled with The New York Times’ recipe-tweaking AI tool. Some users aren’t exactly thrilled with The New York Times’ recipe-tweaking AI tool. The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-079251699e8e",
-    "date": "2026-10-29",
-    "source": "The Verge",
-    "title": "Anthropic is asking Wall Street to believe in AGI",
-    "summary": "You get to other verticals like bio. Can you just explain the $80 billion? You mentioned this earlier.",
-    "sourceUrl": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0b3918620b86",
-    "date": "2026-10-29",
-    "source": "The Verge",
-    "title": "Anthropic’s business plan: Build God or die trying",
-    "summary": "Anthropic faces intense competitive pressure and huge fixed costs. Anthropic faces intense competitive pressure and huge fixed costs. (Anthropic names only OpenAI and Google as rivals.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f863128399a5",
-    "date": "2026-10-29",
-    "source": "MIT Technology Review",
-    "title": "We urgently need to monitor AI agents’ actions in real time",
-    "summary": "Key observability requirements were missing—like Agent IDs that persist over time, and records about which humans approved agent tasks. Preserving “how agents decided” records is more challenging.",
-    "sourceUrl": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9cd5509199bf",
-    "date": "2026-10-29",
-    "source": "The Verge",
-    "title": "AI has come for Arizona’s water",
-    "summary": "They contaminated our water. And still, golf courses use just 2 percent of Arizona’s water, or 9 percent of water in municipal areas. “There’s water quality, and there’s water quantity — or water use and water contamination,” Judith Barish, the coalition director of CHIPS Communities United, told me.",
-    "sourceUrl": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-75e2017ed4c5",
-    "date": "2026-10-28",
-    "source": "OpenAI",
-    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-    "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-    "sourceUrl": "https://openai.com/index/openai-servicenow-partnership-expansion",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation"
     ],
     "resources": []
   },
