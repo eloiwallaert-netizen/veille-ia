@@ -1,5 +1,89 @@
 [
   {
+    "id": "auto-89c6cb6d2971",
+    "date": "2026-10-31",
+    "source": "TechCrunch",
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "summary": "During a recent interview with Wired’s Steven Levy, Apple CEO John Ternus defended the company’s current position in the AI landscape.",
+    "sourceUrl": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-cefcb0bd2478",
+    "date": "2026-10-31",
+    "source": "TechCrunch",
+    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "summary": "Networking gives you somewhere to take it next. The closing reception gives founders, investors, and operators time to continue conversations without rushing to another session. Sometimes the most useful thing you leave an event with isn’t another page of notes.",
+    "sourceUrl": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-bc398a80a0df",
+    "date": "2026-10-31",
+    "source": "TechCrunch",
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "summary": "A federal judge denied a motion by xAI seeking to dismiss an NAACP lawsuit accusing the SpaceX-owned company of failing to obtain permits needed to operate the gas turbines powering its Colossus data center outside Memphis.",
+    "sourceUrl": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-344dcf79744a",
+    "date": "2026-10-31",
+    "source": "TechCrunch",
+    "title": "OpenAI reportedly lowers funding target for new round",
+    "summary": "OpenAI’s latest funding round isn’t quite living up to expectations, according to multiple news reports. OpenAI was previously reported to be raising $30 billion at a $1.4 trillion valuation, and then at a $1.25 trillion valuation, ahead of a planned IPO.",
+    "sourceUrl": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-ed0268fa6e32",
+    "date": "2026-10-31",
+    "source": "The Verge",
+    "title": "I built an AI Tamagotchi before Meta could",
+    "summary": "But I won’t be buying one, because we have Muse Charm at home. Not only does the push-to-talk AI devkit look a lot like the Muse Charm, but it’s officially sanctioned by Meta.",
+    "sourceUrl": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-6336aff37e57",
     "date": "2026-10-31",
     "source": "TechCrunch",
@@ -401,96 +485,6 @@
     "auto": true,
     "metiers": [],
     "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-3e1cebb1f9f3",
-    "date": "2026-10-30",
-    "source": "TechCrunch",
-    "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-    "summary": "David Durman, a nontheistic humanist, recently secured a religious exemption from using AI in the workplace. “Humanism is a collection of beliefs about the human experience and how humans interact with the world,” Durman, a University of Kentucky administrator, told TechCrunch.",
-    "sourceUrl": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-dbfbce585037",
-    "date": "2026-10-30",
-    "source": "The Verge",
-    "title": "Maine’s data center revolt will decide who controls the Senate",
-    "summary": "“AI data centers are destroying our climate. Maine and other rural states are becoming prime targets for new data centers. Collins’ ties to data centers don’t stop with her donors.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a973ac401cee",
-    "date": "2026-10-30",
-    "source": "The Verge",
-    "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-    "summary": "In the NYT’s case against OpenAI, the Wikimedia Foundation says training AI should be fair use — but regurgitating articles shouldn’t. In the NYT’s case against OpenAI, the Wikimedia Foundation says training AI should be fair use — but regurgitating articles shouldn’t.",
-    "sourceUrl": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-7bf0065ceb16",
-    "date": "2026-10-29",
-    "source": "OpenAI",
-    "title": "An updated Model Spec for more capable and beneficial AI",
-    "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-    "sourceUrl": "https://openai.com/index/updated-model-spec",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-d28967fce9c6",
-    "date": "2026-10-29",
-    "source": "OpenAI",
-    "title": "How we detect frontier model misalignment",
-    "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-    "sourceUrl": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
     "resources": []
   },
   {
