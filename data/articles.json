@@ -1,5 +1,107 @@
 [
   {
+    "id": "auto-869219a7f133",
+    "date": "2026-11-02",
+    "source": "TechCrunch",
+    "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+    "summary": "The ChatGPT desktop app can be a confusing piece of software, given that there are ChatGPT and Codex sections, and within the former, there are Chat and Work tabs. Codex will remain a separate experience in the ChatGPT desktop app,” the email said.",
+    "sourceUrl": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-728c21b3deeb",
+    "date": "2026-11-02",
+    "source": "MIT Technology Review",
+    "title": "Stop counting tokens, start counting what ships",
+    "summary": "Cost per token measures consumption, not results. Route suitable work, including code generation, test creation, and repeated refactoring, to open-weight models you operate yourself.",
+    "sourceUrl": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e49f46b109f6",
+    "date": "2026-11-02",
+    "source": "MIT Technology Review",
+    "title": "The agentic web is here",
+    "summary": "As agents flood online spaces, this new user base is changing the web for good. Agents also use specialized tools to find information online. “If agents take over the web, then the web will change,” he says.",
+    "sourceUrl": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-33c086ca1438",
+    "date": "2026-11-01",
+    "source": "TechCrunch",
+    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+    "summary": "Data centers are deeply unpopular. So OpenAI is to influence the AI debate moving forward, with Lehane discussing several proposals, including the development of AI “speed limits”; finding ways to help people see AI as empowering them in their daily lives; pushing the U.S.",
+    "sourceUrl": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-0ae10264665c",
+    "date": "2026-11-01",
+    "source": "TechCrunch",
+    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+    "summary": "And so, you would just think, “Maybe don’t make statements like that,” because of course, people are going to see them very skeptically. Are there people out there who can relate? And I think that it feels like people are trying to over-optimize out of just having conversations with people.",
+    "sourceUrl": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-89c6cb6d2971",
     "date": "2026-10-31",
     "source": "TechCrunch",
@@ -401,90 +503,6 @@
     "themes": [
       "ethics"
     ],
-    "resources": []
-  },
-  {
-    "id": "auto-c4dbacf8aa2b",
-    "date": "2026-10-30",
-    "source": "The Verge",
-    "title": "Google’s satellite AI server transmits its first response to Earth",
-    "summary": "The Project Suncatcher satellite generated a haiku about being in space. The Project Suncatcher satellite generated a haiku about being in space. Google’s AI chip-equipped satellite has generated its first response from space.",
-    "sourceUrl": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-0de3f9697e49",
-    "date": "2026-10-30",
-    "source": "The Verge",
-    "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-    "summary": "The coffee chain aims to ‘recognize’ customers as they arrive. The coffee chain aims to ‘recognize’ customers as they arrive. Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-974d9b85c8fb",
-    "date": "2026-10-30",
-    "source": "The Verge",
-    "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-    "summary": "UN member states should take steps to ban ‘lethal autonomous weapons,’ Pope Leo says. UN member states should take steps to ban ‘lethal autonomous weapons,’ Pope Leo says.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5ec9437afb13",
-    "date": "2026-10-30",
-    "source": "The Verge",
-    "title": "Silicon Valley wants you to invest in miracles",
-    "summary": "Out-of-this-world promises are integral to Anthropic’s survival as a company. The company now known as Meta filed a 200-page prospectus with 22 pages of risk factors. Some of the statements in Anthropic’s S-1 read as surprising admissions.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5cfbd02556ec",
-    "date": "2026-10-30",
-    "source": "The Verge",
-    "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-    "summary": "Altman says OpenAI has spent hundreds of millions on math — and has more discoveries up its sleeve. Altman says OpenAI has spent hundreds of millions on math — and has more discoveries up its sleeve. On the podcast, Altman hints that OpenAI is sitting on many more mathematical discoveries than it has made public, too.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
     "resources": []
   },
   {
