@@ -1,5 +1,517 @@
 [
   {
+    "id": "auto-08b710f1e780",
+    "date": "2026-11-03",
+    "source": "OpenAI",
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+    "sourceUrl": "https://openai.com/index/heimstaden",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-fec0e46ceba4",
+    "date": "2026-11-03",
+    "source": "Hugging Face",
+    "title": "Transformers Model Integration Contracts",
+    "summary": "Model integrators already build tiny test models (Transformers' tiny-random-*\ncheckpoints). A Model Integration Contract (MIC) has\nthree parts:\nThe contract holds if running the usage path on the fixture still produces the\nbaselines. We used agents to build MICs across model families.",
+    "sourceUrl": "https://huggingface.co/blog/transformers-mic",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-0e5b1d74afc9",
+    "date": "2026-11-03",
+    "source": "TechCrunch",
+    "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+    "summary": "This reminder to review the Siri Recaps you’ve recorded also appears when you first unlock your Apple Watch in the morning, too. The Audio Intelligence features for the Apple Watch Series 12 and Apple Watch Ultra 4 rely on a combination of Apple’s hardware, software, and services.",
+    "sourceUrl": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-4c7d73c3037d",
+    "date": "2026-11-03",
+    "source": "TechCrunch",
+    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+    "summary": "users aged 18 and older. users aged 18 and older. Dreambeans’ dependence on information from users’ Google accounts also raises questions about privacy and data access.",
+    "sourceUrl": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9c67c7267a56",
+    "date": "2026-11-03",
+    "source": "TechCrunch",
+    "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+    "summary": "However, on Monday’s earnings call, Apple signaled that it may look to boost services revenue through third-party apps. Regulatory and legal changes have cut into App Store commission revenue in some markets, even as Apple’s services business as a whole continues to grow.",
+    "sourceUrl": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-bd936fe1d4a2",
+    "date": "2026-11-03",
+    "source": "TechCrunch",
+    "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "summary": "It’s read, like, all of my Apple Notes, even my therapy notes going back 20 years,” he said. Like, almost anything you want to do, it knows you, and it’s there to help.",
+    "sourceUrl": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c7a94f8b7c58",
+    "date": "2026-11-03",
+    "source": "MIT Technology Review",
+    "title": "How “reverse game theory” could keep AI agents in check",
+    "summary": "Now some alignment researchers believe that reverse game theory, also known as mechanism design, might get better results. “One agent acts like law enforcement; the other agent acts like the citizen,” he says. Models could find loopholes that no one anticipated.",
+    "sourceUrl": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-bdefad5dcd98",
+    "date": "2026-11-03",
+    "source": "MIT Technology Review",
+    "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+    "summary": "At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That term beat out other contenders, including “Extreme Intelligence” and “Supreme Intelligence,” offered by the president in a poll on X a couple of weeks earlier.",
+    "sourceUrl": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-de4cf53f9db9",
+    "date": "2026-11-02",
+    "source": "OpenAI",
+    "title": "Scaling Git at OpenAI",
+    "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+    "sourceUrl": "https://openai.com/index/scaling-git-at-openai",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-19244c7aa206",
+    "date": "2026-11-02",
+    "source": "OpenAI",
+    "title": "Introducing the Grid Protectors Program",
+    "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+    "sourceUrl": "https://openai.com/index/grid-protectors-program",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-6fd6ad7938fa",
+    "date": "2026-11-02",
+    "source": "OpenAI",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+    "sourceUrl": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-262cfa35f430",
+    "date": "2026-11-02",
+    "source": "OpenAI",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+    "sourceUrl": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-ed4b58253682",
+    "date": "2026-11-02",
+    "source": "OpenAI",
+    "title": "LifeVal",
+    "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+    "sourceUrl": "https://openai.com/index/lifeval",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-598c6194c0d3",
+    "date": "2026-11-02",
+    "source": "OpenAI",
+    "title": "Qodo builds context into AI code review with Codex",
+    "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+    "sourceUrl": "https://openai.com/index/qodo-codex-plugin",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-ff138f709a7e",
+    "date": "2026-11-02",
+    "source": "OpenAI",
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+    "sourceUrl": "https://openai.com/index/dan-driscoll-joins-openai",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-b810030289ed",
+    "date": "2026-11-02",
+    "source": "Google AI Blog",
+    "title": "The latest AI news we announced in October 2026",
+    "summary": "Requires Google Account, Google Health app, and Internet connection. Requires Google Health Premium subscription (sold separately), Google Health app, and internet connection. Gemini features work independently of Gemini apps.",
+    "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data",
+      "nocode"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-19ce29ebfa96",
+    "date": "2026-11-02",
+    "source": "TechCrunch",
+    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+    "summary": "With Trajectory, lawyers, doctors, and other specialists can improve the models near automatically themselves, Malde said. Trajectory’s other customers include Decagon, Mercor, and Nvidia. Trajectory isn’t the only startup trying to automate post-training.",
+    "sourceUrl": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-55dd7e97ced5",
+    "date": "2026-11-02",
+    "source": "TechCrunch",
+    "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+    "summary": "The filing seems to warn that the company is on the cusp of creating a model capable of recursive self-improvement (RSI). Anthropic seems to believe that RSI is both a promise and a peril. If Anthropic thinks the possibility of RSI is close, maybe we should believe it and act — perhaps govern — accordingly.",
+    "sourceUrl": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f0d114902300",
+    "date": "2026-11-02",
+    "source": "TechCrunch",
+    "title": "Web host Squarespace lays off 19% of its employees",
+    "summary": "Jeff Seedman, a public relations specialist representing Squarespace, confirmed the layoffs to TechCrunch. Squarespace was founded in 2004 and went public in 2021 at a $10 billion valuation. However, the company struggled in the ensuing years to generate enthusiastic public market interest.",
+    "sourceUrl": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-8402594bed24",
+    "date": "2026-11-02",
+    "source": "TechCrunch",
+    "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+    "summary": "The New York Times sued Brave, the 11-year-old, privacy-focused browser company, on Monday, alleging it scraped the outlet’s copyrighted content and unlawfully distributed it to customers the suit names as Anthropic, Perplexity, Mistral, xAI, and Cohere.",
+    "sourceUrl": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6e11dddc7a7c",
+    "date": "2026-11-02",
+    "source": "TechCrunch",
+    "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+    "summary": "“And all of those data points are going into the model. In a world model, every individual is the world,” he added. (The company uses a separate language model to generate explanations for its predictions.)\nEzra said the model is trained to preserve a person’s underlying tendencies during simulations.",
+    "sourceUrl": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-3059ef1574cb",
+    "date": "2026-11-02",
+    "source": "TechCrunch",
+    "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+    "summary": "Over Halloween weekend, some Grok Bot users awoke to something especially spooky: Their weekly usage limits were unexpectedly maxed out, even if they hadn’t been using SpaceX’s agentic AI overnight.",
+    "sourceUrl": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a43a012fc6e7",
+    "date": "2026-11-02",
+    "source": "TechCrunch",
+    "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+    "summary": "data centers use 17 to 19 billion gallons of water to cool their hot-running chips each year — and that number is expected to triple in the next five years, according to The Water Foundation.",
+    "sourceUrl": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f7151c69ed83",
+    "date": "2026-11-02",
+    "source": "TechCrunch",
+    "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+    "summary": "A Boston company that became much bigger than Boston. He has built from Boston for more than a decade, raised significant capital, and expanded HqO internationally without relocating the company to a traditional West Coast startup hub.",
+    "sourceUrl": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-0ad9e89a8ab0",
+    "date": "2026-11-02",
+    "source": "MIT Technology Review",
+    "title": "Raising the quality of insights in agentic analytics",
+    "summary": "On average, 48% of insights generated by analytics agents at the surveyed companies lead to actions that improve the business. Better quality of insights leads to clear business advantage. Insufficient context reduces insight quality.",
+    "sourceUrl": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e3f3f6c0c50f",
+    "date": "2026-11-02",
+    "source": "The Verge",
+    "title": "Anthropic clamps down on Claude’s AI video game clones",
+    "summary": "Anthropic is steering Claude away from re-creating specific titles, but users can still use it to make their own games. Anthropic is steering Claude away from re-creating specific titles, but users can still use it to make their own games.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-16194c055af9",
+    "date": "2026-11-02",
+    "source": "The Verge",
+    "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+    "summary": "As public opinion has soured on data centers, it’s selling ‘AI campuses’ as protectors, instead of noisy polluters. As public opinion has soured on data centers, it’s selling ‘AI campuses’ as protectors, instead of noisy polluters. “Our compute campuses need power year-round.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-dc6c7ef2ed74",
+    "date": "2026-11-02",
+    "source": "The Verge",
+    "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+    "summary": "Brave has allegedly provided ‘stolen copyrighted content’ to many AI companies.﻿\nBrave has allegedly provided ‘stolen copyrighted content’ to many AI companies.﻿\nThe New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters.",
+    "sourceUrl": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-869219a7f133",
     "date": "2026-11-02",
     "source": "TechCrunch",
@@ -40,468 +552,6 @@
       "ethics",
       "genai-product",
       "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e49f46b109f6",
-    "date": "2026-11-02",
-    "source": "MIT Technology Review",
-    "title": "The agentic web is here",
-    "summary": "As agents flood online spaces, this new user base is changing the web for good. Agents also use specialized tools to find information online. “If agents take over the web, then the web will change,” he says.",
-    "sourceUrl": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-33c086ca1438",
-    "date": "2026-11-01",
-    "source": "TechCrunch",
-    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-    "summary": "Data centers are deeply unpopular. So OpenAI is to influence the AI debate moving forward, with Lehane discussing several proposals, including the development of AI “speed limits”; finding ways to help people see AI as empowering them in their daily lives; pushing the U.S.",
-    "sourceUrl": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-0ae10264665c",
-    "date": "2026-11-01",
-    "source": "TechCrunch",
-    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-    "summary": "And so, you would just think, “Maybe don’t make statements like that,” because of course, people are going to see them very skeptically. Are there people out there who can relate? And I think that it feels like people are trying to over-optimize out of just having conversations with people.",
-    "sourceUrl": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-89c6cb6d2971",
-    "date": "2026-10-31",
-    "source": "TechCrunch",
-    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-    "summary": "During a recent interview with Wired’s Steven Levy, Apple CEO John Ternus defended the company’s current position in the AI landscape.",
-    "sourceUrl": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-cefcb0bd2478",
-    "date": "2026-10-31",
-    "source": "TechCrunch",
-    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-    "summary": "Networking gives you somewhere to take it next. The closing reception gives founders, investors, and operators time to continue conversations without rushing to another session. Sometimes the most useful thing you leave an event with isn’t another page of notes.",
-    "sourceUrl": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-bc398a80a0df",
-    "date": "2026-10-31",
-    "source": "TechCrunch",
-    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-    "summary": "A federal judge denied a motion by xAI seeking to dismiss an NAACP lawsuit accusing the SpaceX-owned company of failing to obtain permits needed to operate the gas turbines powering its Colossus data center outside Memphis.",
-    "sourceUrl": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-344dcf79744a",
-    "date": "2026-10-31",
-    "source": "TechCrunch",
-    "title": "OpenAI reportedly lowers funding target for new round",
-    "summary": "OpenAI’s latest funding round isn’t quite living up to expectations, according to multiple news reports. OpenAI was previously reported to be raising $30 billion at a $1.4 trillion valuation, and then at a $1.25 trillion valuation, ahead of a planned IPO.",
-    "sourceUrl": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-ed0268fa6e32",
-    "date": "2026-10-31",
-    "source": "The Verge",
-    "title": "I built an AI Tamagotchi before Meta could",
-    "summary": "But I won’t be buying one, because we have Muse Charm at home. Not only does the push-to-talk AI devkit look a lot like the Muse Charm, but it’s officially sanctioned by Meta.",
-    "sourceUrl": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6336aff37e57",
-    "date": "2026-10-31",
-    "source": "TechCrunch",
-    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-    "summary": "Nvidia is in talks to guarantee billions in debt financing for AI cloud provider Nscale’s planned Anthropic data center in West Virginia, The Information reported Thursday. Anthropic has signed a $44.6 billion contract for the project’s first building alone, according to Nscale’s IPO filing.",
-    "sourceUrl": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-25cc4c9bb2e3",
-    "date": "2026-10-30",
-    "source": "OpenAI",
-    "title": "Making it easier for websites to express AI training preferences",
-    "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-    "sourceUrl": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-c7606af40dbb",
-    "date": "2026-10-30",
-    "source": "OpenAI",
-    "title": "Community safety report and new protections for teens",
-    "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-    "sourceUrl": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d2282bcce162",
-    "date": "2026-10-30",
-    "source": "OpenAI",
-    "title": "Fair use benefits everyone",
-    "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-    "sourceUrl": "https://openai.com/index/fair-use-benefits-everyone",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-b2263e9f8412",
-    "date": "2026-10-30",
-    "source": "Hugging Face",
-    "title": "nemotron-halloween",
-    "summary": "He is built on the NVIDIA Nemotron Voice Agent with NVIDIA Nemotron ASR, Nemotron 3.5 Bolt E4B 4GB, Magpie TTS Zeroshot and Audio2Face-3D, and he runs on a single workstation. While all the nonsense of building the character was going on, NVIDIA built the Nemotron Voice Agent. The house already had a mouth.",
-    "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-43523836c604",
-    "date": "2026-10-30",
-    "source": "TechCrunch",
-    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-    "summary": "Ollie, a startup whose mission was to deliver an AI assistant that respected its users’ privacy, says that it will be shutting down in a week. If anything, many new digital assistants present unique privacy challenges for their users — as companies like Instinct have shown.",
-    "sourceUrl": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6198118eee13",
-    "date": "2026-10-30",
-    "source": "TechCrunch",
-    "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-    "summary": "The Trump administration had the government buy 10% stake over a year ago. The scare-off was caused when Intel warned to expect revenue of $15 billion to $16 billion in the fourth quarter when analysts were looking for around $17 billion.",
-    "sourceUrl": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-60ba719a0574",
-    "date": "2026-10-30",
-    "source": "TechCrunch",
-    "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-    "summary": "Anthropic is expected to receive a high “junk” rating from credit rating agencies following its initial public offering, according to a report from the Financial Times. Now Blackstone expects double B range rating, the top tier of speculative “junk” grade, according to the reporting.",
-    "sourceUrl": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0806533d8a71",
-    "date": "2026-10-30",
-    "source": "TechCrunch",
-    "title": "Last-minute Halloween costumes for tech nerds",
-    "summary": "Dress as the version of yourself you imagine becoming every year when you make New Year’s resolutions. You are recursive self-improvement.",
-    "sourceUrl": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f1f6194d2036",
-    "date": "2026-10-30",
-    "source": "TechCrunch",
-    "title": "Cracks are emerging in the AI spending boom",
-    "summary": "Amazon is in a similar boat after reporting negative free cash flow of $42.4 billion over the past 12 months, compared with $14.8 billion in positive free cash flow the year before. Meta is also burning cash, reporting negative free cash flow of $2.1 billion in the third quarter as capex outpaced its operating cash.",
-    "sourceUrl": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d52c9778a55e",
-    "date": "2026-10-30",
-    "source": "TechCrunch",
-    "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-    "summary": "With this data on hand, Zest can make tailored suggestions of what places you might like to try next, whether that’s in your own city or suggestions of places to try when you’re traveling. To work, users will text the Zest concierge at (212) 470-6067.",
-    "sourceUrl": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-135f70cd39eb",
-    "date": "2026-10-30",
-    "source": "TechCrunch",
-    "title": "Google’s first data center satellite is online and writing poetry",
-    "summary": "Google Suncatcher’s prototype space data center is online and communicating with the ground after launching earlier this month alongside more than 100 other spacecraft on a SpaceX Falcon 9 rocket. Google and SpaceX’s visions are closely linked.",
-    "sourceUrl": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-8cb2db80dc5c",
-    "date": "2026-10-30",
-    "source": "TechCrunch",
-    "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-    "summary": "“You Can See Everything,” the documentary capturing disgraced Theranos founder Elizabeth Holmes’ final weeks before prison, is sparking national conversation as it becomes one of the highest-grossing documentaries of all time. Tyler Shultz didn’t need to see “You Can See Everything” to make up his mind about Holmes.",
-    "sourceUrl": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-40aed769d1c2",
-    "date": "2026-10-30",
-    "source": "TechCrunch",
-    "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-    "summary": "Share something you have learned. Braindate gives you another way to continue them. You need a question worth asking.",
-    "sourceUrl": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-f986a412ee0e",
-    "date": "2026-10-30",
-    "source": "TechCrunch",
-    "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-    "summary": "Delivery company DoorDash revealed during its third-quarter earnings call that it has only seen “several hundred” orders from third-party agents like Muse, Instinct, Fo, and others.",
-    "sourceUrl": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5135d63cacdd",
-    "date": "2026-10-30",
-    "source": "TechCrunch",
-    "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-    "summary": "Get tactical about building your company. They’re practical lessons you can take straight back to your company. Get tactical about building the company.",
-    "sourceUrl": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-cea73ec16e82",
-    "date": "2026-10-30",
-    "source": "TechCrunch",
-    "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-    "summary": "Runware will manufacture the modular data centers on an assembly line. Radulescu said Runware aims to bring the pods online within 48 hours. Runware will provide spare parts if components fail.",
-    "sourceUrl": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-011fdc062b2b",
-    "date": "2026-10-30",
-    "source": "The Verge",
-    "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-    "summary": "Apple is launching an iOS 27.3 beta next week that will bring some of the initial Apple Intelligence features to the Chinese market. Apple is launching an iOS 27.3 beta next week that will bring some of the initial Apple Intelligence features to the Chinese market.",
-    "sourceUrl": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e6a83342c0c5",
-    "date": "2026-10-30",
-    "source": "The Verge",
-    "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-    "summary": "As OpenAI’s buying spree squeezes the world’s supply of RAM, its CEO explains why he needs so much.﻿\nAs OpenAI’s buying spree squeezes the world’s supply of RAM, its CEO explains why he needs so much.﻿\nAsked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it’s “terrible” to have RAM in personal PCs instead of data centers.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-25a528e218b1",
-    "date": "2026-10-30",
-    "source": "The Verge",
-    "title": "The biggest names in AI are backing a new way to opt out of scraping",
-    "summary": "The new control will allow publishers to apply their AI training preferences across multiple crawlers. The new control will allow publishers to apply their AI training preferences across multiple crawlers.",
-    "sourceUrl": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
     ],
     "resources": []
   },
