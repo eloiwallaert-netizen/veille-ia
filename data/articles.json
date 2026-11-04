@@ -1,5 +1,474 @@
 [
   {
+    "id": "auto-9629b9d628e6",
+    "date": "2026-11-04",
+    "source": "TechCrunch",
+    "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+    "summary": "— Amulya Vishwanath (Techable Ventures)\nYour Pitch Has to Earn the Next Conversation — Dave Balter (True Ventures / Edisyl)\nSo You Think You Can Pitch? These highly interactive sessions give founders the opportunity to connect directly with experienced investors, fellow founders, and subject-matter experts.",
+    "sourceUrl": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f11d9a22fb66",
+    "date": "2026-11-04",
+    "source": "The Verge",
+    "title": "Google hasn’t figured out how to make AI pay like its search engine",
+    "summary": "Meanwhile, growth in paid clicks — clicks on ads that generate revenue for Google — slowed from 13 percent to 8 percent. For now, advertisers are still getting results from Google. Google’s existing business has given it room to take its time with AI ads, Taylor says.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5d47252e76d4",
+    "date": "2026-11-04",
+    "source": "The Verge",
+    "title": "The biggest modding site in PC gaming is taking a stance on AI",
+    "summary": "Nexus Mods says that authors of newly uploaded mods will have to declare whether AI was ‘used in their work.’\nNexus Mods says that authors of newly uploaded mods will have to declare whether AI was ‘used in their work.’\nThe PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare “whether AI has been used in their work,” the site announced today as part of a big post about AI-generated content on the platform.",
+    "sourceUrl": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-26c6032e1d26",
+    "date": "2026-11-03",
+    "source": "OpenAI",
+    "title": "Accelerating engineering for the physical world",
+    "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+    "sourceUrl": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a2357e701f02",
+    "date": "2026-11-03",
+    "source": "OpenAI",
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+    "sourceUrl": "https://openai.com/index/cisco-cyber",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-3d509e27bae2",
+    "date": "2026-11-03",
+    "source": "OpenAI",
+    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+    "sourceUrl": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-a55665cf4895",
+    "date": "2026-11-03",
+    "source": "Hugging Face",
+    "title": "StateBench: Testing how language models track state changes over long documents",
+    "summary": "StateBench consists of four difficulty levels that permit increasingly complex state update operations. All four performed well on r-trivial and aperiodic problems.",
+    "sourceUrl": "https://huggingface.co/blog/allenai/statebench",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-bc4177032a04",
+    "date": "2026-11-03",
+    "source": "Hugging Face",
+    "title": "Palette: teaching a small model to build decks in your design language",
+    "summary": "Ask a frontier model for a slide deck and you'll get a good one. We fine-tuned a 20B model to build decks the way people do: a designer plans the deck and a coder draws each slide. Nobody makes a deck in one pass.",
+    "sourceUrl": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-20954e3ac0ff",
+    "date": "2026-11-03",
+    "source": "Hugging Face",
+    "title": "CWE-bench v2: More coverage, quality, and transparency",
+    "summary": "To evaluate your model on the held-out set, contact cyber@collinear.ai. Open-sourcing the set is part of the same effort to improve quality.",
+    "sourceUrl": "https://huggingface.co/blog/cwe-bench",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f901cc10a3c4",
+    "date": "2026-11-03",
+    "source": "TechCrunch",
+    "title": "Anthropic is working on a system to prove AI models’ identity",
+    "summary": "Anthropic is working on an open source system to verify which AI model produced a given output, according to a blog post published Tuesday.",
+    "sourceUrl": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-59cb8a96ca92",
+    "date": "2026-11-03",
+    "source": "TechCrunch",
+    "title": "Data centers are turning to old jet engines as the wait for power grows",
+    "summary": "Stuck in years-long lines for grid connections and new turbines, some AI data centers are making their own electricity with converted jet engines, the New York Times reported Tuesday. In some cases, these delays are already costing some data center operators business.",
+    "sourceUrl": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d37889a9ebdd",
+    "date": "2026-11-03",
+    "source": "TechCrunch",
+    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+    "summary": "Securities and Exchange Commission this week to raise $360 million for its third flagship fund, matching the size of its previous fund raised in 2024, and another $130 million for a separate vehicle called Ballistic Ventures Fund B.",
+    "sourceUrl": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-dd34e5bf1c5e",
+    "date": "2026-11-03",
+    "source": "TechCrunch",
+    "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+    "summary": "Revenue grew 96% from a year earlier, and 20% from the previous quarter, to $2.31 billion, beating analysts’ expectations of $2.18 billion. It was the first time Palantir has topped $2 billion in a quarter. government revenue for the first time ever.",
+    "sourceUrl": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c69664e34de2",
+    "date": "2026-11-03",
+    "source": "TechCrunch",
+    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+    "summary": "Fal, a San Francisco-based startup that hosts and runs AI video, image, and audio models, has raised $1.3 billion in its latest funding round led by Bessemer Venture Partners, with participation from Nvidia, Sound Ventures, and T.",
+    "sourceUrl": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2023d4b1aafd",
+    "date": "2026-11-03",
+    "source": "TechCrunch",
+    "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+    "summary": "Netflix announced on Tuesday that it’s rolling out a new “AI Discover” tab where users will be able to experiment with new ways to find their next watch. Once users pick a theme, they’ll see matching recommendations. to users who use Netflix in English on supported TVs.",
+    "sourceUrl": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-2437af63b2f8",
+    "date": "2026-11-03",
+    "source": "TechCrunch",
+    "title": "Anthropic is still grappling with the economics of compute",
+    "summary": "In a new filing on Monday, Anthropic released data that showed those margins on compute actually getting worse. Looking at the compute margins makes the picture even worse.",
+    "sourceUrl": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-410d5c941f71",
+    "date": "2026-11-03",
+    "source": "TechCrunch",
+    "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+    "summary": "As a result, Google is revising its approach across Gemini, NotebookLM, Gemini in Classroom, and Google Search. The decision means that schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+    "sourceUrl": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f9c0c715eee2",
+    "date": "2026-11-03",
+    "source": "TechCrunch",
+    "title": "Apple restricts dating apps and AI companions to users 18 and up",
+    "summary": "While most major dating services typically restrict their platform to adults, Apple’s new policy will require all apps offering dating or romantic relationship features to carry an 18+ rating.",
+    "sourceUrl": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-954137d8d070",
+    "date": "2026-11-03",
+    "source": "TechCrunch",
+    "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
+    "summary": "Main Stage sessions can give you perspective. Roundtables give you room to get specific. Schedule a one-on-one conversation.",
+    "sourceUrl": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2b376a551173",
+    "date": "2026-11-03",
+    "source": "TechCrunch",
+    "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+    "summary": "One day to tackle the questions founders carry all year:\nHead to the Build Stage for tactical lessons around fundraising, distribution, teams, and pitching. Use the Impact Stage to think about product-market fit, scale, enterprise relationships, and long-term growth.",
+    "sourceUrl": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-64fbdbf83ed1",
+    "date": "2026-11-03",
+    "source": "The Verge",
+    "title": "Please stop asking me when the AI bubble will pop",
+    "summary": "For instance, Meta drew $58 billion in orders for a bond offering that’s expected to be $15 billion to $20 billion, Bloomberg reported today. Alphabet, Google’s parent company, is selling €6 billion (or about $6.7 billion) of bonds. It bought $4 billion of SpaceX bonds last month.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-39cfcbde58ed",
+    "date": "2026-11-03",
+    "source": "The Verge",
+    "title": "Those Jeff Bezos hair transplant photos are very fake",
+    "summary": "It’s all just photo editing fakery, AI or otherwise. Some people who shared them claimed (or were seemingly fooled into believing) that Bezos and Statham had undergone hair transplant surgery. There’s other evidence too if you know what to look for.",
+    "sourceUrl": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-49792679d79f",
+    "date": "2026-11-03",
+    "source": "The Verge",
+    "title": "Apple starts giving Siri AI access to third-party apps",
+    "summary": "Siri AI will soon be able to carry out tasks across a wider range of apps. Siri AI will soon be able to carry out tasks across a wider range of apps. Apple will now let Siri AI perform actions across third-party apps.",
+    "sourceUrl": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-62af55115339",
+    "date": "2026-11-03",
+    "source": "The Verge",
+    "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+    "summary": "Audio Intelligence lets Siri ‘rewind’ and summarize audio from your Watch’s mic. Audio Intelligence lets Siri ‘rewind’ and summarize audio from your Watch’s mic.",
+    "sourceUrl": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-662bf89dbff2",
+    "date": "2026-11-03",
+    "source": "The Verge",
+    "title": "OpenAI says ChatGPT is catching up to Google in search",
+    "summary": "ChatGPT processes one-fifth the volume of search queries as Google, per OpenAI. ChatGPT processes one-fifth the volume of search queries as Google, per OpenAI.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-db1d0915e442",
+    "date": "2026-11-03",
+    "source": "The Verge",
+    "title": "Indie games are missing launch dates because Steam is backed up",
+    "summary": "One developer has been waiting for weeks on approval for a game it planned to release today. Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates.",
+    "sourceUrl": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-c65f77dcf81d",
+    "date": "2026-11-03",
+    "source": "The Verge",
+    "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+    "summary": "Netflix’s first ‘AI Discover’ feature suggests content based around different themes. Netflix’s first ‘AI Discover’ feature suggests content based around different themes.",
+    "sourceUrl": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-0eaf3e3a7544",
+    "date": "2026-11-03",
+    "source": "The Verge",
+    "title": "Google is entirely disabling Search in schools that don’t want AI",
+    "summary": "Students in schools that reject Google’s AI will see notices that Search isn’t available. Students in schools that reject Google’s AI will see notices that Search isn’t available. Google is completely turning off Search in schools that reject its AI features, the company told The New York Times.",
+    "sourceUrl": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-08b710f1e780",
     "date": "2026-11-03",
     "source": "OpenAI",
@@ -30,527 +499,6 @@
       "llm",
       "agents",
       "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0e5b1d74afc9",
-    "date": "2026-11-03",
-    "source": "TechCrunch",
-    "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-    "summary": "This reminder to review the Siri Recaps you’ve recorded also appears when you first unlock your Apple Watch in the morning, too. The Audio Intelligence features for the Apple Watch Series 12 and Apple Watch Ultra 4 rely on a combination of Apple’s hardware, software, and services.",
-    "sourceUrl": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-4c7d73c3037d",
-    "date": "2026-11-03",
-    "source": "TechCrunch",
-    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-    "summary": "users aged 18 and older. users aged 18 and older. Dreambeans’ dependence on information from users’ Google accounts also raises questions about privacy and data access.",
-    "sourceUrl": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9c67c7267a56",
-    "date": "2026-11-03",
-    "source": "TechCrunch",
-    "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-    "summary": "However, on Monday’s earnings call, Apple signaled that it may look to boost services revenue through third-party apps. Regulatory and legal changes have cut into App Store commission revenue in some markets, even as Apple’s services business as a whole continues to grow.",
-    "sourceUrl": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-bd936fe1d4a2",
-    "date": "2026-11-03",
-    "source": "TechCrunch",
-    "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-    "summary": "It’s read, like, all of my Apple Notes, even my therapy notes going back 20 years,” he said. Like, almost anything you want to do, it knows you, and it’s there to help.",
-    "sourceUrl": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c7a94f8b7c58",
-    "date": "2026-11-03",
-    "source": "MIT Technology Review",
-    "title": "How “reverse game theory” could keep AI agents in check",
-    "summary": "Now some alignment researchers believe that reverse game theory, also known as mechanism design, might get better results. “One agent acts like law enforcement; the other agent acts like the citizen,” he says. Models could find loopholes that no one anticipated.",
-    "sourceUrl": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-bdefad5dcd98",
-    "date": "2026-11-03",
-    "source": "MIT Technology Review",
-    "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-    "summary": "At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That term beat out other contenders, including “Extreme Intelligence” and “Supreme Intelligence,” offered by the president in a poll on X a couple of weeks earlier.",
-    "sourceUrl": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-de4cf53f9db9",
-    "date": "2026-11-02",
-    "source": "OpenAI",
-    "title": "Scaling Git at OpenAI",
-    "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-    "sourceUrl": "https://openai.com/index/scaling-git-at-openai",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-19244c7aa206",
-    "date": "2026-11-02",
-    "source": "OpenAI",
-    "title": "Introducing the Grid Protectors Program",
-    "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-    "sourceUrl": "https://openai.com/index/grid-protectors-program",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-6fd6ad7938fa",
-    "date": "2026-11-02",
-    "source": "OpenAI",
-    "title": "Rewarding defenders with bigger bug bounties",
-    "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-    "sourceUrl": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-262cfa35f430",
-    "date": "2026-11-02",
-    "source": "OpenAI",
-    "title": "Preparing our next security sprint to harden OpenAI",
-    "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-    "sourceUrl": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-ed4b58253682",
-    "date": "2026-11-02",
-    "source": "OpenAI",
-    "title": "LifeVal",
-    "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-    "sourceUrl": "https://openai.com/index/lifeval",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-598c6194c0d3",
-    "date": "2026-11-02",
-    "source": "OpenAI",
-    "title": "Qodo builds context into AI code review with Codex",
-    "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-    "sourceUrl": "https://openai.com/index/qodo-codex-plugin",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-ff138f709a7e",
-    "date": "2026-11-02",
-    "source": "OpenAI",
-    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-    "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-    "sourceUrl": "https://openai.com/index/dan-driscoll-joins-openai",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-b810030289ed",
-    "date": "2026-11-02",
-    "source": "Google AI Blog",
-    "title": "The latest AI news we announced in October 2026",
-    "summary": "Requires Google Account, Google Health app, and Internet connection. Requires Google Health Premium subscription (sold separately), Google Health app, and internet connection. Gemini features work independently of Gemini apps.",
-    "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data",
-      "nocode"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-19ce29ebfa96",
-    "date": "2026-11-02",
-    "source": "TechCrunch",
-    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-    "summary": "With Trajectory, lawyers, doctors, and other specialists can improve the models near automatically themselves, Malde said. Trajectory’s other customers include Decagon, Mercor, and Nvidia. Trajectory isn’t the only startup trying to automate post-training.",
-    "sourceUrl": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-55dd7e97ced5",
-    "date": "2026-11-02",
-    "source": "TechCrunch",
-    "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-    "summary": "The filing seems to warn that the company is on the cusp of creating a model capable of recursive self-improvement (RSI). Anthropic seems to believe that RSI is both a promise and a peril. If Anthropic thinks the possibility of RSI is close, maybe we should believe it and act — perhaps govern — accordingly.",
-    "sourceUrl": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f0d114902300",
-    "date": "2026-11-02",
-    "source": "TechCrunch",
-    "title": "Web host Squarespace lays off 19% of its employees",
-    "summary": "Jeff Seedman, a public relations specialist representing Squarespace, confirmed the layoffs to TechCrunch. Squarespace was founded in 2004 and went public in 2021 at a $10 billion valuation. However, the company struggled in the ensuing years to generate enthusiastic public market interest.",
-    "sourceUrl": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-8402594bed24",
-    "date": "2026-11-02",
-    "source": "TechCrunch",
-    "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-    "summary": "The New York Times sued Brave, the 11-year-old, privacy-focused browser company, on Monday, alleging it scraped the outlet’s copyrighted content and unlawfully distributed it to customers the suit names as Anthropic, Perplexity, Mistral, xAI, and Cohere.",
-    "sourceUrl": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6e11dddc7a7c",
-    "date": "2026-11-02",
-    "source": "TechCrunch",
-    "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-    "summary": "“And all of those data points are going into the model. In a world model, every individual is the world,” he added. (The company uses a separate language model to generate explanations for its predictions.)\nEzra said the model is trained to preserve a person’s underlying tendencies during simulations.",
-    "sourceUrl": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3059ef1574cb",
-    "date": "2026-11-02",
-    "source": "TechCrunch",
-    "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-    "summary": "Over Halloween weekend, some Grok Bot users awoke to something especially spooky: Their weekly usage limits were unexpectedly maxed out, even if they hadn’t been using SpaceX’s agentic AI overnight.",
-    "sourceUrl": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a43a012fc6e7",
-    "date": "2026-11-02",
-    "source": "TechCrunch",
-    "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-    "summary": "data centers use 17 to 19 billion gallons of water to cool their hot-running chips each year — and that number is expected to triple in the next five years, according to The Water Foundation.",
-    "sourceUrl": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f7151c69ed83",
-    "date": "2026-11-02",
-    "source": "TechCrunch",
-    "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-    "summary": "A Boston company that became much bigger than Boston. He has built from Boston for more than a decade, raised significant capital, and expanded HqO internationally without relocating the company to a traditional West Coast startup hub.",
-    "sourceUrl": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-0ad9e89a8ab0",
-    "date": "2026-11-02",
-    "source": "MIT Technology Review",
-    "title": "Raising the quality of insights in agentic analytics",
-    "summary": "On average, 48% of insights generated by analytics agents at the surveyed companies lead to actions that improve the business. Better quality of insights leads to clear business advantage. Insufficient context reduces insight quality.",
-    "sourceUrl": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e3f3f6c0c50f",
-    "date": "2026-11-02",
-    "source": "The Verge",
-    "title": "Anthropic clamps down on Claude’s AI video game clones",
-    "summary": "Anthropic is steering Claude away from re-creating specific titles, but users can still use it to make their own games. Anthropic is steering Claude away from re-creating specific titles, but users can still use it to make their own games.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-16194c055af9",
-    "date": "2026-11-02",
-    "source": "The Verge",
-    "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-    "summary": "As public opinion has soured on data centers, it’s selling ‘AI campuses’ as protectors, instead of noisy polluters. As public opinion has soured on data centers, it’s selling ‘AI campuses’ as protectors, instead of noisy polluters. “Our compute campuses need power year-round.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-dc6c7ef2ed74",
-    "date": "2026-11-02",
-    "source": "The Verge",
-    "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-    "summary": "Brave has allegedly provided ‘stolen copyrighted content’ to many AI companies.﻿\nBrave has allegedly provided ‘stolen copyrighted content’ to many AI companies.﻿\nThe New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters.",
-    "sourceUrl": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-869219a7f133",
-    "date": "2026-11-02",
-    "source": "TechCrunch",
-    "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
-    "summary": "The ChatGPT desktop app can be a confusing piece of software, given that there are ChatGPT and Codex sections, and within the former, there are Chat and Work tabs. Codex will remain a separate experience in the ChatGPT desktop app,” the email said.",
-    "sourceUrl": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-728c21b3deeb",
-    "date": "2026-11-02",
-    "source": "MIT Technology Review",
-    "title": "Stop counting tokens, start counting what ships",
-    "summary": "Cost per token measures consumption, not results. Route suitable work, including code generation, test creation, and repeated refactoring, to open-weight models you operate yourself.",
-    "sourceUrl": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product",
       "data"
     ],
     "resources": []
