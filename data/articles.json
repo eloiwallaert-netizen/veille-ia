@@ -1,5 +1,381 @@
 [
   {
+    "id": "auto-36231604b288",
+    "date": "2026-11-07",
+    "source": "TechCrunch",
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "summary": "Crusoe, an eight-year-old, Denver-based data center developer recently valued at $30.9 billion, confirmed Friday it has sold an unfinished data center project in southeastern Wyoming to Google. Crusoe is developing another data center for Google near Amarillo, Texas.",
+    "sourceUrl": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-bc8f9eac1966",
+    "date": "2026-11-06",
+    "source": "OpenAI",
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+    "sourceUrl": "https://openai.com/index/partnering-with-hacktron",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-cfd4354afa14",
+    "date": "2026-11-06",
+    "source": "OpenAI",
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+    "sourceUrl": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-be1ba71e55b7",
+    "date": "2026-11-06",
+    "source": "Hugging Face",
+    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "summary": "High-level reasoning models decide what to do; low-level action models control the robot’s movements. Execution of Molmo 2 (a high-level model) and ManiFlow (a low-level model) trained in ToyBlocks. We evaluate hierarchical models with explicit high-level planning and low-level execution models.",
+    "sourceUrl": "https://huggingface.co/blog/allenai/toyblocks",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-314bd089789a",
+    "date": "2026-11-06",
+    "source": "TechCrunch",
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "summary": "OpenAI has reportedly raised $11 billion so far in a new funding round that values the AI lab at $1.25 trillion. In late September, Bloomberg reported that OpenAI was looking to raise $30 billion in the upcoming round.",
+    "sourceUrl": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-4758b3e08407",
+    "date": "2026-11-06",
+    "source": "TechCrunch",
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "summary": "The hacking software, called Artex, is an open source autonomous penetration testing tool, meaning software that automatically probes computer systems for weaknesses, and it’s been linked to several cyberattacks since its public release in July.",
+    "sourceUrl": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-46e88a02e034",
+    "date": "2026-11-06",
+    "source": "TechCrunch",
+    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "summary": "Meta recently launched its Muse agents — a new generation of cuddly agentic helpers. For instance, if you wanted to plan a vacation, you could open a new Space focused on that particular project, and whenever you want to work on it with Muse, you would click to open that particular tab.",
+    "sourceUrl": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-860444638104",
+    "date": "2026-11-06",
+    "source": "TechCrunch",
+    "title": "How a Blue Wave midterm might reshape the AI industry",
+    "summary": "midterm elections could also transform the tech industry. He lives in New York City. You can contact or verify outreach from Anthony by emailing [email protected].",
+    "sourceUrl": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ead671d25881",
+    "date": "2026-11-06",
+    "source": "TechCrunch",
+    "title": "After the midterms, is the AI industry in for a rough two years?",
+    "summary": "midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. He lives in New York City.",
+    "sourceUrl": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d275be2a1267",
+    "date": "2026-11-06",
+    "source": "TechCrunch",
+    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+    "summary": "Median firms spend $12-$15 per employee per month, and the top 10% spend $600-$1,000. “OpenAI and Anthropic price cuts have…just made it cheaper to use AI,” he said. “For a lot of AI use cases, you just need a simple Yes/No,” Kharazian said.",
+    "sourceUrl": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ab4846bbc512",
+    "date": "2026-11-06",
+    "source": "TechCrunch",
+    "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+    "summary": "The company on Friday said it is launching a feature that lets customers chat with its Alexa AI agent over text messages to help them shop, much like you can with AI agents like Muse or Instinct. customers will get a text asking them to enable the shopping feature.",
+    "sourceUrl": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6813d62fd925",
+    "date": "2026-11-06",
+    "source": "The Verge",
+    "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+    "summary": "CEO Sam Altman said recently that OpenAI is prioritizing safety instead of going ‘guns blazing’ toward an IPO.﻿\nCEO Sam Altman said recently that OpenAI is prioritizing safety instead of going ‘guns blazing’ toward an IPO.﻿\nOpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1bc7ba2a28c4",
+    "date": "2026-11-06",
+    "source": "The Verge",
+    "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+    "summary": "China’s intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times.",
+    "sourceUrl": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-c0641eb0de56",
+    "date": "2026-11-06",
+    "source": "The Verge",
+    "title": "All the latest updates on AI data centers",
+    "summary": "Data centers were a major bipartisan issue ahead of the 2026 midterms, and voters largely opposed data center expansion at the polls. People hate data centers. “AI data centers are destroying our climate.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-52e0623fab79",
+    "date": "2026-11-06",
+    "source": "The Verge",
+    "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+    "summary": "You can create things like a shopping hub, school dashboard, or music tracker directly within Muse. You can create things like a shopping hub, school dashboard, or music tracker directly within Muse. Meta will now allow you to build customized, app-like experiences within Muse.",
+    "sourceUrl": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-91f8d419f4fc",
+    "date": "2026-11-06",
+    "source": "The Verge",
+    "title": "AI is the new dating dealbreaker",
+    "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. According to JJ, many people in AI safety specifically use the Date-Me Docs as a way to meet people.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-22815b4f725e",
+    "date": "2026-11-06",
+    "source": "The Verge",
+    "title": "Big Tech lost big in the 2026 election",
+    "summary": "On The Vergecast: blue waves, the confusing business of AI search, and the many thoughts of RAM Altman. On The Vergecast: blue waves, the confusing business of AI search, and the many thoughts of RAM Altman.",
+    "sourceUrl": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c821c11af1c2",
+    "date": "2026-11-06",
+    "source": "The Verge",
+    "title": "How Akai and Moog are embracing vibe-coded mods",
+    "summary": "inMusic is making open-source MPCs, hackable synths, and mod-friendly DJ decks. inMusic is making open-source MPCs, hackable synths, and mod-friendly DJ decks. inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community.",
+    "sourceUrl": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-35ab47bbc76c",
+    "date": "2026-11-06",
+    "source": "The Verge",
+    "title": "Amazon will let you text Alexa your shopping list",
+    "summary": "The Alexa for Shopping AI assistant can now order groceries and recommend products over text messages.﻿\nThe Alexa for Shopping AI assistant can now order groceries and recommend products over text messages.﻿\nAmazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant.",
+    "sourceUrl": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-82196d4ece0a",
     "date": "2026-11-06",
     "source": "Hugging Face",
@@ -180,395 +556,6 @@
     ],
     "themes": [
       "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-300d91101f21",
-    "date": "2026-11-05",
-    "source": "OpenAI",
-    "title": "Merge builds product and business tools with OpenAI technology",
-    "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
-    "sourceUrl": "https://openai.com/index/merge-builds-with-openai",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1f9981de5700",
-    "date": "2026-11-05",
-    "source": "OpenAI",
-    "title": "Flipsnack grows product signups with conversion optimization",
-    "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
-    "sourceUrl": "https://openai.com/ads/customers/flipsnack",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-c0d7b0808284",
-    "date": "2026-11-05",
-    "source": "OpenAI",
-    "title": "Franklin Templeton uses OpenAI to support investment research",
-    "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-    "sourceUrl": "https://openai.com/index/franklin-templeton",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-63c3d56bc72b",
-    "date": "2026-11-05",
-    "source": "Google AI Blog",
-    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-    "summary": "Gemini Omni 1.2 Flash brings 15-second clips, stronger consistency, and faster, more cost-effective generation. Today, we’re rolling out Gemini Omni 1.2 Flash, and making it generally available across the Gemini API and Gemini for business.",
-    "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e8690f74b67f",
-    "date": "2026-11-05",
-    "source": "Hugging Face",
-    "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-    "summary": "Cosmos3-Nano-Transfer-Auto is a bidirectional model for offline synthetic driving data generation. Point your agent to the open skill : Run inference with Cosmos3-Nano-Transfer-Auto\nCosmos3-Nano-Sim-Auto is the causally distilled streaming variant of Transfer-Auto.",
-    "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-01af2f668ade",
-    "date": "2026-11-05",
-    "source": "TechCrunch",
-    "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-    "summary": "“Travel is aspirational. So that is why we are building our own AI agent,” Chesky said. The agent will also be able to help travelers beyond the booking itself.",
-    "sourceUrl": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9d6202c03434",
-    "date": "2026-11-05",
-    "source": "TechCrunch",
-    "title": "Meta says US users can now video chat with their Muse AI avatar",
-    "summary": "Muse Voice, a feature that lets users call and video chat with Meta’s consumer AI agent, Muse, is now available to everyone in the U.S., the company announced on Thursday.",
-    "sourceUrl": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ea881b03ae96",
-    "date": "2026-11-05",
-    "source": "TechCrunch",
-    "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-    "summary": "Today, the company has data centers in 23 states, she said, and five of them, including one in Texas, are planned as projects of 1 gigawatt or more. “I think it’s going to be harder,” Powell McCormick said, describing what the future of building data centers looks like.",
-    "sourceUrl": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-8f7798ef97e4",
-    "date": "2026-11-05",
-    "source": "TechCrunch",
-    "title": "OpenAI released a new cybersecurity model. Is that enough?",
-    "summary": "OpenAI also found 81 “novel” vulnerabilities in Firefox, the web browser. Justicz notes that the frontier lab appears to have recently “nerfed” Daybreak Blue to make it less useful at finding vulnerabilities.",
-    "sourceUrl": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-bf7e9a38adde",
-    "date": "2026-11-05",
-    "source": "TechCrunch",
-    "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-    "summary": "OpenAI co-founder and president Greg Brockman said the company would be ready for an IPO in 2027, noting that its enterprise revenue has been growing. Brockman also spoke more broadly about the lessons OpenAI learned from selling into the enterprise market as well.",
-    "sourceUrl": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b0e121b3a461",
-    "date": "2026-11-05",
-    "source": "TechCrunch",
-    "title": "Claude can now analyze your spending with its new Personal Finance tool",
-    "summary": "Anthropic announced Thursday that Claude is getting a new tool called “Personal Finance,” designed to help users keep track of their money. With it, users can connect their bank and credit card accounts through Plaid and ask Claude questions about their finances.",
-    "sourceUrl": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c2788911aa71",
-    "date": "2026-11-05",
-    "source": "TechCrunch",
-    "title": "Axiom Math wants to keep AI slop out of mathematics",
-    "summary": "Over time, Hong said, the agents have picked up taste on their own. Our Lean formalization is now the substrate that agents can build upon.”\nThe way Axiom’s agents built Stacks, working in parallel and picking their own tasks, is how Hong expects much of AI’s future work to happen.",
-    "sourceUrl": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6dad7a604d39",
-    "date": "2026-11-05",
-    "source": "TechCrunch",
-    "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-    "summary": "Dropbox is making a big push into AI infrastructure with a $350 million acquisition of cloud technology company Tigris Data, marking what appears to be its largest acquisition to date. Tigris Data was founded by former Uber engineers who helped develop the ride-hailing company’s storage infrastructure.",
-    "sourceUrl": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0f2052ea73f7",
-    "date": "2026-11-05",
-    "source": "TechCrunch",
-    "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-    "summary": "The $399 ring has a speaker so you can take calls using it as well. Its ring comes with a speaker so that you can take calls, and there is a screen, which lets you see notifications from your phone or which apps you are controlling. The ring also lets you control music or even smart home devices like Apple TV.",
-    "sourceUrl": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d51f62aa0d3c",
-    "date": "2026-11-05",
-    "source": "TechCrunch",
-    "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-    "summary": "At its developer conference on Thursday, Box showed off a new feature that will build Nvidia’s Nemotron embedding system into the core of its product. Called Box Content Retrieval, the new feature allows agents to answer queries far more effectively by relying on the embedded metadata created by Nemotron.",
-    "sourceUrl": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-8e75ec02fc50",
-    "date": "2026-11-05",
-    "source": "The Verge",
-    "title": "Perplexity launches its own take on AI agents for work",
-    "summary": "Like OpenAI’s Dots and Claude Duet, Perplexity’s Teammates can perform an array of tasks while running 24/7. Like OpenAI’s Dots and Claude Duet, Perplexity’s Teammates can perform an array of tasks while running 24/7.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c6134d61030c",
-    "date": "2026-11-05",
-    "source": "The Verge",
-    "title": "Muse has a voice mode now",
-    "summary": "Muse AI agent now has voices and ‘expressive’ avatars that animate while chatting with you. Muse AI agent now has voices and ‘expressive’ avatars that animate while chatting with you. Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today.",
-    "sourceUrl": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f49d817c3fd3",
-    "date": "2026-11-05",
-    "source": "The Verge",
-    "title": "Claude AI can plug directly into your bank account",
-    "summary": "With access to your bank account via Plaid, Anthropic’s chatbot will try to explain where your money is going and what you can afford.﻿\nWith access to your bank account via Plaid, Anthropic’s chatbot will try to explain where your money is going and what you can afford.﻿\nAnthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-23696f011bd9",
-    "date": "2026-11-05",
-    "source": "The Verge",
-    "title": "‘Total repudiation’: The blue wave is about to hit AI",
-    "summary": "Meta’s platforms president, Dina Powell McCormick, says many are considering moving data center construction abroad. When NBC News polled voters on Tuesday, 76 percent opposed data centers in their communities.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "ethics",
-      "data"
     ],
     "resources": []
   },
