@@ -1,5 +1,207 @@
 [
   {
+    "id": "auto-7b1451fc786c",
+    "date": "2026-11-09",
+    "source": "Hugging Face",
+    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+    "summary": "In reality, experts form cooperative groups. Our newest paper derives HOPE (Higher-Order Pruning of Experts), a second-order method that accounts for pairwise expert interactions. Experts retained only by HOPE consistently have higher cooperative scores than experts retained only by REAP.",
+    "sourceUrl": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-95c3c02be004",
+    "date": "2026-11-09",
+    "source": "TechCrunch",
+    "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+    "summary": "WordPress has been a crucial technology and content management system for websites like TechCrunch. Now, WordPress.com owner Automattic is responding to the changing state of the web by debuting a new service called Spacefast, which will allow users to deploy vibe-coded websites and apps.",
+    "sourceUrl": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-fdfdfd60876d",
+    "date": "2026-11-09",
+    "source": "TechCrunch",
+    "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+    "summary": "Huang has been earning latitude since he co-founded Nvidia in 1993. Huang has no equivalent because Nvidia is his company\nAs for the bench at Nvidia, that doesn’t really exist either. But if Huang had one, Sonnenfeld continued, removing him would be harder.",
+    "sourceUrl": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b044ec790c18",
+    "date": "2026-11-09",
+    "source": "MIT Technology Review",
+    "title": "Innovating with AI in the special chemicals industry",
+    "summary": "For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed decisions, and develop more sustainable materials without compromising performance.",
+    "sourceUrl": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-cc49c1ae6860",
+    "date": "2026-11-09",
+    "source": "The Verge",
+    "title": "Jonathan Kanter is using AI to take on Big Tech",
+    "summary": "The former DOJ watchdog wants to fuel antitrust cases against all kinds of monopolists. The former DOJ watchdog wants to fuel antitrust cases against all kinds of monopolists. Alongside former acting Antitrust Division chief Doha Mekki, Kanter recently launched a new tech startup, FluxCap.",
+    "sourceUrl": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-bc55171edc52",
+    "date": "2026-11-08",
+    "source": "TechCrunch",
+    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+    "summary": "Nvidia’s board of directors announced Sunday that it’s launching an independent investigation following reports that CEO Jensen Huang was targeted by a Chinese spy operation.",
+    "sourceUrl": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-67abd93f196f",
+    "date": "2026-11-08",
+    "source": "The Verge",
+    "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+    "summary": "In the memo, Nvidia’s CEO acknowledges having an affair with a suspected Chinese spy. In the memo, Nvidia’s CEO acknowledges having an affair with a suspected Chinese spy. To my wife and family: I love you.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ecd65815b585",
+    "date": "2026-11-08",
+    "source": "The Verge",
+    "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
+    "summary": "Following reports that Nvidia’s CEO had a ‘close relationship’ with an AI exec the company is opening an investigation. Following reports that Nvidia’s CEO had a ‘close relationship’ with an AI exec the company is opening an investigation.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-53044e44b3aa",
+    "date": "2026-11-08",
+    "source": "The Verge",
+    "title": "Apple is racing to make Siri more agentic",
+    "summary": "Future versions of Siri will be able to control third-party apps and perform more complex tasks. Future versions of Siri will be able to control third-party apps and perform more complex tasks.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ae06ecf71872",
+    "date": "2026-11-08",
+    "source": "The Verge",
+    "title": "Elvis and Eminem rights holders are suing Suno",
+    "summary": "Suno is facing two more lawsuits over AI music clones. Suno is facing two more lawsuits over AI music clones. Suno is facing yet another pair of lawsuits.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-ed263cbbe1a4",
     "date": "2026-11-07",
     "source": "TechCrunch",
@@ -376,207 +578,6 @@
       "ethics",
       "genai-product",
       "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-52e0623fab79",
-    "date": "2026-11-06",
-    "source": "The Verge",
-    "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-    "summary": "You can create things like a shopping hub, school dashboard, or music tracker directly within Muse. You can create things like a shopping hub, school dashboard, or music tracker directly within Muse. Meta will now allow you to build customized, app-like experiences within Muse.",
-    "sourceUrl": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-91f8d419f4fc",
-    "date": "2026-11-06",
-    "source": "The Verge",
-    "title": "AI is the new dating dealbreaker",
-    "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. According to JJ, many people in AI safety specifically use the Date-Me Docs as a way to meet people.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-22815b4f725e",
-    "date": "2026-11-06",
-    "source": "The Verge",
-    "title": "Big Tech lost big in the 2026 election",
-    "summary": "On The Vergecast: blue waves, the confusing business of AI search, and the many thoughts of RAM Altman. On The Vergecast: blue waves, the confusing business of AI search, and the many thoughts of RAM Altman.",
-    "sourceUrl": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c821c11af1c2",
-    "date": "2026-11-06",
-    "source": "The Verge",
-    "title": "How Akai and Moog are embracing vibe-coded mods",
-    "summary": "inMusic is making open-source MPCs, hackable synths, and mod-friendly DJ decks. inMusic is making open-source MPCs, hackable synths, and mod-friendly DJ decks. inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community.",
-    "sourceUrl": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-35ab47bbc76c",
-    "date": "2026-11-06",
-    "source": "The Verge",
-    "title": "Amazon will let you text Alexa your shopping list",
-    "summary": "The Alexa for Shopping AI assistant can now order groceries and recommend products over text messages.﻿\nThe Alexa for Shopping AI assistant can now order groceries and recommend products over text messages.﻿\nAmazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant.",
-    "sourceUrl": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-82196d4ece0a",
-    "date": "2026-11-06",
-    "source": "Hugging Face",
-    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-    "summary": "We’re excited to announce a new collaboration with Liva AI to add even more private data with two new accents: Egyptian 🇪🇬 and Nigerian 🇳🇬.",
-    "sourceUrl": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-fbf575ba8ccd",
-    "date": "2026-11-06",
-    "source": "TechCrunch",
-    "title": "Underdog shows off a 32MB speech model in new demo",
-    "summary": "We made a game for our new frontier text-to-speech model, Woof. All of this works within the browser through Underdog’s speech generation model, which, the company says, can run on most devices without any internet connection.",
-    "sourceUrl": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f3bfec28682f",
-    "date": "2026-11-06",
-    "source": "TechCrunch",
-    "title": "Physicl raises $10M to make the digital world real enough for robots",
-    "summary": "de Vigan believes that the pipeline his previous company built to “transform unstructured, incomplete, heterogeneous real-world information into a high-fidelity physical representation… with correct geometry, materials, and physics” can now be used to make physical AI models more effective.",
-    "sourceUrl": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9889510bec40",
-    "date": "2026-11-06",
-    "source": "TechCrunch",
-    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-    "summary": "In September, Palo Alto Networks acquired Console, a two-year-old startup that uses AI agents to automate routine IT help desk tasks. The transaction valued Console at $500 million in stock and cash, TechCrunch reported. Meanwhile, Cisco bought Menlo Ventures-backed Astrix for roughly $400 million, Calcalist reported.",
-    "sourceUrl": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e804e0e79289",
-    "date": "2026-11-06",
-    "source": "MIT Technology Review",
-    "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-    "summary": "At the time I booked, Tau was offering $30 for an hourlong cleaning with a single robot; now the charge is $60 per weekly cleaning with two robots, or $100 for a one-time visit.",
-    "sourceUrl": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
     ],
     "resources": []
   },
