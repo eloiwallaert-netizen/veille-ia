@@ -1,11 +1,81 @@
 [
   {
-    "id": "auto-7b1451fc786c",
-    "date": "2026-11-09",
-    "source": "Hugging Face",
-    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-    "summary": "In reality, experts form cooperative groups. Our newest paper derives HOPE (Higher-Order Pruning of Experts), a second-order method that accounts for pairwise expert interactions. Experts retained only by HOPE consistently have higher cooperative scores than experts retained only by REAP.",
-    "sourceUrl": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "id": "auto-46ecb159c153",
+    "date": "2026-11-10",
+    "source": "OpenAI",
+    "title": "Helping caregivers use AI in everyday life",
+    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+    "sourceUrl": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-01a8528fa117",
+    "date": "2026-11-10",
+    "source": "OpenAI",
+    "title": "Closing the AI guidance gap in education",
+    "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+    "sourceUrl": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-155d33cae726",
+    "date": "2026-11-10",
+    "source": "Google AI Blog",
+    "title": "Google Cloud launches Gemini for healthcare.",
+    "summary": "Google Cloud has announced Gemini for healthcare, an AI solution engineered to unify fragmented clinical, operational, and administrative systems. Moving beyond simple information retrieval, it enables healthcare teams to turn siloed data into coordinated action.",
+    "sourceUrl": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1c52468d7a99",
+    "date": "2026-11-10",
+    "source": "TechCrunch",
+    "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+    "summary": "“The things I worry about making an open community targeted are also what makes it special,” Solaiman said on Equity. The wealth of information open platforms host also make them targets. Other parts of the open source ecosystem are dealing with similar security-related tradeoffs.",
+    "sourceUrl": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1b18832a8d2c",
+    "date": "2026-11-10",
+    "source": "TechCrunch",
+    "title": "Otter AI can now follow conversations across 30+ languages",
+    "summary": "The company is also adding support for 27 languages, its largest language expansion to date. Once the rollout is complete, Otter will support 31 languages in total, making the platform more accessible to international teams. The newly added languages run on Otter’s own speech models.",
+    "sourceUrl": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
     "auto": true,
     "metiers": [
       "csm",
@@ -17,17 +87,303 @@
     "themes": [
       "llm",
       "agents",
+      "automation",
       "data"
     ],
     "resources": []
   },
   {
-    "id": "auto-95c3c02be004",
+    "id": "auto-98071e4b97d9",
+    "date": "2026-11-10",
+    "source": "TechCrunch",
+    "title": "Anthropic reportedly plans to move forward with IPO plans",
+    "summary": "Anthropic plans to set a valuation range this week and begin trading on Thursday or Friday of next week, the Journal reported.",
+    "sourceUrl": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-707c973eeceb",
+    "date": "2026-11-10",
+    "source": "The Verge",
+    "title": "Hands-on with Ring’s new AI drone camera for your home",
+    "summary": "The Drone Cam is the spiritual successor to the Always Home Cam. The Drone Cam is the spiritual successor to the Always Home Cam. Ring is finally shipping a flying indoor drone camera.",
+    "sourceUrl": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-8d28cfa5555a",
+    "date": "2026-11-10",
+    "source": "The Verge",
+    "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+    "summary": "Paramount Skydance’s CEO compared AI to CGI, but said it ‘will never be a replacement’ for artists.﻿\nParamount Skydance’s CEO compared AI to CGI, but said it ‘will never be a replacement’ for artists.﻿\nDuring Paramount Skydance’s latest earnings call, CEO David Ellison said “it’s hard to imagine” AI won’t have a bigger impact on the film industry than CGI.",
+    "sourceUrl": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-9c331579e229",
+    "date": "2026-11-09",
+    "source": "OpenAI",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "sourceUrl": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-f37b680abcf7",
+    "date": "2026-11-09",
+    "source": "OpenAI",
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+    "sourceUrl": "https://openai.com/index/control-room",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-23b94c697622",
+    "date": "2026-11-09",
+    "source": "OpenAI",
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+    "sourceUrl": "https://openai.com/index/coderabbit-codex-daybreak",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-932fe34bad72",
+    "date": "2026-11-09",
+    "source": "OpenAI",
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+    "sourceUrl": "https://openai.com/index/kuken",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-057e22ab69c0",
+    "date": "2026-11-09",
+    "source": "Hugging Face",
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+    "summary": "It was built using NVIDIA’s framework for synthetic data generation, NeMo Data Designer. Its documents are built on Nemotron-Personas-Japan. Use Nemotron-Personas-Finance-Japan to simulate customers, and Nemotron-PII-Japan to test how your pipeline protects their data.",
+    "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-13bdf291560a",
     "date": "2026-11-09",
     "source": "TechCrunch",
-    "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
-    "summary": "WordPress has been a crucial technology and content management system for websites like TechCrunch. Now, WordPress.com owner Automattic is responding to the changing state of the web by debuting a new service called Spacefast, which will allow users to deploy vibe-coded websites and apps.",
-    "sourceUrl": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+    "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+    "summary": "Wired also reported that Nvidia’s internal communications team was told to copy Heller Inc. It described Megaspeed CEO Alice Huang, the woman later linked to Jensen Huang, standing next to him at a Taipei gathering of Nvidia customers.",
+    "sourceUrl": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-f469998b0ebd",
+    "date": "2026-11-09",
+    "source": "TechCrunch",
+    "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+    "summary": "Six months before the Nvidia spy scandal emerged, the New York-based short seller firm Culper Research had already raised questions about Nvidia CEO Jensen Huang’s unusually close relationship with Alice Huang, an executive at Megaspeed, a Singapore-based company that buys Nvidia chips.",
+    "sourceUrl": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-05d31a5bc4a7",
+    "date": "2026-11-09",
+    "source": "TechCrunch",
+    "title": "The race is on to sue Nvidia",
+    "summary": "Nvidia’s stock slid more than 4% on Monday, the first trading day after its board said it would investigate CEO Jensen Huang over his relationship with Alice Huang, an executive U.S. 8, 2026, and the suit names both Nvidia and Huang. Bartlett sorted Nvidia’s wider exposure into buckets.",
+    "sourceUrl": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-39befa337949",
+    "date": "2026-11-09",
+    "source": "TechCrunch",
+    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+    "summary": "Nvidia CEO Jensen Huang has pulled out of the ElevenLabs Summit scheduled for this Wednesday in New York, ElevenLabs, the voice AI company, confirmed Monday. Nvidia is an investor in ElevenLabs.",
+    "sourceUrl": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-2b128ff09548",
+    "date": "2026-11-09",
+    "source": "TechCrunch",
+    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+    "summary": "Anthropic released new versions of its most advanced models on Monday, with the launch of Mythos 5.2 and Fable 5.2. Anthropic says that the new version of Fable will return responses 30% faster across effort levels.",
+    "sourceUrl": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-20ff528b5495",
+    "date": "2026-11-09",
+    "source": "TechCrunch",
+    "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+    "summary": "Nvidia CEO Jensen Huang has never been quiet about his belief that the U.S. The Financial Times reported Friday on Huang’s relationship with Alice Huang, a former executive at Megaspeed, an Nvidia customer.",
+    "sourceUrl": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-fe9001b06ea6",
+    "date": "2026-11-09",
+    "source": "TechCrunch",
+    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+    "summary": "Meta Superintelligence Lab released a new AI model on Monday called Muse Ember, the lab’s lightest and most cost-efficient AI model yet.",
+    "sourceUrl": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ea1cff75717b",
+    "date": "2026-11-09",
+    "source": "TechCrunch",
+    "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+    "summary": "AI’s power crunch has become so acute that Anthropic, a company that has generally avoided buying physical infrastructure, is spending $3.4 billion on natural gas turbines. Historically, Anthropic has preferred to rent rather than buy.",
+    "sourceUrl": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ad058ec7fa05",
+    "date": "2026-11-09",
+    "source": "TechCrunch",
+    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+    "summary": "Online publishing platform Medium on Monday launched a new app, called TK, which aims to bring AI technology deeper into the writing process. The app could also pull in bits of writing you had previously saved to the app when you were still fleshing out your ideas.",
+    "sourceUrl": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
     "auto": true,
     "metiers": [
       "csm",
@@ -46,32 +402,12 @@
     "resources": []
   },
   {
-    "id": "auto-fdfdfd60876d",
-    "date": "2026-11-09",
-    "source": "TechCrunch",
-    "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-    "summary": "Huang has been earning latitude since he co-founded Nvidia in 1993. Huang has no equivalent because Nvidia is his company\nAs for the bench at Nvidia, that doesn’t really exist either. But if Huang had one, Sonnenfeld continued, removing him would be harder.",
-    "sourceUrl": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b044ec790c18",
+    "id": "auto-3ec2e278915e",
     "date": "2026-11-09",
     "source": "MIT Technology Review",
-    "title": "Innovating with AI in the special chemicals industry",
-    "summary": "For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed decisions, and develop more sustainable materials without compromising performance.",
-    "sourceUrl": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+    "title": "The backlash about data centers might really just be about electricity",
+    "summary": "It’s accepted wisdom in Big Tech that the war against data centers must be about something bigger than just data centers themselves. There are two ways to power the sort of data center that AI companies want: connecting to the grid, or generating electricity onsite.",
+    "sourceUrl": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
     "auto": true,
     "metiers": [
       "csm",
@@ -79,66 +415,74 @@
       "marketing",
       "ops",
       "product",
-      "sales",
       "tech"
     ],
     "themes": [
-      "automation",
       "ethics",
-      "genai-product"
+      "genai-product",
+      "data"
     ],
     "resources": []
   },
   {
-    "id": "auto-cc49c1ae6860",
+    "id": "auto-50d303e5bf84",
+    "date": "2026-11-09",
+    "source": "MIT Technology Review",
+    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+    "summary": "But he was already thinking about AI risk. Both bills have inspired proposed federal legislation. “So far what we’ve seen are some problematic things, but not complete disasters,” Wiener says.",
+    "sourceUrl": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-285987eab731",
     "date": "2026-11-09",
     "source": "The Verge",
-    "title": "Jonathan Kanter is using AI to take on Big Tech",
-    "summary": "The former DOJ watchdog wants to fuel antitrust cases against all kinds of monopolists. The former DOJ watchdog wants to fuel antitrust cases against all kinds of monopolists. Alongside former acting Antitrust Division chief Doha Mekki, Kanter recently launched a new tech startup, FluxCap.",
-    "sourceUrl": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
+    "title": "What could China get from Jensen Huang?",
+    "summary": "That dinner occurred shortly after Nvidia had shared the Trump administration’s new restrictions on its China-specific H20 chips in April. Huang’s relationship with Trump is also particularly relevant here. So far, the allegations haven’t affected Huang’s future at Nvidia.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
     "auto": true,
     "metiers": [
       "management",
-      "ops",
-      "product",
-      "tech"
+      "ops"
     ],
     "themes": [
-      "llm",
       "ethics"
     ],
     "resources": []
   },
   {
-    "id": "auto-bc55171edc52",
-    "date": "2026-11-08",
-    "source": "TechCrunch",
-    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-    "summary": "Nvidia’s board of directors announced Sunday that it’s launching an independent investigation following reports that CEO Jensen Huang was targeted by a Chinese spy operation.",
-    "sourceUrl": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-67abd93f196f",
-    "date": "2026-11-08",
+    "id": "auto-fd48ce2874be",
+    "date": "2026-11-09",
     "source": "The Verge",
-    "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-    "summary": "In the memo, Nvidia’s CEO acknowledges having an affair with a suspected Chinese spy. In the memo, Nvidia’s CEO acknowledges having an affair with a suspected Chinese spy. To my wife and family: I love you.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+    "title": "Here’s what Trump said he knew about Jensen Huang",
+    "summary": "In a White House press conference, President Trump was vague about when learned of Jensen Huang’s affair. In a White House press conference, President Trump was vague about when learned of Jensen Huang’s affair. Huang?” You didn’t answer that question.",
+    "sourceUrl": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-15c28179b2dc",
+    "date": "2026-11-09",
+    "source": "The Verge",
+    "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+    "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Alice Huang — no relation to Jensen — is a former TV reporter.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
     "auto": true,
     "metiers": [
       "csm",
@@ -152,286 +496,31 @@
     "resources": []
   },
   {
-    "id": "auto-ecd65815b585",
-    "date": "2026-11-08",
+    "id": "auto-4a7141713ab5",
+    "date": "2026-11-09",
     "source": "The Verge",
-    "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
-    "summary": "Following reports that Nvidia’s CEO had a ‘close relationship’ with an AI exec the company is opening an investigation. Following reports that Nvidia’s CEO had a ‘close relationship’ with an AI exec the company is opening an investigation.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-53044e44b3aa",
-    "date": "2026-11-08",
-    "source": "The Verge",
-    "title": "Apple is racing to make Siri more agentic",
-    "summary": "Future versions of Siri will be able to control third-party apps and perform more complex tasks. Future versions of Siri will be able to control third-party apps and perform more complex tasks.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+    "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+    "summary": "Logic Pro is Apple’s first app to charge for extended usage of Apple Intelligence.﻿\nLogic Pro is Apple’s first app to charge for extended usage of Apple Intelligence.﻿\nAfter publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to “Buy More Usage” for a one-time purchase price of $49.99, as spotted by 9to5Mac.",
+    "sourceUrl": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
     "auto": true,
     "metiers": [
-      "csm",
       "marketing",
       "product",
-      "sales",
       "tech"
     ],
     "themes": [
-      "agents",
+      "llm",
       "genai-product"
     ],
     "resources": []
   },
   {
-    "id": "auto-ae06ecf71872",
-    "date": "2026-11-08",
+    "id": "auto-f1eea0a2781a",
+    "date": "2026-11-09",
     "source": "The Verge",
-    "title": "Elvis and Eminem rights holders are suing Suno",
-    "summary": "Suno is facing two more lawsuits over AI music clones. Suno is facing two more lawsuits over AI music clones. Suno is facing yet another pair of lawsuits.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ed263cbbe1a4",
-    "date": "2026-11-07",
-    "source": "TechCrunch",
-    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-    "summary": "In dozens of local ballot measures, voters rejected data centers. And so there’s a financial incentive not to build all these data centers. Wall Street is probably not going to reward you for building data centers.",
-    "sourceUrl": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-69c75581d56f",
-    "date": "2026-11-07",
-    "source": "TechCrunch",
-    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-    "summary": "A memo circulated earlier this year claimed that technology executive Alice Huang was recruited by China’s Ministry of State Security to spy on Nvidia CEO Jensen Huang, according to multiple media reports.",
-    "sourceUrl": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-fa06ff8fdc83",
-    "date": "2026-11-07",
-    "source": "The Verge",
-    "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-    "summary": "So I was intrigued when my go-to recipe app, NYT Cooking, introduced an AI assistant. Overall, I found using the Cooking app more reliable, although messier. You can’t save your new recipe separately, which caused confusion when I was cooking the original.",
-    "sourceUrl": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product"
-    ],
-    "themes": [
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-73be1ddc7ff2",
-    "date": "2026-11-07",
-    "source": "The Verge",
-    "title": "The US let Nvidia sell chips to an empty office in China",
-    "summary": "The government is approving sales of Nvidia’s AI chips to Chinese firms with ties to blacklisted companies. The government is approving sales of Nvidia’s AI chips to Chinese firms with ties to blacklisted companies. What little information can be found about New Matrix is concerning.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-055e03fe8fc4",
-    "date": "2026-11-07",
-    "source": "The Verge",
-    "title": "AI broke the cybersecurity world. What’s next?",
-    "summary": "You wish you held it back. You recently said you were happy that happened. If you do not, you will get breached.",
-    "sourceUrl": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-8879475e62b3",
-    "date": "2026-11-07",
-    "source": "The Verge",
-    "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-    "summary": "AI is dramatically speeding up Anthropic’s research, even as the company calls for slowing down AI development. Anthropic had the power to redact information from METR’s final report — and it used that power extensively.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-36231604b288",
-    "date": "2026-11-07",
-    "source": "TechCrunch",
-    "title": "Crusoe sells troubled Wyoming data center project to Google",
-    "summary": "Crusoe, an eight-year-old, Denver-based data center developer recently valued at $30.9 billion, confirmed Friday it has sold an unfinished data center project in southeastern Wyoming to Google. Crusoe is developing another data center for Google near Amarillo, Texas.",
-    "sourceUrl": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-bc8f9eac1966",
-    "date": "2026-11-06",
-    "source": "OpenAI",
-    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-    "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-    "sourceUrl": "https://openai.com/index/partnering-with-hacktron",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-cfd4354afa14",
-    "date": "2026-11-06",
-    "source": "OpenAI",
-    "title": "Measuring how AI agents handle everyday wet-lab science",
-    "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-    "sourceUrl": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-be1ba71e55b7",
-    "date": "2026-11-06",
-    "source": "Hugging Face",
-    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-    "summary": "High-level reasoning models decide what to do; low-level action models control the robot’s movements. Execution of Molmo 2 (a high-level model) and ManiFlow (a low-level model) trained in ToyBlocks. We evaluate hierarchical models with explicit high-level planning and low-level execution models.",
-    "sourceUrl": "https://huggingface.co/blog/allenai/toyblocks",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-314bd089789a",
-    "date": "2026-11-06",
-    "source": "TechCrunch",
-    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-    "summary": "OpenAI has reportedly raised $11 billion so far in a new funding round that values the AI lab at $1.25 trillion. In late September, Bloomberg reported that OpenAI was looking to raise $30 billion in the upcoming round.",
-    "sourceUrl": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-4758b3e08407",
-    "date": "2026-11-06",
-    "source": "TechCrunch",
-    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-    "summary": "The hacking software, called Artex, is an open source autonomous penetration testing tool, meaning software that automatically probes computer systems for weaknesses, and it’s been linked to several cyberattacks since its public release in July.",
-    "sourceUrl": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-46e88a02e034",
-    "date": "2026-11-06",
-    "source": "TechCrunch",
-    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-    "summary": "Meta recently launched its Muse agents — a new generation of cuddly agentic helpers. For instance, if you wanted to plan a vacation, you could open a new Space focused on that particular project, and whenever you want to work on it with Muse, you would click to open that particular tab.",
-    "sourceUrl": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+    "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on “daunting” technical challenges. Claude Fable 5.2 is launching today. The new 5.2 models follow the release of Claude Fable 5.1 and Claude Mythos 5.1 in September.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
     "auto": true,
     "metiers": [
       "csm",
@@ -446,125 +535,12 @@
     "resources": []
   },
   {
-    "id": "auto-860444638104",
-    "date": "2026-11-06",
-    "source": "TechCrunch",
-    "title": "How a Blue Wave midterm might reshape the AI industry",
-    "summary": "midterm elections could also transform the tech industry. He lives in New York City. You can contact or verify outreach from Anthony by emailing [email protected].",
-    "sourceUrl": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ead671d25881",
-    "date": "2026-11-06",
-    "source": "TechCrunch",
-    "title": "After the midterms, is the AI industry in for a rough two years?",
-    "summary": "midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. He lives in New York City.",
-    "sourceUrl": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d275be2a1267",
-    "date": "2026-11-06",
-    "source": "TechCrunch",
-    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-    "summary": "Median firms spend $12-$15 per employee per month, and the top 10% spend $600-$1,000. “OpenAI and Anthropic price cuts have…just made it cheaper to use AI,” he said. “For a lot of AI use cases, you just need a simple Yes/No,” Kharazian said.",
-    "sourceUrl": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ab4846bbc512",
-    "date": "2026-11-06",
-    "source": "TechCrunch",
-    "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-    "summary": "The company on Friday said it is launching a feature that lets customers chat with its Alexa AI agent over text messages to help them shop, much like you can with AI agents like Muse or Instinct. customers will get a text asking them to enable the shopping feature.",
-    "sourceUrl": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6813d62fd925",
-    "date": "2026-11-06",
+    "id": "auto-9d5aee5d27ee",
+    "date": "2026-11-09",
     "source": "The Verge",
-    "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-    "summary": "CEO Sam Altman said recently that OpenAI is prioritizing safety instead of going ‘guns blazing’ toward an IPO.﻿\nCEO Sam Altman said recently that OpenAI is prioritizing safety instead of going ‘guns blazing’ toward an IPO.﻿\nOpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1bc7ba2a28c4",
-    "date": "2026-11-06",
-    "source": "The Verge",
-    "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-    "summary": "China’s intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times.",
-    "sourceUrl": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-c0641eb0de56",
-    "date": "2026-11-06",
-    "source": "The Verge",
-    "title": "All the latest updates on AI data centers",
-    "summary": "Data centers were a major bipartisan issue ahead of the 2026 midterms, and voters largely opposed data center expansion at the polls. People hate data centers. “AI data centers are destroying our climate.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+    "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+    "summary": "The Effect Builder bot is available on the web to build whatever new Instagram filters you can think of.﻿\nThe Effect Builder bot is available on the web to build whatever new Instagram filters you can think of.﻿\nAfter expanding its Edits app to macOS last week, Instagram’s next move is launching this Effect Builder that generates custom filters for your Stories posts with AI.",
+    "sourceUrl": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
     "auto": true,
     "metiers": [
       "csm",
