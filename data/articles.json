@@ -1,5 +1,337 @@
 [
   {
+    "id": "auto-567fa298898a",
+    "date": "2026-11-14",
+    "source": "The Verge",
+    "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+    "summary": "“Jensen is Nvidia, and Nvidia is Jensen,” Jon Peddie, a computer industry analyst who’s been tracking Nvidia since its inception, tells me. But Nvidia isn’t Jensen anymore. “Make no mistake – it was the Jensen Huang company.",
+    "sourceUrl": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5bf4951adbe9",
+    "date": "2026-11-13",
+    "source": "OpenAI",
+    "title": "Introducing ChatGPT Wallet",
+    "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "sourceUrl": "https://openai.com/index/introducing-chatgpt-wallet",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d1318183fe17",
+    "date": "2026-11-13",
+    "source": "OpenAI",
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+    "sourceUrl": "https://openai.com/business/customer-stories/shield",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2427bacb74a9",
+    "date": "2026-11-13",
+    "source": "Hugging Face",
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "summary": "This example combines the UR17G arm, Robotiq 2F-140 gripper, and beverage can in Isaac Sim. The arm validation report uses the Robot-Body 4.0.0 profile and the gripper validation report uses Robot-Gripper 3.0.0. Joint settings for the UR17G arm and Robotiq 2F-140 gripper in Isaac Sim.",
+    "sourceUrl": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-8400bdfe1e2a",
+    "date": "2026-11-13",
+    "source": "Hugging Face",
+    "title": "XYBench: Helping with the problem behind the question",
+    "summary": "On Stack Overflow, stated-request solutions appeared in 75–86% of responses, compared with 59–71% for underlying-goal solutions. We measured overall emphasis separately: on Stack Overflow, models focused primarily on the underlying goal in only 35–41% of their responses, and on the stated request in 47–57%.",
+    "sourceUrl": "https://huggingface.co/blog/allenai/xybench",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-40e78db6601d",
+    "date": "2026-11-13",
+    "source": "Hugging Face",
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "summary": "Moving forward, both llama.cpp and ggml will reflect API and ABI incompatibilities with major-version bumps. The underlying machine learning engine of llama.cpp - ggml is designed to run on virtually any hardware in existence.",
+    "sourceUrl": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ec577d4c46a6",
+    "date": "2026-11-13",
+    "source": "TechCrunch",
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "summary": "Jensen Huang, Nvidia’s embattled CEO who co-founded and led the company for 33 years, had officially stepped down. Nvidia was often the largest investor in the deals. “When Nvidia was on the cap table, everyone felt safe,” Padval said.",
+    "sourceUrl": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-645e798427f9",
+    "date": "2026-11-13",
+    "source": "TechCrunch",
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "summary": "Agent management startup LangChain has raised a $300 million Series C at a $3 billion valuation led by CapitalG, with participation from investors, including Singapore’s GIC, DFJ Growth, IVP, and Sapphire Ventures, the company announced on Friday.",
+    "sourceUrl": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-3dc626ea28ff",
+    "date": "2026-11-13",
+    "source": "TechCrunch",
+    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+    "summary": "The leading open-weight models developed by Chinese companies were trained on Nvidia chips that the U.S. Nvidia CEO Jensen Huang left the company this week after admitting to his affair with Alice Huang, executive of Megaspeed, a company implicated in smuggling Nvidia chips into China.",
+    "sourceUrl": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c231d25e54b9",
+    "date": "2026-11-13",
+    "source": "TechCrunch",
+    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+    "summary": "ChatGPT can now shop for you. On Friday, OpenAI launched a new wallet feature that lets its agents, called dots, help you decide what to buy and then complete the purchase on your behalf. Other personal AI agents, like Instinct, also support making purchases on users’ behalf.",
+    "sourceUrl": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-59c58e3f39cc",
+    "date": "2026-11-13",
+    "source": "TechCrunch",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "summary": "Nvidia, Huang and Powell have not confirmed the report. Nvidia said its board had accepted Huang’s resignation on Wednesday. Jensen Huang had been spotted socializing with Megaspeed executive Alice Huang as early as 2024 in Taiwan, where the Nvidia CEO was born.",
+    "sourceUrl": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-744da6a2871c",
+    "date": "2026-11-13",
+    "source": "TechCrunch",
+    "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+    "summary": "In the last few months, Fireflies, Wispr Flow, and Granola have all released competing capabilities in the dictation and meeting note-taking space. ElevenLabs also allows companies to integrate ElevenAgent and take follow-up actions such as writing a draft email based on meeting notes.",
+    "sourceUrl": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-04367a7d0b10",
+    "date": "2026-11-13",
+    "source": "The Verge",
+    "title": "Amazon has a plan to index the world’s online shopping data",
+    "summary": "Listing the details of everything for sale everywhere is meant to make Amazon more useful than Reddit for people and AI agents.﻿\nListing the details of everything for sale everywhere is meant to make Amazon more useful than Reddit for people and AI agents.﻿\nAmazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn’t sell, and make the information available through its own site, according to Reuters.",
+    "sourceUrl": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-951c84561943",
+    "date": "2026-11-13",
+    "source": "The Verge",
+    "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+    "summary": "OpenAI says ChatGPT Wallet won’t share your actual credit card info with its AI agents.﻿\nOpenAI says ChatGPT Wallet won’t share your actual credit card info with its AI agents.﻿\nAfter launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-627c324df106",
+    "date": "2026-11-13",
+    "source": "The Verge",
+    "title": "What’s really at stake in the Jensen Huang saga",
+    "summary": "On The Vergecast: The many spiraling stories in the AI world, the fate of streaming services, Mark Zuckerberg’s meat, and more. In case you missed it this week: We also talked about private torrent trackers, reviewed the Apple HomeView, took your questions on the Vergecast Hotline, and discussed the Huang saga… a lot.",
+    "sourceUrl": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-cd9d1a105b69",
+    "date": "2026-11-13",
+    "source": "The Verge",
+    "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+    "summary": "Claude Duet is even more focused on work than those. Like Meta’s Muse, Duet has its own app. Duet uses Claude’s characteristically cheery, minimalist design.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-71dad9da95c2",
+    "date": "2026-11-13",
+    "source": "The Verge",
+    "title": "Let’s talk about Jensen Huang’s many affairs!",
+    "summary": "President Donald Trump was reportedly warned about Alice “No Relation” Huang’s possible connections to China’s spy apparatus last year, and again before his China trip in May. Nvidia reportedly intervened into a Commerce Department investigation into Alice’s company.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
     "id": "auto-f240bb31094b",
     "date": "2026-11-13",
     "source": "TechCrunch",
@@ -243,354 +575,6 @@
       "llm",
       "agents",
       "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f7effce2db92",
-    "date": "2026-11-12",
-    "source": "TechCrunch",
-    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-    "summary": "Announced Thursday, its new “Creator Agent” can search for creators, check their content and brand partnerships, send personalized messages, coordinate collaborations, and monitor how campaigns perform.",
-    "sourceUrl": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-baccdaa9b550",
-    "date": "2026-11-12",
-    "source": "TechCrunch",
-    "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-    "summary": "Huang’s influence extended beyond Nvidia’s investments and product roadmap. Still, supporting open source isn’t simply a passion project Huang pursued out of idealism. Huang may be gone, but Nvidia still needs an open AI ecosystem.",
-    "sourceUrl": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-deea79b353af",
-    "date": "2026-11-12",
-    "source": "TechCrunch",
-    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-    "summary": "Huang’s advocacy for open source and open-weight AI has long extended beyond Hugging Face. government not to over-restrict open-weight AI models. “Open models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty,” his post on X stated.",
-    "sourceUrl": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f5707a3468d9",
-    "date": "2026-11-12",
-    "source": "TechCrunch",
-    "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-    "summary": "The airline is the latest American corporate giant to prevent customers from using AI agents and autonomous assistants to access their systems. Sharing passwords with apps and assistants can create security risks if those credentials get leaked or exposed.",
-    "sourceUrl": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ddf7a6c150d0",
-    "date": "2026-11-12",
-    "source": "TechCrunch",
-    "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-    "summary": "Witness its $30 billion bet on OpenAI in early 2025 or its announcement in February that its SB Energy subsidiary would spend $33 billion on a 9.2-gigawatt natural gas power plant. SoftBank’s natural gas-related losses are unlikely to have a domino effect, leading to mass cancellations of gas power plants.",
-    "sourceUrl": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d0b6d30c7ec6",
-    "date": "2026-11-12",
-    "source": "TechCrunch",
-    "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-    "summary": "The founders discovered that users were taking more photos because they knew Phota Labs could enhance them later. “We’re turning something that’s unusable into something that people want to print,” Zhang said.",
-    "sourceUrl": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0fd7ae7044e5",
-    "date": "2026-11-12",
-    "source": "TechCrunch",
-    "title": "Jensen Huang agrees to testify before Congress",
-    "summary": "Ex-Nvidia CEO Jensen Huang has agreed to testify before Congress, House Foreign Affairs Committee Chairman Brian Mast said on Thursday, according to reports from Bloomberg and NBC News.",
-    "sourceUrl": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-0ff22abf6100",
-    "date": "2026-11-12",
-    "source": "TechCrunch",
-    "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-    "summary": "Huang has been the biggest, loudest advocate for open-weight AI models in the tech industry and among government policymakers. a FINRA-like board?), Huang rallied the tech industry again. Huang sold a vision of Nvidia as “investable infrastructure” with a long resale cycle, like airplanes.",
-    "sourceUrl": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a5ee89764269",
-    "date": "2026-11-12",
-    "source": "TechCrunch",
-    "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-    "summary": "President Donald Trump is floating the idea that former Apple CEO Tim Cook should take over the position. In a post on Truth Social, Trump wrote that “only one man” could take Huang’s place: Tim Cook of Apple.",
-    "sourceUrl": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-15b0384fb53f",
-    "date": "2026-11-12",
-    "source": "TechCrunch",
-    "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
-    "summary": "While the company conducts a more thorough search for Huang’s successor, Nvidia CFO and Executive Vice President Colette Kress has taken over as interim CEO. According to Nvidia’s website, Kress has worked at the company since September 2013.",
-    "sourceUrl": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-62c34abfa66e",
-    "date": "2026-11-12",
-    "source": "TechCrunch",
-    "title": "Norwest pushes deeper into AI with new $4B fund",
-    "summary": "Adapting to an agentic environment means applying AI broadly across products and services that solve problems.”\nCrowe added that the firm is particularly excited about early-stage companies building AI-native application and infrastructure, physical AI, domain-specific models, and cybersecurity solutions.",
-    "sourceUrl": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-023d1c79ca20",
-    "date": "2026-11-12",
-    "source": "TechCrunch",
-    "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-    "summary": "A cyberattack at Fireworks AI has exposed some of its customers’ data, the company has confirmed. The company said in its latest security advisory that the cybercriminals took Fireworks’ customers’ billing information and some datasets.",
-    "sourceUrl": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-07356858caea",
-    "date": "2026-11-12",
-    "source": "MIT Technology Review",
-    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-    "summary": "Other technology Nvidia has built for its customers suggests that the company can indeed offer accurate tracking of its chips’ locations. Megaspeed reportedly bought chips from Supermicro, a company that packages Nvidia’s chips onto servers.",
-    "sourceUrl": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3403360ccc1d",
-    "date": "2026-11-12",
-    "source": "The Verge",
-    "title": "Google’s new Gemini model is better at understanding complicated questions",
-    "summary": "Google’s Robby Stein says Gemini 4 Hydrogen is ‘the biggest model upgrade to Search yet.’﻿\nGoogle’s Robby Stein says Gemini 4 Hydrogen is ‘the biggest model upgrade to Search yet.’﻿\nGoogle says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including “questions with multiple parts, hard-to-understand typos, or highly specific requests.” The new model can break down your questions and address each part in its responses.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3b869b1138e3",
-    "date": "2026-11-12",
-    "source": "The Verge",
-    "title": "No, AI agents did not discover a previously unknown Maya site",
-    "summary": "Local communities are often already well aware of sites in their area. As “Peru isn’t well covered” by public lidar data, Miotti wrote, he shifted his focus to the Maya region.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d545fdc617b9",
-    "date": "2026-11-12",
-    "source": "The Verge",
-    "title": "Oh, Palantir is ‘progressive’ now, is it?",
-    "summary": "You are now chastened. You want to work for public accountability. You are sorry about the dumb things you said while you were high.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-96892311de09",
-    "date": "2026-11-12",
-    "source": "The Verge",
-    "title": "The Jensen Huang scandal is hardly over",
-    "summary": "I was certain, until the story of Jensen Huang’s second affair hit, that Huang was bulletproof. First thing Thursday morning, Nvidia announced Huang had resigned. One is Megaspeed, which involves Huang’s maybe-spy affair partner.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
     ],
     "resources": []
   },
