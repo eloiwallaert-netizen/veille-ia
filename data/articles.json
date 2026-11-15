@@ -1,5 +1,129 @@
 [
   {
+    "id": "auto-acaf00569e86",
+    "date": "2026-11-15",
+    "source": "TechCrunch",
+    "title": "Where was Nvidia’s security team?",
+    "summary": "investigators suspect of funneling Nvidia chips to China, then widening to reports about two separate affairs with Nvidia employees. Zdjelar didn’t respond to questions Thursday about the transition or what the security team knew.",
+    "sourceUrl": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-4c525e5e54fa",
+    "date": "2026-11-15",
+    "source": "The Verge",
+    "title": "An overview of Jensen Huang’s messy days",
+    "summary": "Many believed that Jensen Huang would survive the scandal. Even before Jensen Huang had resigned, Nvidia was already facing a shareholder lawsuit claiming the company had deceived investors. There is a possibility that Jensen Huang could face criminal charges.",
+    "sourceUrl": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a4a92fbcda03",
+    "date": "2026-11-14",
+    "source": "TechCrunch",
+    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "summary": "The petition website said the signers include 5,965 current Nvidia employees, 1,108 former employees, and 63,063 shareholders. Notable supporters include Tesla and SpaceX CEO Elon Musk, Replit CEO Amjad Masad, Epic Games CEO Tim Sweeney, and Y Combinator CEO Garry Tan.",
+    "sourceUrl": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-7134e7e1ad67",
+    "date": "2026-11-14",
+    "source": "TechCrunch",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "summary": "The company has also shut down several stand-alone apps and folded their features directly into ChatGPT — a strategy that’s worked out better than the redesign did.",
+    "sourceUrl": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-075bbfb634c2",
+    "date": "2026-11-14",
+    "source": "TechCrunch",
+    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+    "summary": "On Sunday, November 8, Nvidia’s board launched an independent investigation after reports that Huang was targeted by a Chinese spy operation; Huang admitted to an affair with Alice Huang, a former executive at Singapore-based chip company Megaspeed.",
+    "sourceUrl": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d46b516a4c83",
+    "date": "2026-11-14",
+    "source": "The Verge",
+    "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+    "summary": "You mentioned bioweapons. You have some hindsight now. You mentioned China before.",
+    "sourceUrl": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-567fa298898a",
     "date": "2026-11-14",
     "source": "The Verge",
@@ -464,117 +588,6 @@
       "llm",
       "automation",
       "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-55d7d41513d8",
-    "date": "2026-11-12",
-    "source": "TechCrunch",
-    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-    "summary": "Democrats on Thursday opened an inquiry into how the Trump administration handled Nvidia’s chip sales to China. officials suspect of helping route advanced Nvidia chips into China.",
-    "sourceUrl": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1a628d755dc3",
-    "date": "2026-11-12",
-    "source": "TechCrunch",
-    "title": "Muse can now place calls to US businesses — if you pay",
-    "summary": "🚨MUSE FEATURE ALERT!!!🚨lots of you have been asking for this one…muse can make phone calls for you! ☎️📞📲let muse take care of all those calls you don’t want to make. Currently, Muse subscription plans start at $20 per month for 500 million Muse tokens per week.",
-    "sourceUrl": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5e5f306d785f",
-    "date": "2026-11-12",
-    "source": "TechCrunch",
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "summary": "Nvidia, Huang, and Powell have not confirmed the report. President Donald Trump was briefed about intelligence findings that possible Chinese spy Alice Huang had formed a close relationship with Jensen Huang.",
-    "sourceUrl": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-412b4e746837",
-    "date": "2026-11-12",
-    "source": "TechCrunch",
-    "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-    "summary": "Nebius said that Microsoft “has been part of the planning process.” Nebius did not say whether Microsoft has agreed to the new dates, but Microsoft has not publicly canceled anything. TechCrunch has reached out to Nebius, Microsoft, and DataOne for comment.",
-    "sourceUrl": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e153c4dc0f7f",
-    "date": "2026-11-12",
-    "source": "TechCrunch",
-    "title": "Jensen Huang was having a third affair, Reuters reports",
-    "summary": "Nvidia founder Jensen Huang was having a separate affair with an employee that has not been previously reported, Reuters reported on Thursday.",
-    "sourceUrl": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-ce9a468b53e9",
-    "date": "2026-11-12",
-    "source": "TechCrunch",
-    "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-    "summary": "In terms of intent, Google says Hydrogen can handle more nuanced and complicated questions more quickly. Hydrogen is also better at navigating hard-to-understand typos, Google says. Google says the Hydrogen update is rolling out to all Search users globally.",
-    "sourceUrl": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation"
     ],
     "resources": []
   },
