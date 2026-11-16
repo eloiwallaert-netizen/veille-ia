@@ -1,5 +1,278 @@
 [
   {
+    "id": "auto-91e58e2ea930",
+    "date": "2026-11-16",
+    "source": "OpenAI",
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+    "sourceUrl": "https://openai.com/index/lvmh-media-division-partnership",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-e3915f7e4cf0",
+    "date": "2026-11-16",
+    "source": "OpenAI",
+    "title": "The King’s Trust and OpenAI launch £1m partnership",
+    "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+    "sourceUrl": "https://openai.com/index/the-kings-trust-and-openai",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-717626b76ea0",
+    "date": "2026-11-16",
+    "source": "Google AI Blog",
+    "title": "New Ask Maps features to help with holiday travel and prep",
+    "summary": "Build custom road trip itineraries, get route tips, find local appointments, and search your saved lists with new Ask Maps features. We are launching new Ask Maps features to help you plan holiday itineraries, find local appointments, and search your saved lists.",
+    "sourceUrl": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-8cd345b9ca86",
+    "date": "2026-11-16",
+    "source": "TechCrunch",
+    "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+    "summary": "The startup has also replaced established CRM platforms at several businesses, including Salesforce at healthcare company DMS Health and HubSpot at other customers.",
+    "sourceUrl": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-77828770ffb5",
+    "date": "2026-11-16",
+    "source": "TechCrunch",
+    "title": "Apple launches new app to study how people use AI for health",
+    "summary": "Apple is debuting a new study to understand how people use AI for health. Apple said that the app will try to give simplified answers to everyday medical questions. The potential is huge — earlier this year, OpenAI said users were asking over 300 million health-related queries each week.",
+    "sourceUrl": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-29a19e1aacc6",
+    "date": "2026-11-16",
+    "source": "The Verge",
+    "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+    "summary": "Audible’s new audio discovery feature will read you an AI overview of your next audiobook.﻿\nAudible’s new audio discovery feature will read you an AI overview of your next audiobook.﻿\nIf you buy something from a link, The Verge may earn a commission.",
+    "sourceUrl": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-dd02c35afc86",
+    "date": "2026-11-16",
+    "source": "The Verge",
+    "title": "Google Maps can now create trip itineraries for you",
+    "summary": "The AI-powered Ask Maps feature can suggest stops for your next trip, while providing real-time details about each location. The AI-powered Ask Maps feature can suggest stops for your next trip, while providing real-time details about each location.",
+    "sourceUrl": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2b2bb87b4857",
+    "date": "2026-11-16",
+    "source": "The Verge",
+    "title": "The Nvidia scandal isn’t slowing down",
+    "summary": "As of last Wednesday, however, Huang — a pivotal figure in the industry — is no longer CEO of Nvidia. There’s reportedly been a petition to bring back Huang by some Nvidia employees, as well as reports of Huang assembling a “war room” of allies to float a comeback as Nvidia CEO.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f7214e14d1e1",
+    "date": "2026-11-16",
+    "source": "The Verge",
+    "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+    "summary": "The study will be conducted through a new app where participants can ask health questions and rate the responses. The study will be conducted through a new app where participants can ask health questions and rate the responses.",
+    "sourceUrl": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-87d7014c15ee",
+    "date": "2026-11-15",
+    "source": "OpenAI",
+    "title": "A step toward defining the Standard Model on a lattice",
+    "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+    "sourceUrl": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-4b0fc5b701ff",
+    "date": "2026-11-15",
+    "source": "OpenAI",
+    "title": "Our new blog for science",
+    "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+    "sourceUrl": "https://openai.com/index/our-new-blog-for-science",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-fa232e2aaf8a",
+    "date": "2026-11-15",
+    "source": "TechCrunch",
+    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "summary": "Bharat Semi, Kapoor said, plans to use the funding to expand its engineering team, complete product development, and bring its sensors to market. headcount to around 20 by mid-2027, Kapoor said. The project is separate from Bharat Semi’s image-sensor business, Kapoor added.",
+    "sourceUrl": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-9e3d554c6cb5",
+    "date": "2026-11-15",
+    "source": "TechCrunch",
+    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "summary": "I mean, Jensen is Nvidia, right? And for most people, Jensen Huang is Nvidia. Where was Nvidia’s security team?",
+    "sourceUrl": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d9bb72c7b4b4",
+    "date": "2026-11-15",
+    "source": "TechCrunch",
+    "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+    "summary": "“Name one time technology has let us down,” he said, giving Mulaney a chance to remind viewers about flights being halted all across the United States on Friday night. You can contact or verify outreach from Anthony by emailing [email protected].",
+    "sourceUrl": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-2f1f5cbf7ce8",
+    "date": "2026-11-15",
+    "source": "The Verge",
+    "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+    "summary": "Megaspeed claims Alice Huang hasn’t worked there since August of 2025. Megaspeed claims Alice Huang hasn’t worked there since August of 2025.",
+    "sourceUrl": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-1207b5c1c70b",
+    "date": "2026-11-15",
+    "source": "The Verge",
+    "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+    "summary": "Following revelations about Jensen Huang’s relationship with a suspected Chinese spy Congress wants to crack down. Following revelations about Jensen Huang’s relationship with a suspected Chinese spy Congress wants to crack down.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
     "id": "auto-acaf00569e86",
     "date": "2026-11-15",
     "source": "TechCrunch",
@@ -277,317 +550,6 @@
     "themes": [
       "llm",
       "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3dc626ea28ff",
-    "date": "2026-11-13",
-    "source": "TechCrunch",
-    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-    "summary": "The leading open-weight models developed by Chinese companies were trained on Nvidia chips that the U.S. Nvidia CEO Jensen Huang left the company this week after admitting to his affair with Alice Huang, executive of Megaspeed, a company implicated in smuggling Nvidia chips into China.",
-    "sourceUrl": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c231d25e54b9",
-    "date": "2026-11-13",
-    "source": "TechCrunch",
-    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-    "summary": "ChatGPT can now shop for you. On Friday, OpenAI launched a new wallet feature that lets its agents, called dots, help you decide what to buy and then complete the purchase on your behalf. Other personal AI agents, like Instinct, also support making purchases on users’ behalf.",
-    "sourceUrl": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-59c58e3f39cc",
-    "date": "2026-11-13",
-    "source": "TechCrunch",
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "summary": "Nvidia, Huang and Powell have not confirmed the report. Nvidia said its board had accepted Huang’s resignation on Wednesday. Jensen Huang had been spotted socializing with Megaspeed executive Alice Huang as early as 2024 in Taiwan, where the Nvidia CEO was born.",
-    "sourceUrl": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-744da6a2871c",
-    "date": "2026-11-13",
-    "source": "TechCrunch",
-    "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
-    "summary": "In the last few months, Fireflies, Wispr Flow, and Granola have all released competing capabilities in the dictation and meeting note-taking space. ElevenLabs also allows companies to integrate ElevenAgent and take follow-up actions such as writing a draft email based on meeting notes.",
-    "sourceUrl": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-04367a7d0b10",
-    "date": "2026-11-13",
-    "source": "The Verge",
-    "title": "Amazon has a plan to index the world’s online shopping data",
-    "summary": "Listing the details of everything for sale everywhere is meant to make Amazon more useful than Reddit for people and AI agents.﻿\nListing the details of everything for sale everywhere is meant to make Amazon more useful than Reddit for people and AI agents.﻿\nAmazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn’t sell, and make the information available through its own site, according to Reuters.",
-    "sourceUrl": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-951c84561943",
-    "date": "2026-11-13",
-    "source": "The Verge",
-    "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-    "summary": "OpenAI says ChatGPT Wallet won’t share your actual credit card info with its AI agents.﻿\nOpenAI says ChatGPT Wallet won’t share your actual credit card info with its AI agents.﻿\nAfter launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-627c324df106",
-    "date": "2026-11-13",
-    "source": "The Verge",
-    "title": "What’s really at stake in the Jensen Huang saga",
-    "summary": "On The Vergecast: The many spiraling stories in the AI world, the fate of streaming services, Mark Zuckerberg’s meat, and more. In case you missed it this week: We also talked about private torrent trackers, reviewed the Apple HomeView, took your questions on the Vergecast Hotline, and discussed the Huang saga… a lot.",
-    "sourceUrl": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-cd9d1a105b69",
-    "date": "2026-11-13",
-    "source": "The Verge",
-    "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-    "summary": "Claude Duet is even more focused on work than those. Like Meta’s Muse, Duet has its own app. Duet uses Claude’s characteristically cheery, minimalist design.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-71dad9da95c2",
-    "date": "2026-11-13",
-    "source": "The Verge",
-    "title": "Let’s talk about Jensen Huang’s many affairs!",
-    "summary": "President Donald Trump was reportedly warned about Alice “No Relation” Huang’s possible connections to China’s spy apparatus last year, and again before his China trip in May. Nvidia reportedly intervened into a Commerce Department investigation into Alice’s company.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-f240bb31094b",
-    "date": "2026-11-13",
-    "source": "TechCrunch",
-    "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-    "summary": "Former Nvidia CEO Jensen Huang’s resignation has been received with worry in Israel, the company’s “second home,” as Huang described it in 2023. Nvidia also made plans to build a multibillion-dollar campus in northern Israel.",
-    "sourceUrl": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-025949940b1f",
-    "date": "2026-11-13",
-    "source": "TechCrunch",
-    "title": "Jensen Huang didn’t show confidence in his successor, report says",
-    "summary": "Former NVIDIA CEO Jensen Huang described Collette Kress, the company’s CFO who has now replaced him as interim CEO, as “a deer in the headlights” during a presentation earlier in the summer, the Wall Street Journal reported, citing an anonymous source.",
-    "sourceUrl": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-5b0f73df89a6",
-    "date": "2026-11-12",
-    "source": "OpenAI",
-    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-    "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-    "sourceUrl": "https://openai.com/business/customer-stories/amplitude",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-90d79223706e",
-    "date": "2026-11-12",
-    "source": "OpenAI",
-    "title": "Gondola doubles revenue as its team builds more with Codex",
-    "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-    "sourceUrl": "https://openai.com/business/customer-stories/gondola",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-459a57b4750a",
-    "date": "2026-11-12",
-    "source": "Google AI Blog",
-    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-    "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more intuitive, visual, and precise answers. We are bringing Gemini 4 Hydrogen to Google Search to help you find exactly what you need. Today, Google Search is bringing cutting-edge intelligence to everyone with Gemini 4 Hydrogen.",
-    "sourceUrl": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a88bddb17214",
-    "date": "2026-11-12",
-    "source": "Hugging Face",
-    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-    "summary": "Today we are releasing two experimental preview models, derived from Granite 4.1 base models, trained to consume and generate LLMON-marked text: granite-4.1-3b-LLMON-preview and granite-4.1-8b-LLMON-preview. This is the problem LLMON’s instruction/data separation is designed to address.",
-    "sourceUrl": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-56dac742ff29",
-    "date": "2026-11-12",
-    "source": "Hugging Face",
-    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-    "summary": "The sparse-structure flow DiT predicts the object's coarse shape. Thus, the shape flow DiT and the texture flow DiT are sparse transformers. We add LoRA adapters only to the sparse-structure flow DiT and the shape flow DiT.",
-    "sourceUrl": "https://huggingface.co/blog/3d-lora-finetuning",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "data"
     ],
     "resources": []
   },
