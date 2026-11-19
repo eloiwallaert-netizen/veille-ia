@@ -1,62 +1,57 @@
 [
   {
-    "id": "auto-6cab9c8cd383",
-    "date": "2026-11-18",
-    "source": "OpenAI",
-    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-    "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-    "sourceUrl": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-679cee5ea146",
-    "date": "2026-11-18",
-    "source": "Hugging Face",
-    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-    "summary": "Today we're open sourcing Rumble-2-Flash under the Apache 2.0 license. Rumble-2-Flash uses the Qwen3-ASR architecture for day-0 support. Rumble-2-Flash is also fast.",
-    "sourceUrl": "https://huggingface.co/blog/rumble-2-flash",
+    "id": "auto-1501adb883e7",
+    "date": "2026-11-19",
+    "source": "TechCrunch",
+    "title": "Superhuman pushes its Go assistant everywhere",
+    "summary": "Superhuman is revamping its onboarding flow to let users connect their preferred tools and load context about their work upfront. The company is also thinking about adding AI to different products, including Docs and Superhuman Mail.",
+    "sourceUrl": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
     "auto": true,
     "metiers": [
       "csm",
-      "management",
+      "marketing",
       "ops",
       "product",
+      "sales",
       "tech"
     ],
     "themes": [
       "llm",
-      "ethics",
+      "agents",
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a8022fb06095",
+    "date": "2026-11-19",
+    "source": "TechCrunch",
+    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "summary": "“Let’s take software engineering.",
+    "sourceUrl": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
       "data"
     ],
     "resources": []
   },
   {
-    "id": "auto-5d3a453ab03d",
-    "date": "2026-11-18",
-    "source": "TechCrunch",
-    "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
-    "summary": "She reportedly reduced the backstop guarantee for the OpenAI  project from $250 billion down to $105 billion. But, she said, Nvidia was going to be far more selective in the future. She isn’t saying she will pull the rug out from under Nvidia’s customers.",
-    "sourceUrl": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-620756f297e9",
-    "date": "2026-11-18",
-    "source": "TechCrunch",
-    "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-    "summary": "Businesses also sometimes use general-purpose AI models to extract information from documents, giving Unsiloed another set of competitors. Mishra told TechCrunch that Unsiloed’s advantage lies in how it processes complex documents. Unsiloed’s pricing, Mishra said, starts at one cent per page.",
-    "sourceUrl": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+    "id": "auto-0b3a38ae0a19",
+    "date": "2026-11-19",
+    "source": "The Verge",
+    "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+    "summary": "Anthropic did not respond to a request for comment. “You can’t do safety from second place,” said Anthropic policy chief Sarah Heck in September. This explanation hasn’t satisfied everyone, including some Anthropic employees.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
     "auto": true,
     "metiers": [
       "csm",
@@ -67,86 +62,37 @@
       "tech"
     ],
     "themes": [
-      "llm",
       "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-996c920e2c06",
-    "date": "2026-11-18",
-    "source": "TechCrunch",
-    "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-    "summary": "Humyn Labs says it has 12 paying customers, including frontier AI labs, robotics companies, and developers of world models. That growth has also increased Humyn Labs’ need for working capital, Agarwal said, explaining the $21 million venture debt component.",
-    "sourceUrl": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
       "ethics"
     ],
     "resources": []
   },
   {
-    "id": "auto-d652f478feee",
-    "date": "2026-11-18",
-    "source": "TechCrunch",
-    "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-    "summary": "Nvidia’s equity in private companies continues to grow: it revealed its stakes are now worth $65.5 billion on Tuesday, up from the $22 billion reported in January. The company invested $16 billion into equities in the past quarter alone, it said, and $58 billion in the past nine months of its fiscal year.",
-    "sourceUrl": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-83a48772429a",
-    "date": "2026-11-18",
-    "source": "TechCrunch",
-    "title": "Nvidia promises that revenue will keep soaring — for now",
-    "summary": "Despite the turmoil at Nvidia following the departure of its disgraced founder and CEO Jensen Huang, the company — as expected — delivered a solid quarter on Tuesday.",
-    "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-d1dd49b4f83d",
-    "date": "2026-11-18",
-    "source": "MIT Technology Review",
-    "title": "This smell startup says its AI nose is as good as a human’s",
-    "summary": "But even with all this smell data, Osmo may be missing some of the factors that make human olfaction unique, Schmuker says. “Smell is super complex. Context is very important for smell.",
-    "sourceUrl": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+    "id": "auto-029ded4e9a8f",
+    "date": "2026-11-19",
+    "source": "The Verge",
+    "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+    "summary": "Apple’s Siri Recaps make a lot of tradeoffs to protect privacy. Apple’s Siri Recaps make a lot of tradeoffs to protect privacy. Apple presents Siri Recap as a sort of backup notetaker.",
+    "sourceUrl": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
     "auto": true,
     "metiers": [
       "csm",
-      "management",
-      "marketing",
       "ops",
-      "product",
+      "sales",
       "tech"
     ],
     "themes": [
-      "llm",
-      "ethics",
-      "genai-product",
-      "data"
+      "automation"
     ],
     "resources": []
   },
   {
-    "id": "auto-84d2fa603ef6",
-    "date": "2026-11-18",
+    "id": "auto-fdfefb89d613",
+    "date": "2026-11-19",
     "source": "The Verge",
-    "title": "Will Wright’s next game uses AI to map your memories",
-    "summary": "The MyMems website describes the mobile game as a “social simulation” with worlds “built from your memories and the people who shaped you.” You can add “memories” to your game, like speaking a short story to your phone, and those memories are generated into pieces you can place on the game’s map.",
-    "sourceUrl": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+    "title": "Canva adds an AI ‘off’ button",
+    "summary": "You can also select an option to see less AI-generated content in Canva’s library. Canva will now allow you to turn off its generative AI features. You can also now switch a toggle to see less AI content in Canva’s content library.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
     "auto": true,
     "metiers": [
       "marketing",
@@ -158,91 +104,133 @@
     "resources": []
   },
   {
-    "id": "auto-ce416493dbd7",
+    "id": "auto-e683d40fba10",
     "date": "2026-11-18",
-    "source": "The Verge",
-    "title": "Nvidia isn’t selling any more AI chips to China",
-    "summary": "After former CEO Jensen Huang fought for US approval to sell H200 chips in China, Nvidia is now walking away.﻿\nAfter former CEO Jensen Huang fought for US approval to sell H200 chips in China, Nvidia is now walking away.﻿\nNvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year.",
-    "sourceUrl": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+    "source": "OpenAI",
+    "title": "The Silent Consensus",
+    "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+    "sourceUrl": "https://openai.com/index/the-silent-consensus",
     "auto": true,
     "metiers": [],
     "themes": [],
     "resources": []
   },
   {
-    "id": "auto-da6c827addce",
+    "id": "auto-9fa731b0ef6c",
     "date": "2026-11-18",
-    "source": "The Verge",
-    "title": "Suno now lets you make AI videos for your AI music",
-    "summary": "The new Visuals feature generates images and 15-second videos that automatically sync with Suno songs.﻿\nThe new Visuals feature generates images and 15-second videos that automatically sync with Suno songs.﻿\nSuno has introduced image and video generation in its latest effort to expand beyond being an AI music platform.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+    "source": "OpenAI",
+    "title": "Research acceleration: The jagged frontier",
+    "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+    "sourceUrl": "https://openai.com/index/research-acceleration-jagged-frontier",
     "auto": true,
     "metiers": [
       "csm",
-      "management",
-      "ops",
+      "product",
       "sales",
       "tech"
     ],
     "themes": [
-      "automation",
-      "ethics"
+      "agents"
     ],
     "resources": []
   },
   {
-    "id": "auto-549a77347d5e",
-    "date": "2026-11-17",
+    "id": "auto-b527b6f0ddce",
+    "date": "2026-11-18",
     "source": "OpenAI",
-    "title": "Introducing GPT-6.2 Astra and Sol",
-    "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-    "sourceUrl": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c6c361c53bc4",
-    "date": "2026-11-17",
-    "source": "OpenAI",
-    "title": "Introducing ChatGPT for Sales",
-    "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-    "sourceUrl": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+    "sourceUrl": "https://openai.com/business/customer-stories/sumitomo-life",
     "auto": true,
     "metiers": [],
     "themes": [],
     "resources": []
   },
   {
-    "id": "auto-0604bc2b50fc",
-    "date": "2026-11-17",
+    "id": "auto-53f2a14376dd",
+    "date": "2026-11-18",
     "source": "OpenAI",
-    "title": "Astra for Law leads in legal intelligence",
-    "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-    "sourceUrl": "https://openai.com/index/astra-law-6-2",
+    "title": "Inside the Codex sandbox",
+    "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+    "sourceUrl": "https://openai.com/index/inside-the-codex-sandbox",
     "auto": true,
     "metiers": [],
     "themes": [],
     "resources": []
   },
   {
-    "id": "auto-357d085ae06f",
-    "date": "2026-11-17",
+    "id": "auto-8b6ac2940fdc",
+    "date": "2026-11-18",
+    "source": "OpenAI",
+    "title": "Managing frontier AI risk: From training to deployment",
+    "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+    "sourceUrl": "https://openai.com/index/managing-frontier-ai-risk",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-c7d3ecb00643",
+    "date": "2026-11-18",
+    "source": "OpenAI",
+    "title": "Advancing chip design with OpenAI models",
+    "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+    "sourceUrl": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-03ca256a4adf",
+    "date": "2026-11-18",
     "source": "Google AI Blog",
-    "title": "Put Gemini to work for you",
-    "summary": "Our goal is for Gemini to save you time and money. Gemini helps with weeknight dinners, too. Open Gemini, flip the home-screen toggle from Chat to Task, and tell Gemini what you need done.",
-    "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "summary": "Until recently, hardware limits meant those phones only had basic voice commands. Now, we’re bringing the Gemini app to eligible Android (Go edition) devices, putting Google’s personal AI assistant in the hands of hundreds of millions more people.",
+    "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f689168723dc",
+    "date": "2026-11-18",
+    "source": "Hugging Face",
+    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "summary": "See the model card for model properties and inference settings. 57% lower training cost. Every training step of the DaisyRose-27B release run on 144 H200s, plotted against total training time.",
+    "sourceUrl": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-75623b38e68b",
+    "date": "2026-11-18",
+    "source": "Hugging Face",
+    "title": "Why your fine-tuning job takes longer than the FLOPs say",
+    "summary": "Predicting end-to-end fine-tuning time on shared GPU clusters, from 272 production runs. Distribution of end-to-end duration across the 272 runs. Mean feature importance of the CatBoost model across folds (PredictionValuesChange).",
+    "sourceUrl": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
     "auto": true,
     "metiers": [
       "csm",
       "management",
-      "marketing",
       "ops",
       "product",
       "sales",
@@ -250,271 +238,24 @@
     ],
     "themes": [
       "llm",
-      "agents",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-28509d8a3a74",
-    "date": "2026-11-17",
-    "source": "TechCrunch",
-    "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-    "summary": "Nvidia’s deal to sell H200 chips in China was brokered by Huang and President Donald Trump. chips from foreign data centers that serve Chinese customers remotely. Meanwhile, Chinese frontier labs are finding ways to access Nvidia chips elsewhere.",
-    "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-3feac0927710",
-    "date": "2026-11-17",
-    "source": "TechCrunch",
-    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-    "summary": "Nvidia interim CEO Colette Kress reaffirmed the company’s commitment to open source AI during Tuesday’s earnings call with analysts — the first since CEO Jensen Huang’s resignation. Huang had heavily advocated for open source AI technology.",
-    "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f8045fa626e2",
-    "date": "2026-11-17",
-    "source": "TechCrunch",
-    "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-    "summary": "Despite Nvidia founder and former CEO Jensen Huang’s recent offer to return to the chip company he helped build from the ground up, the company is not looking to take him back. That woman, former Megaspeed executive Alice Huang, has maintained close ties to the former Nvidia CEO for years.",
-    "sourceUrl": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6908e71926e8",
-    "date": "2026-11-17",
-    "source": "TechCrunch",
-    "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-    "summary": "Anthropic on Tuesday disclosed more details about the biggest investment agreements with major cloud providers Amazon and Google.",
-    "sourceUrl": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6e2564c29c66",
-    "date": "2026-11-17",
-    "source": "TechCrunch",
-    "title": "SEC reportedly investigating Nvidia amid Huang exit",
-    "summary": "The Securities and Exchange Commission is opening a civil probe into Nvidia over whether the company’s disclosures misled investors, according to The Wall Street Journal.",
-    "sourceUrl": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-320959dca20c",
-    "date": "2026-11-17",
-    "source": "TechCrunch",
-    "title": "Google joins the tech outage trend by announcing it’s not having one",
-    "summary": "In a post, the company said it was not currently seeing evidence of a broad Gmail service disruption and reminded users they could always check Gmail’s real-time status on its online dashboard.",
-    "sourceUrl": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-d9a047affb02",
-    "date": "2026-11-17",
-    "source": "TechCrunch",
-    "title": "Model ML raises $250M to automate investment banking grunt work",
-    "summary": "Model ML, a London-based startup that uses AI to automate work traditionally performed by junior bankers and consultants, including building financial models, preparing pitch decks, and writing due diligence reports, has raised $250 million in Series B funding at a $1.5 billion valuation.",
-    "sourceUrl": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0fc744e43d60",
-    "date": "2026-11-17",
-    "source": "TechCrunch",
-    "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-    "summary": "Google is expanding the rollout of Tasks, a toggle in Gemini that converts the chatbot into a more active helper. Users merely flip a toggle within the app from Chat to Tasks, which enables the feature. Users can also send texts to Gemini or call the app to give it commands.",
-    "sourceUrl": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-560e703561a2",
-    "date": "2026-11-17",
-    "source": "TechCrunch",
-    "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
-    "summary": "The longer retention period comes as Google introduces separate settings for Gemini’s chat history and AI training. Users will now be able to keep their conversations in their chat history without using them to train Google’s generative AI models.",
-    "sourceUrl": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f4982bcb3ccb",
-    "date": "2026-11-17",
-    "source": "TechCrunch",
-    "title": "As decision model use skyrockets, is customization the next frontier?",
-    "summary": "On Tuesday, Microsoft CEO Satya Nadella said that his company is rolling out its decision model, Microsoft-Decision-1.1, for wide use on Azure immediately. The Microsoft-Decision-1.1 model is also the result of the company carefully balancing across cost, latency, intelligence and calibration.",
-    "sourceUrl": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
-    "auto": true,
-    "metiers": [
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b145ab91c010",
-    "date": "2026-11-17",
-    "source": "TechCrunch",
-    "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-    "summary": "CEO Raj Aggarwal says contemporary AI systems are particularly useful for dealing with that data. As Aggarwal sees it, deliveries are particularly well-suited to training reinforcement learning systems.",
-    "sourceUrl": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-42c4fd05f3f4",
-    "date": "2026-11-17",
-    "source": "TechCrunch",
-    "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-    "summary": "Proton, the privacy-focused tech company offering alternatives to Google’s and Microsoft’s tools for email, productivity apps, password management, cloud storage, and more, is now bringing its AI app Lumo to personal computers.",
-    "sourceUrl": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
       "automation",
+      "ethics",
       "data"
     ],
     "resources": []
   },
   {
-    "id": "auto-447a475adced",
-    "date": "2026-11-17",
-    "source": "TechCrunch",
-    "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-    "summary": "Ironically, AI models from Anthropic performed the worst in these simulated scenarios. In some scenarios, the models were asked to report whether people were visible. The report relies on commercial models from frontier AI labs, not the models those companies might provide to the military.",
-    "sourceUrl": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5fbc7d8ce285",
-    "date": "2026-11-17",
-    "source": "TechCrunch",
-    "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
-    "summary": "NVIDIA has been my life’s work. I love our country, and I love NVIDIA. NVIDIA is a once-in-a-generation company.",
-    "sourceUrl": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-f70b9be32865",
-    "date": "2026-11-17",
-    "source": "TechCrunch",
-    "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-    "summary": "Can an AI agent serve as your personal stylist? Now the company says its Daydream Agent expands on that experience by remembering each shopper’s own personal style, fit preferences, and budget to refine its recommendations.",
-    "sourceUrl": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+    "id": "auto-bf1424b145e4",
+    "date": "2026-11-18",
+    "source": "Hugging Face",
+    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "summary": "Time-series models add predictive power to this architecture. Stream native time-series intelligence on Confluent\nThe following scenarios illustrate how organizations could combine time-series models, streaming data, and application logic.",
+    "sourceUrl": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
     "auto": true,
     "metiers": [
       "csm",
       "marketing",
+      "ops",
       "product",
       "sales",
       "tech"
@@ -522,8 +263,264 @@
     "themes": [
       "llm",
       "agents",
+      "automation",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-af1852b4c46d",
+    "date": "2026-11-18",
+    "source": "Hugging Face",
+    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "summary": "Streaming MoE experts directly from SSD gets within 6% of Strata on token generation. By default the offloaded weights include dense layers,\nread on every token; --cpu-offload-params experts keeps it to the experts. Everything is in a Space:\ntarekziade/moe-expert-streaming.",
+    "sourceUrl": "https://huggingface.co/blog/moe-expert-streaming",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-44255eb49d7c",
+    "date": "2026-11-18",
+    "source": "TechCrunch",
+    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+    "summary": "During his appearance at The New York Times’ DealBook Summit on Wednesday, Microsoft CEO Satya Nadella lamented the fact that a lot of America’s software systems — including those governing everyday hardware and transportation systems — suffer from unfixable software vulnerabilities that, in the age of AI-aided cyberattacks, are just waiting to be exploited.",
+    "sourceUrl": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-ae30c6152bf9",
+    "date": "2026-11-18",
+    "source": "TechCrunch",
+    "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+    "summary": "“Jensen is an old friend of mine,” Musk said. “Who wouldn’t want to hire Jensen?”\nMusk also signed a petition, alongside over 200,000 other people, urging Nvidia to reinstate its former CEO.",
+    "sourceUrl": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-ebee197c44b5",
+    "date": "2026-11-18",
+    "source": "TechCrunch",
+    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+    "summary": "Microsoft CEO Satya Nadella weighed in on former Nvidia CEO Jensen Huang’s unexpected departure amid a series of shocking controversies. “Colette [Kress, interim CEO at Nvidia] worked at Microsoft for a long time.",
+    "sourceUrl": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f7885a7f892b",
+    "date": "2026-11-18",
+    "source": "TechCrunch",
+    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+    "summary": "“The current aggregators who have a business model which was for the human web will get, in some sense, reshuffled,” said Nadella. Nadella suggested that companies trying to protect their existing business models could lose out to others that are more willing to embrace the AI agents.",
+    "sourceUrl": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6b4b11d8558c",
+    "date": "2026-11-18",
+    "source": "TechCrunch",
+    "title": "Anthropic prices IPO at $83 a share, above projected range",
+    "summary": "Although none of Anthropic’s venture capital investors holds more than a 5% stake in the company, the IPO is a massive windfall for its numerous backers. Investors who own approximately 1% of the company reportedly include Sequoia, as well as former Google CEO Eric Schmidt.",
+    "sourceUrl": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-4544035da65a",
+    "date": "2026-11-18",
+    "source": "TechCrunch",
+    "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+    "summary": "Nvidia told him the delay was related to whether the company would need to disclose additional information about its ongoing investigation into Huang in the 10-Q.",
+    "sourceUrl": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-48feb3ab27c8",
+    "date": "2026-11-18",
+    "source": "TechCrunch",
+    "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+    "summary": "AI-powered cyberattacks are moving faster than outdated technology systems can defend against them, Palmer Luckey warned at The New York Times DealBook Summit on Wednesday. Luckey explained that U.S. adversaries are currently exploiting the mismatch between new attack capabilities and our defense capabilities.",
+    "sourceUrl": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-8ad47877f742",
+    "date": "2026-11-18",
+    "source": "TechCrunch",
+    "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+    "summary": "Anduril CEO Palmer Luckey thinks Nvidia’s board is giving China exactly what it wants by removing the company’s longtime CEO and co-founder, Jensen Huang. “China doesn’t want Nvidia to sell GPUs to Chinese companies,” Luckey said.",
+    "sourceUrl": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-89dc61422b35",
+    "date": "2026-11-18",
+    "source": "TechCrunch",
+    "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+    "summary": "But I’d wager to say it’s even weirder that there’s an upcoming film about the time your colleagues briefly ousted you because they were concerned that you can’t be trusted.",
+    "sourceUrl": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-93ec3dad35d6",
+    "date": "2026-11-18",
+    "source": "TechCrunch",
+    "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+    "summary": "Developers enrolled in Snapchat’s Lens+ Payouts program can earn from the Lenses they create with Easy Lens CLI. Snapchat says it paid out $1.8 million to Lens+ community creators last month.",
+    "sourceUrl": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
       "genai-product"
     ],
+    "resources": []
+  },
+  {
+    "id": "auto-890e2f7b3ac9",
+    "date": "2026-11-18",
+    "source": "TechCrunch",
+    "title": "Google’s AI feature in Search gets its own incognito mode",
+    "summary": "Google’s search engine has long offered an incognito mode for all those search queries you don’t want logged or associated with your account. Now, Google’s AI Mode in Search is getting a similar feature. Many leading AI chatbots already offer the option for temporary chats, Google Gemini included.",
+    "sourceUrl": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-708e52618cd9",
+    "date": "2026-11-18",
+    "source": "TechCrunch",
+    "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+    "summary": "Citibank, the third largest commercial bank in the United States, changed its terms of service this week, telling customers who use third-party AI tools for personal finance that anything that goes wrong is their problem — even if they get hacked. And PNC, the eighth largest bank, changed its terms today.",
+    "sourceUrl": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-3439be5ca604",
+    "date": "2026-11-18",
+    "source": "TechCrunch",
+    "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+    "summary": "“One thing we’ve been talking a lot about recently is there’s been this thing in Silicon Valley that seems almost ridiculous to have to fight against, but we both believe very deeply that people need to stay in control of the future, and there’s increasing talk about, well, there is either going to be or there should be this sort of gradual handover to AI.",
+    "sourceUrl": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f816757e046d",
+    "date": "2026-11-18",
+    "source": "TechCrunch",
+    "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+    "summary": "We took a big bet on Nvidia,” Altman said. I wish Nvidia the best,” Altman said.",
+    "sourceUrl": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
     "resources": []
   },
   {
