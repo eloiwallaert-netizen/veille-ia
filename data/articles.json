@@ -1,5 +1,234 @@
 [
   {
+    "id": "auto-3ea993db7e3c",
+    "date": "2026-11-20",
+    "source": "OpenAI",
+    "title": "Combatting adversarial distillation",
+    "summary": "Our approach to adversarial distillation combines adversarial testing, model training, classifiers, and API-level protections with investigations into coordinated attempts to extract model capabilities.",
+    "sourceUrl": "https://openai.com/index/combatting-adversarial-distillation",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d15c45643214",
+    "date": "2026-11-20",
+    "source": "OpenAI",
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "summary": "Hebbia sees gains in financial research in tests of GPT‑6 Astra. Percentage-point lead over the best alternative tested in Hebbia’s tests. Percent of applicable presentation requirements met in Hebbia’s tests.",
+    "sourceUrl": "https://openai.com/business/customer-stories/hebbia",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f4784c304003",
+    "date": "2026-11-20",
+    "source": "OpenAI",
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "summary": "At the xhigh reasoning setting, GPT‑6.2 Astra earned 84.5% of the available credit, compared with 83.3% for GPT‑6 Astra, 82.0% for GPT‑6.1 Sol, and 58.2% for GPT‑5.6 Sol. GPT‑6 Astra was strongest at reconstructing molecular structures and explaining experimental evidence. Molecular structures.",
+    "sourceUrl": "https://openai.com/index/introducing-medchembench",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-80d31a6dee29",
+    "date": "2026-11-20",
+    "source": "Hugging Face",
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "summary": "TLDR; Inkling 2 Mini is a new looped transformer model. Similar to Inkling 2 Small, Inkling 2 Mini executes 48 layer visits per token. Inkling 2 Mini is a great local coding companion.",
+    "sourceUrl": "https://huggingface.co/blog/inkling2mini",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-340614cb1d45",
+    "date": "2026-11-20",
+    "source": "TechCrunch",
+    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+    "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a stealthy fusion power startup founded by an AI researcher who is taking a different approach to developing a fusion power plant. Recently, he was head of machine learning at Pacific Fusion, the fusion power startup based in Fremont, California.",
+    "sourceUrl": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d6bff5841b5a",
+    "date": "2026-11-20",
+    "source": "TechCrunch",
+    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+    "summary": "Several participants in the Zulip chat, including MIT mathematician Andrew Sutherland, say they have successfully confirmed that Alpöge’s solution can be compiled successfully.",
+    "sourceUrl": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-079373956374",
+    "date": "2026-11-20",
+    "source": "TechCrunch",
+    "title": "Chips can survive the space environment — can their financing?",
+    "summary": "The push to build data centers in space faces plenty of obstacles, from tricky engineering to a dearth of rockets that could take chips to orbit. But what about paying for the chips?",
+    "sourceUrl": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-92c1cc867c01",
+    "date": "2026-11-20",
+    "source": "TechCrunch",
+    "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+    "summary": "You can contact or verify outreach from Anthony by emailing [email protected]. Tim De Chant is a senior climate reporter at TechCrunch. You can contact or verify outreach from Tim by emailing [email protected].",
+    "sourceUrl": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-01449c61c8b8",
+    "date": "2026-11-20",
+    "source": "MIT Technology Review",
+    "title": "The most misunderstood graph in AI just got a major update",
+    "summary": "On this task, too, models fell short of human performance. Even if the models do lag behind human performance on open-ended tasks right now, the new report suggests that they might be getting better. “This move toward open-ended tasks is promising,” Kapoor says.",
+    "sourceUrl": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-3a0cb236fd32",
+    "date": "2026-11-20",
+    "source": "The Verge",
+    "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+    "summary": "While policymakers across the country are putting new restrictions on the data center buildout, Trump is making threats.﻿\nWhile policymakers across the country are putting new restrictions on the data center buildout, Trump is making threats.﻿\nPresident Donald Trump promised to put a “tremendous tax” on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them.",
+    "sourceUrl": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-859ee3ec8c20",
+    "date": "2026-11-20",
+    "source": "The Verge",
+    "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+    "summary": "Alpöge’s solution has yet to be verified independently. Alpöge had been working on the problem with New York University mathematics professor Tristan Buckmaster. Buckmaster claimed OpenAI produced a solution for Navier-Stokes using the route he and Alpöge were working on with OpenAI’s Codex and Claude.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-211fbe8009a4",
     "date": "2026-11-20",
     "source": "Hugging Face",
@@ -113,6 +342,30 @@
     "themes": [
       "llm",
       "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-1501adb883e7",
+    "date": "2026-11-19",
+    "source": "TechCrunch",
+    "title": "Superhuman pushes its Go assistant everywhere",
+    "summary": "Superhuman is revamping its onboarding flow to let users connect their preferred tools and load context about their work upfront. The company is also thinking about adding AI to different products, including Docs and Superhuman Mail.",
+    "sourceUrl": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
       "genai-product"
     ],
     "resources": []
@@ -334,249 +587,6 @@
       "agents",
       "automation"
     ],
-    "resources": []
-  },
-  {
-    "id": "auto-2919f418f3f5",
-    "date": "2026-11-19",
-    "source": "TechCrunch",
-    "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-    "summary": "Meta employees have raised concerns that the company’s AI agent Muse has been mixing up conversations across different accounts and exposing private user data, according to a new Reuters report that looked at internal company posts.",
-    "sourceUrl": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-27f297a759c1",
-    "date": "2026-11-19",
-    "source": "TechCrunch",
-    "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-    "summary": "Song noticed the growing gap between fast-changing consumer trends and traditional wholesale sourcing models while working as a venture investor at Bessemer Venture Partners, where she mostly focused on cross-border sourcing and meeting numerous startups in the sector.",
-    "sourceUrl": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d680d8751ecd",
-    "date": "2026-11-19",
-    "source": "TechCrunch",
-    "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-    "summary": "Shares of Anthropic are now trading on the Nasdaq exchange, as the company successfully executes its initial public offering. Set on Wednesday, the IPO price was already higher than the projected range set by the company, which anticipated a price between $70 and $78 per share.",
-    "sourceUrl": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b80c1a82c17c",
-    "date": "2026-11-19",
-    "source": "TechCrunch",
-    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-    "summary": "He acknowledged that while human intelligence had made diseases like the plague, smallpox, and polio history for most of the world, there were still too few scientists with too little time to make progress in other areas of disease.",
-    "sourceUrl": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c990fb121000",
-    "date": "2026-11-19",
-    "source": "TechCrunch",
-    "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-    "summary": "Nvidia, AMD, Microsoft, Broadcom, Micron, and TSMC have joined Google in committing $26 billion to Anthropic at its IPO price in a private placement. In total, Google has invested $12.3 billion into Anthropic since 2023, with another promised $30 billion dependent on Anthropic meeting certain performance milestones.",
-    "sourceUrl": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a22c687c439c",
-    "date": "2026-11-19",
-    "source": "The Verge",
-    "title": "Apple is hiring engineers to build its own AI agent",
-    "summary": "Apple’s job listing describes an AI agent that can browse the web, work across apps, and call services. Apple’s job listing describes an AI agent that can browse the web, work across apps, and call services.",
-    "sourceUrl": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-74e2df778984",
-    "date": "2026-11-19",
-    "source": "The Verge",
-    "title": "A brief history of Nvidia’s recent stock fluctuations",
-    "summary": "Tracking the stock price amid Jensen Huang’s extramarital affairs and alleged spy scandal. Tracking the stock price amid Jensen Huang’s extramarital affairs and alleged spy scandal. On Thursday, November 5th, Nvidia’s stock fell 9.2 percent, its largest single-day drop in at least a year.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-b0341a0ae375",
-    "date": "2026-11-19",
-    "source": "The Verge",
-    "title": "Meta’s Muse Charm might cost $300",
-    "summary": "The Information has reported a potential price for the Muse Charm, which is expected to ship in time for the holidays. The Information has reported a potential price for the Muse Charm, which is expected to ship in time for the holidays.",
-    "sourceUrl": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6900f6014b2a",
-    "date": "2026-11-19",
-    "source": "The Verge",
-    "title": "Google is putting AI chats right on the homepage",
-    "summary": "You can now view your recent AI searches by opening the sidebar on Google’s homepage. You can now view your recent AI searches by opening the sidebar on Google’s homepage. Google is updating its homepage to include AI searches.",
-    "sourceUrl": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-    "auto": true,
-    "metiers": [
-      "marketing",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a628e3d51eab",
-    "date": "2026-11-19",
-    "source": "The Verge",
-    "title": "Gemini on Mac can now use your computer",
-    "summary": "With the new computer use feature, Google says Gemini can better help with things like filling in forms and creative workflows. With the new computer use feature, Google says Gemini can better help with things like filling in forms and creative workflows.",
-    "sourceUrl": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-d0946e26531a",
-    "date": "2026-11-19",
-    "source": "The Verge",
-    "title": "Anthropic starts trading on Wall Street",
-    "summary": "Anthropic began trading at $111.50 per share. Anthropic began trading at $111.50 per share. Anthropic has officially gone public.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2600860578f3",
-    "date": "2026-11-19",
-    "source": "The Verge",
-    "title": "ChatGPT can transcribe as you speak now with Live Dictation",
-    "summary": "ChatGPT’s new Live Dictation feature transcribes audio prompts faster, with no more 10-minute limit.﻿\nChatGPT’s new Live Dictation feature transcribes audio prompts faster, with no more 10-minute limit.﻿\nChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
     "resources": []
   },
   {
