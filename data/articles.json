@@ -1,5 +1,168 @@
 [
   {
+    "id": "auto-0f50037c76f2",
+    "date": "2026-11-22",
+    "source": "The Verge",
+    "title": "The vibe-coding revolution is coming to all the gadgets",
+    "summary": "Now, it seems, all hardware is hacker hardware. All this hardware access also creates new risks for users. Devices change all the time; every software update introduces new possibilities and new problems.",
+    "sourceUrl": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-8d54d4add32f",
+    "date": "2026-11-21",
+    "source": "TechCrunch",
+    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "summary": "Signal announced Friday that it’s limiting users’ ability to take screenshots within the secure messaging app — a response to what President Meredith Whittaker described as the “existential threat” of operating systems that integrate agentic AI.",
+    "sourceUrl": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-127326b87b53",
+    "date": "2026-11-21",
+    "source": "TechCrunch",
+    "title": "A tale of two Nvidias",
+    "summary": "Kirsten Korosec: Nvidia will no longer sell its H200 chips in China. Kirsten: Although Nvidia’s bottom line is doing just fine.",
+    "sourceUrl": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-01945f6a907c",
+    "date": "2026-11-21",
+    "source": "TechCrunch",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "summary": "You can text “start” to 820-732-2625. Folk is designed to be an AI assistant you can reach through iMessage, WhatsApp, and Telegram. Tab allows users to delegate everyday tasks through familiar messaging platforms.",
+    "sourceUrl": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-89298d3b7fb0",
+    "date": "2026-11-21",
+    "source": "TechCrunch",
+    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+    "summary": "For the most part, the content offered by the microdrama startup Shortical is indistinguishable from the rest of its industry.",
+    "sourceUrl": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-234da3fc1867",
+    "date": "2026-11-21",
+    "source": "The Verge",
+    "title": "The UN fails to agree on rules regulating ‘killer robots’",
+    "summary": "Countries agree to ‘start discussing options’ for rules around autonomous weapons. Countries agree to ‘start discussing options’ for rules around autonomous weapons. Then the United States proposed a five-year window to discuss nonbinding, optional guidelines for autonomous weapons.",
+    "sourceUrl": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-a9f34b76fcc6",
+    "date": "2026-11-21",
+    "source": "The Verge",
+    "title": "Can Anthropic afford to put safety first?",
+    "summary": "You can sign up here. Anthropic has seven founders. You heard it here first.",
+    "sourceUrl": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e74727ec8af7",
+    "date": "2026-11-21",
+    "source": "The Verge",
+    "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+    "summary": "Chess.com is ready to go a lot bigger than chess. Some of the new games, like shoji or xiangqi, are strategy games similar to chess while others are further afield, like sudoku, solitaire, and word. Chess.com might not be done growing its library of games, either.",
+    "sourceUrl": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-3ea993db7e3c",
     "date": "2026-11-20",
     "source": "OpenAI",
@@ -440,151 +603,6 @@
       "tech"
     ],
     "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a2fb00344062",
-    "date": "2026-11-19",
-    "source": "OpenAI",
-    "title": "Get started with Daybreak Blue",
-    "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-    "sourceUrl": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-57728669e048",
-    "date": "2026-11-19",
-    "source": "Google AI Blog",
-    "title": "Introducing Tool Retrieval in the Gemini API",
-    "summary": "Tool Retrieval is now in preview in the Gemini Interactions API. We are launching Tool Retrieval in the Gemini API to help your agents manage large tool libraries more efficiently. To turn on Tool Retrieval, add a tool_search tool to your request and set defer_loading: true on the tools you want to hold back.",
-    "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c3e7758a2373",
-    "date": "2026-11-19",
-    "source": "Google AI Blog",
-    "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-    "summary": "What do Leonardo da Vinci, Benjamin Franklin, and Ada Lovelace have to teach us about creativity in the age of AI?",
-    "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-6f0f2d869f0f",
-    "date": "2026-11-19",
-    "source": "TechCrunch",
-    "title": "Meta’s new Muse Charm device may cost $300",
-    "summary": "Meta plans to charge $300 for Muse Charm, its upcoming Tamagotchi-like AI device that was teased at the company’s Connect event earlier this year, The Information has reported.",
-    "sourceUrl": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f2dddf2ea7d8",
-    "date": "2026-11-19",
-    "source": "TechCrunch",
-    "title": "These tech outages are giving Y2K, AI agent style",
-    "summary": "When looked at this way, she said, AI is actually getting the bad rep. “It’s not rapid adoption of AI yet causing these outages,” she said. DeWalt said he’d rather see these U.S.",
-    "sourceUrl": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-423b8c753c11",
-    "date": "2026-11-19",
-    "source": "TechCrunch",
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "summary": "Nvidia, Huang and Powell have not confirmed the report. Nvidia said its board had accepted Huang’s resignation on Wednesday. Jensen Huang had been spotted socializing with Megaspeed executive Alice Huang as early as 2024 in Taiwan, where the Nvidia CEO was born.",
-    "sourceUrl": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-2ad2190c7ade",
-    "date": "2026-11-19",
-    "source": "TechCrunch",
-    "title": "Anthropic’s IPO could deliver $156B to charity",
-    "summary": "First, the company’s Public Benefit Fund, or PBF (analogous to OpenAI’s foundation), was allotted 5% of the company’s shares, almost 850 million.",
-    "sourceUrl": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1054662f25c3",
-    "date": "2026-11-19",
-    "source": "TechCrunch",
-    "title": "Google gives Gemini the ability to use your Mac for you",
-    "summary": "Meanwhile, Google only this week announced the broader rollout of Gemini’s “Tasks,” the in-app feature that allows the AI to work more as an agent, helping users sign into websites, make online purchases, or book appointments.",
-    "sourceUrl": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
       "automation"
     ],
     "resources": []
