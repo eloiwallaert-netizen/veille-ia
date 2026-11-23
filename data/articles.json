@@ -1,5 +1,249 @@
 [
   {
+    "id": "auto-6fd4c32fe34a",
+    "date": "2026-11-23",
+    "source": "Hugging Face",
+    "title": "How to build and maintain an agentic evaluation",
+    "summary": "The evaluation harness runs several rollouts for each task. Figure 8 shows the raman-lab results for each model. Task: We reused the Harbor task format and Terminal-Bench's raman-fitting task.",
+    "sourceUrl": "https://huggingface.co/blog/agentic-evals",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-81a464b2bd01",
+    "date": "2026-11-23",
+    "source": "TechCrunch",
+    "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+    "summary": "A close ally of Nvidia co-founder Jensen Huang, President Donald Trump reportedly dialed into an Nvidia board meeting to push for the ousted CEO’s return, Semafor reported on Monday. Trump got his way, as Nvidia announced Huang’s reinstatement shortly afterwards.",
+    "sourceUrl": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-aa93777566bc",
+    "date": "2026-11-23",
+    "source": "TechCrunch",
+    "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+    "summary": "President Trump praised Nvidia’s decision on Monday to reinstate founder Jensen Huang as the company’s CEO and president, saying on his social network Truth Social that “the United States Government has no reason to believe that Jensen’s return to NVIDIA poses any risk to National Security.”\nThe Nvidia board’s statement had also referred to consultations with “senior levels of the United States government” as informing its decision.",
+    "sourceUrl": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-d6a5b08e3fa8",
+    "date": "2026-11-23",
+    "source": "TechCrunch",
+    "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+    "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round that doubles the company’s valuation to $30 billion.",
+    "sourceUrl": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-90f831b4fd3e",
+    "date": "2026-11-23",
+    "source": "TechCrunch",
+    "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+    "summary": "government itself played a role in his return: Nvidia’s board said it consulted senior government officials before determining that Huang posed no national security risk. During the company’s third-quarter earnings call, Nvidia board chair Harvey C. Jones said they didn’t intend reinstate Huang.",
+    "sourceUrl": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-04504f1c4726",
+    "date": "2026-11-23",
+    "source": "TechCrunch",
+    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "summary": "GIC then made its first investment in Anthropic’s Series F, a round announced in September 2025 at a $183 billion valuation. “Claude Code was just released then,” Emanuel told TechCrunch.",
+    "sourceUrl": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-de36b121eed6",
+    "date": "2026-11-23",
+    "source": "The Verge",
+    "title": "Tech leaders are celebrating Jensen Huang’s return",
+    "summary": "Let’s say you’re Jensen Huang. President Donald Trump posted his lengthy congratulations to Huang on Truth Social. Trump expects Huang to make him proud.",
+    "sourceUrl": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-09afcc847896",
+    "date": "2026-11-23",
+    "source": "The Verge",
+    "title": "Jensen Huang is back as Nvidia’s CEO",
+    "summary": "The board voted unanimously to bring back Huang as CEO, President, and Board director\nThe board voted unanimously to bring back Huang as CEO, President, and Board director\nNvidia has reinstated Jensen Huang as its CEO. Huang, after which the Board was satisfied with respect to Mr.",
+    "sourceUrl": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-106e5d1cffec",
+    "date": "2026-11-23",
+    "source": "The Verge",
+    "title": "Meta Muse can do your Black Friday shopping at Walmart",
+    "summary": "Muse can make purchases through Walmart’s “Agent Profiles,” which provide a dedicated space for agent activity within your Walmart customer account. Tell Muse what you need. Muse will take you to Walmart to sign in, then bring you back to Muse.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-de5cd1a6d51d",
+    "date": "2026-11-22",
+    "source": "OpenAI",
+    "title": "Perplexity and Intelligence",
+    "summary": "Extrapolating from recent progress, we should expect further transformative capabilities as we enter the ~0.68-0.7 log-perplexity window. Perplexity as a shared metric has challenges:\nDifficulty of comparison across labs.",
+    "sourceUrl": "https://openai.com/index/perplexity-and-intelligence",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-716c53fa8fce",
+    "date": "2026-11-22",
+    "source": "TechCrunch",
+    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "summary": "A new blog post from OpenAI’s chief scientist Jakub Pachocki discusses potential limits on AI development, with a focus on a measurement called perplexity.",
+    "sourceUrl": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "tech"
+    ],
+    "themes": [
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-74f939e081ec",
+    "date": "2026-11-22",
+    "source": "TechCrunch",
+    "title": "Why data centers are at the center of the Big Tech backlash",
+    "summary": "What surprised you when you actually got in? You don’t just talk about the data centers’ environmental impact, but also, they [become] your way in to talk about this broader tech moment. They represent to you — particularly the hyperscale data centers — represent to you how these tech companies are doing business now.",
+    "sourceUrl": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e7090200216e",
+    "date": "2026-11-22",
+    "source": "The Verge",
+    "title": "We haven’t seen the last of the major tech outages",
+    "summary": "Microsoft and the US government agree there are more outages to come. Microsoft and the US government agree there are more outages to come. Whether outages are brought on by AI-assisted hackers or human error during the rush to patch an aging system, one thing seems certain: there will be more in the coming months.",
+    "sourceUrl": "https://www.theverge.com/tech/1039851/major-tech-outages",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-265c68ec3a4c",
+    "date": "2026-11-22",
+    "source": "The Verge",
+    "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+    "summary": "Creator Edmund McMillen claims he ‘had no idea’ AI music was used in the latest version of Binding of Isaac. Creator Edmund McMillen claims he ‘had no idea’ AI music was used in the latest version of Binding of Isaac.",
+    "sourceUrl": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+    "auto": true,
+    "metiers": [
+      "marketing",
+      "product"
+    ],
+    "themes": [
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-0f50037c76f2",
     "date": "2026-11-22",
     "source": "The Verge",
@@ -326,284 +570,6 @@
     ],
     "themes": [
       "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-01449c61c8b8",
-    "date": "2026-11-20",
-    "source": "MIT Technology Review",
-    "title": "The most misunderstood graph in AI just got a major update",
-    "summary": "On this task, too, models fell short of human performance. Even if the models do lag behind human performance on open-ended tasks right now, the new report suggests that they might be getting better. “This move toward open-ended tasks is promising,” Kapoor says.",
-    "sourceUrl": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-3a0cb236fd32",
-    "date": "2026-11-20",
-    "source": "The Verge",
-    "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-    "summary": "While policymakers across the country are putting new restrictions on the data center buildout, Trump is making threats.﻿\nWhile policymakers across the country are putting new restrictions on the data center buildout, Trump is making threats.﻿\nPresident Donald Trump promised to put a “tremendous tax” on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them.",
-    "sourceUrl": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-859ee3ec8c20",
-    "date": "2026-11-20",
-    "source": "The Verge",
-    "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-    "summary": "Alpöge’s solution has yet to be verified independently. Alpöge had been working on the problem with New York University mathematics professor Tristan Buckmaster. Buckmaster claimed OpenAI produced a solution for Navier-Stokes using the route he and Alpöge were working on with OpenAI’s Codex and Claude.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-211fbe8009a4",
-    "date": "2026-11-20",
-    "source": "Hugging Face",
-    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-    "summary": "harness-hub/agentic-coding-envs holds 871 tasks from 35 repositories. Use the specialist harness adapters when thinking off. All three specialist adapters beat the base model under their own harness, on both benchmarks.",
-    "sourceUrl": "https://huggingface.co/blog/harness-adapters-at-scale",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-7d8981ef5476",
-    "date": "2026-11-20",
-    "source": "TechCrunch",
-    "title": "Six AI-powered gadgets that could make your home office smarter",
-    "summary": "If you’re constantly scribbling notes during meetings, Flowtica’s Scribe could save you from having to type everything up afterward. If you’re tired of adjusting your webcam during video calls, Insta360’s Link 2 Pro aims to take care of that for you.",
-    "sourceUrl": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-8f4728ffc5b9",
-    "date": "2026-11-20",
-    "source": "TechCrunch",
-    "title": "Apple may be developing its own AI agent that runs your Mac",
-    "summary": "Apple appears to be working on its own AI agent to conduct computer work on behalf of users — including using apps, accessing websites, and coding, among other things. Agents capable of computer work have become one of the hottest commodities in the tech industry over the past year.",
-    "sourceUrl": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f1dd0bea0b97",
-    "date": "2026-11-20",
-    "source": "TechCrunch",
-    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-    "summary": "Anthropic became a public company on Thursday, raising a total of $81.3 billion, including $1.95 billion for its seven founders. Nvidia bought $10 billion of these Class N shares, Google bought $10 billion, and AMD, Broadcom, Micron, Microsoft, and TSMC divvied up the rest.",
-    "sourceUrl": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-299291fdd518",
-    "date": "2026-11-20",
-    "source": "The Verge",
-    "title": "The week everything fell apart",
-    "summary": "And is Jensen Huang coming back to Nvidia? And is Jensen Huang coming back to Nvidia? This week, it felt like the technological world simply collapsed.",
-    "sourceUrl": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-779ccf54081c",
-    "date": "2026-11-20",
-    "source": "The Verge",
-    "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-    "summary": "Signal will now restrict screenshots on mobile devices, and says AI agents are ‘hostile to privacy.’\nSignal will now restrict screenshots on mobile devices, and says AI agents are ‘hostile to privacy.’\nSignal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users’ messages and other data.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1501adb883e7",
-    "date": "2026-11-19",
-    "source": "TechCrunch",
-    "title": "Superhuman pushes its Go assistant everywhere",
-    "summary": "Superhuman is revamping its onboarding flow to let users connect their preferred tools and load context about their work upfront. The company is also thinking about adding AI to different products, including Docs and Superhuman Mail.",
-    "sourceUrl": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6687f7be62c3",
-    "date": "2026-11-19",
-    "source": "OpenAI",
-    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-    "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-    "sourceUrl": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-4b08ec50268e",
-    "date": "2026-11-19",
-    "source": "OpenAI",
-    "title": "Deploying Daybreak Red",
-    "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-    "sourceUrl": "https://openai.com/business/learn/deploying-daybreak-red",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-cb99e2baa62e",
-    "date": "2026-11-19",
-    "source": "OpenAI",
-    "title": "See PR scans in action",
-    "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-    "sourceUrl": "https://openai.com/business/learn/pr-scans-demo",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-e29ac258c013",
-    "date": "2026-11-19",
-    "source": "OpenAI",
-    "title": "Explore the Codex Security Plugin",
-    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-    "sourceUrl": "https://openai.com/business/learn/codex-security-plugin-demo",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
     ],
     "resources": []
   },
