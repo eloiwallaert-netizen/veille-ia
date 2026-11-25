@@ -1,5 +1,549 @@
 [
   {
+    "id": "auto-d0a3a7f662b5",
+    "date": "2026-11-25",
+    "source": "Hugging Face",
+    "title": "An Indic Voice Agent with CUGA",
+    "summary": "We built a small voice agent to close that gap, using CUGA as the agent harness. CUGA (ConfigUrable Generalist Agent) is IBM Research's open-source agent harness. You can also swap speech providers without touching the agent.",
+    "sourceUrl": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-b47f021e12d7",
+    "date": "2026-11-25",
+    "source": "TechCrunch",
+    "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+    "summary": "Her company, Arizona Land Consulting, assembles data center sites for developers, hyperscalers, AI labs and neoclouds, giving her a view into who’s buying, what makes a site viable and where projects are running into trouble.",
+    "sourceUrl": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-61cb6e1f95ec",
+    "date": "2026-11-25",
+    "source": "TechCrunch",
+    "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+    "summary": "Amazon may be having a change of heart about Meta’s AI agent, Muse. One of Amazon’s biggest concerns is how third-party shopping agents like Muse could affect its advertising business. Any potential agreement between Amazon and Meta would reportedly require approval from both companies’ CEOs, Fortune also reported.",
+    "sourceUrl": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-958b4d502f59",
+    "date": "2026-11-25",
+    "source": "TechCrunch",
+    "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+    "summary": "Jensen Huang’s return as CEO to Nvidia hasn’t eased the scrutiny the company confronts. The central question for investigators is what Nvidia knew about where those chips ended up, and whether Huang’s affair with a Megaspeed executive gave the company reason to doubt Megaspeed’s assurances.",
+    "sourceUrl": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-05f887d0221c",
+    "date": "2026-11-25",
+    "source": "TechCrunch",
+    "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+    "summary": "Nvidia’s chairman had effectively ruled out Huang’s return just last week. Filed on Nvidia’s behalf against the directors themselves, the suit alleges the board ignored red flags about Huang’s relationship with suspected Chinese spy Alice Huang. You don’t think Nvidia needed Huang back?",
+    "sourceUrl": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-cb4782794f2f",
+    "date": "2026-11-25",
+    "source": "MIT Technology Review",
+    "title": "AI is straining America’s open records systems",
+    "summary": "Last year, those requests started coming quarterly. “I’m happy to answer public records requests from people,” says Rowe, who recently moved into a position at a nearby town. Meanwhile, the requests keep increasing.",
+    "sourceUrl": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6b1c4ab3d056",
+    "date": "2026-11-25",
+    "source": "The Verge",
+    "title": "Nothing offers a full look at its AI earbuds and charging case",
+    "summary": "The Ear Note buds look similar to Nothing’s previous earbuds, but now their case doubles as an AI-connected note taker for conversations. The Ear Note buds look similar to Nothing’s previous earbuds, but now their case doubles as an AI-connected note taker for conversations.",
+    "sourceUrl": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-e1845ee0b548",
+    "date": "2026-11-25",
+    "source": "The Verge",
+    "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+    "summary": "Amazon is concerned that Muse AI could have an impact on its advertising revenue, according to Fortune. Amazon is concerned that Muse AI could have an impact on its advertising revenue, according to Fortune.",
+    "sourceUrl": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-929f2b2360df",
+    "date": "2026-11-25",
+    "source": "The Verge",
+    "title": "Has vibe coding made open source the new normal for synths?",
+    "summary": "Companies like Akai have decided to embrace the modding community rather than resist vibe coders. Other companies have also embraced the modding community. Elektron is less thrilled about the emergence of vibe-coded mods.",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-3c6728c1bfd1",
+    "date": "2026-11-24",
+    "source": "OpenAI",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "summary": "An internal research model matched or outperformed specialized models on many protein design tasks.",
+    "sourceUrl": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-f3aa9260f109",
+    "date": "2026-11-24",
+    "source": "OpenAI",
+    "title": "Searching for distant planets with Astra",
+    "summary": "*Data from the NASA Exoplanet Archive’s Planetary Systems Composite Parameters table⁠(opens in a new window). The inset marks KIC 5689121⁠(opens in a new window) in the original Kepler field⁠(opens in a new window).",
+    "sourceUrl": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ec442b764e04",
+    "date": "2026-11-24",
+    "source": "OpenAI",
+    "title": "How Intentful uses dots to make more time for growth",
+    "summary": "Next, Aria helped Marina research pricing. Aria checks for messages that need Marina’s attention. She often briefs Aria by phone while she travels.",
+    "sourceUrl": "https://openai.com/business/customer-stories/intentful-dots",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7a6462e387eb",
+    "date": "2026-11-24",
+    "source": "OpenAI",
+    "title": "How iFood scales coding agents across 15,000 repositories",
+    "summary": "as many vulnerabilities fixed through the security platform\nThe Remote Agents Platform turned engineering tasks into API calls: teams delegate the work, execution takes place in a remote sandbox, and the result comes back as a merge request.",
+    "sourceUrl": "https://openai.com/business/customer-stories/ifood",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-99b93f3e1098",
+    "date": "2026-11-24",
+    "source": "OpenAI",
+    "title": "Clay helps sales teams win with Codex and ChatGPT",
+    "summary": "ChatGPT and Codex integrations help Clay users research deals and turn data into go-to-market plays, and GPT‑6 models handle the reasoning. Clay uses GPT‑6 Sol as its primary model, with GPT‑6 Astra for harder tasks and GPT‑6 Luna for cost-sensitive work. GPT‑6 Astra also helps Jeff build and test software.",
+    "sourceUrl": "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-7a5947019eec",
+    "date": "2026-11-24",
+    "source": "TechCrunch",
+    "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+    "summary": "Nvidia has just five executive officers running the show, including Huang. “When you’re designing a company, you should first think about what is it that you want the company to produce,” Huang said in the interview.",
+    "sourceUrl": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-5f077d12f5ab",
+    "date": "2026-11-24",
+    "source": "TechCrunch",
+    "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+    "summary": "Huang held Nvidia’s first all-hands meeting on Tuesday since his reinstatement on Monday. national security, went on to describe how difficult the current moment is for him: “This is going to be the hardest company meeting I’ve ever done, and the second hardest meeting I have ever done,” Huang reportedly told staff.",
+    "sourceUrl": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6e5f032fb046",
+    "date": "2026-11-24",
+    "source": "TechCrunch",
+    "title": "Even the best AI agents struggle with everyday life",
+    "summary": "According to ShellBench, a new benchmark for everyday agent work, even the most advanced models from OpenAI, Anthropic, and Meta failed more than a third of the time. Across all models tested, 15.7% of attempts failed at least one safety requirement, often leading to unintended consequences.",
+    "sourceUrl": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-42cb577d7e78",
+    "date": "2026-11-24",
+    "source": "TechCrunch",
+    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+    "summary": "For instance, Muse doesn’t get access to a customer’s Walmart shopping history or other personal information. Walmart is not the only company teaming up with Meta’s Muse. Beyond Muse, Walmart has recently rolled out more AI-powered features to its own shopping assistant, Sparky.",
+    "sourceUrl": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-724878a26e68",
+    "date": "2026-11-24",
+    "source": "TechCrunch",
+    "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+    "summary": "One startup called Maple, co-founded by a former Apple engineer who worked on privacy-preserving technologies, is taking a different approach with its AI app, where users’ data remains private — even from the company itself.",
+    "sourceUrl": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-754f867302b7",
+    "date": "2026-11-24",
+    "source": "TechCrunch",
+    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+    "summary": "Anthropic’s stock fell below its IPO price of $83, trading as low as $76 a share by midday Tuesday, down nearly 12% from Monday’s close. Falling below the IPO price is often seen as a negative signal because underwriters typically price offerings at a discount to their expected trading value.",
+    "sourceUrl": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-cb0d7372f9a0",
+    "date": "2026-11-24",
+    "source": "TechCrunch",
+    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+    "summary": "government’s cybersecurity unit says it has seen a “marked rise” in AI-driven cyberattacks in recent months, as hackers increasingly rely on autonomous hacking tools to identify and exploit simple weaknesses to break into systems and networks.",
+    "sourceUrl": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-eaadf2423721",
+    "date": "2026-11-24",
+    "source": "TechCrunch",
+    "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+    "summary": "Instagram users can now chat with Meta’s AI agent Muse in a DM thread, the company announced on Tuesday. Meta notes that conversations with Muse on Instagram will appear as a side chat in the main Muse app. Meta says that users remain in control of their Muse experience on Instagram.",
+    "sourceUrl": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-26c3ceae0894",
+    "date": "2026-11-24",
+    "source": "TechCrunch",
+    "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+    "summary": "Music streaming service Tidal said on Tuesday that it will start banning and removing songs generated fully with AI in a bid to stem the flood of submissions to its platform. The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+    "sourceUrl": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-32af257829de",
+    "date": "2026-11-24",
+    "source": "The Verge",
+    "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+    "summary": "Instead, Huang said the Nvidia board “evaluated the entire situation,” while receiving assurance from the government that he posed no national security threat, according to the NYT.",
+    "sourceUrl": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-3e9a37054bc9",
+    "date": "2026-11-24",
+    "source": "The Verge",
+    "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+    "summary": "Early screenings of David Fincher’s latest film are raising questions about whether the director used generative AI. Early screenings of David Fincher’s latest film are raising questions about whether the director used generative AI.",
+    "sourceUrl": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "agents",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c7d2da5c582f",
+    "date": "2026-11-24",
+    "source": "The Verge",
+    "title": "Tidal will start banning AI-generated music next month",
+    "summary": "The music streaming platform estimates that it will delete 29 million songs as a result of the AI ban. The music streaming platform estimates that it will delete 29 million songs as a result of the AI ban. Tidal is officially banning AI-generated music on December 9th.",
+    "sourceUrl": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
     "id": "auto-8d6c7c64bc85",
     "date": "2026-11-24",
     "source": "Google AI Blog",
@@ -88,507 +632,6 @@
       "llm",
       "agents",
       "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-4a847676e926",
-    "date": "2026-11-24",
-    "source": "TechCrunch",
-    "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
-    "summary": "The broader industry seems to agree that Decart’s tech for optimizing AI models to run on non-Nvidia chips is worth several billion dollars.",
-    "sourceUrl": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-22d7270e7a58",
-    "date": "2026-11-24",
-    "source": "MIT Technology Review",
-    "title": "Raising the stakes for enterprise networks with AI modernization",
-    "summary": "Training AI requires server-to-server data center architectures, while inference calls for low-latency connectivity close to users. AI inference is pushing infrastructure back on premises.",
-    "sourceUrl": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c82ab5c57408",
-    "date": "2026-11-24",
-    "source": "The Verge",
-    "title": "Jensen Huang deepfakes are the hot new AI slop",
-    "summary": "Jensen Huang is partying it up in Ibiza. The Instagram account behind the Ibiza one has made three Huang deepfakes so far, all remakes of the same scene. Ultimately, all any of it meant was more power for Nvidia and more power for Jensen Huang.",
-    "sourceUrl": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-dc69597abec1",
-    "date": "2026-11-24",
-    "source": "The Verge",
-    "title": "The New York Times warns photographers not to update Photoshop over AI features",
-    "summary": "An email sent to freelance photographers says Photoshop’s latest update uses AI ‘in ways that may not be apparent.’\nAn email sent to freelance photographers says Photoshop’s latest update uses AI ‘in ways that may not be apparent.’\nThe New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI “in ways that may not be apparent to users.” In an email seen by The Verge and posted on Threads, two of the Times’ photography leaders, Meaghan Looram and Josh Haner, write that the use of these features “can result in metadata identifying photographs as AI-generated.”\nAdobe has spent the past few years filling Photoshop and other apps in its creative suite with a trove of AI-powered tools.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-1d0c151fefed",
-    "date": "2026-11-23",
-    "source": "OpenAI",
-    "title": "OpenAI and Cisco introduce Shirudo",
-    "summary": "You can read more here⁠(opens in a new window). OpenAI and Cisco are open-sourcing Shirudo⁠(opens in a new window) so developers, security researchers, and infrastructure operators can inspect the code, test protections, and contribute to its development.",
-    "sourceUrl": "https://openai.com/index/introducing-shirudo",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f8a4e02f4212",
-    "date": "2026-11-23",
-    "source": "OpenAI",
-    "title": "Connected intelligence for in-house legal",
-    "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
-    "sourceUrl": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "automation"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-680b35173b97",
-    "date": "2026-11-23",
-    "source": "OpenAI",
-    "title": "Richpanel helps companies automate 50% of support in 30 days",
-    "summary": "Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations. It writes procedures and defines how Richpanel’s frontline support agent, copilot, and quality-assurance agent call the tools they need.",
-    "sourceUrl": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c5903c8754bb",
-    "date": "2026-11-23",
-    "source": "Google AI Blog",
-    "title": "A more tailored Google Search that’s uniquely yours",
-    "summary": "You choose if and when you opt in, and you can turn those connections on or off at any time. As always, you can adjust or turn off personalization at any time in your Search Settings. You may opt out at any time.",
-    "sourceUrl": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ca38829e7312",
-    "date": "2026-11-23",
-    "source": "Hugging Face",
-    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-    "summary": "RoboTrack-Bench (top-right) provides human-annotated point tracks in real manipulation videos. RoboTrack-Bench at a glance. RoboTrack-Bench is harder than existing robot benchmarks.",
-    "sourceUrl": "https://huggingface.co/blog/allenai/robotrack",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-27065c561fbc",
-    "date": "2026-11-23",
-    "source": "TechCrunch",
-    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-    "summary": "Anthropic is moving from having Claude write code to helping developers decide when that code is ready to ship. Claude Ship is rolling out to Claude Team and Enterprise plans for repositories on GitHub. Code Review is generally available, while PR Steward and Claude Approvals are in beta.",
-    "sourceUrl": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "automation",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0d63fb1e6c01",
-    "date": "2026-11-23",
-    "source": "TechCrunch",
-    "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-    "summary": "The team includes co-founders Lincoln Murr (CEO) and John Peterson (CTO). To address people’s concerns over AI managing their money, Supertake’s team says it’s implementing certain guardrails and spend limits. Mignano, meanwhile, says he has Supertake managing “hundreds of thousands” of dollars.",
-    "sourceUrl": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ada2460a24f6",
-    "date": "2026-11-23",
-    "source": "TechCrunch",
-    "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-    "summary": "A handful of tech CEOs, including Elon Musk, are celebrating Jensen Huang’s return to Nvidia. Jensen Huang had multiple affairs including with subordinates and an alleged Chinese spy.",
-    "sourceUrl": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-9d1f6a725104",
-    "date": "2026-11-23",
-    "source": "TechCrunch",
-    "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-    "summary": "Commerce Department blacklist, Semafor reported Monday. and Singapore are now probing whether the company defied export restrictions and illegally smuggled Nvidia chips to China. The company has denied wrongdoing.",
-    "sourceUrl": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-2475b067992d",
-    "date": "2026-11-23",
-    "source": "TechCrunch",
-    "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-    "summary": "Jensen Huang returned to Nvidia’s offices on Monday to an applauding crowd of hundreds of employees, according to several videos circulating online.",
-    "sourceUrl": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-7601f68fa236",
-    "date": "2026-11-23",
-    "source": "TechCrunch",
-    "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-    "summary": "Google announced on Monday that it’s expanding Personal Intelligence in Search’s AI Mode with integrations for Google Drive, Google Wallet, and the Gemini app. The feature can already connect to apps like Gmail, Google Calendar, and Google Photos.",
-    "sourceUrl": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-a2f14d06f82b",
-    "date": "2026-11-23",
-    "source": "TechCrunch",
-    "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-    "summary": "Jensen Huang is scheduled to testify before the Senate Banking Committee on December 3, according to a notice on the committee’s website. The Senate Banking Committee has jurisdiction over export control policies that are designed to prevent sensitive U.S.",
-    "sourceUrl": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-6a7990e1ad10",
-    "date": "2026-11-23",
-    "source": "TechCrunch",
-    "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-    "summary": "Amazon has agreed to acquire a good chunk of Israeli startup Decart. But under the hood, the company stands out for its Decart Optimization Stack (DOS), software that helps AI models run efficiently on Nvidia, Amazon, and Google’s hardware. Decart and Amazon did not immediately return requests for comment.",
-    "sourceUrl": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-b7579835e4e7",
-    "date": "2026-11-23",
-    "source": "TechCrunch",
-    "title": "Jensen Huang isn’t out of the woods yet",
-    "summary": "Still, tech leaders should be clear-eyed about all the problems likely to come with Huang’s reinstatement. Most importantly, serious questions remain about how Nvidia chips were smuggled into China, and how much Nvidia knew about it.",
-    "sourceUrl": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-02839082ff9f",
-    "date": "2026-11-23",
-    "source": "MIT Technology Review",
-    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-    "summary": "In a 2020 survey of 1,092 philosophers, 39% said some future AI systems will be conscious (for comparison, the philosophers were less confident about worms or flies being conscious).",
-    "sourceUrl": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-    "auto": true,
-    "metiers": [
-      "management",
-      "marketing",
-      "ops",
-      "product"
-    ],
-    "themes": [
-      "ethics",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-049542555c2c",
-    "date": "2026-11-23",
-    "source": "The Verge",
-    "title": "Trump engineered a risky comeback for Jensen Huang",
-    "summary": "Trump got his wish to reinstate Jensen Huang at the helm of Nvidia — but investigations are still looming.﻿\nTrump got his wish to reinstate Jensen Huang at the helm of Nvidia — but investigations are still looming.﻿\nAfter Nvidia’s board accepted Jensen Huang’s resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-15c28179b2dc",
-    "date": "2026-11-23",
-    "source": "The Verge",
-    "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-    "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. The Jensen Huang era of Nvidia nearly came to an end this month. Nvidia has reinstated Jensen Huang as its CEO.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "tech"
-    ],
-    "themes": [
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-8ab70d6f89cf",
-    "date": "2026-11-23",
-    "source": "The Verge",
-    "title": "Welcome to elite impunity, Jensen Huang",
-    "summary": "On November 12th, Huang resigned. In celebrating Huang’s return, Trump posted a remarkable image. Trump’s head has been replaced with Jensen Huang’s head.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-0cd17937bdc8",
-    "date": "2026-11-23",
-    "source": "The Verge",
-    "title": "AI data centers throw another wrench into chaotic UN climate talks",
-    "summary": "Global climate negotiations fell apart as delegates tried to tackle AI’s growing carbon footprint. Global climate negotiations fell apart as delegates tried to tackle AI’s growing carbon footprint. Meta reported a 45 percent year-over-year increase in climate pollution.",
-    "sourceUrl": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-49ef9cf5084c",
-    "date": "2026-11-23",
-    "source": "The Verge",
-    "title": "Claude AI can review pull requests and ship fixes on its own now",
-    "summary": "Anthropic is bringing new AI tools to software engineers with Claude Ship. Anthropic is bringing new AI tools to software engineers with Claude Ship. Anthropic is launching some new Claude AI features to help software engineers ship code.",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-47b1648bdb93",
-    "date": "2026-11-23",
-    "source": "The Verge",
-    "title": "How Jensen Huang ended up as Nvidia CEO again",
-    "summary": "Even Nvidia’s board appeared unwilling to budge. Huang himself posed a national security risk.” Semafor reports that Trump even called in to Nvidia’s board meeting to advocate for Huang’s reinstatement.",
-    "sourceUrl": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
-    "auto": true,
-    "metiers": [
-      "management",
-      "ops"
-    ],
-    "themes": [
-      "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-44fe677fd46c",
-    "date": "2026-11-23",
-    "source": "The Verge",
-    "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
-    "summary": "The new AI device from Nothing can record and transcribe audio with AI from the earbuds or via microphones on their charging case.﻿\nThe new AI device from Nothing can record and transcribe audio with AI from the earbuds or via microphones on their charging case.﻿\nNothing’s new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple’s new Watch feature and devices like Amazon’s Bee wearable.",
-    "sourceUrl": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
     ],
     "resources": []
   },
