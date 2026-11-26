@@ -1,5 +1,315 @@
 [
   {
+    "id": "auto-02a088434703",
+    "date": "2026-11-26",
+    "source": "Hugging Face",
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "summary": "The llama.cpp × AMD Benchmark dashboard is available on Hugging Face. You can choose Hardware, Model, and llama.cpp build in the Configuration sidebar. Standard results use <build>/<hardware>/<model>/<quant>.jsonl.",
+    "sourceUrl": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "automation",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d3aa48daa62d",
+    "date": "2026-11-26",
+    "source": "Hugging Face",
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "summary": "Supervised fine-tuning (SFT) spanning text, layout, tables, charts, and multilingual documents. Parse 2.0 uses one trial per point; Parse 3.5 shows three-trial medians. At 512, Parse 3.5 reaches 13.48 pages/s without speculation and 20.44 pages/s with DFlash2, versus 2.98 for Parse 2.0.",
+    "sourceUrl": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c01600d41603",
+    "date": "2026-11-26",
+    "source": "Hugging Face",
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "summary": "At checkpoint 75, the four-agent team solved 26 of 32 held-out problems (81.25%). Each update uses about 150 team attempts. In the dashboard, compare team/success, team/messages and team/tokens over training.",
+    "sourceUrl": "https://huggingface.co/blog/training-swarms",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-c0f2de19f056",
+    "date": "2026-11-26",
+    "source": "The Verge",
+    "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+    "summary": "A bipartisan coalition of AGs say Character.AI is planning to sell the personal data of minors to the highest bidder. A bipartisan coalition of AGs say Character.AI is planning to sell the personal data of minors to the highest bidder.",
+    "sourceUrl": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+    "auto": true,
+    "metiers": [
+      "management",
+      "marketing",
+      "ops",
+      "product"
+    ],
+    "themes": [
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-37b5c9ba9326",
+    "date": "2026-11-25",
+    "source": "Hugging Face",
+    "title": "Where scientists draw the line on AI agents",
+    "summary": "But delegating research tasks creates a corresponding need to verify the work an AI system performs. Our interviews suggest how evaluations of AI agents for scientific research could better reflect these concerns.",
+    "sourceUrl": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-d8d6777ecf09",
+    "date": "2026-11-25",
+    "source": "Hugging Face",
+    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+    "summary": "Across 46 valid benchmark runs, single-user decode went from 136 to 190.6 tok/s (+40%) (ahead of the 167.7 tok/s community SGLang + DSpark benchmark on LocalMaxxing for the same GPU) and 8-user aggregate throughput went from ~570 to 716 tok/s (+26%) using vLLM nightly with DSpark speculative decoding.",
+    "sourceUrl": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-707319c903aa",
+    "date": "2026-11-25",
+    "source": "TechCrunch",
+    "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+    "summary": "S&P Global Ratings, one of the three major credit rating agencies, is considering downgrading Nvidia’s rating, citing concerns about the company’s management and governance practices. Although Nvidia is certain to keep its investment-grade rating, a downgrade could raise its borrowing costs.",
+    "sourceUrl": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+    "auto": true,
+    "metiers": [
+      "management",
+      "ops"
+    ],
+    "themes": [
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-dc85126b0ac7",
+    "date": "2026-11-25",
+    "source": "TechCrunch",
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "summary": "An OpenAI spokesperson told TechCrunch that while most users are not expected to face more frequent usage resets, a small fraction of its heaviest users may hit their limits sooner. Under the new system, Chat and Work will share a single usage meter across ChatGPT, the OpenAI spokesperson told TechCrunch.",
+    "sourceUrl": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-fb5a7d58c9a9",
+    "date": "2026-11-25",
+    "source": "TechCrunch",
+    "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+    "summary": "When Jensen Huang gave his first all-hands address since returning as CEO, there was an odd emphasis on Nvidia’s code of conduct. That’s the risk Huang now faces at Nvidia. “There it’s much, much harder to deal with.”\nIn that context, Huang’s stutter-step over the code of conduct is easier to understand.",
+    "sourceUrl": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-00d3c793baf9",
+    "date": "2026-11-25",
+    "source": "TechCrunch",
+    "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+    "summary": "Anthropic CEO Dario Amodei is pushing back against claims that Anthropic believes we should “surrender human free will” to AI systems. Amodei suggested drawing a line at recursive self-improvement (RSI), or AI that can improve itself without human assistance.",
+    "sourceUrl": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-4f0b7bfbd5a5",
+    "date": "2026-11-25",
+    "source": "TechCrunch",
+    "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+    "summary": "Santa won’t be delivering any AI chatbot toys to New York kids this Christmas. The bill makes New York the second state after California to institute a ban on AI toys. The Common Sense Media study found that AI toys can undermine children’s human relationships and expose them to inappropriate content.",
+    "sourceUrl": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-16ddaf7683c8",
+    "date": "2026-11-25",
+    "source": "TechCrunch",
+    "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+    "summary": "In addition, the sale would involve other personal data, like IP addresses, the statements said. “Character.AI promised consumers that their data would not be sold. Connecticut Attorney General William Tong also criticized Character.ai’s business model.",
+    "sourceUrl": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-ceecf9e348f1",
+    "date": "2026-11-25",
+    "source": "The Verge",
+    "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+    "summary": "The patent details how My Channel might be able to connect to other streaming services — which would give it even more information about users and, presumably, access to useful training data for video generation.",
+    "sourceUrl": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-6359c2ce0900",
+    "date": "2026-11-25",
+    "source": "The Verge",
+    "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+    "summary": "SpaceX aims to power AI capabilities here on Earth with its ‘Starmind’ constellation. SpaceX aims to power AI capabilities here on Earth with its ‘Starmind’ constellation. SpaceX has described its Starmind project as a way to “capture solar energy in space to power” AI capabilities on Earth.",
+    "sourceUrl": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
     "id": "auto-d0a3a7f662b5",
     "date": "2026-11-25",
     "source": "Hugging Face",
@@ -200,6 +510,27 @@
     "resources": []
   },
   {
+    "id": "auto-c82ab5c57408",
+    "date": "2026-11-24",
+    "source": "The Verge",
+    "title": "Jensen Huang deepfakes are the hot new AI slop",
+    "summary": "Jensen Huang is partying it up in Ibiza. The Instagram account behind the Ibiza one has made three Huang deepfakes so far, all remakes of the same scene. Ultimately, all any of it meant was more power for Nvidia and more power for Jensen Huang.",
+    "sourceUrl": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "genai-product",
+      "data"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-3c6728c1bfd1",
     "date": "2026-11-24",
     "source": "OpenAI",
@@ -327,311 +658,6 @@
       "llm",
       "agents",
       "ethics"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-5f077d12f5ab",
-    "date": "2026-11-24",
-    "source": "TechCrunch",
-    "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-    "summary": "Huang held Nvidia’s first all-hands meeting on Tuesday since his reinstatement on Monday. national security, went on to describe how difficult the current moment is for him: “This is going to be the hardest company meeting I’ve ever done, and the second hardest meeting I have ever done,” Huang reportedly told staff.",
-    "sourceUrl": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-6e5f032fb046",
-    "date": "2026-11-24",
-    "source": "TechCrunch",
-    "title": "Even the best AI agents struggle with everyday life",
-    "summary": "According to ShellBench, a new benchmark for everyday agent work, even the most advanced models from OpenAI, Anthropic, and Meta failed more than a third of the time. Across all models tested, 15.7% of attempts failed at least one safety requirement, often leading to unintended consequences.",
-    "sourceUrl": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-42cb577d7e78",
-    "date": "2026-11-24",
-    "source": "TechCrunch",
-    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-    "summary": "For instance, Muse doesn’t get access to a customer’s Walmart shopping history or other personal information. Walmart is not the only company teaming up with Meta’s Muse. Beyond Muse, Walmart has recently rolled out more AI-powered features to its own shopping assistant, Sparky.",
-    "sourceUrl": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-724878a26e68",
-    "date": "2026-11-24",
-    "source": "TechCrunch",
-    "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-    "summary": "One startup called Maple, co-founded by a former Apple engineer who worked on privacy-preserving technologies, is taking a different approach with its AI app, where users’ data remains private — even from the company itself.",
-    "sourceUrl": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-754f867302b7",
-    "date": "2026-11-24",
-    "source": "TechCrunch",
-    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-    "summary": "Anthropic’s stock fell below its IPO price of $83, trading as low as $76 a share by midday Tuesday, down nearly 12% from Monday’s close. Falling below the IPO price is often seen as a negative signal because underwriters typically price offerings at a discount to their expected trading value.",
-    "sourceUrl": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-cb0d7372f9a0",
-    "date": "2026-11-24",
-    "source": "TechCrunch",
-    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-    "summary": "government’s cybersecurity unit says it has seen a “marked rise” in AI-driven cyberattacks in recent months, as hackers increasingly rely on autonomous hacking tools to identify and exploit simple weaknesses to break into systems and networks.",
-    "sourceUrl": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-eaadf2423721",
-    "date": "2026-11-24",
-    "source": "TechCrunch",
-    "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-    "summary": "Instagram users can now chat with Meta’s AI agent Muse in a DM thread, the company announced on Tuesday. Meta notes that conversations with Muse on Instagram will appear as a side chat in the main Muse app. Meta says that users remain in control of their Muse experience on Instagram.",
-    "sourceUrl": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-26c3ceae0894",
-    "date": "2026-11-24",
-    "source": "TechCrunch",
-    "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-    "summary": "Music streaming service Tidal said on Tuesday that it will start banning and removing songs generated fully with AI in a bid to stem the flood of submissions to its platform. The company said it will still accept songs that were made with AI assistance, but not fully generated.",
-    "sourceUrl": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-32af257829de",
-    "date": "2026-11-24",
-    "source": "The Verge",
-    "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-    "summary": "Instead, Huang said the Nvidia board “evaluated the entire situation,” while receiving assurance from the government that he posed no national security threat, according to the NYT.",
-    "sourceUrl": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-3e9a37054bc9",
-    "date": "2026-11-24",
-    "source": "The Verge",
-    "title": "David Fincher is being dragged for suspected use of AI in his latest film",
-    "summary": "Early screenings of David Fincher’s latest film are raising questions about whether the director used generative AI. Early screenings of David Fincher’s latest film are raising questions about whether the director used generative AI.",
-    "sourceUrl": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "genai-product",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-c7d2da5c582f",
-    "date": "2026-11-24",
-    "source": "The Verge",
-    "title": "Tidal will start banning AI-generated music next month",
-    "summary": "The music streaming platform estimates that it will delete 29 million songs as a result of the AI ban. The music streaming platform estimates that it will delete 29 million songs as a result of the AI ban. Tidal is officially banning AI-generated music on December 9th.",
-    "sourceUrl": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-    "auto": true,
-    "metiers": [],
-    "themes": [],
-    "resources": []
-  },
-  {
-    "id": "auto-8d6c7c64bc85",
-    "date": "2026-11-24",
-    "source": "Google AI Blog",
-    "title": "How Gemini is changing the game for Golden State's organization and fans.",
-    "summary": "The collaboration integrates Gemini across the entire franchise ecosystem. For fans, that means a more interactive game-day experience, both inside Chase Center via interactive videoboard features, and across digital channels for fans following from home.",
-    "sourceUrl": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-16565a3f5dc0",
-    "date": "2026-11-24",
-    "source": "Hugging Face",
-    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-    "summary": "Add local obstacle avoidance to Microduck while keeping its walking policy fixed. The obstacle avoidance task loads the exported walking policy automatically. Load that walking policy using Pollen’s policy-loading guide.",
-    "sourceUrl": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-8a546b15d29e",
-    "date": "2026-11-24",
-    "source": "TechCrunch",
-    "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-    "summary": "As the next wave takes shape, the firm sees two different paths for data centers: small, on-grid facilities with their own generating capacity, and larger data centers powered by solar and long-duration energy storage. “The big idea is to go off-grid,” Porter said.",
-    "sourceUrl": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ee2357a4074e",
-    "date": "2026-11-24",
-    "source": "TechCrunch",
-    "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-    "summary": "Pinterest announced this week that it’s expanding its parental controls, but one new feature stands out: parents can now control how much AI-generated content their children are exposed to.",
-    "sourceUrl": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "marketing",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "genai-product"
     ],
     "resources": []
   },
