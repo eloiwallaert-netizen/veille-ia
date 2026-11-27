@@ -1,5 +1,78 @@
 [
   {
+    "id": "auto-2d7f8b4f8454",
+    "date": "2026-11-27",
+    "source": "Hugging Face",
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "summary": "Straight ahead, each shot continues the one before. Pose to pose, you make the key shot first, until you get one you like; then the shots before it end on its first frames (to), and the shots after it start from its last frames (from).",
+    "sourceUrl": "https://huggingface.co/blog/video-trainium3",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "ops",
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "data"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-24644713102c",
+    "date": "2026-11-27",
+    "source": "The Verge",
+    "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+    "summary": "You can have a good time brewing up widgets — as long as you don’t expect too much.﻿\nYou can have a good time brewing up widgets — as long as you don’t expect too much.﻿\nAside from dealing with my calendar, there’s one thing I want AI to do: tell me if I’m about to miss the bus. What I need is a widget.",
+    "sourceUrl": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+    "auto": true,
+    "metiers": [
+      "product",
+      "tech"
+    ],
+    "themes": [
+      "llm"
+    ],
+    "resources": []
+  },
+  {
+    "id": "auto-94305b427e5a",
+    "date": "2026-11-26",
+    "source": "TechCrunch",
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "summary": "According to the Journal, Nvidia has told manufacturing partners, including Dell and Super Micro, to hit pause on server shipments to Malaysia, Singapore, Thailand, and Indonesia for an unspecified period as it assesses whether its regional partners are meeting U.S.",
+    "sourceUrl": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "auto": true,
+    "metiers": [],
+    "themes": [],
+    "resources": []
+  },
+  {
+    "id": "auto-e5c5d8632474",
+    "date": "2026-11-26",
+    "source": "TechCrunch",
+    "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "summary": "The video game industry is already grappling with the threat of AI. The stock prices of several video game companies faltered around the time of Project Genie’s release, perhaps because of investors’ uncertainty about the future relevance of video game developers.",
+    "sourceUrl": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "marketing",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "automation",
+      "genai-product"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-02a088434703",
     "date": "2026-11-26",
     "source": "Hugging Face",
@@ -572,92 +645,6 @@
     "themes": [
       "agents",
       "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-ec442b764e04",
-    "date": "2026-11-24",
-    "source": "OpenAI",
-    "title": "How Intentful uses dots to make more time for growth",
-    "summary": "Next, Aria helped Marina research pricing. Aria checks for messages that need Marina’s attention. She often briefs Aria by phone while she travels.",
-    "sourceUrl": "https://openai.com/business/customer-stories/intentful-dots",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-7a6462e387eb",
-    "date": "2026-11-24",
-    "source": "OpenAI",
-    "title": "How iFood scales coding agents across 15,000 repositories",
-    "summary": "as many vulnerabilities fixed through the security platform\nThe Remote Agents Platform turned engineering tasks into API calls: teams delegate the work, execution takes place in a remote sandbox, and the result comes back as a merge request.",
-    "sourceUrl": "https://openai.com/business/customer-stories/ifood",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-99b93f3e1098",
-    "date": "2026-11-24",
-    "source": "OpenAI",
-    "title": "Clay helps sales teams win with Codex and ChatGPT",
-    "summary": "ChatGPT and Codex integrations help Clay users research deals and turn data into go-to-market plays, and GPT‑6 models handle the reasoning. Clay uses GPT‑6 Sol as its primary model, with GPT‑6 Astra for harder tasks and GPT‑6 Luna for cost-sensitive work. GPT‑6 Astra also helps Jeff build and test software.",
-    "sourceUrl": "https://openai.com/business/customer-stories/clay-plugins-openai",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
-      "automation",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-7a5947019eec",
-    "date": "2026-11-24",
-    "source": "TechCrunch",
-    "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-    "summary": "Nvidia has just five executive officers running the show, including Huang. “When you’re designing a company, you should first think about what is it that you want the company to produce,” Huang said in the interview.",
-    "sourceUrl": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "management",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "llm",
-      "agents",
-      "ethics"
     ],
     "resources": []
   },
