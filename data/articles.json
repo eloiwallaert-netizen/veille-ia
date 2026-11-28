@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-765ab0a36bed",
+    "date": "2026-11-28",
+    "source": "TechCrunch",
+    "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+    "summary": "Sakana AI, a Japanese AI startup, last month revealed plans to develop its own foundation model. For example, in cybersecurity, Japan requires that customized models be deployed on-premises. Sakana’s work with Japanese government agencies has shaped its approach to developing Sawara, Ha said.",
+    "sourceUrl": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+    "auto": true,
+    "metiers": [
+      "csm",
+      "management",
+      "ops",
+      "product",
+      "sales",
+      "tech"
+    ],
+    "themes": [
+      "llm",
+      "agents",
+      "ethics"
+    ],
+    "resources": []
+  },
+  {
     "id": "auto-2d7f8b4f8454",
     "date": "2026-11-27",
     "source": "Hugging Face",
@@ -623,27 +646,6 @@
       "llm",
       "automation",
       "ethics",
-      "data"
-    ],
-    "resources": []
-  },
-  {
-    "id": "auto-f3aa9260f109",
-    "date": "2026-11-24",
-    "source": "OpenAI",
-    "title": "Searching for distant planets with Astra",
-    "summary": "*Data from the NASA Exoplanet Archive’s Planetary Systems Composite Parameters table⁠(opens in a new window). The inset marks KIC 5689121⁠(opens in a new window) in the original Kepler field⁠(opens in a new window).",
-    "sourceUrl": "https://openai.com/index/searching-for-distant-planets-with-astra",
-    "auto": true,
-    "metiers": [
-      "csm",
-      "ops",
-      "product",
-      "sales",
-      "tech"
-    ],
-    "themes": [
-      "agents",
       "data"
     ],
     "resources": []
